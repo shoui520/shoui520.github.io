@@ -1,0 +1,25 @@
+site_name: Shoui's Japanese Guide
+nav:
+  - 'index.md'
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: default
+    primary: purple
+  favicon: img/immersion_chan.png
+  logo: img/immersion_chan_transparent.png
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - attr_list
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/AqBd4KXktM
+      name: Discord
+copyright: Shin-Japanese Guide is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
