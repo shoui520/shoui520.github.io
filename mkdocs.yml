@@ -1,14 +1,23 @@
-site_name: Shoui's Japanese Guide
+site_name: TheMoeWay™
 nav:
-  - 'index.md'
+  - 'guide.md'
+  - 'speaking.md'
+  - 'animejp.md'
+  - 'kanji.md'
+  - 'reading.md'
+  - 'vn.md'
+  - 'monolingual.md'
+  - 'faq.md'
+  - 'sub.md'
+
 theme:
   name: material
   custom_dir: overrides
   palette:
     scheme: default
     primary: purple
-  favicon: img/immersion_chan.png
-  logo: img/immersion_chan_transparent.png
+  favicon: img/favicon.png
+  logo: img/cat.svg
 markdown_extensions:
   - toc:
       permalink: true
@@ -20,6 +29,6 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/AqBd4KXktM
+      link: https://discord.gg/PxPaMC7CdQ
       name: Discord
-copyright: Shin-Japanese Guide is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+copyright: New Japanese Guide is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> license. 
