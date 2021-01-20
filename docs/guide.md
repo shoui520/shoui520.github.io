@@ -8,7 +8,7 @@ Before I talk about this, I would like to clarify what I mean by “fail”. Wha
 
 Whether you’re a “visual learner” or an “auditory learner” does not mean anything when it comes to learning a language, you have a big problem if you acquired your first language by hearing it (like we all did) but apparently you’re more of a “visual learner.” It mostly comes down to the *method* used to study Japanese. There are other factors too, such as motivation, or hours spent each day/consistency. But I believe the *method* in the first place is very important.
 
-For example, if someone told you that you could lose weight by pedaling on an exercise bike while watching TV, and you did this for 2 hours everyday, would you lose weight? No. That is because this is a fundamentally flawed method - it does not work.
+For example, if someone told you that you could learn to swim by reading a book about swimming, would you be able to swim after you finished that book? No. That is because this is a fundamentally flawed method - it does not work.
 
 What this guide aims to do is educate you on effective methods to study Japanese, so that you don’t end up like the others that failed and instead succeed, all while having fun in your target language, and in this case, your target language is most likely Japanese.
 Back to the “visual learner” and “auditory learner” thing, while it may be true for other fields of study, it is not valid for acquiring a language. We all acquire language in the same exact way, and that is through *comprehensible input*. I often come across people saying, “everyone learns differently” and again, this may be true for other fields of study but not for language *acquisition*.

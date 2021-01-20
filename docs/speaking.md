@@ -26,9 +26,8 @@ Get over it and move on. It’s not a big deal. As long as you are immersing eve
 Speaking Japanese to other Japanese learners is the WORST thing you could ever do. :slight_smile: Because as a learner you can't tell if someone's Japanese is natural or not, so you could learn something incorrect. This can be fixed by talking with natives instead.
 
 ### Other Links
-[AntiMoon Article](http://www.antimoon.com/other/myths-speaking.htm)
-
-[Main Guide](/guide)
+[AntiMoon Article](http://www.antimoon.com/other/myths-speaking.htm)  
+[Main Guide](/guide)  
 
 Have fun immersing!
 
