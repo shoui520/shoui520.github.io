@@ -3,7 +3,7 @@ Welcome to the Japanese FAQ. This is probably the most complete Japanese FAQ you
 
 ###Why this FAQ was made
 
-This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, ask it in the [Discord Server](https://discord.gg/PxPaMC7CdQ)
+This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, ask it in the [Discord Server](https://discord.gg/nhqjydaR8j)
 
 
 ### How do I learn Japanese?
@@ -57,7 +57,7 @@ You don’t need them but if kanji still look like scribbles to you after months
 ### I have extreme difficulty remembering a certain word/kanji (outside of SRS)
 Read more. Listen more. You don’t need to believe me if you don’t want to but you will eventually remember it with more immersion. I kept on forgetting 蝸牛[かたつむり] no matter how much times I looked it up, or so I thought. After about my 80th look-up I was able to remember it. So yeah. Or you could make an Anki card for it…
 ### I am trying to learn grammar but I keep on forgetting the grammar points and I don’t understand the grammar points.
-Try to rethink your approach to grammar. You need to immerse while following a grammar guide. Recommended grammar guides are Tae Kim and Cure Dolly. You can find these in [Discord](https://discord.gg/PxPaMC7CdQ)  . Listen more. Read more.
+Try to rethink your approach to grammar. You need to immerse while following a grammar guide. Recommended grammar guides are Tae Kim and Cure Dolly. You can find these in [Discord](https://discord.gg/nhqjydaR8j)  . Listen more. Read more.
 ### Is remembering the kanji form of words usually written in kana useful? For example 蒟蒻 is the kanji form of コンニャク
 Yes.
 ### Best dictionary for first-time monolingual users?
@@ -207,10 +207,10 @@ Learn the basics of pitch accent, either from Dogen's course or the NHK Accent D
 ### I don’t want to believe anything you’re saying and I would rather stick with what I’m doing if that’s okay with you?
 Ok
 ### Where to find anime for learning Japanese?
-Check out nyaa.si, anime-raws list, Crunchyroll and animelon in [Discord](https://discord.gg/PxPaMC7CdQ)
+Check out nyaa.si, anime-raws list, Crunchyroll and animelon in [Discord](https://discord.gg/nhqjydaR8j)
 If you have money check out Netflix. Crunchyroll is free but with ads. You can turn off subs on desktop but not on mobile. I’ve heard VRV works but it’s blocked in my region \;(
 ### Where to find j-drama for learning Japanese?
-Check out nyaa.si, rakuten viki, the j-drama google drive folder in the [Discord](https://discord.gg/PxPaMC7CdQ) . Chinese streaming sites seem to also have a lot of Chinese sub j-dramas, so you can use them if you can’t speak/read Chinese.
+Check out nyaa.si, rakuten viki, the j-drama google drive folder in the [Discord](https://discord.gg/nhqjydaR8j) . Chinese streaming sites seem to also have a lot of Chinese sub j-dramas, so you can use them if you can’t speak/read Chinese.
 If you have money check out Netflix and Hulu JP. If you’re lucky enough to be on AvistaZ private tracker then you have access to just about any J-drama you like. ~~If you ask me (shoui) nicely I can find something on AvistaZ for you.~~ I won't. My ratio on AvistaZ is ass right now and I don't want to download stuff I'm not going to watch :slight_smile:
 ### Where to find manga for learning Japanese?
 Check out nyaa.si and itazuraneko in 
@@ -219,7 +219,7 @@ If you have money you can buy digital manga from Amazon JP.
 Itazuraneko. 
 If you have money you can buy digital light novels from Amazon JP.
 ### Where to find visual novels for learning Japanese?
-(listed in [Discord](https://discord.gg/PxPaMC7CdQ)  ) itazuraneko, nblog, ryuublogger, (sukebei)nyaa.si.
+(listed in [Discord](https://discord.gg/nhqjydaR8j)  ) itazuraneko, nblog, ryuublogger, (sukebei)nyaa.si.
 If you have money you can buy visual novels from Steam. If you are lucky enough to be on AnimeBytes private tracker then you have access to just about any visual novel you like. If you ask me (shoui) nicely I can find something on AnimeBytes for you. No seriously, I will. Just make sure it isn't already on the free resources available to you.
 ### How to text-hook visual novels?
 [vn guide](/vn)

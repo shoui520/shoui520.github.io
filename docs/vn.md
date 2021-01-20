@@ -14,8 +14,8 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 ###Finding and downloading VNs (Windows)
 *If you have a macOS or Linux computer, then you may have luck using WINE or Winapps.*
 
-Here at TheMoeWay™, we believe paying for anything is stupid. So in the [Discord](https://discord.gg/PxPaMC7CdQ) you can find where to get visual novels for free. 
-If you can’t find the visual novel you want in Japanese using the free resources, your last resort *may* be Steam, DMM, or Getchu, but most of the time, this is not the case- I can find almost everything I want using the free resources found in the [Discord](https://discord.gg/PxPaMC7CdQ)
+Here at TheMoeWay™, we believe paying for anything is stupid. So in the [Discord](https://discord.gg/nhqjydaR8j) you can find where to get visual novels for free. 
+If you can’t find the visual novel you want in Japanese using the free resources, your last resort *may* be Steam, DMM, or Getchu, but most of the time, this is not the case- I can find almost everything I want using the free resources found in the [Discord](https://discord.gg/nhqjydaR8j)
 
 ### Installing VNs (Windows)
 Most of the time, the VN you downloaded would be in .ISO format, if not, then it’s in .MDS/.MDF format. To mount an .ISO, just double click it, and run the setup files (usually Setup.exe, or Autorun.exe) to proceed with the installation. .MDS/.MDF format VNs require something called WinCDEmu, you can get that [here](https://wincdemu.sysprogs.org/download/)
@@ -50,7 +50,7 @@ Follow the steps below to change the locale of your Windows system to Japanese.
 ### VNs on mobile (Android)
 There are a couple of native Android Visual Novels but these are usually side stories/spin-offs.
 
-The best option is to use PPSSPP emulator and download PSP ROMs from CDRomance or Itazuraneko (Linked in [Discord](https://discord.gg/PxPaMC7CdQ))
+The best option is to use PPSSPP emulator and download PSP ROMs from CDRomance or Itazuraneko (Linked in [Discord](https://discord.gg/nhqjydaR8j))
 
 This is possible on iOS too, but it’s much more difficult to get PPSSPP running and not revoke without a jailbreak.
 
@@ -95,7 +95,7 @@ You can find walkthroughs by searching “<vn name> 攻略” e.g. “Angel Beat
 
 Have fun reading!
 
-Consider joining our **Reading Club** in the [Discord](https://discord.gg/PxPaMC7CdQ)!
+Consider joining our **Reading Club** in the [Discord](https://discord.gg/nhqjydaR8j)!
 
 ### Bonus: Using Textractor for PPSSPP Visual Novels
 Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.
