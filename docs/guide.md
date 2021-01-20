@@ -326,17 +326,6 @@ Extra resources can be found at our Discord. Join us!
 
 [Join us on Discord :fontawesome-brands-discord:](https://discord.gg/nhqjydaR8j){: .md-button .md-button--primary }  
 
-About output (talking): #speaking-japanese  
-You CAN learn Japanese from anime: #anime-japanese  
-"Learning" kanji: #learning-kanji  
-How to use Japanese subtitles: #japanese-subtitles-guide  
-How to comfortably get into reading: #getting-into-reading  
-The Monolingual Transition: #monolingual-guide  
-Massive Japanese FAQ, whatever stupid question you have WILL be answered here: #japanese-faq  
-The Best Resources Channel on Discord: #resources  
-Ask any questions you may have about this guide!: #immersion-questions  
-
-
 ## Sources
 1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)
 2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)
