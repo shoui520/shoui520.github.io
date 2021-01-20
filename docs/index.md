@@ -1,4 +1,6 @@
-# TheMoeWay™ - shoui's guide
+#Home
+
+##TheMoeWay™ - shoui's guide
 
 We are originally a Discord server, and all my content was written in Discord channels.
 

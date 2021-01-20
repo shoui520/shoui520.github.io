@@ -74,7 +74,7 @@ Read more.
 By just listening to it? No.
 What you can do is look at the lyric sheet and look up the words.
 ### But they don’t speak like real life in anime though?
-[anime japanese](/anime)
+[anime japanese](/animejp)
 ### I am going to immerse with J-drama instead because they don’t talk real life in anime.
 Cool. 
 it depends on the j-drama though, if it is unrealistic fiction (e.g. Ikebukuro West Gate Park) then it will be as unnatural as anime, if it's realistic fiction (e.g. Nigeru wa Haji da ga Yaku ni Tatsu) then it will be pretty close to real life Japanese.

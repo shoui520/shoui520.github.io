@@ -1,5 +1,6 @@
 site_name: TheMoeWay™
 nav:
+  - 'index.md'
   - 'guide.md'
   - 'speaking.md'
   - 'animejp.md'
