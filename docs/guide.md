@@ -236,7 +236,7 @@ Reading early can have a bad effect on your accent. And your reading ability may
 When you’re a beginner, I recommend watching Japanese subtitled anime for reading practice. Japanese subtitles are reading immersion at best, similar to a voiced visual novel. Having the voices in the background isn’t going to save your accent nor improve your listening skill, you need to do raw listening. Sorry DJT.
 
 Anyway, I think it is good to start out with Japanese subtitles for reading. And transition to manga, and then light novels and so on. I think it is important you pace yourself when reading and don’t burn out trying to read hard novels as a beginner, it is usually better reading books that are not too far off from your level.
-In our resources channel in our [Discord](https://discord.gg/PxPaMC7CdQ) you can find links to sites that let you read a lot of Japanese manga and novels, for free. And Japanese subtitles too, so make sure you check that out!
+In our resources channel in our [Discord](https://discord.gg/nhqjydaR8j) you can find links to sites that let you read a lot of Japanese manga and novels, for free. And Japanese subtitles too, so make sure you check that out!
 
 **Finding the balance between listening and reading**
 
@@ -316,7 +316,7 @@ Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.
 
 ### Visual Novels
 If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that here: #visual-novel-guide
-Visual Novels can be found in our #resources channel over at [Discord](https://discord.gg/PxPaMC7CdQ)
+Visual Novels can be found in our #resources channel over at [Discord](https://discord.gg/nhqjydaR8j)
 
 !!! note
     You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
@@ -324,7 +324,7 @@ Visual Novels can be found in our #resources channel over at [Discord](https://d
 ## Discord
 Extra resources can be found at our Discord. Join us!
 
-[Join us on Discord :fontawesome-brands-discord:](https://discord.gg/PxPaMC7CdQ){: .md-button .md-button--primary }  
+[Join us on Discord :fontawesome-brands-discord:](https://discord.gg/nhqjydaR8j){: .md-button .md-button--primary }  
 
 About output (talking): #speaking-japanese  
 You CAN learn Japanese from anime: #anime-japanese  
