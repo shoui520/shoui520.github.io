@@ -50,3 +50,5 @@ Whatever fancy cool way to remember all those wow so much >2,000 kanji (RTK, KKL
 I don't consider a kanji "learned" unless you know all the common words that use the kanji and are able to write it completely from memory.
 Don't "learn kanji", learn words.
 Don't "learn" kanji, feel kanji.
+
+**Honorable Credit: Tae Kim**
