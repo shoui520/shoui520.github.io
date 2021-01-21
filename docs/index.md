@@ -1,12 +1,9 @@
-#Home
-
-#TheMoeWay™ - shoui's guide
-
 ![welcome](img/welcome.png)
 
+#Hello :)
 Hi, welcome to my site. :smirk_cat:
 
-You can learn how to learn Japanese properly here. Click on the guide to get started! ^^
+You can learn how to learn Japanese properly here. Click on the [guide](/guide) to get started! ^^
 
 Resources and a community to answer your questions can be found at our Discord!  
 Join us!  
