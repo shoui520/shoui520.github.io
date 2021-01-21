@@ -20,10 +20,10 @@ Also, I seriously recommend you have completed a core Anki deck before doing thi
 ##Learning how to read
 As mentioned earlier, make sure you have an adequate vocabulary size and a grasp of Japanese grammar before reading, this will make things much easier.
 
-###1. Japanese subtitles
+###Japanese subtitles
 Japanese subtitles are a good way to introduce yourself to reading, assuming you already understand a fine amount in raw, trying to read the subtitles can be good reading practice. However make them something quick to let go of and in the future only consider using Japanese subtitles for mining instead of for reading.
 
-###2. Manga
+###Manga
 Manga is probably the best way to get into reading without it being too intimidating as the way its written is similar to spoken Japanese, and assuming you're already quite familiar with that, it won't be much of a trouble getting used to.
 ![Manga](img/manga1.jpg)
 
@@ -35,7 +35,7 @@ Use the tool [KanjiTomo](http://www.kanjitomo.net/) and hover over the text, and
 
 If Capture2Text fails, then use the Google Translate handwriting feature. No matter how shit you write the kanji, it will detect it. After that you can copy and paste it into Jisho.
 Expect manga to be pretty hard for you at first, but over time it will smoothen out and get easier. You just need to read more. You just need to read a lot.
-###3. Light Novels
+###Light Novels
 Even if you read like 100 manga, you still need to read light novels since you need to learn literary Japanese.
 Literary Japanese is not that hard as it sounds, it's only slightly different from spoken Japanese and will be easy to get used to.
 For reading light novels, I recommend using [Yomichan](https://foosoft.net/projects/yomichan/) using the JMDict (English) dictionary along with the Kenkyuusha Japanese-English dictionary and KireiCake. JMdict is okay, but Kenkyuusha is even better, JMdict has things not in the Kenkyuusha and vice versa. They can be found in [my Yomichan Dictionaries pack](https://drive.google.com/file/d/1tlss5uNqU1sZ2IZbg5zaJ_UjyENaP9ho/view?usp=sharing). You can look up words by holding the Shift key and hovering over a word. 
@@ -51,12 +51,13 @@ Note: I am not speaking against 縦書き, (vertical), the image below is an exa
 *Novel: Nichijou no Natsuyasumi*
 
 You need to read stuff like this:
-![LN 3](img/ln3.png)
-*Novel: Kimi no Na wa.*
+[![LN 3](img/ln3.png)](img/ln3.png)
+*Novel: Kimi no Na wa.*  
+*Click to enlarge*
 
 This is **digital**. Very important. I can select the text and use Yomichan with it.
 
-### 4. Visual Novels
+###Visual Novels
 ![VN 1](img/vn1.jpg)
 *Visual Novel: Angel Beats! -1st beat-*
 

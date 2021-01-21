@@ -13,7 +13,8 @@ In addition to that, Japanese people would describe 連 as "[連勝](https://jis
 Summary: Kind of useful when you're a beginner, but not needed at all.
 
 ### Learning the Readings - A big NO.
-I'm not talking about learning words, like having [夢中](https://jisho.org/word/%E5%A4%A2%E4%B8%AD) along with a handy example sentence :slight_smile: I mean this:
+I'm not talking about learning words, like having [夢中](https://jisho.org/word/%E5%A4%A2%E4%B8%AD) along with a handy example sentence :slight_smile:  
+I mean this:
 >涯
 >
 > Kun: はて
