@@ -61,8 +61,8 @@ This is **digital**. Very important. I can select the text and use Yomichan with
 ![VN 1](img/vn1.jpg)
 *Visual Novel: Angel Beats! -1st beat-*
 
-Visual Novels are very good if you hate reading books. It's helped supercharge my reading as I usually get bored quickly reading light novels. It's to watching anime with Japanese subtitles. It is also for making [AnimeCards](https://www.animecards.site) and also serve as semi-listening semi-reading immersion. 
-Make sure you have texthooking setup, you can find out how to do that on the animecards site.
+Visual Novels are very good if you hate reading books. It's helped supercharge my reading as I usually get bored quickly reading light novels. It's similar to watching anime with Japanese subtitles. It is also good for making [AnimeCards](https://www.animecards.site) from and also serve as semi-listening semi-reading immersion. 
+Make sure you have texthooking setup, you can find out how to do that [here](/vn).
 To get good at reading visual novels, you just need to read more, you just need to read a lot
 
 
