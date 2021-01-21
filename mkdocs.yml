@@ -1,23 +1,31 @@
-site_name: TheMoeWay™
+site_name: TheMoeWay
 nav:
-  - 'index.md'
-  - 'guide.md'
-  - 'speaking.md'
-  - 'animejp.md'
-  - 'kanji.md'
-  - 'reading.md'
-  - 'vn.md'
-  - 'monolingual.md'
-  - 'faq.md'
-  - 'sub.md'
+  - Home: 'index.md'
+  - 'Guides':
+    - 'guide.md'
+    - 'speaking.md'
+    - 'animejp.md'
+    - 'kanji.md'
+    - 'reading.md'
+    - 'vn.md'
+    - 'monolingual.md'
+    - 'faq.md'
+    - 'sub.md'
+  - 'About':
+    - 'Contact & Support': 'contact.md'
+
 theme:
+  features:
+    - navigation.instant
+    - navigation.sections
   name: material
   custom_dir: overrides
   palette:
     scheme: default
-    primary: purple
+    primary: deep purple
+    accent: blue
   favicon: img/favicon.png
-  logo: img/cat.svg
+  logo: img/moe.svg
 markdown_extensions:
   - toc:
       permalink: true
@@ -30,9 +38,3 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
-extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/nhqjydaR8j
-      name: Discord
-copyright: New Japanese Guide is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> license. 

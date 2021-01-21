@@ -274,15 +274,15 @@ After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/
 > 7. You should now be just immersing (inputting) and making flashcards everyday.
 
 
-**Final Notes**
+### Final Notes
 That’s it. You can get fluent in Japanese just like that. But don’t forget that the most important part is immersion, Anki and grammar only assist your immersion.
 
-**Music is not immersion.**
+Music is not immersion.
 However, you can use the lyric sheet as reading practice.
 This guide would have not been possible if it was not for Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay:tm:. Thank you all!
 
 
-**Further Reading:**  
+### Further Reading  
 
 [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)  
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)  
@@ -293,7 +293,7 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 [Itazuraneko](https://itazuraneko.neocities.org/)
 
 
-## Additional Tools (optional read)
+### Additional Tools (optional read)
 Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. Download the dictionaries needed [here](https://drive.google.com/file/d/1tlss5uNqU1sZ2IZbg5zaJ_UjyENaP9ho/view?usp=sharing) extract it (you can use 7zip). 
 Do not touch the .zip files inside. These need to be kept intact. Click the Yomichan icon in the top right, then click the monkey wrench icon, scroll down until you see “Import Dictionary”, over here you need import the ones with the [Bilingual] tag and (optionally) the [Kanji] tag at the stage you are at. You can only import one dictionary at a time, so wait until one dictionary is imported before importing the next.  
 Now you can look up words on a webpage by just holding Shift and hovering over it. Try it!  
@@ -314,19 +314,19 @@ There’s also [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.
 If you use an iOS device, you can use Books to read novels on your phone. You can use the “Look Up” feature. Make sure you have Japanese dictionaries enabled in Settings > General > Dictionary.
 Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.
 
-### Visual Novels
-If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that here: #visual-novel-guide
+**Visual Novels**
+If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that [here](/vn)  
 Visual Novels can be found in our #resources channel over at [Discord](https://discord.gg/nhqjydaR8j)
 
 !!! note
     You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
 
-## Discord
+### Discord
 Extra resources can be found at our Discord. Join us!
 
 [Join us on Discord :fontawesome-brands-discord:](https://discord.gg/nhqjydaR8j){: .md-button .md-button--primary }  
 
-## Sources
+### Sources
 1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)
 2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)
 3. [Mass Immersion Approach - Japanese Quickstart Guide](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide)

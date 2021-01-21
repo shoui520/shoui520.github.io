@@ -115,3 +115,10 @@ Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSS
 Proof of texthooking working with PPSSPP:  
   
 ![Image](img/vn17.png)  
+
+### Bonus #2: Visual Novels on Linux (WINE)
+
+!!! note
+    It is now recommended to setup [WinApps](https://github.com/Fmstrat/winapps) to run VNs instead.
+
+kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc953f0f213f559e5293a6144a)
