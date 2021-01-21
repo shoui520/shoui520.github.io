@@ -262,9 +262,9 @@ Through input. Primarily listening for learning how to speak naturally and readi
 No, I don't recommend it. You can get by just by reading it in your head.
 ### Should I read out loud the sentence in my sentence cards?
 Nah you don't need to. Absolutely fine if you just read it in your head.
-**Thoughts on passive immersion?**
+### Thoughts on passive immersion?
 It depends. If you can’t understand like 90% of your immersion yet then it won't get you gains. If you understand over 90% then you can make gains when you listen in on it every now and then, but much less efficient than active immersion overall.
-Edit: After talking with @mattvsjapan#4638, we settled that passive immersion is useful for getting used to spending time with your target language.
+Edit: After talking with Matt vs. Japan, we settled that passive immersion is useful for getting used to spending time with your target language.
 ### Thoughts on Duolingo, Busuu, LingoDeer, Memrise, Drops and other similar apps
 Don’t even bother LMAO. Follow my guide for some real Japanese gains [Link](/guide)
 ### These two words have the same meaning!!
@@ -298,7 +298,7 @@ You don’t need to but it definitely helps. Do it when you’re used to reading
 Yes.
 ### I only want to sentence mine from anime, is this fine?
 Yeah.
-	### I only want to sentence mine from books, is this fine?
+### I only want to sentence mine from books, is this fine?
 Yeah.
 ### Is learning how to understand dialects like Kansai-ben difficult?
 No.
