@@ -10,7 +10,6 @@ nav:
   - 'monolingual.md'
   - 'faq.md'
   - 'sub.md'
-
 theme:
   name: material
   custom_dir: overrides

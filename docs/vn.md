@@ -98,20 +98,20 @@ Have fun reading!
 Consider joining our **Reading Club** in the [Discord](https://discord.gg/nhqjydaR8j)!
 
 ### Bonus: Using Textractor for PPSSPP Visual Novels
-Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.
-1. Launch PPSSPP (32-bit)
-2. Launch the Visual Novel (can be found at CDRomance or Itazuraneko in #resources )
-3. Attach Textractor (x86) to PPSSPP (32-bit)
-4. Advance the text in the VN (O button)
-5. Using the "Search for hooks" feature, select "search for specific text"
-6. Search for the specific text that is on the PPSSPP VN. It needs to be **exact.**
-7. It will take a while to search for the hook, your emulator may start to lag for a while.
-8. If Textractor asks, (keep an eye on the Console) frantically advance the text (O button) on the PPSSPP VN.
-9. Now it will have found the hook.
-10. Advance the text once more (O button)
-11. Cycle through the hooks to see which hook has the newly advanced text. 
-12. That's it! :tada: You could save the hook to make the process more convenient later.
+Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.  
+1. Launch PPSSPP (32-bit)  
+2. Launch the Visual Novel (can be found at CDRomance or Itazuraneko in #resources ([Discord](https://discord.gg/nhqjydaR8j)))
+3. Attach Textractor (x86) to PPSSPP (32-bit)  
+4. Advance the text in the VN (O button)  
+5. Using the "Search for hooks" feature, select "search for specific text"  
+6. Search for the specific text that is on the PPSSPP VN. It needs to be **exact.**  
+7. It will take a while to search for the hook, your emulator may start to lag for a while.  
+8. If Textractor asks, (keep an eye on the Console) frantically advance the text (O button) on the PPSSPP VN.  
+9. Now it will have found the hook.  
+10. Advance the text once more (O button)  
+11. Cycle through the hooks to see which hook has the newly advanced text.   
+12. That's it! :tada: You could save the hook to make the process more convenient later.  
 
-Proof of texthooking working with PPSSPP:
-
-![Image](img/vn17.png)
+Proof of texthooking working with PPSSPP:  
+  
+![Image](img/vn17.png)  
