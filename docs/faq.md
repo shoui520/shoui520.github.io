@@ -12,8 +12,6 @@ Through massive amounts of *input*,in other words **immersion.** See [the guide]
 No. I can’t teach you Japanese. No one can. You need to learn it yourself. Read my guide to get started.
 ### Where can I find a Japanese language tutor?
 You don’t need one. Why? Because you can self study. Anyone can self study. It is not as hard as you think. It will actually be easier since you can go at your own pace and study with what you like such as anime. I think tutors/teachers will slow you down.
-### But I don’t think I can self-study Japanese, maybe I am too dumb to learn it…
-Nah you’re not dumb, if you managed to click on this channel and scroll all the way up here, then you are smarter than 90% of people in this server believe it or not. When it comes to learning a language, one’s so-called “intelligence” has nothing got to do with it. That’s just an excuse our brains make when we don’t want to do things. Similar to “I don’t have time to study Japanese”.
 ### When will I be fluent?
 It heavily depends on your method (*how* you are learning Japanese) and how long you spend learning Japanese per day.
 ### You say listen and read, but what should I listen to and read?
