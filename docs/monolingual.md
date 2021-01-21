@@ -9,10 +9,10 @@ The monolingual transition is when you “transition” to using a monolingual d
 Sites such as Jisho.org use the Japanese-English *bilingual* dictionary known as “JMdict (English)”. Jisho.org is not its own dictionary, it is only a portal that accesses JMdict. So keep that in mind.
 
 ### Why you should use a monolingual dictionary
-Monolingual dictionaries help you avoid making false associations with words from your native language (probably English) to Japanese. You may think, oh, what if I’m not even English? If you don’t use a monolingual dictionary, then you will make false associations anyway, no matter what your native language is. What if I’m German and I use the Wadoku (Japanese-German bilingual dictionary)? Same shit. You will still have this problem. There is no language that can express Japanese better than Japanese itself.
+Monolingual dictionaries help you avoid making false associations with words from your native language (probably English) to Japanese. You may think, oh, what if I’m not even English? If you don’t use a monolingual dictionary, then you will make false associations anyway, no matter what your native language is. What if I’m German and I use the Wadoku (Japanese-German bilingual dictionary)? Same thing. You will still have this problem. There is no language that can express Japanese better than Japanese itself.
 
 ### What exactly do you mean by “false associations”?
-Bilingual definitions, 90% of the time are very shit and vague, and do not capture the true feeling of the word. You may not think so, but I’ve been using monolingual dictionaries for a long time now and I can confirm bilingual definitions (especially those from the JMdict) do not capture the true feel of the word.
+Bilingual definitions, 90% of the time are very vague, and do not capture the true feeling of the word. You may not think so, but I’ve been using monolingual dictionaries for a long time now and I can confirm bilingual definitions (especially those from the JMdict) do not capture the true feel of the word.
 Here’s an example: 
 > 悔しい [くやしい]
 If you have been learning Japanese for a few months, you would know this word. And chances are you learned it using a bilingual dictionary. Let’s look at the bilingual definition.
@@ -39,7 +39,7 @@ Let me ask you one thing. What do you think this word means? If you answered, �
 
 You can’t use 悪い to say that your skill at something is inferior/poor, like you can in English. You use a completely different word in Japanese, and that’s 下手 [へた]. See? And this is only scratching the surface of this problem.
 
-The other reason why you should use monolingual definitions is because they help you think in Japanese. Like I said before, there is no language that can express Japanese as well as Japanese itself can. Dictionary definitions are a way of thinking about words. I’m sure dictionary authors (who are native speakers) put thought into each of their definitions when they wrote their definition, so by reading the definition and memorising it, you will have something *at least close* to what a native speaker may think of the word. If you learn words using a Japanese-English bilingual dictionary (such as JMdict) then you will have a SHIT way of thinking about things, and not even close to what a native may think about the word. This will set you back in getting a true understanding of the word. Don’t get me wrong, you can still get a true understanding with immersion, it just takes a lot longer than if you learned those words monolingually.
+The other reason why you should use monolingual definitions is because they help you think in Japanese. Like I said before, there is no language that can express Japanese as well as Japanese itself can. Dictionary definitions are a way of thinking about words. I’m sure dictionary authors (who are native speakers) put thought into each of their definitions when they wrote their definition, so by reading the definition and memorising it, you will have something *at least close* to what a native speaker may think of the word. If you learn words using a Japanese-English bilingual dictionary (such as JMdict) then you will have a GAIJIN way of thinking about things, and not even close to what a native may think about the word. This will set you back in getting a true understanding of the word. Don’t get me wrong, you can still get a true understanding with immersion, it just takes a lot longer than if you learned those words monolingually.
 
 Monolingual dictionaries are very powerful, and you will only realise this once they become second nature to you.
 
@@ -224,11 +224,11 @@ I will explain my recommended dictionary choices in the next section.
 
 ### What is the best dictionary for starters? And why do you say use every dictionary?
 
-First off, there is no dictionary I can point to and say “this is the best dictionary”. You gotta be pretty superficial about dictionaries if you use only one dictionary and say it is the best. But I digress. I usually recommend 明鏡国語辞典 as a good first choice for starters, that is because its definitions are concise, quick and tend to try and explain things using more easy words. But 明鏡国語辞典 still falls short, it lacks words other dictionaries have and may be trying to simplify too much. 新明解国語辞典 is the second choice because the words it uses are very easy. Easier than 明鏡国語辞典. 新明解国語辞典 tends to take a verbose approach to defining words, because it is the only Japanese monolingual dictionary that wasn’t based off the old Meiji-era (1868-1912) dictionaries like the rest. The verbose approach to defining words can be very very useful, and gives you a better understanding of how the word is thought of and applied in Japanese. I can’t say this is true for every word it defines though. Sometimes it is unnecessarily verbose. And the author’s opinions tend to slip into the definitions, just compare definitions of 恋愛 in the 大辞林 vs in the 新明解国語辞典. Also try to look at definitions of fish in the 新明解国語辞典, the author tends to say things like “it’s delicious” lmao.
+First off, there is no dictionary I can point to and say “this is the best dictionary”. You gotta be pretty superficial about dictionaries if you use only one dictionary and say it is the best. But I digress. I usually recommend 明鏡国語辞典 as a good first choice for starters, that is because its definitions are concise, quick and tend to try and explain things using more easy words. But 明鏡国語辞典 still falls short, it lacks words other dictionaries have and may be trying to simplify too much. 新明解国語辞典 is the second choice because the words it uses are very easy, easier than 明鏡国語辞典. 新明解国語辞典 tends to take a verbose approach to defining words, because it is the only Japanese monolingual dictionary that wasn’t based off the old Meiji-era (1868-1912) dictionaries like the rest. The verbose approach to defining words can be very very useful, and gives you a better understanding of how the word is thought of and applied in Japanese. I can’t say this is true for every word it defines though. Sometimes it is unnecessarily verbose. And the author’s opinions tend to slip into the definitions, just compare definitions of 恋愛 in the 大辞林 vs in the 新明解国語辞典. Also try to look at definitions of fish in the 新明解国語辞典, the author tends to say things like “it’s delicious” lmao.
 
 Jokes aside, the 新明解国語辞典 is a good dictionary: if you use it along with every other dictionary, because, the 新明解国語辞典 is the smallest dictionary. It lacks so many words. 
 
-What is my opinion on the other dictionaries? Well, they’re good; if you use them with all the other dictionaries that is! The 大辞林 is my go-to dictionary, but I tend to use the 明鏡国語辞典 and 広辞苑 a lot. 大辞泉 is as good as the 大辞林 and everything else, but the formatting is inconsistent and bad, but that is just a fault in the EPWING version of the 大辞泉. The 広辞苑 is the most authoritative dictionary in Japan. I like it. It’s pretty handy. But I can say it is the worst for learners; the sole reason being it lists definitions from oldest to newest. This is useful when reading old (20th century) texts, but just pointless when reading modern Japanese. All the other dictionaries list definitions in order of common usage. Compare definitions of 先生 in the 広辞苑 and with other dictionaries. The 広辞苑 follows the old Meiji-era dictionaries the closest out of all dictionaries.
+What is my opinion on the other dictionaries? Well, they’re good; if you use them with all the other dictionaries that is! The 大辞林 is my go-to dictionary, but I tend to use the 明鏡国語辞典 and 広辞苑 a lot. 大辞泉 is good too, and tends to have every possible kanji combination for the word, and phrases too. I'd say it goes hand in hand with the 大辞林 and everything else, but the formatting is inconsistent and bad, but that is just a fault in the EPWING version of the 大辞泉. The 広辞苑 is the most authoritative dictionary in Japan. I like it. It’s pretty handy. But I can say it is the worst for learners; the sole reason being it lists definitions from oldest to newest. This is useful when reading old (20th century) texts, but just pointless when reading modern Japanese. All the other dictionaries list definitions in order of common usage. Compare definitions of 先生 in the 広辞苑 and with other dictionaries. The 広辞苑 follows the old Meiji-era dictionaries the closest out of all dictionaries.
 
 ### Why use all the dictionaries together? 
 
@@ -264,7 +264,7 @@ Google: search “[word] 意味” e.g. “侮る 意味” (I’m not sure what
 
 ### Offline Alternatives
 
-You’re gonna be learning Japanese for a long time, so it is possible that your internet may go out when you’re tryna nihongo grind! So you’re basically fucked right? Nope! 
+You’re gonna be learning Japanese for a long time, so it is possible that your internet may go out when you’re tryna nihongo grind! So you’re basically screwed right? Nope! 
 
 *You download anime right…?*
 
@@ -376,7 +376,7 @@ Check “clipboard search/クリップボード検索”
 
 ## Mobile Users
 
-So you’ve read up to here and was probably thinking, “I’m fucked, I don’t have a PC” Don’t lose hope just now...
+So you’ve read up to here and was probably thinking, “I’m screwed, I don’t have a PC” Don’t lose hope just now...
 
 You can use EBPocket. You can find this on the App Store and Google Play Store. I was able to find it in the UK App Store lmao.
 
@@ -428,7 +428,7 @@ When I read more novels I got more used to written Japanese, and when I looked u
 
 I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition,  I looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION. Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it. Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
 
-###>Soo… what’s the least bullshit way to approach monolingual?
+###>Soo… what’s the best way to approach monolingual?
 
 Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.
 
