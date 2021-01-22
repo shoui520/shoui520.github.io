@@ -175,11 +175,11 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 26. Now open a Run dialog box, by doing `Win+R`, and enter `intl.cpl`. Go in the `Languages` tab and check "Install files for East Asian languages" now hit Apply. Do not reboot yet.   
 27. Go in the Regional Options tab and set format to Japanese and location to Japan. Hit Apply.  
 28. Now go in the Advanced tab and set "Language for non-Unicode programs" to Japanese. Hit Apply. Now reboot your VM when prompted.  
-29. Now go and install some software. I recommend you download this on your actual PC and just drag and drop it to your VM.  
+29. Now go and install some software. I recommend you download these on your actual PC and just drag and drop it into your VM.  
 		[7-Zip (32 bit)](https://www.7-zip.org/a/7z1900.exe)  	
 		[Mozilla Firefox 52.9.0 ESR](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox%20Setup%2052.9.0esr.exe)  - Most recent browser that supports XP.  
 		[ITHVNR](https://cdn.discordapp.com/attachments/715225470798659667/799731133683728404/ITHVNR-3.4524.1-win32.7z) - because Textractor is not supported on XP. Install vcredist_x86 to make it work.  
-		[MacType](https://github.com/snowie2000/mactype/releases/download/2019.1-beta6/MacTypeInstaller_2019.1-beta6.exe) - Fix pixelated CJK font. Also recommend on Win10. Use registry mode. :slight_smile: 
+		[MacType](https://github.com/snowie2000/mactype/releases/download/2019.1-beta6/MacTypeInstaller_2019.1-beta6.exe) - Fix pixelated CJK font. Also recommend on Win10. Use registry mode. :slight_smile:  
 		[Avast Antivirus](https://www.avast.com/) - I know it's kind of a meme but since you are using Windows XP, and it's connected to the internet, consider yourself vulnerable. If you are paranoid then you should install this antivirus.  
 30. In "Devices" enable bidirectional clipboard.
 31. Download your visual novel of choice and drag and drop it to your VM. If it needs to be installed, then install it.
