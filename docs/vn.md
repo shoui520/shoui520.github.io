@@ -93,6 +93,14 @@ Playing a VN with a walkthrough is usually better than playing without one, beca
 
 You can find walkthroughs by searching “<vn name> 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.
 
+### Unsure what to play?
+
+Have a look at visual novel lists ordered by difficulty below
+
+[jamal's list](https://anacreondjt.gitlab.io/vn-chart/)  
+[This infamous list](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.unfw7eb41v3g)  
+[Dinuz's list](/dinuzlist)  
+
 Have fun reading!
 
 Consider joining our **Reading Club** in the [Discord](https://discord.gg/nhqjydaR8j)!
