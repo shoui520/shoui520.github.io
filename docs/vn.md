@@ -149,7 +149,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 
 1. Install Oracle VM VirtualBox  
 2. Acquire a disc image for Windows XP Professional SP3  
-3. Open Oracle VM Virtual Box, in the top, click the blue "New" button.  
+3. Open Oracle VM Virtual Box, at the top, click the blue "New" button.  
 4. You can set any name you wish.  
 5. Make the "Type" `Microsoft Windows` and the "Version" `Windows XP (32-bit)`. Click next.   
 6. For the memory size, make it at least `768` MB. Click next.  
