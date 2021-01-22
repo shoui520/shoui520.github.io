@@ -64,7 +64,7 @@ This is possible on iOS too, but it’s much more difficult to get PPSSPP runnin
 
 [Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)
 
-[Texthooking Page](https://texthookerclipboard.netlify.app/html/line_count.html)
+[Texthooking Page (with accurate character count)](https://mvj.io/shoui/)
 
 A detailed Yomichan setup tutorial can be found in [Monolingual Guide](/monolingual)
 
