@@ -145,7 +145,7 @@ Virtualization technology enabled in your BIOS. (Highly Recommended, you can sea
 
 #### Full Setup
 
-Here I'll walk you through the entire process of installing Windows XP from getting a VN hooked and working.
+Here I'll walk you through the entire process. From installing Windows XP to getting a VN hooked and working.
 
 1. Install Oracle VM VirtualBox  
 2. Acquire a disc image for Windows XP Professional SP3  
