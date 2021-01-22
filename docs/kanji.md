@@ -21,7 +21,7 @@ I mean this:
 >
 > On: ガイ
 
-### ↑ __**DON'T**__ **DO THIS** ↑
+### ↑ **DON'T** **DO THIS** ↑
 
 Learning kanji readings individually is a complete utter waste of time. Kanji readings are not consistent. Many kanji have multiple onyomi and kunyomi, for instance, [家路](https://jisho.org/word/%E5%AE%B6%E8%B7%AF)[いえじ], [通路](https://jisho.org/word/%E9%80%9A%E8%B7%AF)[つうろ], [家賃](https://jisho.org/word/%E5%AE%B6%E8%B3%83)[やちん], [漫画家](https://jisho.org/word/%E6%BC%AB%E7%94%BB%E5%AE%B6)([まんがか], [小学校](https://jisho.org/word/小学校)[しょうがっこう],[袋小路](https://jisho.org/word/袋小路)[ふくろこうじ], [素足](https://jisho.org/word/素足)[すあし],[素人](https://jisho.org/word/素人)[しろうと],[恋人](https://jisho.org/word/恋人)[こいびと],[日本人](https://jisho.org/word/日本人)[にほんじん], [狩人](https://jisho.org/word/狩人)[かりゅうど] and our favourite: [生](https://jisho.org/search/%20%23kanji%20%E7%94%9F), [先生](https://jisho.org/word/先生/)[せんせい], [生涯](https://jisho.org/word/生涯)[しょうがい], [生粋](https://jisho.org/word/生粋)[きっすい], [芝生](https://jisho.org/word/芝生)[しばふ], [生き残る](https://jisho.org/word/生き残る)[いきのこる], [生ビール](https://jisho.org/word/生き残る)[なまびーる], [生真面目](https://jisho.org/word/生真面目)[きまじめ],[生い茂る](https://jisho.org/word/生い茂る)[おいしげる]
 Furthermore, it is also difficult remembering kanji in this way:

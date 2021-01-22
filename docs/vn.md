@@ -9,7 +9,7 @@ Visual Novels (often abbreviated as **VN**) can be described as sort of a mix of
 ###Why Visual Novels?
 Reading Japanese is extremely important, but not everyone loves reading books, I am definitely one of them. I hate reading books, it’s way too often I get bored when reading a regular, text-only novel. I’m not much of a reader in English either. Oddly enough, I can read visual novels for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it’s perfect for reading immersion.
 For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
-![Image](img/vn2.png)
+![Image](img/vn2.jpg)
 
 ###Finding and downloading VNs (Windows)
 *If you have a macOS or Linux computer, then you may have luck using WINE or Winapps.*
@@ -98,7 +98,7 @@ You can find walkthroughs by searching “<vn name> 攻略” e.g. “Angel Beat
 Have a look at visual novel lists ordered by difficulty below
 
 [jamal's list](https://anacreondjt.gitlab.io/vn-chart/)  
-[This infamous list](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.unfw7eb41v3g)  
+[This infamous list](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)  
 [Dinuz's list](/dinuzlist)  
 
 Have fun reading!

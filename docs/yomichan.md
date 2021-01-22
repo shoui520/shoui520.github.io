@@ -1,6 +1,60 @@
 # Yomichan Setup Tutorial
 
-TBA
+## What is Yomichan?
+Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease. As you can see, I made a dedicated tutorial for it, even though the process is simple and there are already guides out there, only so I can stres how it is a very important tool when it comes to learning Japanese. Yomichan also has extra features such as Anki flashcard creation, which makes it a powerful learning tool.
 
-Here's a Rina-chan~
-![TBA](img/tba.jpg)
+## Getting Started 
+Yomichan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
+[Chrome Web Store](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami)  
+[Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/yomichan/)  
+Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  
+
+## Acquiring Dictionaries
+When you first install Yomichan, you need to load dictionaries into it in order to use it.  
+These come in `.zip` extension and **are not to be extracted by the user.**
+
+Download my pack of Yomichan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
+[Google Drive](https://drive.google.com/file/d/1tlss5uNqU1sZ2IZbg5zaJ_UjyENaP9ho/view?usp=sharing)  
+[MEGA](https://mega.nz/file/xJYERTZZ#NsexnMQ5p1DTLotcdSSUVg7oQL6eC0-9kLxuHjJe858)  
+
+Once downloaded, extract the .7z to any location on your computer. You can use [7zip](http://7zip.org/) for this.  
+**Do not touch the .zip files inside.**
+
+## Installing Dictionaries and basic usage
+*Updated for the "new" terrible settings page.*  
+  
+1. Click on the ![yomichan-icon](img/yomichan-icon.png) icon in the browser toolbar.  
+2. Click on the ![cog](img/yomichan-cog.png) icon to access the settings page.  
+3. On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  
+4. Click the "Import" button on the bottom.  
+5. Here's where you select the dictionaries to import. Please only import the following. Do not import every dictionary if you don't need to.
+	- `[Bilingual] JMdict (English).zip`
+	- `[Bilingual] KireiCake.zip`
+	- `[Bilingual] 研究社　新和英大辞典　第５版.zip`
+	- `[Kanji] KANJIDIC (English).zip`
+6. Please wait for the dictionaries to import. This could take a while if you are using a mechanical hard drive.  
+7. Once complete, you can test Yomichan by holding down the `⇧ Shift` key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
+Click anywhere outside of the box or use the `Esc` key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
+8. You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
+
+JMDict is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMDict. This is the most common Japanese to English dictionary.  
+
+KireiCake is based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.
+
+研究社　新和英大辞典　第５版 (Kenkyuusha New Japanese-English Dictionary, 5th Edition) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with example sentences stripped called is `[Bilingual] 新和英.zip` can also be found in my dictionary pack (not recommended).  
+
+KANJIDIC is a kanji dictionary, it allows you to view information of individual kanji.
+
+You can use the ![search icon](img/yomichan-search.png) icon to access Yomichan Search. Where you can use Yomichan as a standalone Japanese to English dictionary, however, Yomichan does not support any advanced dictionary features.
+
+## Anki Setup
+
+Due to there being an already wonderful Anki guide with Yomichan written on the internet. I will not write about that here.
+
+See [AnimeCards Site](https://animecards.site/)
+
+
+
+
+
+
