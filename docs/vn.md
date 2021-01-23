@@ -14,8 +14,8 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 ###Finding and downloading VNs (Windows)
 *If you have a macOS or Linux computer, then you may have luck using WINE or Winapps.*
 
-Here at TheMoeWay™, we believe paying for anything is stupid. So in the [Discord](https://discord.gg/nhqjydaR8j) you can find where to get visual novels for free. 
-If you can’t find the visual novel you want in Japanese using the free resources, your last resort *may* be Steam, DMM, or Getchu, but most of the time, this is not the case- I can find almost everything I want using the free resources found in the [Discord](https://discord.gg/nhqjydaR8j)
+Getting Japanese visual novels legally isn't as easy as it seems, DLSite is inaccesible in many countries and publishers often choose to omit Japanese from their Steam releases, and even if you are able to get the visual novel legally in Japanese, the import cost and time just isn't worth it.  
+So in the [Discord](https://discord.gg/nhqjydaR8j) you can find where to get visual novels for free.  
 
 ### Installing VNs (Windows)
 Most of the time, the VN you downloaded would be in .ISO format, if not, then it’s in .MDS/.MDF format. To mount an .ISO, just double click it, and run the setup files (usually Setup.exe, or Autorun.exe) to proceed with the installation. .MDS/.MDF format VNs require something called WinCDEmu, you can get that [here](https://wincdemu.sysprogs.org/download/)
@@ -50,7 +50,7 @@ Follow the steps below to change the locale of your Windows system to Japanese.
 ### VNs on mobile (Android)
 There are a couple of native Android Visual Novels but these are usually side stories/spin-offs.
 
-The best option is to use PPSSPP emulator and download PSP ROMs from CDRomance or Itazuraneko (Linked in [Discord](https://discord.gg/nhqjydaR8j))
+The best option is to use PPSSPP emulator and download PSP ROMs.
 
 This is possible on iOS too, but it’s much more difficult to get PPSSPP running and not revoke without a jailbreak.
 
@@ -108,7 +108,7 @@ Consider joining our **Reading Club** in the [Discord](https://discord.gg/nhqjyd
 ### Bonus: Using Textractor for PPSSPP Visual Novels
 Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.  
 1. Launch PPSSPP (32-bit)  
-2. Launch the Visual Novel (can be found at CDRomance or Itazuraneko in #resources ([Discord](https://discord.gg/nhqjydaR8j)))
+2. Launch the Visual Novel.
 3. Attach Textractor (x86) to PPSSPP (32-bit)  
 4. Advance the text in the VN (O button)  
 5. Using the "Search for hooks" feature, select "search for specific text"  
