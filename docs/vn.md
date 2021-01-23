@@ -23,7 +23,7 @@ After you have installed WinCDEmu, you should be able to mount it.
 
 ### Sample VN Install (Windows)
 
-ディスコードに移動しました。
+It should be in your DVD booklet manual which is written in entirely Japanese or something... ;)
 
 ### Setting Japanese locale (Windows)
 Most VNs will not work without Japanese locale. This does NOT mean language and/or region.
