@@ -11,6 +11,8 @@ Reading Japanese is extremely important, but not everyone loves reading books, I
 For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
 ![Image](img/vn2.jpg)
 
+[*Click here to view image from the based department.*](img/vnbased1.png)
+
 ###Finding and downloading VNs (Windows)
 *If you have a macOS or Linux computer, then you may have luck using WINE or Winapps.*
 
@@ -66,9 +68,9 @@ This is possible on iOS too, but it’s much more difficult to get PPSSPP runnin
 
 [Texthooking Page (with accurate character count)](https://mvj.io/shoui/)
 
-A detailed Yomichan setup tutorial can be found in [Monolingual Guide](/monolingual)
+A detailed Yomichan setup tutorial can be found [here](/vn)
 
-For most applications, use the x86 version of Textractor.
+For most applications, use the x86 executable of Textractor.
 
 ![Image](img/vn13.png)
 
@@ -108,7 +110,7 @@ Consider joining our **Reading Club** in the [Discord](https://discord.gg/nhqjyd
 ### Bonus: Using Textractor for PPSSPP Visual Novels
 Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.  
 1. Launch PPSSPP (32-bit)  
-2. Launch the Visual Novel.
+2. Launch the Visual Novel.  
 3. Attach Textractor (x86) to PPSSPP (32-bit)  
 4. Advance the text in the VN (O button)  
 5. Using the "Search for hooks" feature, select "search for specific text"  

@@ -286,11 +286,11 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 
 [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)  
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)  
-[Refoold Languages](https://refold.la/)
-[Mass Immersion Approach](https://massimmersionapproach.com/)  
+[Refoold Languages](https://refold.la/)  
+[Mass Immersion Approach (discontinued)](https://massimmersionapproach.com/)  
 [All Japanese All The Time](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/)  
 [AntiMoon](http://www.antimoon.com/)  
-[Itazuraneko](https://itazuraneko.neocities.org/)
+[Itazuraneko](https://itazuraneko.neocities.org/)  
 
 
 ### Additional Tools (optional read)
