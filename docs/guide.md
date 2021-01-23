@@ -316,7 +316,6 @@ Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.
 
 **Visual Novels**
 If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that [here](/vn)  
-Visual Novels can be found in our #resources channel over at [Discord](https://discord.gg/nhqjydaR8j)
 
 !!! note
     You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
