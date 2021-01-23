@@ -208,9 +208,6 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 
 ### Bonus #3: Visual Novels on Linux (WINE)
 
-!!! note
-    It is now recommended to setup [WinApps](https://github.com/Fmstrat/winapps) to run VNs instead.
-
 kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc953f0f213f559e5293a6144a)
 
 ### Bonus #4: Visual Novels on macOS (WINE or dual booting)
