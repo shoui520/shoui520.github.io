@@ -49,24 +49,35 @@ Follow the steps below to change the locale of your Windows system to Japanese.
 4. Reboot your PC to apply the changes.
 
 
-### VNs on mobile (Android)
-There are a couple of native Android Visual Novels but these are usually side stories/spin-offs.
+### VNs on mobile
+#### Android
+There are a couple of native Android Visual Novels but these are usually side stories/spin-offs.  
 
-The best option is to use PPSSPP emulator and download PSP ROMs.
+The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=ja&gl=US) emulator and download PSP ROMs.
 
-This is possible on iOS too, but it’s much more difficult to get PPSSPP running and not revoke without a jailbreak.
+![Image](img/vn12.png)  
 
-![Image](img/vn12.png)
+#### iOS (Non-jailbreak)
+
+Again, there *are* in fact native iOS visual novels, but I feel like emulating PSP visual novels is a better idea.
+
+It is a little more tricky to get PPSSPP working on iOS without a jailbreak, but it is definitely possible.  
+You will need:  
+[AltStore](https://altstore.io/) - check the [FAQ](https://altstore.io/faq/) on the website for instructions  
+[PPSSPP IPA](https://build.ppsspp.org/builds/iOS/ppssppbuildbot-org.ppsspp.ppsspp-dev-working-ios.ipa)
+
+#### iOS (Jailbreak)
+
+PPSSPP can be installed via Cydia package by adding the repository: `https://cydia.ppsspp.org/`.
 
 ### Looking up words in VNs using Yomichan and Textractor
 
-[Download Textractor (preferably the zip version)](https://github.com/Artikash/Textractor/releases)
+Requirements:
 
-[Get Yomichan](https://foosoft.net/projects/yomichan/)
-
-[Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)
-
-[Texthooking Page (with accurate character count)](https://mvj.io/shoui/)
+[Download Textractor (preferably the zip version)](https://github.com/Artikash/Textractor/releases)  
+[Get Yomichan](https://foosoft.net/projects/yomichan/)  
+[Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
+[NEW Texthooking Page (with accurate character count)](https://mvj.io/shoui/)  
 
 A detailed Yomichan setup tutorial can be found [here](/vn)
 
@@ -201,3 +212,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
     It is now recommended to setup [WinApps](https://github.com/Fmstrat/winapps) to run VNs instead.
 
 kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc953f0f213f559e5293a6144a)
+
+### Bonus #4: Visual Novels on macOS (WINE or dual booting)
+
+TBA
