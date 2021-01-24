@@ -19,8 +19,8 @@ Raw anime, untranslated manga, light novels and visual novels. Unsubbed J-drama,
 ### Hey shoui, so I know the method you describe is better than what I’m doing right now but can you please give me permission to carry on doing my own method?
 Don’t care. It’s your Japanese, not mine. 
 ### Best anki settings???
-I don’t know. But here’s mine:
-Steps: 1 5 30, Show new cards in order added, New cards/day: 20, Graduating interval: 1 days, Starting Ease: 250%, Maximum reviews/day: 9999, (Lapses) Steps: 2 30, New interval: 15%, Minimum interval: 1 days, Leech threshold: 8 lapses, Leech action: Tag Only + LowKey Anki Setup (ResetEZ, NoPenaltiesBoosting, PassFail) <https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/intro>
+I don’t know. But I use Mary's with 10 cards per day.
+[[Link]](https://animecards.site/ankisetup/)
 ### When should I start using Anki?
 You can start to use Anki whenever you want actually, you can even learn the kana with it. However I recommend you start using Anki when you already have a grasp of the kana and basic grammar, after that you can download and start working on the Tango Anki decks. (Mining comes after)
 ### When (what time of day) should I do Anki?
@@ -36,7 +36,8 @@ Try to be more vigilant when it comes to taking advice from people. N2 is a pret
 ### My JLPT N2 friend studied with a lot of textbooks and he is good!
 You don’t know Japanese so you wouldn’t know if he’s good or not. He might as well be saying BS and due to your lack of Japanese knowledge you just take it as “wow he’s a genius”, “wow u know so much”. This is known as the fluency illusion.
 ### Easiest anime/manga/light novel/visual novel?
-Mitsuboshi Colors/Yotsubato!/Kino no Tabi/Hanahira
+Mitsuboshi Colors/Yotsubato!/GJ bu/Hanahira  
+this may be inaccurate, but usually what the average DJT'er will consoom.
 ### How to study kanji?
 By reading. Just read, look up words. If you can read the words in their kanji in this sentence: そして起死回生の閃きを得たのは唯我部長だった。then you “know” the kanji. If you look up the words and then remember them then you'll know more kanji, well done.
 ### How much kanji are used in Japanese?
