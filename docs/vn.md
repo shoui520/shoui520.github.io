@@ -79,7 +79,7 @@ Requirements:
 [Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
 [NEW Texthooking Page (with accurate character count)](https://mvj.io/shoui/)  
 
-A detailed Yomichan setup tutorial can be found [here](/vn)
+A detailed Yomichan setup tutorial can be found [here](/yomichan)
 
 For most applications, use the x86 executable of Textractor.
 
