@@ -37,6 +37,10 @@ Once downloaded, extract the .7z to any location on your computer. You can use [
 Click anywhere outside of the box or use the `Esc` key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 8. You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 
+![demo](img/yomidemo1.png)  
+
+Pop up box size and color can be edited with advanced settings enabled.  
+
 JMDict is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMDict. This is the most common Japanese to English dictionary.  
 
 KireiCake is based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.
@@ -46,6 +50,18 @@ KireiCake is based on an older version of JMDict but includes extra entries for 
 KANJIDIC is a kanji dictionary, it allows you to view information of individual kanji.
 
 You can use the ![search icon](img/yomichan-search.png) icon to access Yomichan Search. Where you can use Yomichan as a standalone Japanese to English dictionary, however, Yomichan does not support any advanced dictionary features.
+
+## Allowing access to file URLs
+
+Enabling this allows you to use Yomichan on local files such as .PDF and .HTML files.  
+
+Chromium:  
+	- Right click the ![yomi icon](img/yomichan-icon.png)  
+	- Click "Manage Extensions"  
+	- Enable "Allow access to file URLs"  
+
+Firefox:  
+	- Enabled by default.  
 
 ## Anki Setup
 
