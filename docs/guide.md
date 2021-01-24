@@ -294,9 +294,7 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 
 
 ### Additional Tools (optional read)
-Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. Download the dictionaries needed [here](https://drive.google.com/file/d/1tlss5uNqU1sZ2IZbg5zaJ_UjyENaP9ho/view?usp=sharing) extract it (you can use 7zip). 
-Do not touch the .zip files inside. These need to be kept intact. Click the Yomichan icon in the top right, then click the monkey wrench icon, scroll down until you see “Import Dictionary”, over here you need import the ones with the [Bilingual] tag and (optionally) the [Kanji] tag at the stage you are at. You can only import one dictionary at a time, so wait until one dictionary is imported before importing the next.  
-Now you can look up words on a webpage by just holding Shift and hovering over it. Try it!  
+Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)
 
 For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomichan but for situations where you can’t select the text, e.g. in manga. It uses an OCR, so a little less reliable than Yomichan. To use, hover your mouse over whatever you want to look up.  
 

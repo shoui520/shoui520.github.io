@@ -14,8 +14,7 @@ When you first install Yomichan, you need to load dictionaries into it in order 
 These come in `.zip` extension and **are not to be extracted by the user.**
 
 Download my pack of Yomichan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
-[Google Drive](https://drive.google.com/file/d/1tlss5uNqU1sZ2IZbg5zaJ_UjyENaP9ho/view?usp=sharing)  
-[MEGA](https://mega.nz/file/xJYERTZZ#NsexnMQ5p1DTLotcdSSUVg7oQL6eC0-9kLxuHjJe858)  
+[Google Drive](https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing)  
 
 Once downloaded, extract the .7z to any location on your computer. You can use [7zip](http://7zip.org/) for this.  
 **Do not touch the .zip files inside.**

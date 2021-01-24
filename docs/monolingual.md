@@ -139,7 +139,7 @@ Next, I’ll talk you through *how to actually get the monolingual dictionaries*
 
 ### Getting and using monolingual dictionaries
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
-Download my [Yomichan dictionaries pack](https://drive.google.com/file/d/1tlss5uNqU1sZ2IZbg5zaJ_UjyENaP9ho/view?usp=sharing)
+Download my NEW [Yomichan dictionaries pack](https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing)
 
 Extract the .zip file (You can use [7zip](https://www.7-zip.org/) for this), and you will be greeted with more .zip files. 
 **Do not tamper with these.**
@@ -171,64 +171,115 @@ Then change your dictionary order. You can do this by changing result priority.
 
 **Here’s my (shoui)’s personal dictionary order:**
 
-三省堂 スーパー大辞林
+新明解国語辞典 第七版
+
+大辞林３
 
 明鏡国語辞典
-
-新明解国語辞典 第五版
 
 大辞泉
 
 広辞苑第六版, 付属資料
 
-研究社　新和英大辞典 第５版
+岩波国語辞典
 
-JMdict (English)
+ハイブリッド新辞林
 
-KireiCake
+国語大辞典
+
+精選版 日本国語大辞典
+
+実用日本語表現辞典
 
 故事ことわざ辞典
 
-~~学研国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典~~
+Weblio古語辞典
+
 
 **Here’s what I recommend for first time transitioners:**
 
 明鏡国語辞典
 
-新明解国語辞典 第五版
+ハイブリッド新辞林
+
+新明解国語辞典 第七版
 
 JMdict (English)
 
 研究社 新和英大辞典 第５版
 
-三省堂 スーパー大辞林
+大辞林３
 
 大辞泉
 
 広辞苑第六版, 付属資料
 
+岩波国語辞典
+
+国語大辞典
+
+精選版 日本国語大辞典
+
+実用日本語表現辞典
+
 KireiCake
 
 故事ことわざ辞典
 
-~~学研国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典~~
 
-KireiCake is just JMdict with a few more entries so it will only be useful when you come across the extra entries which is why it is at the bottom.
+### Every Dictionary Explained.
 
-故事ことわざ辞典 is only needed when you look up a proverb, which is why it is at the bottom.
+#### Monolingual
 
-学研国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典 is the worst Yomichan dictionary. Do not import this. Delete it if you already have.
+**新明解国語辞典 第七版** - 7th editon of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary.  	
 
+**明鏡国語辞典** - 1st edition of Meikyo. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Second smallest.  
 
-I will explain my recommended dictionary choices in the next section.
+**大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, definitions are pretty good, I'd say better than Meikyo when your skill is higher.  
+
+**大辞泉** - Unkown edition of Daijisen. This is an average sized dictionary, I like that it every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future.  
+
+**広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritive dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are usually boring. This dictionary has a certain charm I like though.  
+
+**岩波国語辞典** - unknwon edition of Iwanami dictionary, not much is known about this, but it was probably published around 2010. I find that I like the definitions in this a lot whenever I read them. Keep it enabled to fill in gaps.  
+
+**ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
+
+**国語大辞典** - "Kokugodaijiten" - A certain version of the 日本国語大辞典, the biggest Japanese dictionary in the world. But this is only about 1/10 of that dictionary but still bigger than the Daijirin. Has the same error as Shinjirin. Keep it enabled to fill in gaps.  
+
+**精選版 日本国語大辞典** - "Seisenban" - Another version of the 日本国語大辞典, but this is about 5/10 of that dictionary, but still the biggest digital dictionary to date. It has a heavy emphasis on classical Japanese and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
+
+**実用日本語表現辞典** - Lets call this Jitsuyou. This is one of the dictionaries Weblio uses, and whatever gap was still left after all the dictionaries above, will be filled in with this dictionary. Very useful, it's at the bottom of my order because it's only needed when the other dictionaries don't have a word.  
+
+**故事ことわざ辞典** - a proverbs dictionary.  
+
+**Weblio古語辞典** -　古語 dictionary weblio uses.
+
+**学研 国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典** - the WORST dictionary ever. Do not import.  
+
+####Bilingual
+
+**JMDict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
+
+**KireiCake** - Based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.  
+
+**研究社 新和英大辞典 第５版** - Kenkyuusha New Japanese-English Dictionary, 5th Edition, a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. Better than JMDict.  
+
+**新和英** - Version of 研究社 新和英大辞典 第５版 without example sentences. Not recommended.  
+
+**研究社露和辞典 (Russian)** - Kenkyuusha Russian-Japanese Dictionary. Self explanatory. Only included this because why not. Do not import if you are not a speaker of Russian.  
+
+**大修館書店中日大辞典　第二版** - Taishuukan Chinese-Japanese Dictionary, 2nd edition. A simplified Chinese dictionary for speakers of Japanese. If you are ever going to learn simplified Chinese, I recommend this. Do not import if not a learner of Chinese.  
+
+**超級クラウン日中大辞典** - Choukyuu Crown Chinese-Japanese Dictionary. Something Matt gave me, but it is broken, this is also a Chinese-Japanese dictionary that supports both traditional and simplified. Do not import if not a learner of Chinese.    
 
 ### What is the best dictionary for starters? And why do you say use every dictionary?
 
 First off, there is no dictionary I can point to and say “this is the best dictionary”. You gotta be pretty superficial about dictionaries if you use only one dictionary and say it is the best. But I digress. I usually recommend 明鏡国語辞典 as a good first choice for starters, that is because its definitions are concise, quick and tend to try and explain things using more easy words. But 明鏡国語辞典 still falls short, it lacks words other dictionaries have and may be trying to simplify too much. 新明解国語辞典 is the second choice because the words it uses are very easy, easier than 明鏡国語辞典. 新明解国語辞典 tends to take a verbose approach to defining words, because it is the only Japanese monolingual dictionary that wasn’t based off the old Meiji-era (1868-1912) dictionaries like the rest. The verbose approach to defining words can be very very useful, and gives you a better understanding of how the word is thought of and applied in Japanese. I can’t say this is true for every word it defines though. Sometimes it is unnecessarily verbose. And the author’s opinions tend to slip into the definitions, just compare definitions of 恋愛 in the 大辞林 vs in the 新明解国語辞典. Also try to look at definitions of fish in the 新明解国語辞典, the author tends to say things like “it’s delicious” lmao.
 
-Jokes aside, the 新明解国語辞典 is a good dictionary: if you use it along with every other dictionary, because, the 新明解国語辞典 is the smallest dictionary. It lacks so many words. 
+Jokes aside, the 新明解国語辞典 is a good dictionary: if you use it along with every other dictionary, because more dictionaries=better.
 
-What is my opinion on the other dictionaries? Well, they’re good; if you use them with all the other dictionaries that is! The 大辞林 is my go-to dictionary, but I tend to use the 明鏡国語辞典 and 広辞苑 a lot. 大辞泉 is good too, and tends to have every possible kanji combination for the word, and phrases too. I'd say it goes hand in hand with the 大辞林 and everything else, but the formatting is inconsistent and bad, but that is just a fault in the EPWING version of the 大辞泉. The 広辞苑 is the most authoritative dictionary in Japan. I like it. It’s pretty handy. But I can say it is the worst for learners; the sole reason being it lists definitions from oldest to newest. This is useful when reading old (20th century) texts, but just pointless when reading modern Japanese. All the other dictionaries list definitions in order of common usage. Compare definitions of 先生 in the 広辞苑 and with other dictionaries. The 広辞苑 follows the old Meiji-era dictionaries the closest out of all dictionaries.
+What is my opinion on the other dictionaries? Well, they’re good; if you use them with all the other dictionaries that is! The 大辞林 is my go-to dictionary, but I tend to use the 明鏡国語辞典 and 広辞苑 a lot. 大辞泉 is good too, and tends to have every possible kanji combination for the word, and phrases too. I'd say it goes hand in hand with the 大辞林 and everything else, but the formatting is inconsistent and bad, but that is just a fault in the EPWING version of the 大辞泉. The 広辞苑 is the most authoritative dictionary in Japan. I like it. It’s pretty handy. But I can say it is the worst for learners; the sole reason being it lists definitions from oldest to newest. This is useful when reading old (20th century) texts, but just pointless when reading modern Japanese. All the other dictionaries list definitions in order of common usage. Compare definitions of 先生 in the 広辞苑 and with other dictionaries. The 広辞苑 follows the old Meiji-era dictionaries the closest out of all dictionaries. Any other dictionaries are needed because there could be words that are not in some dictionaries but are in others. I recommend you keep all dictionaries imported so you wouldn't be forced to use a wretched bilingual dictionary.
 
 ### Why use all the dictionaries together? 
 
@@ -409,7 +460,7 @@ Primarily in the AJATT community, there’s this one piece of advice:
 ### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach**
 
 I mean, if you read novels, this may be an OK approach. Because you will already be familiar with those words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out. Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions. 
-This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more bro lololo”, because that’s exactly what you need to do. I just disagree with throwing away the bilingual dictionary completely, because you still need it, especially in the beginning of the monolingual transition. ~~Also you need JMdict no matter what stage you are in learning Japanese because there’s always going to be words that are only in the bilingual dictionary unfortunately.~~ Shiny new yomichan dictionaries coming soon! :kissing:
+This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more bro lololo”, because that’s exactly what you need to do. I just disagree with throwing away the bilingual dictionary completely, because you still need it in the beginning of the monolingual transition. 
 
 **I recommend learning words within definitions using a bilingual dictionary.**
 
