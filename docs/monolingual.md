@@ -215,7 +215,7 @@ KireiCake
 
 **大辞泉** - Unknown edition of Daijisen. This is an average sized dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future, I have the source.
 
-**広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritive dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. DDefinitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
+**広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. DDefinitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
 
 **岩波国語辞典** - unknown edition of Iwanami dictionary, not much is known about this, but it was probably published around 2010. I find that I like the definitions in this a lot whenever I read them. Keep it enabled to fill in gaps.  
 
