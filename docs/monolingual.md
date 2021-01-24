@@ -139,7 +139,7 @@ Next, I’ll talk you through *how to actually get the monolingual dictionaries*
 
 ### Getting and using monolingual dictionaries
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
-Download my NEW [Yomichan dictionaries pack](https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing)
+Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing)
 
 Extract the .zip file (You can use [7zip](https://www.7-zip.org/) for this), and you will be greeted with more .zip files. 
 **Do not tamper with these.**
@@ -157,6 +157,8 @@ Import all dictionaries tagged [Monolingual] and [Bilingual] **do not import 学
 
 ![Image](img/mono14.png)
 
+*old pic btw*  
+
 You can only import one dictionary at a time. So wait for one to finish importing before importing the next.
 
 ![Image](img/mono15.png)
@@ -171,61 +173,35 @@ Then change your dictionary order. You can do this by changing result priority.
 
 **Here’s my (shoui)’s personal dictionary order:**
 
-新明解国語辞典 第七版
-
-大辞林３
-
-明鏡国語辞典
-
-大辞泉
-
-広辞苑第六版, 付属資料
-
-岩波国語辞典
-
-ハイブリッド新辞林
-
-国語大辞典
-
-精選版 日本国語大辞典
-
-実用日本語表現辞典
-
-故事ことわざ辞典
-
-Weblio古語辞典
-
+新明解国語辞典 第七版  
+大辞林３  
+明鏡国語辞典  
+大辞泉  
+広辞苑第六版, 付属資料  
+岩波国語辞典  
+ハイブリッド新辞林  
+国語大辞典  
+精選版 日本国語大辞典  
+実用日本語表現辞典  
+故事ことわざ辞典  
+Weblio古語辞典  
 
 **Here’s what I recommend for first time transitioners:**
 
-明鏡国語辞典
-
-ハイブリッド新辞林
-
-新明解国語辞典 第七版
-
-JMdict (English)
-
-研究社 新和英大辞典 第５版
-
-大辞林３
-
-大辞泉
-
-広辞苑第六版, 付属資料
-
-岩波国語辞典
-
-国語大辞典
-
-精選版 日本国語大辞典
-
-実用日本語表現辞典
-
-KireiCake
-
-故事ことわざ辞典
-
+明鏡国語辞典  
+ハイブリッド新辞林  
+新明解国語辞典 第七版  
+JMdict (English)  
+研究社 新和英大辞典 第５版  
+大辞林３  
+大辞泉  
+広辞苑第六版, 付属資料  
+岩波国語辞典  
+国語大辞典  
+精選版 日本国語大辞典   
+実用日本語表現辞典  
+KireiCake  
+故事ことわざ辞典  
 
 ### Every Dictionary Explained.
 
@@ -239,7 +215,7 @@ KireiCake
 
 **大辞泉** - Unkown edition of Daijisen. This is an average sized dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future.  
 
-**広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritive dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are usually boring. This dictionary has a certain charm I like though.  
+**広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritive dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. DDefinitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
 
 **岩波国語辞典** - unknown edition of Iwanami dictionary, not much is known about this, but it was probably published around 2010. I find that I like the definitions in this a lot whenever I read them. Keep it enabled to fill in gaps.  
 
@@ -256,6 +232,8 @@ KireiCake
 **Weblio古語辞典** - archaism dictionary Weblio uses.
 
 **学研 国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典** - the WORST dictionary ever. Do not import.  
+
+Anything else like 新明解国語辞典 第五版 and 大辞林 第二版 are just older versions. I would not import them. Kept in pack for autism purposes.  
 
 ####Bilingual
 
