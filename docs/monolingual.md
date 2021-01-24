@@ -231,17 +231,17 @@ KireiCake
 
 #### Monolingual
 
-**新明解国語辞典 第七版** - 7th editon of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary.  	
+**新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary.  	
 
 **明鏡国語辞典** - 1st edition of Meikyo. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Second smallest.  
 
 **大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, definitions are pretty good, I'd say better than Meikyo when your skill is higher.  
 
-**大辞泉** - Unkown edition of Daijisen. This is an average sized dictionary, I like that it every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future.  
+**大辞泉** - Unkown edition of Daijisen. This is an average sized dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future.  
 
 **広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritive dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are usually boring. This dictionary has a certain charm I like though.  
 
-**岩波国語辞典** - unknwon edition of Iwanami dictionary, not much is known about this, but it was probably published around 2010. I find that I like the definitions in this a lot whenever I read them. Keep it enabled to fill in gaps.  
+**岩波国語辞典** - unknown edition of Iwanami dictionary, not much is known about this, but it was probably published around 2010. I find that I like the definitions in this a lot whenever I read them. Keep it enabled to fill in gaps.  
 
 **ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
 
@@ -253,7 +253,7 @@ KireiCake
 
 **故事ことわざ辞典** - a proverbs dictionary.  
 
-**Weblio古語辞典** -　古語 dictionary weblio uses.
+**Weblio古語辞典** - archaism dictionary Weblio uses.
 
 **学研 国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典** - the WORST dictionary ever. Do not import.  
 
