@@ -227,11 +227,11 @@ KireiCake
 
 **実用日本語表現辞典** - Lets call this Jitsuyou. This is one of the dictionaries Weblio uses, and whatever gap was still left after all the dictionaries above, will be filled in with this dictionary. Very useful, it's at the bottom of my order because it's only needed when the other dictionaries don't have a word.  
 
-**故事ことわざ辞典** - a proverbs dictionary.  
+**故事ことわざ辞典** - a proverbs dictionary. Extracted from the worst Yomichan dictionary ever.  
 
 **Weblio古語辞典** - archaism dictionary Weblio uses.
 
-**学研 国語大辞典, 古語辞典, 故事ことわざ辞典, 学研漢和大字典** - the WORST dictionary ever. Do not import.  
+**学研国語大辞典古語辞典故事ことわざ辞典学研漢和大字典** - the WORST dictionary ever. Do not import. Don't believe me? Import it then.  
 
 Anything else like 新明解国語辞典 第五版 and 大辞林 第二版 are just older versions. I would not import them. Kept in pack for autism purposes.  
 
