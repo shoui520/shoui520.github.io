@@ -144,7 +144,8 @@ Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1hc
 Extract the .zip file (You can use [7zip](https://www.7-zip.org/) for this), and you will be greeted with more .zip files. 
 **Do not tamper with these.**
 
-![Image](img/mono12.png)
+![Image](img/mono12.png)  
+*old pic btw*
 
 
 These are our Yomichan dictionaries. **You only need all dictionaries tagged [Monolingual] and [Bilingual], the rest are kinda optional**
