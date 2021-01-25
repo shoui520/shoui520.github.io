@@ -212,25 +212,25 @@ I shall explain each dictionary in the next section.
 
 **新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary.  	
 
-**明鏡国語辞典** - 1st edition of Meikyo. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Second smallest.  
+**明鏡国語辞典** - 1st edition of Meikyou. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Best for definitions on Anki cards. Second smallest.  
 
-**大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, definitions are pretty good, I'd say better than Meikyo when your skill is higher.  
+**大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
 
-**大辞泉** - Unknown edition of Daijisen. This is an average sized dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future, I have the source.
+**大辞泉** - Unknown edition of Daijisen. This is a big dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future, I have the source in MDX format.
 
-**広辞苑第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
+**広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
 
-**岩波国語辞典** - unknown edition of Iwanami dictionary, not much is known about this, but it was probably published around 2010. I find that I like the definitions in this a lot whenever I read them. Keep it enabled to fill in gaps.  
+**岩波国語辞典** - 6th edition of Iwanami dictionary. What a stupid dictionary, it has missing entries. I think the source EPWING it was converted from was bad or something? The definitions "feel like the Meikyou". Anyway, keep it enabled to fill in gaps.  
 
-**ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
+**ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
 
 **国語大辞典** - "Kokugodaijiten" - A certain version of the 日本国語大辞典, the biggest Japanese dictionary in the world. But this is only about 1/10 of that dictionary but still bigger than the Daijirin. Has the same error as Shinjirin. Keep it enabled to fill in gaps.  
 
-**精選版 日本国語大辞典** - "Seisenban" - Another version of the 日本国語大辞典, but this is about 5/10 of that dictionary, but still the biggest digital dictionary to date. It has a heavy emphasis on classical Japanese and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
+**精選版 日本国語大辞典** - "Seisenban" - Another version of the 日本国語大辞典, but this is about 5/10 of that dictionary, but still the biggest digital dictionary to date. It has a heavy emphasis on classical Japanese, example sentences are like 500 years old and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
 
 **実用日本語表現辞典** - Lets call this Jitsuyou. This is one of the dictionaries Weblio uses, and whatever gap was still left after all the dictionaries above, will be filled in with this dictionary. Very useful, it's at the bottom of my order because it's only needed when the other dictionaries don't have a word.  
 
-**故事ことわざ辞典** - a proverbs dictionary. Extracted from the worst Yomichan dictionary ever.  
+**故事ことわざ辞典** - a proverbs dictionary.   
 
 **Weblio古語辞典** - archaism dictionary Weblio uses.
 
@@ -240,7 +240,7 @@ Anything else like 新明解国語辞典 第五版 and 大辞林 第二版 are j
 
 ####Bilingual
 
-**JMDict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
+**JMDict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. Pretty much every Japanese-English dictionary project uses JMDict, apps like Shirabe Jisho on iOS, Akebi and Takoboto on Android all use JMDict. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
 
 **KireiCake** - Based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.  
 
