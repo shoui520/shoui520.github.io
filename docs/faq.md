@@ -26,7 +26,7 @@ You can start to use Anki whenever you want actually, you can even learn the kan
 ### When (what time of day) should I do Anki?
 I recommend doing Anki the first thing in the morning. (As early as possible)
 ### How long should I spend on Anki?
-No more than 1 hour per day. Prioritise immersion time, not flashcards.They are only a supplement to your immersion. I spend about 25 minutes with Anki. And I study about 500 cards per day, your format may vary the amount of time you spend. Personally I just use AnimeCards.
+No more than 1 hour per day. Prioritise immersion time, not flashcards.They are only a supplement to your immersion. I spend about 25 minutes with Anki. ~~And I study about 500 cards per day~~, Not anymore, I reset my Anki. Your format may vary the amount of time you spend. Personally I just use AnimeCards.
 ### About grammar, should I do Tae Kim or Cure Dolly? Pls answer
 Who cares. Just do whatever. (Cure Dolly is better in my humble opinion ;))
 ### What JLPT are you shoui
@@ -60,7 +60,7 @@ Try to rethink your approach to grammar. You need to immerse while following a g
 ### Is remembering the kanji form of words usually written in kana useful? For example 蒟蒻 is the kanji form of コンニャク
 Yes.
 ### Best dictionary for first-time monolingual users?
-There is no single dictionary I can point to and say it's the best. Every dictionary has their weak points and strong points. Use every dictionary together. If you’re interested in my order of dictionaries in Yomichan, here you go: 三省堂 スーパー大辞林, 明鏡国語辞典, 新明解国語辞典 第五版, 大辞泉, 広辞苑, 学研国語大辞典, 故事ことわざの辞典, 研究社　新和英大辞典, JMdict (English) and KireiCake. That’s right, I use every dictionary, you need to realise the importance of having multiple dictionaries.
+There is no single dictionary I can point to and say it's the best. Every dictionary has their weak points and strong points. Use every dictionary together. If you’re interested in my order of dictionaries in Yomichan, you can find that at [Monolingual Guide](/monolingual)
 ### I don’t understand this sentence even though I know all the words.
 Just forget about it for now. Listen more. Read more. It will come to you soon.
 ### When I’m listening I don’t understand but when I looked at the subtitles/transcript I actually knew the words, why is this?
