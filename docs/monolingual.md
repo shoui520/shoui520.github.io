@@ -220,7 +220,7 @@ I shall explain each dictionary in the next section.
 
 **広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
 
-**岩波国語辞典** - 6th edition of Iwanami dictionary. What a stupid dictionary, it has missing entries. I think the source EPWING it was converted from was bad or something? The definitions "feel like the Meikyou". Anyway, keep it enabled to fill in gaps.  
+**岩波国語辞典** - 6th edition of Iwanami dictionary. What a stupid dictionary, it has missing entries. I think the source EPWING it was converted from was bad or something? The definitions "[feel like the Meikyou](/img/iwakoku.png)". Anyway, keep it enabled to fill in gaps.  
 
 **ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
 
