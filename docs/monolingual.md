@@ -204,6 +204,8 @@ JMdict (English)
 KireiCake  
 故事ことわざ辞典  
 
+I shall explain each dictionary in the next section.  
+
 ### Every Dictionary Explained.
 
 #### Monolingual
@@ -252,27 +254,9 @@ Anything else like 新明解国語辞典 第五版 and 大辞林 第二版 are j
 
 **超級クラウン日中大辞典** - Choukyuu Crown Chinese-Japanese Dictionary. Something Matt gave me, but it is broken, this is also a Chinese-Japanese dictionary that supports both traditional and simplified. Do not import if not a learner of Chinese.    
 
-### What is the best dictionary for starters? And why do you say use every dictionary?
-
-First off, there is no dictionary I can point to and say “this is the best dictionary”. You gotta be pretty superficial about dictionaries if you use only one dictionary and say it is the best. But I digress. I usually recommend 明鏡国語辞典 as a good first choice for starters, that is because its definitions are concise, quick and tend to try and explain things using more easy words. But 明鏡国語辞典 still falls short, it lacks words other dictionaries have and may be trying to simplify too much. 新明解国語辞典 is the second choice because the words it uses are very easy, easier than 明鏡国語辞典. 新明解国語辞典 tends to take a verbose approach to defining words, because it is the only Japanese monolingual dictionary that wasn’t based off the old Meiji-era (1868-1912) dictionaries like the rest. The verbose approach to defining words can be very very useful, and gives you a better understanding of how the word is thought of and applied in Japanese. I can’t say this is true for every word it defines though. Sometimes it is unnecessarily verbose. And the author’s opinions tend to slip into the definitions, just compare definitions of 恋愛 in the 大辞林 vs in the 新明解国語辞典. Also try to look at definitions of fish in the 新明解国語辞典, the author tends to say things like “it’s delicious” lmao.
-
-Jokes aside, the 新明解国語辞典 is a good dictionary: if you use it along with every other dictionary, because more dictionaries=better.
-
-What is my opinion on the other dictionaries? Well, they’re good; if you use them with all the other dictionaries that is! The 大辞林 is my go-to dictionary, but I tend to use the 明鏡国語辞典 and 広辞苑 a lot. 大辞泉 is good too, and tends to have every possible kanji combination for the word, and phrases too. I'd say it goes hand in hand with the 大辞林 and everything else, but the formatting is inconsistent and bad, but that is just a fault in the EPWING version of the 大辞泉. The 広辞苑 is the most authoritative dictionary in Japan. I like it. It’s pretty handy. But I can say it is the worst for learners; the sole reason being it lists definitions from oldest to newest. This is useful when reading old (20th century) texts, but just pointless when reading modern Japanese. All the other dictionaries list definitions in order of common usage. Compare definitions of 先生 in the 広辞苑 and with other dictionaries. The 広辞苑 follows the old Meiji-era dictionaries the closest out of all dictionaries.
+### Why do you say use every dictionary?
 
 You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典.
-
-### Why use all the dictionaries together? 
-
-Because every dictionary has its weak points and strong points. No dictionary is perfect. You need more dictionaries. I’m not just talking about word count by the way, even the definitions. 
-
-Just remember this one principle.
-
-> More dictionaries = better :slight_smile:
-
-Look, it seems only 2 monolingual dictionaries have 挙句の果て :frowning: (The other dictionaries may mention this in the definition of 挙句 btw)
-
-![Image](img/mono17.png)
 
 ## Alternatives
 
