@@ -200,7 +200,6 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
     function delet(xdiv) {
 
-      // console.log(xdiv);
       //Get the length of the line being removed.
       let line = xdiv.parentNode.getElementsByTagName('span')[0].textContent
 
@@ -235,7 +234,6 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
       if(line_count > 0) {
         var last_line = lines[line_count - 1].getElementsByClassName("remove_button")[0];
-        console.log(last_line)
         delet(last_line);
       }
     };
