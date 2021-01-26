@@ -1,0 +1,214 @@
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Texthooker</title>
+  <style type="text/css">
+    body {
+      background-color: #000000;
+      color: #FFFFFF;
+      font-size: 1.1em;
+      font-weight: 400;
+      line-height: 150%;
+      margin-top: 1%;
+      margin-left: 1.5%;
+      margin-right: 10%;
+      margin-bottom: 20%;
+      font-family: "Meiryo";
+
+    }
+
+    .container {
+      position: fixed;
+      top: 3px;
+      right: 5px;
+      display: inline-block;
+    }
+
+    .line_box {
+      margin-top: 24px;
+    }
+
+    .remove_button {
+      background-color: rgba(25, 25, 25, 0.0);
+      color: #9d9d9d;
+      cursor: pointer;
+      cursor: hand;
+      display: inline-block;
+      font-size: .4em;
+      line-height: 100%;
+      margin-left: 8px;
+      margin-bottom: 2px;
+      padding: 5px;
+      visibility: hidden;
+
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      -o-user-select: none;
+      user-select: none;
+    }
+
+    .line_box:hover>.remove_button {
+      visibility: visible;
+    }
+
+    #counter {
+      background-color: rgba(25, 25, 25, 0.8);
+      color: #9d9d9d;
+      font-size: .4em;
+      line-height: 100%;
+      float: left;
+      padding-left: 8px;
+      padding-right: 8px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+  <!--
+
+To change background color or text color, just replace the style values above with the hex values for the colors you want.
+If you want the background of the counter to remain semi-transparent, you must use rgb values like above. The last number (where I've put 0.8) is the opacity level (1.0 = completely opaque).
+To change font size, just change the em value to what works for you (the standard size is 1, I like it at 1.5).
+To change font weight (boldness), just edit the value above.  100 is quite thin, 400 is default, 900 is quite thick.  You may want it higher than default for Mincho fonts.
+The line-height value changes the spacing between lines.
+
+To use the font of your choice, remove the list of fonts above and put the ENGLISH name of your font in quotation marks (some JP font names are in Japanese).
+Be sure to leave a semi-colon at the end of the line.
+To find the English name of a given font, first install it, then open Firefox.
+Go to about:preferences#content in the address bar, then click on the 'Default font' drop-down menu.
+The "correct" name of your font will be listed here - just copy that down and paste it up above.
+
+Note that if you would like to use your browser default font, replace the font-family line with font-family:""; or delete it altogether.
+Your default is probably Gothic - if you want to try out a good Mincho font, try Aozora Mincho at http://www.freejapanesefont.com/aozora-mincho-download/
+For various other free Japanese fonts, visit http://www.freejapanesefont.com/
+For more font attribute information visit http://www.w3schools.com/css/css_font.asp
+
+-->
+</head>
+
+<body>
+
+
+
+  <div class="container">
+
+    <!-- This is the div used for the counter. -->
+    <div id="counter" title="No. of characters / No. of lines">0 / 0</div>
+    <!-- End counter div. -->
+
+  </div>
+
+
+  <script>
+    //The text inserter/scroller and the counter begin here.
+
+    //These are needed later.
+    let lines = 0
+    let chars = 0
+
+    //This function is invoked when a node(line) is inserted.
+    let callback = function (mutations) {
+
+      //Confirm that a new line (a <p> tag) was inserted.
+      //(Rikai also inserts and removes a node (a div).)
+      mutations.forEach((mutation) => {
+        if (mutation.target == document.body &&
+          mutation.type == 'childList' &&
+          mutation.addedNodes.length >= 1) {
+          let ptag
+          mutation.addedNodes.forEach((node) => {
+            if (node.tagName == 'P') {
+              ptag = node
+            }
+          })
+          if (!ptag) return
+          //Found the inserted line.
+
+          //Wrap the inserted text in a div and append a "remove line" button.
+          let text = ptag.textContent
+          ptag.remove()
+          let div = document.createElement('div')
+          div.classList.add('line_box')
+          div.innerHTML = '<span></span><div class="remove_button" onclick="delet(this)">x</div>'
+          div.getElementsByTagName('span')[0].textContent = text
+          document.body.appendChild(div)
+
+          //Update the counter.
+          line = text
+
+          toRemove = "「」『』[]()〈〉≪≫。、.,'：！?！？…――ｰ～→♪" + '"' + "　" + "	"
+		  line = line.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
+		  for (var i = 0; i < toRemove.length; i++) {
+			  line = line.split(toRemove[i]).join('')
+			}
+
+          let lineLen = line.length
+          updateCounter(lineLen, 1)
+
+          //The text-scroller is below.
+          //I've included it in the "new line" function (we are in it now).
+          //(That is, it won't run unless a new line was added.)
+          //Like this it won't autoscroll down every time Rikai is used.
+
+          var LEEWAY = 200; // Amount of "leeway" pixels before latching onto the bottom.
+
+          // Some obscene browser shit because making sense is for dweebs
+          var b = document.body;
+          var offset = b.scrollHeight - b.offsetHeight;
+          var scrollPos = (b.scrollTop + offset);
+          var scrollBottom = (b.scrollHeight - (b.clientHeight + offset));
+
+          // If we are at the bottom, go to the bottom again.
+          if (scrollPos >= scrollBottom - LEEWAY) {
+            window.scrollTo(0, document.body.scrollHeight);
+          }
+        }
+      })
+    }
+    // End of new line and scroller script.
+
+    //Register the above new line callback function.
+    let observer = new MutationObserver(callback)
+    let observerOptions = { childList: true, attributes: false }
+    observer.observe(document.body, observerOptions)
+
+
+    //Beginning of "remove line" function.
+
+    function delet(xdiv) {
+
+      //Get the length of the line being removed.
+      let line = xdiv.parentNode.getElementsByTagName('span')[0].textContent
+
+      toRemove = "「」『』[]()〈〉≪≫。、.,'：！?！？…――ｰ～→♪" + '"' + "　" + "	"
+		  line = line.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
+		  for (var i = 0; i < toRemove.length; i++) {
+			  line = line.split(toRemove[i]).join('')
+			}
+
+      let lineLen = line.length
+
+      //Remove the line.
+      xdiv.parentNode.remove()
+
+      //Update the counter.
+      updateCounter(-lineLen, -1)
+    }
+    //End of "remove line" function.
+
+    //Function to update the char and line counter.
+    function updateCounter(charDiff, lineDiff) {
+      chars = chars + charDiff
+      lines = lines + lineDiff
+      let charsdisp = chars.toLocaleString()
+      let linesdisp = lines.toLocaleString()
+      document.getElementById('counter').textContent = charsdisp + ' / ' + linesdisp
+    }
+
+  </script>
+</body>
+
+</html>
