@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block site_nav %}
+{% if nav %}
+{% if page and page.meta and page.meta.hide %}
+{% set hidden = "hidden" if "navigation" in page.meta.hide %}
+{% endif %}
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" {{ hidden }}>
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            {% include "partials/nav.html" %}
+        </div>
+    </div>
+</div>
+{% endif %}
+{% if page.toc and not "toc.integrate" in features %}
+{% if page and page.meta and page.meta.hide %}
+{% set hidden = "hidden" if "toc" in page.meta.hide %}
+{% endif %}
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc" {{ hidden }}>
+    <div class="md-sidebar__scrollwrap">
+        <a href="https://discord.gg/nhqjydaR8j"><img width="100%" src="/img/discord.png"></a>
+        <div class="md-sidebar__inner">
+            {% include "partials/toc.html" %}
+        </div>
+    </div>
+</div>
+{% endif %}
+{% endblock %}
