@@ -187,22 +187,18 @@ Then change your dictionary order. You can do this by changing result priority.
 故事ことわざ辞典  
 Weblio古語辞典  
 
-**Here’s what I recommend for first time transitioners:**
+**Here’s what I recommend for first time monolingual users:**
 
 明鏡国語辞典  
-ハイブリッド新辞林  
-新明解国語辞典 第七版  
+ハイブリッド新辞林
+新明解国語辞典 第七版 
+実用日本語表現辞典 
 JMdict (English)  
 研究社 新和英大辞典 第５版  
-大辞林３  
-大辞泉  
-広辞苑第六版, 付属資料  
-岩波国語辞典  
-国語大辞典  
+大辞林３ 
+大辞泉       
 精選版 日本国語大辞典   
-実用日本語表現辞典  
-KireiCake  
-故事ことわざ辞典  
+KireiCake   
 
 I shall explain each dictionary in the next section.  
 
@@ -216,23 +212,23 @@ I shall explain each dictionary in the next section.
 
 **大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
 
-**大辞泉** - Unknown edition of Daijisen. This is a big dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future, I have the source in MDX format.
+**大辞泉** - Unknown edition of Daijisen, maybe 2nd. This is a big dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future, then it will be one of the biggest. I have the source.  
 
-**広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.  
+**広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though. Optional.  
 
-**岩波国語辞典** - 6th edition of Iwanami dictionary. What a stupid dictionary, it has missing entries. I think the source EPWING it was converted from was bad or something? The definitions "[feel like the Meikyou](/img/iwakoku.png)". Anyway, keep it enabled to fill in gaps.  
+**岩波国語辞典** - 6th edition of Iwanami dictionary. What a stupid dictionary, it has missing entries. I think the source EPWING it was converted from was bad or something? The definitions "[feel like the Meikyou](/img/iwakoku.png)". Anyway, it is optional.  
 
 **ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
 
-**国語大辞典** - "Kokugodaijiten" - A certain version of the 日本国語大辞典, the biggest Japanese dictionary in the world. But this is only about 1/10 of that dictionary but still bigger than the Daijirin. Has the same error as Shinjirin. Keep it enabled to fill in gaps.  
+**国語大辞典** - "Kokugodaijiten" - A certain version of the 日本国語大辞典, the biggest Japanese dictionary in the world. But this is only about 1/10 of that dictionary but still bigger than the Daijirin. Has the same error as Shinjirin. Example:かえって It is optional and probably pointless. Superseded by 精選版.
 
 **精選版 日本国語大辞典** - "Seisenban" - Another version of the 日本国語大辞典, but this is about 5/10 of that dictionary, but still the biggest digital dictionary to date. It has a heavy emphasis on classical Japanese, example sentences are like 500 years old and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
 
 **実用日本語表現辞典** - Lets call this Jitsuyou. This is one of the dictionaries Weblio uses, and whatever gap was still left after all the dictionaries above, will be filled in with this dictionary. Very useful, it's at the bottom of my order because it's only needed when the other dictionaries don't have a word.  
 
-**故事ことわざ辞典** - a proverbs dictionary.   
+**故事ことわざ辞典** - a proverbs dictionary. Optional.   
 
-**Weblio古語辞典** - archaism dictionary Weblio uses.
+**Weblio古語辞典** - archaism dictionary Weblio uses. Very optional.
 
 **学研国語大辞典古語辞典故事ことわざ辞典学研漢和大字典** - the WORST dictionary ever. Do not import. Don't believe me? Import it then.  
 
@@ -254,9 +250,9 @@ Anything else like 新明解国語辞典 第五版 and 大辞林 第二版 are j
 
 **超級クラウン日中大辞典** - Choukyuu Crown Chinese-Japanese Dictionary. Something Matt gave me, but it is broken, this is also a Chinese-Japanese dictionary that supports both traditional and simplified. Do not import if not a learner of Chinese.    
 
-### Why do you say use every dictionary?
+### Why do you say use a lot of dictionaries?
 
-You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典.
+You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here.
 
 ## Alternatives
 
