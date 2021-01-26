@@ -5,9 +5,9 @@
   <title>Texthooker</title>
   <style type="text/css">
     body {
-      background-color: #000000;
-      color: #FFFFFF;
-      font-size: 1.1em;
+      background-color: #202020;
+      color: #bdbdbd;
+      font-size: 1.4em;
       font-weight: 400;
       line-height: 150%;
       margin-top: 1%;
@@ -58,7 +58,7 @@
     #counter {
       background-color: rgba(25, 25, 25, 0.8);
       color: #9d9d9d;
-      font-size: .4em;
+      font-size: .5em;
       line-height: 100%;
       float: left;
       padding-left: 8px;
@@ -66,6 +66,22 @@
       padding-top: 5px;
       padding-bottom: 5px;
     }
+    
+    #remove_button {
+      background-color:rgba(25,25,25,0.8);
+      color:#9d9d9d;
+      font-size:.4em;
+      line-height:100%;
+      float:right;
+      margin-right:10px;
+      padding-left:8px;
+      padding-right:8px;
+      padding-top:5px;
+      padding-bottom:5px;
+      cursor:pointer;
+      cursor:hand;
+    }
+
   </style>
   <!--
 
@@ -91,9 +107,13 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
 <body>
 
-
-
   <div class="container">
+
+    
+    <!-- This is the div used for the "remove last line" button. -->
+	  <div id="remove_button" title="Remove last line" onclick="deleteLastLine()">x</div>
+    <!-- End button div. -->
+  
 
     <!-- This is the div used for the counter. -->
     <div id="counter" title="No. of characters / No. of lines">0 / 0</div>
@@ -180,6 +200,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
     function delet(xdiv) {
 
+      // console.log(xdiv);
       //Get the length of the line being removed.
       let line = xdiv.parentNode.getElementsByTagName('span')[0].textContent
 
@@ -207,6 +228,17 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
       let linesdisp = lines.toLocaleString()
       document.getElementById('counter').textContent = charsdisp + ' / ' + linesdisp
     }
+
+    function deleteLastLine() {
+      var lines = document.getElementsByClassName('line_box');
+      var line_count = lines.length;
+
+      if(line_count > 0) {
+        var last_line = lines[line_count - 1].getElementsByClassName("remove_button")[0];
+        console.log(last_line)
+        delet(last_line);
+      }
+    };
 
   </script>
 </body>
