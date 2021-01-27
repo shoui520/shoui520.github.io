@@ -77,7 +77,7 @@ Requirements:
 [Download Textractor (preferably the zip version)](https://github.com/Artikash/Textractor/releases)  
 [Get Yomichan](https://foosoft.net/projects/yomichan/)  
 [Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
-[NEW Texthooking Page (with accurate character count)](https://mvj.io/shoui/)  
+[NEW Texthooking Page (with accurate character count)](https://learnjapanese.moe/texthooker.html)  
 
 A detailed Yomichan setup tutorial can be found [here](/yomichan)
 
@@ -212,4 +212,5 @@ kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc95
 
 ### Bonus #4: Visual Novels on macOS (WINE or dual booting)
 
-TBA
+WINE, in layman's terms, allows you to run Microsoft Windows apps on your Mac.
+
