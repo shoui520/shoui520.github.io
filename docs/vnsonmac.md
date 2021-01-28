@@ -5,8 +5,6 @@
 
 WINE, in layman's terms, allows you to run Microsoft Windows apps on your Mac.
 
-*TBA*
-
 **Step 1. Installing Japanese fonts on your Mac.**
 
 You can download all Japanese fonts needed from [this archive](https://drive.google.com/file/d/1gOv5Y4eDMtZTFJIXFWY62nFqkmeeBMkD/view?usp=sharing). Next you need to double click on the archive in Finder, it will extract it into the folder "macOS Japanese Fonts [learnjapanese.moe]"  
@@ -36,11 +34,7 @@ When the Xcode installation is complete, press any key. Now we will need to ente
 We will install some dependencies using `brew` first.:  
 ```bash
 brew install giflib libpng gnutls mpg123 libgpg-error libjpeg-turbo sqlite libxcomposite libxinerama libgcrypt ncurses libxslt libva gst-plugins-base xquartz
-```  
-If .  
-```bash
-brew install --build-from-source mpg123 libgpg-error jpeg-turbo sqlite
-```
+```   
 
 Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
 *TBA*
