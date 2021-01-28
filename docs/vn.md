@@ -212,5 +212,30 @@ kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc95
 
 ### Bonus #4: Visual Novels on macOS (WINE or dual booting)
 
+#### WINE Method (macOS 10.8 - 10.14)
+
 WINE, in layman's terms, allows you to run Microsoft Windows apps on your Mac.
+
+#### Virtual Machine Method (macOS 10.11 - 11.2)
+
+It is usually best to do this option with Microsoft Windows 7, as it works on newer Macs and does not have a tedious hacky setup like WINE.
+
+#### Dual Boot Method (All Intel-based Macs)
+
+All Intel-based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007.   
+If your Mac supports it, it is recommended you run Windows 7 instead of Windows 10.  
+
+Macs that support Windows 7:  
+
+Any Intel-based Mac that predates 2014. (With the exception of 2013 Mac Pro)
+
+Macs that support Windows 10:
+
+Intel-based MacBook introduced in 2015 or later   
+Intel-based MacBook Air introduced in 2012 or later  
+Intel-based MacBook Pro introduced in 2012 or later   
+Intel-based Mac mini introduced in 2012 or later   
+Intel-based iMac introduced in 2012 or later  
+Intel-based iMac Pro (all models)    
+Intel-based Mac Pro introduced in 2013 or later     
 
