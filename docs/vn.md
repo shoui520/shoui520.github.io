@@ -210,7 +210,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 
 kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc953f0f213f559e5293a6144a)
 
-### Bonus #4: Visual Novels on macOS (WINE or dual booting)
+### Bonus #4: Visual Novels on macOS
 
 #### WINE Method (macOS 10.8 - 10.14)
 
@@ -233,6 +233,13 @@ Next we will need to copy and paste in this command and hit Enter:
 ```  
 It will ask for your password because it is an administrative action. Hit Enter when asked, and install Xcode when prompted.  
 When the Xcode installation is complete, press any key. Now we will need to enter our password again to complete the installation of Brew. 
+
+**Step 3. Installing WINE and other dependencies**  
+
+Open the Terminal again and enter this command:
+```bash
+brew install wine-staging giflib libpng libldap gnutls mpg123 libgpg-error libjpeg-turbo sqlite libxcomposite libxinerama libgcrypt ncurses libxslt libva gst-plugins-base
+```  
 
 *TBA*
 
