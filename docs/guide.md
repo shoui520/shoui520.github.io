@@ -106,7 +106,7 @@ If you really struggle with reading words, then you should do isolated kanji stu
 
 This is the most simplest approach to kanji, and it is the approach I took personally. Most people will be able to read kana just by referring to the kana chart, but you can’t do the same for kanji. So how do you learn to read kanji?
 
-Look at the manga picture above. Look at the first panel. You see "人数"? That’s a word. Look it up in a dictionary such as [Jisho](https://jisho.org). You get the reading: "にんずう" and the meaning: "number of people". Cool, move on. That’s it. But don’t expect to remember words just by looking it up once, that is why you should read a lot to build up and retain kanji skill. At the end of the guide I will go through how to make the process of looking up words easier.
+Look at the manga picture above. Look at the first panel. You see "人数"? That’s a word. Look it up in a dictionary such as [Jisho](https://jisho.org). You get the reading: "にんずう (ninzuu)" and the meaning: "number of people". Cool, move on. That’s it. But don’t expect to remember words just by looking it up once, that is why you should read a lot to build up and retain kanji skill. At the end of the guide I will go through how to make the process of looking up words easier.
 
 **How to: Isolated Kanji Study**
 
