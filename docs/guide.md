@@ -31,7 +31,7 @@ Say if you were learning English and you heard the sentence, "I'm playing the gu
 ![i+1](img/i1.png)
 
 ### Input & Comprehensible Input
-*Input* itself refers to listening and reading to native content in the target language. *Mass input* can be referred to as *immersion*. Native content means content made by natives, for natives. (raw) Anime is made by natives, for natives, therefore it is native content.
+*Input* itself refers to listening and reading to native content in the target language. *Mass input* can be referred to as *immersion*. Native content means content made by natives, for natives. (Raw) Anime is made by natives, for natives, therefore it is native content.
 *Comprehensible input* refers to input where messages are conveyed and understood. It is the most crucial ingredient in the acquisition of language. Any input is not sufficient for acquisition, the input must be *comprehensible*.
 
 However, as a beginner, it may seem difficult to find comprehensible input, and that is true. I will touch later on how you can benefit from *incomprehensible input*,  too, but not in the same way. Language is not acquired from incomprehensible input but from comprehensible input. So please keep that in mind.
