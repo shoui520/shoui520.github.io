@@ -35,18 +35,31 @@ When the Xcode installation is complete, press any key. Now we will need to ente
 
 We will install some dependencies using `brew` first.:  
 ```bash
-brew install giflib libpng gnutls mpg123 libgpg-error libjpeg-turbo sqlite libxcomposite libxinerama libgcrypt ncurses libva gst-plugins-base xquartz
+brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-turbo sqlite zenity libxcomposite libxinerama libgcrypt ncurses libva gst-plugins-base 
 ```   
 If you are on a macOS version older than Mojave, you may encounter errors, please try to install older versions of incompatible packages instead.  
 
 Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
-We need to add WINE to our PATH.  
-We will need to configure WINE now. Launch the app from the Launchpad if you haven't already. 
-
-Now we will install `winetricks` which will help us configure WINE.  
+Now need to add WINE to our PATH so we can use it in the terminal.  
+First we need to open a terminal text editor.  
+```bash
+nano .profile
+```  
+From there we can add the following:  
+```bash
+export PATH="/Applications/Wine Staging.app/Contents/Resources/wine/bin:$PATH"
+export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
+export DYLD_FALLBACK_LIBRARY_PATH="/usr/lib:/opt/X11/lib:$DYLD_FALLBACK_LIBRARY_PATH"
+```  
+Now press ^X to exit and Y and Return to save.  
+Now we will install `winetricks` which will help us configure WINE.   
 ```bash
 brew install winetricks
 ```  
+We will now install common dependencies needed by visual novels such as DirectX and Visual C Runtimes.  
+```bash
+winetricks allcodecs d3dx9 dotnet35 dotnet452 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+```
 
 *TBA*
 
