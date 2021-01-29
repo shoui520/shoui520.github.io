@@ -159,8 +159,9 @@ There are two main *formats* of mining:
 There has been no settlement to which one is the “best”, they each have their own benefits and drawbacks.  
 
 **i+1 Sentence Cards**  
-
 I+1 Sentence Cards are cards with an i+1 sentence with all its kanji :wink: on the front, and the piece of information needed to understand the sentence on the back. Let’s go through the benefits and drawbacks.  
+
+![Sentence Card](img/cardexample2.png)  
 
 __Benefits:__  
 + Easier to judge whether or not you should pass (as opposed to fail) the card, as the task is simple: understand the sentence without revealing the back.   
@@ -171,8 +172,10 @@ __Drawbacks:__
 - Long to review as you need to read the full sentence every time.  
 - As it is i+1, this may restrict what words you can put in your Anki deck. As you can only add sentences where there is one piece of language you do not yet know.  
 
-**High Quality Vocab Cards**
+**High Quality Vocab Cards**  
 *High Quality* vocab cards are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back. Making them much more superior to standard vocab cards.  
+
+![Anime Cards](img/cardexample1.png)  
 
 ※ They are known as “Anime Cards” because of [AnimeCards Site](https://animecards.site)  
 
