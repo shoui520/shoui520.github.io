@@ -14,11 +14,11 @@ What this guide aims to do is educate you on effective methods to study Japanese
 Back to the “visual learner” and “auditory learner” thing, while it may be true for other fields of study, it is not valid for acquiring a language. We all acquire language in the same exact way, and that is through *comprehensible input*. I often come across people saying, “everyone learns differently” and again, this may be true for other fields of study but not for language *acquisition*.
 Key word: acquisition.
 ### Learning vs. Acquisition
-*Learning* a language properly refers to a conscious process, similar to what one experiences in school. The individual is given “grammar rules” and/or a “vocabulary list” to remember. When it comes to communicating in the language, they recall these rules and vocab they have *learned* and try to use that to speak the language. According to Krashen, this is less effective than *acquisition.*
+*Learning* a language properly refers to a conscious process, similar to what one experiences in school. The individual is given “grammar rules” and/or a “vocabulary list” to remember. When it comes to communicating in the language, they recall these rules and vocab they have *learned* and try to use that to speak the language. According to Stephen Krashen, the leading linguist in language acquisition, this is less effective than *acquisition.*
 
 Acquisition of language is a natural, intuitive, and subconscious process of which individuals need not be aware.
 
-What this actually means is, this process is fundamentally same for everyone, hence *natural* and acquired pieces of language can be utilized *intuitively*, where the individual, in opposition to learning, does not need time to think and form sentences using *learned* grammar and vocabulary. And finally, subconscious means that the individual is unaware that the process is happening; the acquisition process may not feel like “language learning” and when new knowledge is acquired, the acquirer does not feel like they have learned anything.
+What this actually means is, this process is fundamentally the same for everyone, hence *natural* and acquired pieces of language can be utilized *intuitively*, where the individual, in opposition to learning, does not need time to think and form sentences using *learned* grammar and vocabulary. And finally, subconscious means that the individual is unaware that the process is happening; the acquisition process may not feel like “language learning” and when new knowledge is acquired, the acquirer does not feel like they have learned anything.
 
 Acquisition requires *meaningful* interaction with the target language, during which the acquirer is focused on *meaning* rather than form. What this means is, one is not concerned with the *form* of the language they are hearing and/or their utterances but with the messages they are conveying and understanding.
 
@@ -27,6 +27,8 @@ Acquisition requires *meaningful* interaction with the target language, during w
 ### i+1
 In simple terms, i+1 means “one [and no more than one] thing [piece of language] you do not yet know in the sentence"
 Say if you were learning English and you heard the sentence, "I'm playing the guitar", but you didn't know the word "playing" . This sentence would be i+1 because you know all the words and grammar structures apart from "playing". This is also comprehensible input IF you understood the message it was conveying.
+
+![i+1](img/i1.png)
 
 ### Input & Comprehensible Input
 *Input* itself refers to listening and reading to native content in the target language. *Mass input* can be referred to as *immersion*. Native content means content made by natives, for natives. (raw) Anime is made by natives, for natives, therefore it is native content.
