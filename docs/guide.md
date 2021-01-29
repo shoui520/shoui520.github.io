@@ -135,7 +135,7 @@ I recommend you start learning vocabulary using Anki after you have learned the 
 
 
 
-Anki is a spaced repetition (SRS) flashcard program. You can get it [here](https://apps.ankiweb.net/)
+Anki is a spaced repetition system (SRS) flashcard program. It is designed to help you remember information. You can get it [here](https://apps.ankiweb.net/)
 
 
 I recommend you use Anki to build up a vocabulary of basic words to assist your immersion, after that learning vocabulary from immersion becomes easier. Usually people use the *Core 2K* deck to build up a vocabulary of 2000 words, however, I advise against using Core 2K, and suggest you do *Tango N5+N4* instead. Here’s why:
@@ -166,11 +166,11 @@ There has been no settlement to which one is the “best”, they each have thei
 I+1 Sentence Cards are cards with an i+1 sentence with all its kanji :wink: on the front, and the piece of information needed to understand the sentence on the back. Let’s go through the benefits and drawbacks.
 
 __Benefits:__  
-+ Easier to judge whether or not you should pass (as opposed to fail) the card, as the task is simple: understand the sentence without revealing the back.  
-+ Less likely to mix up similar words, as their sentences are different.  
-+ Easier overall, as sentences are closer to how we use language in real life.  
-+ I+1 format so inherently easier than the alternative.  
-__Drawbacks:__  
++ Easier to judge whether or not you should pass (as opposed to fail) the card, as the task is simple: understand the sentence without revealing the back.   
++ Less likely to mix up similar words, as their sentences are different.    
++ Easier overall, as sentences are closer to how we use language in real life.    
++ I+1 format so inherently easier than the alternative.    
+__Drawbacks:__   
 - Long to review as you need to read the full sentence every time.  
 - As it is i+1, this may restrict what words you can put in your Anki deck. As you can only add sentences where there is one piece of language you do not yet know.  
 
@@ -179,108 +179,109 @@ __Drawbacks:__
 
 ※ They are known as “Anime Cards” because of [AnimeCards Site](https://animecards.site)
 
-__Benefits__  
-+ Quick to review. I average 500 cards in 30 minutes with these.  
-+ Able to mine everything and anything (does not follow i+1)  
-+ Animecards.site: “has the same benefits as sentence cards” this can be disputed though.  
-__Drawbacks__  
-- Significantly harder than i+1 sentence cards. For the same reason Core 2K is harder than Tango N5+N4.  
-- Much more likely to mix up similar words.  
-- Not beginner friendly. I do not recommend a beginner does this until they have at least 1000 i+1 sentence cards.  
-- Words *may* not be learned as well as with i+1 sentence cards  
+__Benefits__     
++ Quick to review. I average 500 cards in 30 minutes with these.     
++ Able to mine everything and anything (does not follow i+1)    
++ Animecards.site: “has the same benefits as sentence cards” this can be disputed though.    
+__Drawbacks__    
+- Significantly harder than i+1 sentence cards. For the same reason Core 2K is harder than Tango N5+N4.    
+- Much more likely to mix up similar words.    
+- Not beginner friendly. I do not recommend a beginner does this until they have at least 1000 i+1 sentence cards.    
+- Words *may* not be learned as well as with i+1 sentence cards   
 
 ### Grammar
-When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it **and** do immersion.
+When approaching grammar, it is important to know that the purpose of a grammar guide is not to make you a master at the language, but to give you only a basic understanding of how things work in the language, and then a true understanding of grammar can only be achieved through immersion. Therefore, I recommend you choose a grammar guide, read/watch it **and** do immersion.  
 
-**Choosing a grammar guide**
+**Choosing a grammar guide**   
 
-There are many grammar guides out there, some are good, but some are bad. To prevent confuse amongst learners, i will only mention 2 grammar guides. Tae Kim and Cure Dolly. No grammar guide is perfect, they each have their ups and downs. Tae Kim is written pretty well, and very beginner friendly, however some of his explanations may be a little off and it can get boring to read. Cure Dolly takes an unorthodox approach to Japanese grammar, trying to teach Japanese grammar in a more Japanese “organic” way. However, Cure Dolly is not the most absolute beginner friendly, you need at least *some* background knowledge before using. Also, the audio is very poor.
-You can find the 2 grammar guides below:
+There are many grammar guides out there, some are good, but some are bad. To prevent confuse amongst learners, i will only mention 2 grammar guides. Tae Kim and Cure Dolly. No grammar guide is perfect, they each have their ups and downs. Tae Kim is written pretty well, and very beginner friendly, however some of his explanations may be a little off and it can get boring to read. Cure Dolly takes an unorthodox approach to Japanese grammar, trying to teach Japanese grammar in a more Japanese “organic” way. However, Cure Dolly is not the most absolute beginner friendly, you need at least *some* background knowledge before using. Also, the audio is very poor.  
+You can find the 2 grammar guides below:   
 
-[Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html): *There is also an Android and iOS app for offline viewing!, note that everything in this guide is considered to be "basic Japanese", even the “advanced” section*  
-[Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj): *I recommend turning on subtitles and setting the speed to 1.25x!*
+[Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html)     
+*There is also an Android and iOS app for offline viewing!, note that everything in this guide is considered to be "basic Japanese", even the “advanced” section*    
+[Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+*I recommend turning on subtitles and setting the speed to 1.25x!*    
 
-With that said, I suggest doing grammar study in conjunction with your immersion and vocabulary study.
+With that said, I suggest doing grammar study in conjunction with your immersion and vocabulary study.  
 
 ### How to Immerse (inputting)
-What you need to do when immersing is different depending on what stage you are on. This is why making a one size fits all Japanese guide is difficult. I will only go through what you need to do as a beginner.
+What you need to do when immersing is different depending on what stage you are on. This is why making a one size fits all Japanese guide is difficult. I will only go through what you need to do as a beginner.  
 
 #### Listening
-When you are a beginner, I recommend doing listening immersion over reading immersion. This is because when you first approach a foreign language, you are not yet used to the phonemes (sounds) of the language, so reading may give you a poor accent, this is when you associate similar, yet wrong phonemes from your native language to Japanese, it is impossible to read without mapping some phonetic component, so you can only avoid this by first getting used to the phonemes. You can do this by doing raw listening.
+When you are a beginner, I recommend doing listening immersion over reading immersion. This is because when you first approach a foreign language, you are not yet used to the phonemes (sounds) of the language, so reading may give you a poor accent, this is when you associate similar, yet wrong phonemes from your native language to Japanese, it is impossible to read without mapping some phonetic component, so you can only avoid this by first getting used to the phonemes. You can do this by doing raw listening.  
 
-Secondly, listening just flows without stopping, so you feel more comfortable when immersing. On the other hand, reading as a beginner is very frustrating as you need to constantly look up words probably every second.
+Secondly, listening just flows without stopping, so you feel more comfortable when immersing. On the other hand, reading as a beginner is very frustrating as you need to constantly look up words probably every second.  
 
-Surprisingly, there are many i+1 opportunities in listening immersion as a beginner, so it still passes as comprehensible input, even if you don’t understand other parts. But language is not acquired through incomprehensible input remember? That is true, however, you are still benefiting from incomprehensible input but in a different way; it is improving your ability to distinguish phonemes, in other words giving you a better accent. Immersing even if you don’t understand much is also a great way to build up a habit of interacting with your target language.
+Surprisingly, there are many i+1 opportunities in listening immersion as a beginner, so it still passes as comprehensible input, even if you don’t understand other parts. But language is not acquired through incomprehensible input remember? That is true, however, you are still benefiting from incomprehensible input but in a different way; it is improving your ability to distinguish phonemes, in other words giving you a better accent. Immersing even if you don’t understand much is also a great way to build up a habit of interacting with your target language.  
 
-With that said though, immersion (input) at this stage will still be largely incomprehensible, however you can change that by working through the Tango Anki decks.
+With that said though, immersion (input) at this stage will still be largely incomprehensible, however you can change that by working through the Tango Anki decks.    
 
-Please note that you need to pay attention to your immersion. (Active Immersion).
-Just putting it on in the background (Passive Immersion) is not going to help you.
-
-
-
-**Choosing what to immerse with**
-
-It’s usually best to immerse with something with a visual and audio component, such as anime and j-drama (TV Show). TV shows have a visual component, and also a plot, so this brings more i+1 opportunities. It is not recommended to immerse with say, a podcast or an audiobook as a beginner, as you will have no idea what’s going on (incomprehensible input). If you’re in this server, then chances are you are a fan of anime, cool. You can use that to immerse, and even anime you have seen in the past.
+Please note that you need to pay attention to your immersion. (Active Immersion).    
+Just putting it on in the background (Passive Immersion) is not going to help you.    
 
 
-What is also pretty helpful is reading an episode summary of the episode on Wikipedia before watching it, this can help you understand the plot more, so you can make more acquisition gains.
+**Choosing what to immerse with**  
 
-**What do I need to be “doing” while actively immersing? (As a beginner)**
+It’s usually best to immerse with something with a visual and audio component, such as anime and j-drama (TV Show). TV shows have a visual component, and also a plot, so this brings more i+1 opportunities. It is not recommended to immerse with say, a podcast or an audiobook as a beginner, as you will have no idea what’s going on (incomprehensible input). If you’re in this server, then chances are you are a fan of anime, cool. You can use that to immerse, and even anime you have seen in the past.  
 
-Try to understand messages. There is a lot you can infer from a TV show. Like Krashen says, you need to have “meaningful” (meaning focused) interaction with the language, rather than focusing on form (such as grammar). I suggest trying to hear the sounds more clearly, too?
+
+What is also pretty helpful is reading an episode summary of the episode on Wikipedia before watching it, this can help you understand the plot more, so you can make more acquisition gains.  
+
+**What do I need to be “doing” while actively immersing? (As a beginner)**  
+
+Try to understand messages. There is a lot you can infer from a TV show. Like Krashen says, you need to have “meaningful” (meaning focused) interaction with the language, rather than focusing on form (such as grammar). I suggest trying to hear the sounds more clearly, too?  
 
 #### Reading
-Reading, no matter what stage you are at, can benefit you greatly. However, as a newbie to the language, there are a few problems when it comes to reading early on in the process.
-Reading early can have a bad effect on your accent. And your reading ability may not always transfer (being able to hear the new words you learned) to your listening ability, especially if your listening ability is considerably low.
+Reading, no matter what stage you are at, can benefit you greatly. However, as a newbie to the language, there are a few problems when it comes to reading early on in the process.  
+Reading early can have a bad effect on your accent. And your reading ability may not always transfer (being able to hear the new words you learned) to your listening ability, especially if your listening ability is considerably low.  
 
-When you’re a beginner, I recommend watching Japanese subtitled anime for reading practice. Japanese subtitles are reading immersion at best, similar to a voiced visual novel. Having the voices in the background isn’t going to save your accent nor improve your listening skill, you need to do raw listening. Sorry DJT.
+When you’re a beginner, I recommend watching Japanese subtitled anime for reading practice. Japanese subtitles are reading immersion at best, similar to a voiced visual novel. Having the voices in the background isn’t going to save your accent nor improve your listening skill, you need to do raw listening.  
 
-Anyway, I think it is good to start out with Japanese subtitles for reading. And transition to manga, and then light novels and so on. I think it is important you pace yourself when reading and don’t burn out trying to read hard novels as a beginner, it is usually better reading books that are not too far off from your level.
-In our resources channel in our [Discord](https://discord.gg/nhqjydaR8j) you can find links to sites that let you read a lot of Japanese manga and novels, for free. And Japanese subtitles too, so make sure you check that out!
+Anyway, I think it is good to start out with Japanese subtitles for reading. And transition to manga, and then light novels and so on. I think it is important you pace yourself when reading and don’t burn out trying to read hard novels as a beginner, it is usually better reading books that are not too far off from your level.  
+In our resources channel in our [Discord](https://discord.gg/nhqjydaR8j) you can find links to sites that let you read a lot of Japanese manga and novels, for free. And Japanese subtitles too, so make sure you check that out!  
 
-**Finding the balance between listening and reading**
+**Finding the balance between listening and reading**  
 
-Balance is important. It may be obvious just to split your time up in half, and if you are able to do that, then that is great. However, not everyone has the time, and when it comes to reading, depending on your current level, it may be considerably difficult to read for extended hours. For example people that have gotten further in the Tango Anki deck may be able to read longer than those who are a little behind.
-
-So what is the perfect balance?
-I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the Tango N5 Anki deck.
-
+Balance is important. It may be obvious just to split your time up in half, and if you are able to do that, then that is great. However, not  everyone has the time, and when it comes to reading, depending on your current level, it may be considerably difficult to read for extended hours.  For example people that have gotten further in the Tango Anki deck may be able to read longer than those who are a little behind.  
+ 
+So what is the perfect balance?   
+I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the Tango N5 Anki deck.   
+  
 
 ## Now what?
-> 1. Learn the kana by copying out the entire chart posted in the **Kana** section into a notebook, or something similar.
-> 2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself.
-> 3. After you have completed Kana, then you should move on to learning grammar alongside vocabulary.. It is important that you pace yourself and don’t try to punch above your own weight, this is not a race.
-> 4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing)
-You can import the Tango N5 deck by clicking on it. It should open in Anki, wait a while for it to import.
-> 5. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.
-> 6. Work on the Tango N5 Anki deck **while** reading/watching your chosen grammar guide.
-After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing), too. You should also be nearing the end of your grammar guide at this point. I also suggest starting to read manga at this point.
-> 7. After you finished Tango N4. You should set up a mining deck. It doesn’t matter that much which one you pick.
+> 1. Learn the kana by copying out the entire chart posted in the **Kana** section into a notebook, or something similar.  
+> 2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself.  
+> 3. After you have completed Kana, then you should move on to learning grammar alongside vocabulary.. It is important that you pace yourself and don’t try to punch above your own weight, this is not a race.  
+> 4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing)  
+You can import the Tango N5 deck by clicking on it. It should open in Anki, wait a while for it to import.  
+> 5. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.  
+> 6. Work on the Tango N5 Anki deck **while** reading/watching your chosen grammar guide.  
+After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing), too. You should also be nearing the end of your grammar guide at this point. I also suggest starting to read manga at this point.  
+> 7. After you finished Tango N4. You should set up a mining deck. It doesn’t matter that much which one you pick.  
 
-*Choose one below.*  
-[High Quality Vocab Cards (“anime cards”)](https://animecards.site/)  
-[I+1 Sentence Cards](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)  
+*Choose one below.*   
+[High Quality Vocab Cards (“anime cards”)](https://animecards.site/)   
+[I+1 Sentence Cards](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)   
 
 **The process of learning Japanese is as follows:**
 
 > **∞. Immersion is ongoing throughout this entire process. Keep this in mind.**  
 > 0. [Tolerate the ambiguity](https://refold.la/roadmap/stage-0/b/tolerate-ambiguity).  
-> 1. Learn the hiragana and katakana using the method as described above.  
-> 2. Learn grammar using the method as described above.  
-> 3. Download Anki and use the Tango N5 deck to learn basic words.  
+> 1. Learn the hiragana and katakana using the method as described above.    
+> 2. Learn grammar using the method as described above.   
+> 3. Download Anki and use the Tango N5 deck to learn basic words.   
 > 4. After you finish the Tango N5 deck, move on to Tango N4.  
-> 5. After you finish Tango N4, use [Quizmaster's Anki Guide](https://animecards.site/ankisetup/) to learn how to mine.  
+> 5. After you finish Tango N4, use [Quizmaster's Anki Guide](https://animecards.site/ankisetup/) to learn how to mine.    
 > 6. Once you are mining, the process of learning Japanese becomes as simple as reading Japanese and listening to Japanese everyday, and adding unknown words to your Anki flashcard deck.  
-> 7. You should now be just immersing (inputting) and making flashcards everyday.
+> 7. You should now be just immersing (inputting) and making flashcards everyday.  
 
 
-### Final Notes
-That’s it. You can get fluent in Japanese just like that. But don’t forget that the most important part is immersion, Anki and grammar only assist your immersion.
+### Final Notes  
+That’s it. You can get fluent in Japanese just like that. But don’t forget that the most important part is immersion, Anki and grammar only assist your immersion.  
 
-Music is not immersion.
-However, you can use the lyric sheet as reading practice.
-This guide would have not been possible if it was not for Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay:tm:. Thank you all!
+Music is not immersion.  
+However, you can use the lyric sheet as reading practice.  
+This guide would have not been possible if it was not for Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay:tm:. Thank you all!  
 
 
 ### Further Reading  
@@ -294,40 +295,40 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 [Itazuraneko](https://itazuraneko.neocities.org/)  
 
 
-### Additional Tools (optional read)
-Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)
+### Additional Tools (optional read)  
+Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)  
 
-For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomichan but for situations where you can’t select the text, e.g. in manga. It uses an OCR, so a little less reliable than Yomichan. To use, hover your mouse over whatever you want to look up.  
+For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomichan but for situations where you can’t select the text, e.g. in manga. It uses an OCR, so a little less reliable than Yomichan. To use, hover your mouse over whatever you want to look up.    
 
 
-### Android tools
+### Android tools  
 If you have an Android device, you can use Yomichan on [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=ja&gl=US).  
 You can get the app [JP-Dictionary](https://github.com/kamui-7/JP-Dictionary) which adds the iOS “Look Up” feature to your select menu.
-There is also [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) which works a little like KanjiTomo.  
+There is also [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) which works a little like KanjiTomo.   
 
 You should get [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja), which works more like Yomichan. You can load .epub files into it, so it is the best way to read Japanese novels on your phone. Individual EPWING dictionaries can be loaded into Typhon Reader. I find this very useful. You can find EPWING dictionaries [here](https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing) or a compact version [here](https://drive.google.com/file/d/15n-l-IxZLtF0tjnIBexizR1fm5TATBks/view?usp=sharing)
 There’s also [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku), it’s a system wide OCR. Pretty useful too.  
 
 
 ### iOS tools
-If you use an iOS device, you can use Books to read novels on your phone. You can use the “Look Up” feature. Make sure you have Japanese dictionaries enabled in Settings > General > Dictionary.
-Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.
+If you use an iOS device, you can use Books to read novels on your phone. You can use the “Look Up” feature. Make sure you have Japanese   dictionaries enabled in Settings > General > Dictionary.  
+Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.  
 
-**Visual Novels**
-If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that [here](/vn)  
+**Visual Novels**  
+If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that [here](/vn)    
 
 !!! note
     You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
 
-### Discord
-Extra resources can be found at our Discord. Join us!
+### Discord   
+Extra resources can be found at our Discord. Join us!  
 
 [Join us on Discord :fontawesome-brands-discord:](https://discord.gg/nhqjydaR8j){: .md-button .md-button--primary }  
 
 ### Sources
-1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)
-2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)
-3. [Mass Immersion Approach - Japanese Quickstart Guide](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide)
-4. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)
-5. [Itazuraneko - main guide](https://itazuraneko.neocities.org/learn/guide.html)
-6. [Input Hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis)
+1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)  
+2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)  
+3. [Mass Immersion Approach - Japanese Quickstart Guide](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide)  
+4. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)  
+5. [Itazuraneko - main guide](https://itazuraneko.neocities.org/learn/guide.html)  
+6. [Input Hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis)  
