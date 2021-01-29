@@ -113,7 +113,6 @@ Look at the manga picture above. Look at the first panel. You see "人数"? That
 ![Kanji](img/kanji.png)
 
 *Image Credit: Daily Japanese Thread/Itazuraneko*
-*If you can’t see the image properly, switch to Dark Theme*
 When approaching kanji as a beginner, they can look like scribbles rather than familiar shapes. Kanji have common shapes and patterns and Isolated Kanji Study helps you see those common shapes and patterns. Instead of "草" looking like a random drawing, you can see that it’s composed from "艹", "日" and "十".
 
 
