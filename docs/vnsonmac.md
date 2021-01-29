@@ -39,7 +39,7 @@ brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-tur
 ```   
 If you are on a macOS version older than Mojave, you may encounter errors, please try to install older versions of incompatible packages instead.  
 
-Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
+Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  WINE STAGING IS FUCKING CRIPPLED ON OS X
 Now need to add WINE to our PATH so we can use it in the terminal.  
 First we need to open a terminal text editor.  
 ```bash
