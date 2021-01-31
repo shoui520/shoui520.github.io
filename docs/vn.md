@@ -24,7 +24,17 @@ Most of the time, the VN you downloaded would be in .ISO format, if not, then it
 
 After you have installed WinCDEmu, you should be able to mount it.
 
-Now, take time and follow the picture instructions I made for you. This will give you a general guide on how to install most visual novels.
+### Setting Japanese locale (Windows)
+Most VNs will not work without Japanese locale. This does NOT mean language and/or region.
+
+Follow the steps below to change the locale of your Windows system to Japanese.
+
+1. Open the Run dialog box using *Windows Key+R*
+2. Type “intl.cpl” and hit enter.
+3. Under the Administrative tab, go to Change System Locale and select Japanese (Japan)
+4. Reboot your PC to apply the changes.
+
+Now, take time and follow the picture instructions I made for you. This will give you a general guide on how to install most visual novels.  
 
 ### Sample VN Install (Windows)
 
@@ -37,17 +47,6 @@ Now, take time and follow the picture instructions I made for you. This will giv
 ![Image](img/vn9.png)
 ![Image](img/vn10.png)
 ![Image](img/vn11.png)
-
-### Setting Japanese locale (Windows)
-Most VNs will not work without Japanese locale. This does NOT mean language and/or region.
-
-Follow the steps below to change the locale of your Windows system to Japanese.
-
-1. Open the Run dialog box using *Windows Key+R*
-2. Type “intl.cpl” and hit enter.
-3. Under the Administrative tab, go to Change System Locale and select Japanese (Japan)
-4. Reboot your PC to apply the changes.
-
 
 ### VNs on mobile
 #### Android
