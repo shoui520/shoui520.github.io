@@ -168,7 +168,8 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 See Applications (Mobile) section for mobile apps.  
 
 #### MDict (MDX)
-Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition)      
+Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition)  
+
 - [shoui MDX Collection (Japanese)](https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing)    
 See Applications section for an MDict (MDX) reader.   
 
@@ -246,6 +247,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F***cking **M**anual, it wil
 ### Private Trackers
 *Info: [https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers](https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers)*  
 You can find hard to find things on private trackers.   
+
 - **AvistaZ**, for J-drama and such (I have **0** invites)   
 - **AnimeBytes**, for anime, manga, VNs and such (ONLY close friends shall be invited)  
 - **Jpopsuki**, for Japanese music (I have **0** invites)  
@@ -264,6 +266,7 @@ You can find hard to find things on private trackers.
 
 #### Paid
 I only recommend Private Internet Access.  
+
 - [Private Internet Access](https://www.privateinternetaccess.com/)  
 
 #### Premium Cracks/Cheats/Accounts
