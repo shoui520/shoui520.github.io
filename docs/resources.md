@@ -2,44 +2,7 @@
 
 Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" Japanese and "Acquiring" Japanese.   
 
-Resource descriptions will be added soon, for now, just links.  
-
-<h1>Table of Contents</h1>
-
-<!-- TOC -->
-
-<h2>Learning Japanese</h2>
-
-  - [Kana](#kana)
-  - [Kanji](#kanji)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-  
-<h2>Acquiring Japanese</h2>
-
- - [Anime](#anime)
- - [J-Drama & TV Shows](#j-drama-tv-shows)
- - [Manga](#manga)
- - [Light Novels and Literary Texts](#light-novels-and-literary-texts)
- - [Visual Novels & Games](visual-novels-games)
- - [Audiobooks](#audiobooks)
- - [Subtitles](#subtitles)
- - [Sentence Search](#sentence-search)
- - [Dictionaries](#dictionaries)
- - [Applications (Desktop)](#applications-desktop)
- - [Applications (Mobille)](#applications-mobile)
- - [Browser Extensions](#browser-extensions)
- - [Downloading Tools](#downloading-tools)
- - [Private Trackers](#private-trackers)
- - [Other Software](#other-software)
- - [VPNs (Japan location specific)](#vpn-japan-location-specific)
- - [Condensed Audio](#condensed-audio)
- - [Mining](#mining)
- - [Guides/Methods/Motivation](#guides-methods-motivation)
- - ["Other"](#other)
- 
-<!-- /TOC -->
-
+Resource descriptions will be added soon, for now, just links.
 ## Learning Japanese 
 
 ### Kana

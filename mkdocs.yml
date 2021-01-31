@@ -17,7 +17,6 @@ nav:
     - 'Resources': 'resources.md'
   - 'About':
     - 'Contact & Support': 'contact.md'
-
 theme:
   features:
     - navigation.instant
@@ -43,3 +42,5 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+extra_css:
+  - stylesheets/extra.css
