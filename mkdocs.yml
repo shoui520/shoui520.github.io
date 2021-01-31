@@ -13,6 +13,8 @@ nav:
     - 'monolingual.md'
     - 'faq.md'
     - 'sub.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
   - 'About':
     - 'Contact & Support': 'contact.md'
 

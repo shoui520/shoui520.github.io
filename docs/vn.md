@@ -17,7 +17,7 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 *If you have a macOS or Linux computer, then you may have luck using WINE or Winapps.*
 
 Getting Japanese visual novels legally isn't as easy as it seems, DLSite is inaccesible in many countries and publishers often choose to omit Japanese from their Steam releases, and even if you are able to get the visual novel legally in Japanese, the import cost and time just isn't worth it.  
-So in the [Discord](https://discord.gg/nhqjydaR8j) you can find where to get visual novels for free.  
+So in the [Resources](/resources) you can find where to get visual novels for free.  
 
 ### Installing VNs (Windows)
 Most of the time, the VN you downloaded would be in .ISO format, if not, then it’s in .MDS/.MDF format. To mount an .ISO, just double click it, and run the setup files (usually Setup.exe, or Autorun.exe) to proceed with the installation. .MDS/.MDF format VNs require something called WinCDEmu, you can get that [here](https://wincdemu.sysprogs.org/download/)

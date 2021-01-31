@@ -297,7 +297,7 @@ There’s EBWin, EBMac, EBPocket and EBWeb. To use EB, download it, install it a
 
 Download this .zip I’ve just prepared for you (this has EBWin, EBMac and the EPWING files you need): [Google Drive](https://drive.google.com/file/d/1fDhrnxFlPl7PZVlX83cZRhTSRk3xetb2/view?usp=sharing)
 
-**NEW: Compact, Standard and Full EPWING dictionary packages can be found in the [Discord](https://discord.gg/nhqjydaR8j)** 
+**NEW: Compact, Standard and Full EPWING dictionary packages can be found in [Resources](/resources)** 
 
 
 
