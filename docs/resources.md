@@ -150,10 +150,11 @@ Scan websites usually have the best collection but can be a pain to download fro
 
 ### Dictionaries
 #### Yomichan
-Yomichan, a browser add-on that allows you to look up Japanese words easily.  
+Yomichan, a browser add-on that allows you to look up Japanese words easily. 
+
 - [Yomichan (Chromium and Firefox based browsers only)](https://foosoft.net/projects/yomichan/)   
 - [Tutorial](https://learnjapanese.moe/yomichan)  
-- [shoui Yomichan Dictionaries Pack v3](https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing)  
+- [shoui Yomichan Dictionaries Pack v4](https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing)  
 
 #### Online
 - [Jisho (bilingual)](https://jisho.org/) <---- Beginners use this    
@@ -184,7 +185,7 @@ See Applications section for an EPWING reader.
 
 ### Applications (Desktop)
 - [Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)  
-If you’re gonna use Anki, then **R**ead **T**he **F***cking **M**anual, it will make your life easier. [https://apps.ankiweb.net/docs/manual.html](https://apps.ankiweb.net/docs/manual.html)  
+If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it will make your life easier. [https://apps.ankiweb.net/docs/manual.html](https://apps.ankiweb.net/docs/manual.html)  
 - [EB - An EPWING Reader (Windows, Mac)](http://ebstudio.info/)   
 - [Qolibri, an EPWING reader, (for Linux)](https://github.com/ludios/qolibri) I KNOW IT HAS A WINDOWS VERSION TOO!!!!:   
 - [MDict, an MDX reader (Windows, Mac)](https://www.mdict.cn/wp/?page_id=5325&lang=en)  
