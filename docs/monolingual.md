@@ -139,7 +139,7 @@ Next, I’ll talk you through *how to actually get the monolingual dictionaries*
 
 ### Getting and using monolingual dictionaries
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
-Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing)
+Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing)
 
 Extract the .zip file (You can use [7zip](https://www.7-zip.org/) for this), and you will be greeted with more .zip files. 
 **Do not tamper with these.**
@@ -175,9 +175,9 @@ Then change your dictionary order. You can do this by changing result priority.
 **Here’s my (shoui)’s personal dictionary order:**
 
 新明解国語辞典 第七版  
+デジタル大辞泉
 大辞林３  
-明鏡国語辞典  
-大辞泉  
+明鏡国語辞典    
 広辞苑第六版, 付属資料  
 岩波国語辞典  
 ハイブリッド新辞林  
@@ -196,7 +196,7 @@ Weblio古語辞典
 JMdict (English)  
 研究社 新和英大辞典 第５版  
 大辞林３ 
-大辞泉       
+デジタル大辞泉       
 精選版 日本国語大辞典   
 KireiCake   
 
@@ -212,7 +212,7 @@ I shall explain each dictionary in the next section.
 
 **大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
 
-**大辞泉** - Unknown edition of Daijisen, maybe 2nd. This is a big dictionary, I like that it has every possible kanji combination for said word and has expressions. Formatting is bad on this version of Daijisen. Hope to get an updated version in the future, then it will be one of the biggest. I have the source.  
+**デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. Highly recommend.  
 
 **広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though. Optional.  
 
@@ -228,11 +228,13 @@ I shall explain each dictionary in the next section.
 
 **故事ことわざ辞典** - a proverbs dictionary. Optional.   
 
-**Weblio古語辞典** - archaism dictionary Weblio uses. Very optional.
+**Weblio古語辞典** - archaism dictionary Weblio uses. Very optional.  
+
+**漢字源** - monolingual kanji dictionary with some very rare words too. Keep if you want to mine individual kanji.  
 
 **学研国語大辞典古語辞典故事ことわざ辞典学研漢和大字典** - the WORST dictionary ever. Do not import. Don't believe me? Import it then.  
 
-Anything else like 新明解国語辞典 第五版 and 大辞林 第二版 are just older versions. I would not import them. Kept in pack for autism purposes.  
+Anything else like 新明解国語辞典 第五版,  大辞林 第二版 and 大辞泉 are just older versions. I would not import them. Kept in pack for autism purposes.  
 
 ####Bilingual
 
