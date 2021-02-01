@@ -174,22 +174,6 @@ Then change your dictionary order. You can do this by changing result priority. 
 
 ### Recommended Dictionaries
 
-**Here’s my (shoui)’s personal dictionary order:**
-
-新明解国語辞典 第七版  
-デジタル大辞泉
-大辞林３  
-明鏡国語辞典    
-広辞苑第六版, 付属資料  
-岩波国語辞典  
-ハイブリッド新辞林  
-国語大辞典  
-精選版 日本国語大辞典  
-実用日本語表現辞典  
-故事ことわざ辞典  
-Weblio古語辞典  
-漢字源
-
 **Here’s what I recommend for first time monolingual users:**
 
 明鏡国語辞典  
