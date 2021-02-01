@@ -170,7 +170,9 @@ After that, import the rest. It should look something like this in the end.
 
 ![Image](img/mono16.png)
 
-Then change your dictionary order. You can do this by changing result priority.
+Then change your dictionary order. You can do this by changing result priority. See recommended dicts below.
+
+### Recommended Dictionaries
 
 **Here’s my (shoui)’s personal dictionary order:**
 
