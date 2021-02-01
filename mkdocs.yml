@@ -42,5 +42,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
 extra_css:
   - stylesheets/extra.css

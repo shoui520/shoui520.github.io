@@ -155,6 +155,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Yomichan (Chromium and Firefox based browsers only)](https://foosoft.net/projects/yomichan/)   
 - [Tutorial](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Pack v4](https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing)  
+Every dictionary explained. [[Click here]](https://learnjapanese.moe/monolingual/#every-dictionary-explained)  
 
 #### Online
 - [Jisho (bilingual)](https://jisho.org/) <---- Beginners use this    
@@ -277,13 +278,13 @@ I usually find working premium VPN cheats/cracks over at [TeamOS](https://teamos
 You can search for “ExpressVPN crack apk” if you’re an Android user lmao.  
 
 ### Condensed Audio
-- [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)
-- [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)
-- [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)
-- [Condensed Audio 4](https://condensedaudiocatalog.com/#)
-- [Condensed Audio 5](https://www.paliss.com/)
-- [Condensed Audio 6](https://drive.google.com/drive/folders/1geNHj_nqdSHRBFi0tYaxjIL57s0sCB-y)
-- [Condense your own audio](https://ercanserteli.com/condenser/)
+- [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)  
+- [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)  
+- [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)  
+- [Condensed Audio 4](https://condensedaudiocatalog.com/#)  
+- [Condensed Audio 5](https://www.paliss.com/)  
+- [Condensed Audio 6](https://drive.google.com/drive/folders/1geNHj_nqdSHRBFi0tYaxjIL57s0sCB-y)  
+- [Condense your own audio](https://ercanserteli.com/condenser/)  
 
 ### Mining
 - [AnimeCards - the definitive.](https://animecards.site/)
