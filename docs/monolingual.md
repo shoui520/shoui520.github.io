@@ -189,8 +189,8 @@ KireiCake
 
 **For general, 100% monolingual coverage:**
 
-デジタル大辞泉  
 大辞林３  
+デジタル大辞泉  
 新明解国語辞典 第七版  
 明鏡国語辞典  
 実用日本語表現辞典  
