@@ -132,7 +132,7 @@ Demonstration:
 
 I looked up 私 for demonstration purposes. I ALREADY KNOW that word.
 
-*btw I personally just look at the English definition when I can’t read the definitions at all, but when it is only one or two words I look the words up, this is just for demonstration purposes after all*
+*btw I used to just look at the English definition when I can’t read the definitions at all, but when it is only one or two words I would look the words up, this is just for demonstration purposes after all*
 
 You may think, “what’s the point of that?” It is kinda inevitable that you’re gonna not know at least 1 word in the definition, so this becomes useful.
 Next, I’ll talk you through *how to actually get the monolingual dictionaries*
