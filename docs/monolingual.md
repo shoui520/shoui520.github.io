@@ -191,15 +191,15 @@ Weblio古語辞典
 **Here’s what I recommend for first time monolingual users:**
 
 明鏡国語辞典  
-ハイブリッド新辞林
-新明解国語辞典 第七版 
-実用日本語表現辞典 
+ハイブリッド新辞林  
+新明解国語辞典 第七版  
+実用日本語表現辞典  
 JMdict (English)  
 研究社 新和英大辞典 第５版  
-大辞林３ 
-デジタル大辞泉       
-精選版 日本国語大辞典   
-KireiCake   
+デジタル大辞泉 
+大辞林３          
+精選版 日本国語大辞典     
+KireiCake     
 
 **For general, 100% monolingual coverage:**
 
