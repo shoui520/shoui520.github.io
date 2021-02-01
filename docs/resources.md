@@ -59,6 +59,8 @@ You should get on to making your own mining deck after you finish N4.*
 - [Minidrama](https://minidrama.net/j-drama/)
 - [Raredoramas](https://raredoramas.info/)
 - [Japanese Live TV Streams](http://japanorama39.ru/bez-rubriki/smotret-onlayn-7-yaponskih-telekanalov-na-1-sayte/)
+- [Japanese Live TV Streams 2](https://aqstream.com/jp)  
+- [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).  
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177)
 - [ABEMA](https://abema.tv/)
 - [Some Japanese TV Shows on BiliBili](https://space.bilibili.com/60958832/#/video?tid=0&page=1&keyword=&order=pubdate)
