@@ -76,7 +76,8 @@ Requirements:
 [Download Textractor (preferably the zip version)](https://github.com/Artikash/Textractor/releases)  
 [Get Yomichan](https://foosoft.net/projects/yomichan/)  
 [Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
-[NEW Texthooking Page (with accurate character count)](https://learnjapanese.moe/texthooker.html)  
+[Texthooking Page](https://learnjapanese.moe/texthooker.html)  
+[Texthooking Page No Erase](https://learnjapanese.moe/texthooker_no_erase.html)
 
 A detailed Yomichan setup tutorial can be found [here](/yomichan)
 
