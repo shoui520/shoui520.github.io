@@ -186,6 +186,7 @@ Then change your dictionary order. You can do this by changing result priority.
 実用日本語表現辞典  
 故事ことわざ辞典  
 Weblio古語辞典  
+漢字源
 
 **Here’s what I recommend for first time monolingual users:**
 
@@ -199,6 +200,18 @@ JMdict (English)
 デジタル大辞泉       
 精選版 日本国語大辞典   
 KireiCake   
+
+**For general, 100% monolingual coverage:**
+
+デジタル大辞泉  
+大辞林３  
+新明解国語辞典 第七版  
+明鏡国語辞典  
+実用日本語表現辞典  
+精選版 日本国語大辞典  
+岩波国語辞典  
+広辞苑 第六版  
+漢字源  
 
 I shall explain each dictionary in the next section.  
 
