@@ -77,7 +77,7 @@ Requirements:
 [Get Yomichan](https://foosoft.net/projects/yomichan/)  
 [Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
 [Texthooking Page](https://learnjapanese.moe/texthooker.html)  
-[Texthooking Page No Erase](https://learnjapanese.moe/texthooker_no_erase.html)
+[Texthooking Page No Erase](https://learnjapanese.moe/texthooker_no_erase.html)  
 
 A detailed Yomichan setup tutorial can be found [here](/yomichan)
 

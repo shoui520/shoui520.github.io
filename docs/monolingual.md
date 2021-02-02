@@ -467,7 +467,7 @@ So what? It’s good that you are reading the dictionary more.
 
 (陸). Don’t worry about how much time it will take to “transition”
 
-(漆). For monolingual Anki cards, just try to remember the gist of the definition. I tried to demonstrate this in #japanese-faq
+(漆). For monolingual Anki cards, just try to remember the gist of the definition. I tried to demonstrate this in [Japanese FAQ](/faq)  
 
 (捌). Try to look up words you already know, in the monolingual dictionary, this is just to try to get accustomed to the dictionary at first hand.
 
