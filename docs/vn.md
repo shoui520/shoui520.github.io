@@ -208,7 +208,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 
 ### Bonus #3: Visual Novels on Linux (WINE)
 
-kamui-7's vn guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc953f0f213f559e5293a6144a)
+kamui-7's vn and hotkey guide for linux [[link]](https://gist.github.com/eshrh/5bbf4deab58fefdab9eacf77b450efc0)
 
 ### Bonus #4: Visual Novels on macOS
 
