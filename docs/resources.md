@@ -17,7 +17,7 @@ Resource descriptions will be added soon, for now, just links.
 
 - [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)  
 - [(Uses RTK) Learn the Kanji](https://www.learnkanji.guide/)  
-- [Recognition Remembering The Kanji with less than 450 cards (RRTK)](https://mega.nz/file/feQUECBY#Jdi11hmpoKp4vxlBE7nmW8aM4WVw6w5VQ0-7lIo_nCY)  
+- [Recognition Remembering The Kanji with less than 450 cards (RRTK)](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 - [Kodansha's Kanji Learner's Course (KKLC)](https://mega.nz/#!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ)  
 - [(Uses KKLC) Studying with KLC](https://keystojapanese.com/how-to-study-with-the-klc/)  
 - [KanjiDamage](http://www.kanjidamage.com/)  

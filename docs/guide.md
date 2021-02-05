@@ -117,7 +117,7 @@ When approaching kanji as a beginner, they can look like scribbles rather than f
 
 An isolated kanji study method I recommend is *RRTK 450* (Recognition Remembering the Kanji 450 Cards) which is designed to help you see kanji as familiar shapes. It is used in the application Anki. You can find more information about it below.  
 [RRTK Explained](https://massimmersionapproach.com/table-of-contents/stage-1/practice/recognition-rtk)  
-[Get RRTK 450](https://mega.nz/file/feQUECBY#Jdi11hmpoKp4vxlBE7nmW8aM4WVw6w5VQ0-7lIo_nCY)  
+[Get RRTK 450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
 With that said, to truly “learn” kanji, you still need to read Japanese for thousands of hours, so in the end, you’re going to be doing kanji with vocab anyway. Think of isolated kanji study as your training wheels for kanji with vocab.
 
