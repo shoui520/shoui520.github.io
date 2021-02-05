@@ -178,7 +178,7 @@ Then change your dictionary order. You can do this by changing result priority. 
 
 明鏡国語辞典  
 ハイブリッド新辞林  
-新明解国語辞典 第七版  
+新明解国語辞典 第五版  
 実用日本語表現辞典  
 JMdict (English)  
 研究社 新和英大辞典 第５版  
@@ -191,6 +191,7 @@ KireiCake
 
 大辞林３  
 デジタル大辞泉  
+新明解国語辞典 第五版
 新明解国語辞典 第七版  
 明鏡国語辞典  
 実用日本語表現辞典  
@@ -205,17 +206,17 @@ I shall explain each dictionary in the next section.
 
 #### Monolingual
 
-**新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary.  	
+**新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary. 7th edition has weird formatting so I kept the 5th edition in the pack, I recommend you use the 5th edition instead to not clutter your Yomichan. Will be fixed soon. 	
 
 **明鏡国語辞典** - 1st edition of Meikyou. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Best for definitions on Anki cards. Second smallest. However, the current version we have has 未収録語 but I have the source for the full version, will get it converted soon.  
 
 **大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
 
-**デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. Highly recommend.  
+**デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. Highly recommend. If you are using animecards.site's handlebars.js, I recommend you do not put this as your topmost dictionary as the first definition will get cut out when sent to the Anki card. Working on a fix.  
 
-**広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though. Optional.  
+**広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.   
 
-**岩波国語辞典** - 6th edition of Iwanami dictionary. What a stupid dictionary, it has missing entries. I think the source EPWING it was converted from was bad or something? The definitions "[feel like the Meikyou](/img/iwakoku.png)". Anyway, it is optional.  
+**岩波国語辞典** - 6th edition of Iwanami dictionary. This is the dictionary Google uses when you search "〇〇 定義"、"〇〇 定義"とは、 and/or "〇〇 意味". The definitions "[feel like the Meikyou](/img/iwakoku.png)".  
 
 **ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
 
@@ -233,7 +234,7 @@ I shall explain each dictionary in the next section.
 
 **学研国語大辞典古語辞典故事ことわざ辞典学研漢和大字典** - the WORST dictionary ever. Do not import. Don't believe me? Import it then.  
 
-Anything else like 新明解国語辞典 第五版,  大辞林 第二版 and 大辞泉 are just older versions. I would not import them. Kept in pack for autism purposes.  
+Anything else like 大辞林 第二版 and 大辞泉 are just older versions. I would not import them. Kept in pack for autism purposes.  
 
 ####Bilingual
 
@@ -269,9 +270,7 @@ Goo: <https://dictionary.goo.ne.jp/> (Uses デジタル大辞泉)
 
 Kotobank: <https://kotobank.jp/> (Uses デジタル大辞泉、大辞林 第三版 and 精選版 日本国語大辞典) 
 
-Jitenon: <https://kokugo.jitenon.jp/> (I don’t know what dictionary this uses, seems to be its own, and it's not very good)
-
-Google: search “[word] 意味” e.g. “侮る 意味” (I’m not sure what dictionary Google uses, but it’s kinda good)
+Google: search “[word] 意味” e.g. “侮る 意味” (Uses 岩波国語辞典)
 
 ![Image](img/mono18.png)
 

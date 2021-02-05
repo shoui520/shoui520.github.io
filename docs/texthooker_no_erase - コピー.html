@@ -121,7 +121,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
   <div class="container">
 
     <!-- This is the div used for the "clear localStorage" button. -->
-	  <div id="clear_button" title="Clear localStorage" onclick="clearEverything()">🚫</div>
+	  <div id="clear_button" title="Clear localStorage" onclick="localStorage.setItem('text', '[]')">🚫</div>
     <!-- End button div. -->
     
     <!-- This is the div used for the "remove last line" button. -->
@@ -297,13 +297,6 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
           )
         )
       ));
-    }
-
-    function clearEverything() {
-      localStorage.setItem('text', '[]');
-      document.querySelectorAll('.line_box').forEach(a =>
-        a.parentNode.removeChild(a));
-      updateCounter(-chars, -lines);
     }
 
     // Initialize localStorage

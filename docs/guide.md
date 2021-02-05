@@ -189,7 +189,7 @@ When approaching grammar, it is important to know that the purpose of a grammar 
 
 **Choosing a grammar guide**   
 
-There are many grammar guides out there, some are good, but some are bad. To prevent confuse amongst learners, i will only mention 2 grammar guides. Tae Kim and Cure Dolly. No grammar guide is perfect, they each have their ups and downs. Tae Kim is written pretty well, and very beginner friendly, however some of his explanations may be a little off and it can get boring to read. Cure Dolly takes an unorthodox approach to Japanese grammar, trying to teach Japanese grammar in a more Japanese “organic” way. However, Cure Dolly is not the most absolute beginner friendly, you need at least *some* background knowledge before using. Also, the audio is very poor.  
+There are many grammar guides out there, some are good, but some are bad. To prevent confusion amongst learners, i will only mention 2 grammar guides. Tae Kim and Cure Dolly. No grammar guide is perfect, they each have their ups and downs. Tae Kim is written pretty well, and very beginner friendly, however some of his explanations may be a little off and it can get boring to read. Cure Dolly takes an unorthodox approach to Japanese grammar, trying to teach Japanese grammar in a more Japanese “organic” way. However, Cure Dolly is not the most absolute beginner friendly, you need at least *some* background knowledge before using. Also, the audio is very poor.  
 You can find the 2 grammar guides below:   
 
 [Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html)     
