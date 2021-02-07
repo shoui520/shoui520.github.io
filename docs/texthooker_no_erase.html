@@ -178,7 +178,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
           //Update the counter.
           line = text
 
-          toRemove = "「」『』[]()〈〉≪≫。、.,'：！?！？…――─ｰ～→♪" + '"' + "　" + "	"
+          toRemove = "「」『』[]()〈〉≪≫。、.,'：“”！?！？…――─ｰ～→♪" + '"' + "　" + "	"
 		  line = line.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
 		  for (var i = 0; i < toRemove.length; i++) {
 			  line = line.split(toRemove[i]).join('')
