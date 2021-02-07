@@ -214,7 +214,7 @@ kamui-7's vn and hotkey guide for linux [[link]](https://gist.github.com/kamui-7
 
 #### Virtual Machine Method (macOS 10.11 - 11.2)
 
-It is usually best to do this option with Microsoft Windows 7, as it works on newer Macs and does not have a tedious hacky setup like WINE.
+It is usually best to use a VM of Microsoft Windows 7, as it works on newer Macs and does not have a tedious hacky setup like WINE. Why not Windows 10? Simply because 10 is not necessary for Visual Novels and is also bloated.  
 
 Search on Google for how to run a Windows virtual machine on your Mac using Parallels (paid) or VirtualBox (free)  
 Contact me on Discord if you need help with getting either a Windows XP, 7 or 10 ISO.  
@@ -312,7 +312,7 @@ We will now install common dependencies needed by visual novels such as DirectX,
 	WINE on macOS Mojave has APFS errors and does not work at all. There is no workaround. Upgrade to Catalina and compile 64 bit version of WINE or downgrade to High Sierra.
 
 ```bash
-winetricks allcodecs d3dx9 dotnet35 dotnet452 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+winetricks ffdshow quartz d3dx9 dotnet35 dotnet452 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 Then, we need to disable DLL overrides to make VNs work better.
 ```bash
