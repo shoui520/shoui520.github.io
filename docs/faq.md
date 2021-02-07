@@ -169,7 +169,7 @@ Most anime. Pretty much every slice of life anime. But don’t restrict yourself
 Making decks - Just follow the animecards.site guide.
 Memorizing kanji - Just do reading practice, and make cards if you wish.
 ### How does you mine, shoui?
-<https://www.animecards.site/home>
+<https://www.animecards.site>
 ### How many new cards per day?
 Just do 10. If you feel like it is too less, do 15 or 20. Please bear in mind that the more new cards you do, the more reviews you’ll get.
 ### Mining Mentality: When to mine (add to Anki) or just to look up and carry on?
