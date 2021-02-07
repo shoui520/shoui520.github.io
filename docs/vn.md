@@ -289,8 +289,8 @@ brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-tur
 !!! warning "macOS High Sierra or older"
 	It is recommend you install old versions of these packages, or else it will not work.  
 
-Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)
-Now need to add WINE to our PATH so we can use it in the terminal.  
+Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
+Now you need to add WINE to our PATH so we can use it in the terminal.  
 First we need to open a terminal text editor.  
 ```bash
 nano .profile
@@ -318,6 +318,11 @@ Then, we need to disable DLL overrides to make VNs work better.
 ```bash
 winetricks settings alldlls=default
 ```   
+We need to configure WINE to change the Windows version. 
+```bash
+winecfg
+```
+Change the Windows version to 7.  
 
 You need to install Japanese fonts to WINE now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
