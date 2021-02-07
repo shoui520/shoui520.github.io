@@ -306,11 +306,15 @@ Now we will install `winetricks` which will help us configure WINE.
 ```bash
 brew install winetricks
 ```  
-We will now install common dependencies needed by visual novels such as DirectX, Visual C Runtimes and the .NET framework.  
 
 !!! failure "macOS Mojave"
-	WINE on macOS Mojave has APFS errors and does not work at all. There is no workaround. Upgrade to Catalina and compile 64 bit version of WINE or downgrade to High Sierra.
+	WINE on macOS Mojave has APFS errors and does not work at all. There is no workaround. Upgrade to Catalina and compile 64 bit version of WINE or downgrade to High Sierra.  
 
+We need to configure WINE to change the Windows version.  
+```bash
+winecfg
+```  
+We will now install common dependencies needed by visual novels such as DirectX, Visual C Runtimes and the .NET framework.  
 ```bash
 winetricks ffdshow quartz d3dx9 dotnet35 dotnet452 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
@@ -318,10 +322,7 @@ Then, we need to disable DLL overrides to make VNs work better.
 ```bash
 winetricks settings alldlls=default
 ```   
-We need to configure WINE to change the Windows version. 
-```bash
-winecfg
-```
+
 Change the Windows version to 7.  
 
 You need to install Japanese fonts to WINE now. Please download the pack below.  
