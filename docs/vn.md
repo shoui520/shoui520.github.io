@@ -314,6 +314,8 @@ We need to configure WINE to change the Windows version.
 ```bash
 winecfg
 ```  
+Change the Windows version to 7.  
+  
 We will now install common dependencies needed by visual novels such as DirectX, Visual C Runtimes and the .NET framework.  
 ```bash
 winetricks ffdshow quartz d3dx9 dotnet35 dotnet452 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
@@ -323,7 +325,6 @@ Then, we need to disable DLL overrides to make VNs work better.
 winetricks settings alldlls=default
 ```   
 
-Change the Windows version to 7.  
 
 You need to install Japanese fonts to WINE now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
