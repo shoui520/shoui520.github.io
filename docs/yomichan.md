@@ -72,7 +72,7 @@ See [AnimeCards Site](https://animecards.site/)
 
 The appearance of the Yomichan pop-up window can be modified with custom [CSS](https://en.wikipedia.org/wiki/CSS) found in the settings.  
 
-In the v2 settings page, it can be accessed by going into "Appearance" then "Configure custom CSS" and "Popup outer CSS"  
+In the v2 settings page, it can be accessed by going into "Appearance" then "Configure custom CSS" and "Popup CSS"  
 
 There are many, many advanced modifications you can make with custom CSS, however, I will only go through examples I consider important. 
 
