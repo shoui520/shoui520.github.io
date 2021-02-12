@@ -207,6 +207,30 @@ The result:
 
 You may edit this to your heart's content.  
 
+#### Example: Changing color of tags  
+
+You can change the color of tags by changing the following variables below:  
+
+```css
+:root { /* Light Theme */ 
+# :root[data-theme="dark"]  { /* Uncomment for dark theme */
+
+ 	--tag-text-color:
+    --tag-border-color:
+    --tag-default-background-color:
+    --tag-name-background-color:
+    --tag-expression-background-color:
+    --tag-popular-background-color:
+    --tag-frequent-background-color:
+    --tag-archaism-background-color:
+    --tag-dictionary-background-color:
+    --tag-frequency-background-color:
+    --tag-part-of-speech-background-color:
+    --tag-search-background-color:
+    --tag-pitch-accent-dictionary-background-color:
+
+}
+```
 
 ### Background
 
@@ -265,7 +289,7 @@ With the following CSS:
 #### Indicator and progress bar colors
 
 Alternatively, if you don't like the current color of the indicator and bar, you can change it rather than removing it.  
-You can add the psuedo-class selector and custom property below:  
+You can add the pseudo-class selector and custom property below:  
 
 ```css
 :root {
@@ -273,7 +297,12 @@ You can add the psuedo-class selector and custom property below:
 --progress-bar-track-color: #00F7FF; /* Change bar track color to a blue */
 
 }
-```
+```  
+If you are using dark theme you need to have this instead:  
+```css
+:root[data-theme="dark"]  {
+```  
+  
 The result:  
 ![Yomichan CSS Demo](img/yomicss7.png) 
 
