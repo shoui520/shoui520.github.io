@@ -14,12 +14,12 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 [*Click here to view image from the based department.*](img/vnbased1.png)
 
 ###Finding and downloading VNs (Windows)
-*If you have a macOS or Linux computer, then you may have luck using WINE or Winapps.*
 
 Getting Japanese visual novels legally isn't as easy as it seems, DLSite is inaccesible in many countries and publishers often choose to omit Japanese from their Steam releases, and even if you are able to get the visual novel legally in Japanese, the import cost and time just isn't worth it.  
 So in the [Resources](/resources) you can find where to get visual novels for free.  
 
-### Installing VNs (Windows)
+### Installing VNs (Windows)  
+*If you have a Linux or macOS computer, then refer to [Linux guide](#bonus-3-visual-novels-on-linux-wine) and [macOS guide](#bonus-4-visual-novels-on-macos)*  	
 Most of the time, the VN you downloaded would be in .ISO format, if not, then it’s in .MDS/.MDF format. To mount an .ISO, just double click it, and run the setup files (usually Setup.exe, or Autorun.exe) to proceed with the installation. .MDS/.MDF format VNs require something called WinCDEmu, you can get that [here](https://wincdemu.sysprogs.org/download/)
 
 After you have installed WinCDEmu, you should be able to mount it.
@@ -246,7 +246,7 @@ Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO
 	macOS has poor compatibility, therefore this guide may not work for everyone. 
 	The best version to use if you want to run VNs with WINE is **macOS Mojave 10.14.6** formatted in **HFS+**
 
-WINE, in layman's terms, allows you to run Microsoft Windows apps on your Mac.
+WINE, in layman's terms, allows you to run Microsoft Windows programs on your Mac.
  
 ####**Step 1. Installing Japanese fonts on your Mac.**
 
@@ -255,6 +255,8 @@ Now press `⌘+Space` to bring up Spotlight Search and search for *Font Book.* N
 
 ####**Step 2. Using the Terminal and installing Brew**
 
+!!! warning "macOS High Sierra or older"
+	Brew no longer supports any version older than Mojave, it may take considerably long to install Brew, or fail entirely on anything older than High Sierra.  
 To make this tutorial easier, we will be using the terminal to install a lot of things. We will need `brew` which allows you to install things from the terminal.  
 Open Spotlight Search using `⌘+Space` and search for "Terminal" and open it.  
 First we need to make sure we can install non App Store verified apps. Type the following command below and hit Return.
@@ -274,15 +276,13 @@ Copy and paste this command and hit Return:
 It will ask for your password because it is an administrative action. Hit Return when asked, and install Xcode when prompted.  
 When the Xcode installation is complete, press any key. Now we will need to enter our password again to complete the installation of Brew.  
 
-!!! warning "macOS High Sierra or older"
-	Brew no longer supports any version older than Mojave, it may take considerably long to install Brew, or fail entirely on anything older than High Sierra.  
 
 
 ####**Step 3. Installing WINE and other dependencies**  
 
 We will install some dependencies using `brew` first.:  
 ```bash
-brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-turbo sqlite zenity libxcomposite libxinerama libgcrypt ncurses libva gst-plugins-base 
+brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-turbo sqlite libxcomposite libxinerama libgcrypt ncurses libva gst-plugins-base 
 ```   
 
 !!! warning "macOS High Sierra or older"
@@ -309,40 +309,38 @@ brew install winetricks
 !!! failure "APFS"
 	WINE will fail to work if your macOS installation is installed on a drive formatted in APFS. You can check if you are using APFS by using the command `diskutil info /` in a terminal. It is recommended you reinstall macOS on a HFS+ formatted drive and change it from a case sensitive drive to a case insensitive drive using the tutorial found [here](https://www.macworld.com/article/3440258/how-to-convert-a-case-sensitive-mac-hfs-partition-into-a-case-insensitive-one.html) 
 
-We need to configure WINE to change the Windows version.  
+Now we will create a 32-bit WINE prefix. This has the best compatibility across the board.
 ```bash
-winecfg
+WINEARCH=win32 wineboot
 ```  
-Change the Windows version to 7.  
 
 We will now install common dependencies needed by visual novels such as DirectX, Visual C Runtimes and the .NET framework.  
 ```bash
-winetricks ffdshow quartz d3dx9 dotnet35 dotnet452 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+winetricks quartz d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015 ffdshow
 ```  
 Then, we need to disable DLL overrides to make VNs work better.
 ```bash
 winetricks settings alldlls=default
 ```   
 
-
 You need to install Japanese fonts to WINE now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
 Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`   
 
 Some visual novels require you to have LAVFilters installed. You can find the download below.  
-[[GitHub]](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe) 
-To run it, you can double click the `.exe` or `cd` to the path it is downloaded to and run `wine LAVFilters-0.74.1-Installer.exe`  
+[[GitHub]](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe)  
+To run it, you can double click the `.exe` or `cd` to the path it is downloaded to and run `wine LAVFilters-0.74.1-Installer.exe`   
 Proceed with the installation.  
 
 ####**Step 4. CD Emulation**  
 Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
 We can use a handy application known as ToastMount 2.0 to mount .ISO files as if it were an actual disc in a CD reader. You can download it below.  
-[SourceForge](http://prdownloads.sourceforge.net/toastmount/toastmount-2.0.dmg?download)  
+[[SourceForge]](http://prdownloads.sourceforge.net/toastmount/toastmount-2.0.dmg?download)  
 Mount the .DMG file and proceed with the installation.  
 
 ####**Step 5. Running the installer.**
 
-If your VN comes in an .ISO file, you must mount it using ToastMount 2.0 before preceding. Then you need to `cd` into where the .ISO is mounted/where the installation files are. In the case of the VN I am using for this tutorial, the installation wizard is `Autorun.exe`.    
+If your VN comes in an .ISO file, you must mount it before preceding. Then you need to `cd` into where the .ISO is mounted/where the installation files are. In the case of the VN I am using for this tutorial, the installation wizard is `Autorun.exe`.    
 You can then run:  
 ```bash
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine Autorun.exe
