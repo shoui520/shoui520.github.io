@@ -69,6 +69,7 @@ You should get on to making your own mining deck after you finish N4.*
 ### Manga
 - [Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html)  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack)  
+- [BilingualManga](https://bilingualmanga.com/) - Yomichan compatible & one-click translation.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA)  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3)  
 - [Manga1000](https://manga1000.com/)  

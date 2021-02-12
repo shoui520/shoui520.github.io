@@ -11,7 +11,7 @@ Reading Japanese is extremely important, but not everyone loves reading books, I
 For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
 ![Image](img/vn2.jpg)
 
-[*Click here to view image from the based department.*](img/vnbased1.png)
+[*Click here to view image.*](img/vnbased1.png)
 
 ###Finding and downloading VNs (Windows)
 
@@ -50,7 +50,7 @@ Now, take time and follow the picture instructions I made for you. This will giv
 
 ### VNs on mobile
 #### Android
-There are a couple of native Android Visual Novels but these are usually side stories/spin-offs.  
+There are a couple of native Android Visual Novels but these are usually spin-offs/gacha cashgrabs.  
 
 The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=ja&gl=US) emulator and download PSP ROMs.
 
@@ -104,11 +104,11 @@ You can keep track of how many characters you read using the indicator in the to
 ### Use a walkthrough!
 Playing a VN with a walkthrough is usually better than playing without one, because we wouldn’t want to get a bad ending.
 
-You can find walkthroughs by searching “<vn name> 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.
+You can find walkthroughs by searching “[vn name] 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.
 
 ### Unsure what to play?
 
-Have a look at visual novel lists ordered by difficulty below
+Have a look at visual novel lists below
 
 [jamal's list](https://anacreondjt.gitlab.io/vn-chart/)  
 [This infamous list](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)  
@@ -116,10 +116,11 @@ Have a look at visual novel lists ordered by difficulty below
 
 Have fun reading!
 
-Consider joining our **Reading Club** in the [Discord](https://discord.gg/nhqjydaR8j)!
+Consider joining our **VN Club** in the [Discord](https://discord.gg/nhqjydaR8j)!
 
 ### Bonus: Using Textractor for PPSSPP Visual Novels
 Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.  
+ 
 1. Launch PPSSPP (32-bit)  
 2. Launch the Visual Novel.  
 3. Attach Textractor (x86) to PPSSPP (32-bit)  
