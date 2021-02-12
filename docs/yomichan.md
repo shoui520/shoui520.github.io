@@ -293,8 +293,9 @@ You can add the pseudo-class selector and custom property below:
 
 ```css
 :root {
---accent-color: #FF00DD; /* Change color to a pink */
---progress-bar-track-color: #00F7FF; /* Change bar track color to a blue */
+	--accent-color: #FF00DD; /* Change color to a pink */
+	--progress-bar-track-color: #00F7FF; /* Change bar track color to a blue */
+	
 
 }
 ```  
@@ -344,6 +345,26 @@ An example of varying CSS for light / dark modes can be found below.
     --background-color: #fbf1c7;
     --accent-color: #689d6a;
     --progress-bar-track-color: #458588;
-    
+
+}
+
+.kanji-link {
+    font-family: UD Digi Kyokasho N-R;
+
+}
+
+ruby {
+    color: var(--ruby-color);
+
+}
+
+.source-text {
+    font-family: UD Digi Kyokasho N-R;
+
+}
+
+.term-glossary {
+    color: var(--glossary-color);
+
 }
 ```
