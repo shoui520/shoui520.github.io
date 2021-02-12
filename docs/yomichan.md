@@ -16,11 +16,11 @@ These come in `.zip` extension and **are not to be extracted by the user.**
 Download my pack of Yomichan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
 [NEW Version 4 Google Drive](https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing)  
 
-Once downloaded, extract the .7z to any location on your computer. You can use [7zip](http://7zip.org/) for this.  
+Once downloaded, extract the .7z to any location on your computer. You can use [7-Zip](http://7zip.org/) for this.  
 **Do not touch the .zip files inside.**
 
 ## Installing Dictionaries and basic usage
-*Updated for the "new" terrible settings page.*  
+*Updated for the "new" settings page.*  
   
 1. Click on the ![yomichan-icon](img/yomichan-icon.png) icon in the browser toolbar.  
 2. Click on the ![cog](img/yomichan-cog.png) icon to access the settings page.  
@@ -68,8 +68,226 @@ Due to there being an already wonderful Anki guide with Yomichan written on the 
 
 See [AnimeCards Site](https://animecards.site/)
 
+## Bonus: Custom CSS
+
+The appearance of the Yomichan pop-up window can be modified with custom [CSS](https://en.wikipedia.org/wiki/CSS) found in the settings.  
+
+In the v2 settings page, it can be accessed by going into "Appearance" then "Configure custom CSS" and "Popup other CSS"  
+
+There are many, many advanced modifications you can make with custom CSS, however, I will only go through examples I consider important. 
+
+### Headword
+
+The headword can be modified with the classes below:  
+```css
+/* For kanji */
+.kanji-link {
+
+}
+
+/* For kana & alphanumeric characters */
+.source-text {
+
+}
+```   
+For furigana, it can be modified with the selector below:  
+```css
+ruby {
+
+}
+```  
+
+!!! info "Furigana Color"
+	If no `color` is specified for the `ruby` selector, it will be overridden by the `source-text` class.
+
+#### Example: changing font size and color of the headword
+
+With the following CSS:  
+```css
+.kanji-link {
+	font-size: 25px;
+	color: #00FBFF;
+
+}
+
+.source-text {
+	font-size: 25px;
+	color: #FA73FF;
+}
+```
+The result:  
+![Yomichan CSS Demo](img/yomicss1.png)  
+
+This demonstrates differing font colors for kanji and kana. You may edit this to your heart's content.
+
+### Definition
+
+The definition can be modified with the class below:  
+
+```css
+.term-glossary {
+
+}
+```
+
+#### Example: changing font of definitions
+
+!!! info "System Fonts"
+	To use a certain font in Yomichan, the font must be installed on your system. You can find installed fonts in:  
+	Windows: `C:/Windows/Fonts`  
+	Linux: `/usr/share/fonts` or `/usr/share/local/fonts` or `$HOME/.fonts`  
+	macOS: `/System/Library/Fonts` or `$HOME/Library/Fonts`  
+	Newly installed fonts may require a system restart to be detected by Yomichan.  
+
+With the following CSS:  
+```css
+.term-glossary {
+	font-family: MS Mincho /* Japanese serif font provided in Windows */
+}
+```  
+The result:
+![Yomichan CSS Demo](img/yomicss2.png)  
+
+This demonstrates the changing of font for definitions to MS Mincho. Linux users may be able to use `Noto Serif CJK JP` as an alternative. 
+
+#### Example: Using DJT's quiz font (funny)
+
+With the following CSS:
+```css
+/* You must have 衡山毛筆フォント行書 installed on your system for this to work. */
+.term-glossary {
+	   font-family: 衡山毛筆フォント行書;
+
+}
+```  
+The result:
+![Yomichan CSS Demo](img/yomicss3.png)  
+
+You may edit this to your heart's content.  
+
+### Tags
+
+Tags can be modified with the classes below:  
+
+```css
+.tag {
+
+}
+
+.tag-inner {
+
+}
+
+.term-special-tags {
+
+}
+
+.tag-list {
+
+}
+
+.term-definition-tag-list {
+
+}
+```
 
 
+#### Example: Removing all tags
+
+With the following CSS:  
+```css
+.tag {
+    display: none;
+{
+```
+
+The result:    
+![Yomichan CSS Demo](img/yomicss4.png)   
+
+You may edit this to your heart's content.  
 
 
+### Background
 
+Background can be edited with the selector below:  
+
+```css
+body {
+
+}
+```
+
+#### Example: Changing background color
+
+With the following CSS:  
+```css
+body {
+    background: #FFA8F8;
+}
+```
+
+The result:
+![Yomichan CSS Demo](img/yomicss5.png)
+
+You may edit this to your heart's content.  
+
+### Miscellaneous 
+
+Some misc. modifications you can do which I found cool.  
+
+#### Removing current entry indicator
+
+Since Yomichan was updated, a blue indicator has been added. Which has been an annoyance for many long time Yomichan users.
+
+With the following CSS:  
+```css
+.term-expression-current-indicator {
+	display: none;
+
+}
+```
+
+The result:
+![Yomichan CSS Demo](img/yomicss6.png)  
+
+#### Removing progress bar
+
+Since Yomichan was updated, a blue progress bar when loading audio has been added. Which has been an annoyance for many long time Yomichan users.  
+
+With the following CSS:  
+```css
+.top-progress-bar-container {
+	display: none;
+}
+```
+
+#### Indicator and progress bar colors
+
+Alternatively, if you don't like the current color of the indicator and bar, you can change it rather than removing it.  
+You can add the psuedo-class selector and custom property below:  
+
+```css
+:root {
+--accent-color: #FF00DD; /* Change color to a pink */
+--progress-bar-track-color: #00F7FF; /* Change bar track color to a blue */
+
+}
+```
+The result:  
+![Yomichan CSS Demo](img/yomicss7.png) 
+
+#### Removing Edict markers
+
+In Edict dictionaries such as JMdict and KireiCake, there are markers that look like ○ which can be annoying for some.  
+You can remove it by using the CSS below:  
+
+```css
+.term-glossary-list {
+  padding: 0;
+  list-style-type: none;
+
+} 
+```
+
+The result:  
+![Yomichan CSS Demo](img/yomicss8.png)
