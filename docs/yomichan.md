@@ -321,3 +321,29 @@ You can remove it by using the CSS below:
 
 The result:  
 ![Yomichan CSS Demo](img/yomicss8.png)
+
+### Light / Dark mode varying CSS
+
+An example of varying CSS for light / dark modes can be found below.  
+
+```css
+:root[data-theme="dark"] {
+    --glossary-color: #a89984;
+    --ruby-color: #b8bb26;
+    --kanji-text-color: #fabd2f;
+    --background-color: #282828;
+    --accent-color: #689d6a;
+    --progress-bar-track-color: #458588;
+
+}
+
+:root {
+    --glossary-color: #504945;
+    --ruby-color: #98971a;
+    --kanji-text-color: #d79921;
+    --background-color: #fbf1c7;
+    --accent-color: #689d6a;
+    --progress-bar-track-color: #458588;
+    
+}
+```
