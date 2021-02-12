@@ -306,8 +306,8 @@ Now we will install `winetricks` which will help us configure WINE.
 brew install winetricks
 ```  
 
-!!! failure "macOS Mojave"
-	WINE on macOS Mojave has APFS errors and does not work at all. There is no workaround. Upgrade to Catalina and compile 64 bit version of WINE or downgrade to High Sierra.  
+!!! failure "APFS"
+	WINE will fail to work if your macOS installation is installed on a drive formatted in APFS. You can check if you are using APFS by using the command `diskutil info /` in a terminal. It is recommended you reinstall macOS on a HFS+ formatted drive and change it from a case sensitive drive to a case insensitive drive using the tutorial found [here](https://www.macworld.com/article/3440258/how-to-convert-a-case-sensitive-mac-hfs-partition-into-a-case-insensitive-one.html) 
 
 We need to configure WINE to change the Windows version.  
 ```bash
