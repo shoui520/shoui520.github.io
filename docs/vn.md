@@ -244,7 +244,7 @@ Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO
 
 !!! warning "Compatibility Issues"
 	macOS has poor compatibility, therefore this guide may not work for everyone. 
-	The best version to use if you want to run VNs with WINE is **macOS High Sierra 10.13.6**
+	The best version to use if you want to run VNs with WINE is **macOS Mojave 10.14.6** formatted in **HFS+**
 
 WINE, in layman's terms, allows you to run Microsoft Windows apps on your Mac.
  
