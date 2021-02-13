@@ -331,6 +331,9 @@ To do this, you must install Yomichan dev build from GitHub instead of the Chrom
 You can find it below.  
 [[GitHub]](https://github.com/FooSoft/yomichan/releases)  
 
+!!! warning "Yomichan Data"
+    All Yomichan data including dictionaries will be reset, you may be able to just copy the files over from your current Yomichan installation though.
+
 Download **yomichan-chrome-dev.zip** and unzip it anywhere on your computer.  
 Now go to **chrome://extensions** and enable **Developer Mode** in the top right.  
 Now click "**Load Unpacked**" and select the folder the .zip was extracted to.  
