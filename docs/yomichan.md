@@ -38,7 +38,8 @@ Click anywhere outside of the box or use the `Esc` key to dismiss. Click on an i
 
 ![demo](img/yomidemo1.png)  
 
-Pop up box size and color can be edited with advanced settings enabled.  
+Pop up box size can be edited with advanced settings enabled.  
+A full dark mode can be enabled in the settings too.  
 
 JMDict is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMDict. This is the most common Japanese to English dictionary.  
 
