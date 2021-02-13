@@ -209,7 +209,7 @@ Download **yomichan-chrome-dev.zip** and unzip it anywhere on your computer.
 Now go to **chrome://extensions** and enable **Developer Mode** in the top right.  
 Now click "**Load Unpacked**" and select the folder the .zip was extracted to.  
 
-Now go to your Yomichan which should be the same place you unzipped it and put your desired image in the `fg` folder.  
+Now go to your Yomichan path which should be the same place you unzipped it and put your desired image in the `fg` folder.  
 
 Now you can do the following CSS below.  
 
