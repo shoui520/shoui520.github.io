@@ -12,9 +12,10 @@ nav:
     - 'vn.md'
     - 'monolingual.md'
     - 'faq.md'
-    - 'sub.md'
   - 'Resources':
     - 'Resources': 'resources.md'
+  - 'Other':
+    - 'Yomichan Custom CSS': 'yomicss.md'
   - 'About':
     - 'Contact & Support': 'contact.md'
 theme:
