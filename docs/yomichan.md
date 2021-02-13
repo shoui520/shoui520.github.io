@@ -323,6 +323,34 @@ You can remove it by using the CSS below:
 The result:  
 ![Yomichan CSS Demo](img/yomicss8.png)
 
+### Using image as background  
+
+*Chromium instructions for now*  
+
+To do this, you must install Yomichan dev build from GitHub instead of the Chrome Web Store, this is because we will be tampering with the files of the extension.  
+You can find it below.  
+[[GitHub]](https://github.com/FooSoft/yomichan/releases)  
+
+Download **yomichan-chrome-dev.zip** and unzip it anywhere on your computer.  
+Now go to **chrome://extensions** and enable **Developer Mode** in the top right.  
+Now click "**Load Unpacked**" and select the folder the .zip was extracted to.  
+
+Now go to your Yomichan which should be the same place you unzipped it and put your desired image in `/fg`.  
+
+Now you can do the following CSS below.  
+
+```css
+body {
+   background-image: url("name_of_file.png") !important;
+
+}
+```
+
+The result:  
+![Yomichan CSS Demo](img/yomicss10.png)
+
+
+
 ### Light / Dark mode varying CSS
 
 An example of varying CSS for light / dark modes can be found below.  
