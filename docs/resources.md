@@ -151,6 +151,9 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [Jisho.org](https://jisho.org/search/%20%23sentences)
 - [ｺﾂ](https://kotu.kez.io/)
 
+### Japanese Fonts
+- [Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)  
+
 ### Dictionaries
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese words easily. 

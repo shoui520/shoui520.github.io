@@ -152,7 +152,7 @@ You can change the color of tags by changing the following variables below:
 :root { /* Light Theme */ 
 # :root[data-theme="dark"]  { /* Uncomment for dark theme */
 
- 	--tag-text-color:
+    --tag-text-color:
     --tag-border-color:
     --tag-default-background-color:
     --tag-name-background-color:
