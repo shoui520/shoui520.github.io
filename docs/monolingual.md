@@ -3,7 +3,7 @@
 
 !!! info "Intermediate Learners"
 	This is a guide targeted at "intermediate" learners.
- 
+
 This guide will go through what the monolingual transition is and why you should do it, different mediums to access monolingual dictionaries and also ways to approach getting used to monolingual dictionaries. 
 This guide is **long.** But it is still simple, it’s just the initial setup that just feels long.
 
@@ -311,9 +311,11 @@ Download this .zip I’ve just prepared for you (this has EBWin, EBMac and the E
 
  *EB is not supported on GNU/Linux systems. Please use qolibri instead.*
 
-**Arch** (AUR, make sure you have yay installed):
+**Arch** (AUR, make sure you have `yay` installed):
 
-```$ yay -S qolibri```
+```bash
+$ yay -S qolibri
+```
 
 
 ### Windows/OS X Installation Instructions for EB
@@ -424,7 +426,7 @@ There’s a few ways to approach getting used to monolingual dictionaries. I’l
 
 Primarily in the AJATT community, there’s this one piece of advice:
 
-### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach**
+### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach
 
 I mean, if you read novels, this may be an OK approach. Because you will already be familiar with those words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out. Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions. 
 This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more bro lololo”, because that’s exactly what you need to do. I just disagree with throwing away the bilingual dictionary completely, because you still need it in the beginning of the monolingual transition. 
@@ -442,15 +444,15 @@ How did I learn how to be comfortable with monolingual dictionaries? I read more
 
 When I read more novels I got more used to written Japanese, and when I looked up words, they were in monolingual, so when I learned more words, I got better at using the monolingual dictionary. Huh? Yeah. It’s really that simple. Read more. Read the novel more = reading the dictionary more because you need a dictionary to read novels :)
 
-####>What did you do when you came across a word you didn’t know in the definition?
+### >What did you do when you came across a word you didn’t know in the definition?
 
 I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition,  I looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION. Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it. Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
 
-###>Soo… what’s the best way to approach monolingual?
+### >Soo… what’s the best way to approach monolingual?
 
 Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.
 
-###>But wouldn’t I be reading the dictionary more than the actual novel?
+### >But wouldn’t I be reading the dictionary more than the actual novel?
 
 So what? It’s good that you are reading the dictionary more.
 
@@ -460,7 +462,7 @@ So what? It’s good that you are reading the dictionary more.
 
 **10 Important Tips and Tricks**
 
-(壱). Read at least 1 novel (it can be a light novel) before going monolingual.
+(壱). Read at least 1 novel (it can be a light novel or visual novel) before going monolingual.
 
 (弐). Try to experiment with what dictionary order is the best for you.
 
