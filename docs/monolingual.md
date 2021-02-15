@@ -1,5 +1,9 @@
 # Monolingual Guide
 
+
+!!! info "Intermediate Learners"
+	This is a guide targeted at "intermediate" learners.
+ 
 This guide will go through what the monolingual transition is and why you should do it, different mediums to access monolingual dictionaries and also ways to approach getting used to monolingual dictionaries. 
 This guide is **long.** But it is still simple, it’s just the initial setup that just feels long.
 
@@ -14,10 +18,12 @@ Monolingual dictionaries help you avoid making false associations with words fro
 ### What exactly do you mean by “false associations”?
 Bilingual definitions, 90% of the time are very vague, and do not capture the true feeling of the word. You may not think so, but I’ve been using monolingual dictionaries for a long time now and I can confirm bilingual definitions (especially those from the JMdict) do not capture the true feel of the word.
 Here’s an example: 
-> 悔しい [くやしい]
+> 悔しい [くやしい]  
+
 If you have been learning Japanese for a few months, you would know this word. And chances are you learned it using a bilingual dictionary. Let’s look at the bilingual definition.
 
-> vexing; annoying
+> vexing; annoying  
+
 You may think, “what’s wrong with it?” I’ll tell you what’s wrong with it. It’s so vague to the point that it is literally wrong. Now let’s look at the monolingual definition.
 
 *Taken from the Hybrid Shinjirin (ハイブリッド新辞林)*
