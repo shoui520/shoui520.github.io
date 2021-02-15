@@ -295,6 +295,8 @@ That’s how.
 
 ### EB (EPWINGS)
 
+*[Skip to Approaching Monolingual Dictionaries](#approaching-monolingual-dictionaries)*  
+
 EB is an EPWING reader.
 
 EPWING (pronounced *E P wing*, i just pronounce it *epwing*) is a digital dictionary format.
