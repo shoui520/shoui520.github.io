@@ -3,7 +3,7 @@ site_description: Learn Japanese for free, on your own, with the things you love
 nav:
   - Home: 'index.md'
   - 'Guides':
-    - 'guide.md'
+    - 'New Japanese Guide': 'guide.md'
     - 'speaking.md'
     - 'animejp.md'
     - 'kanji.md'
