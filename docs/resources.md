@@ -230,7 +230,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [Shirabe Jisho, the best mobile bilingual Japanese dictionary, Period.](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)  
 - [Tae Kim App](https://apps.apple.com/us/app/learning-japanese-with-tae-kim/id1366698942)  
 - [Books (formerly iBooks), the best mobile ebook reader on any platform. Period.](https://apps.apple.com/us/app/apple-books/id364709193)  
-- [Kantan Manga Reader (OCR Manga Reader like app)](https://apps.apple.com/gb/app/kantan-manga/id1518666365)  
+- [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga, Yomichan dictionary and EPWING support!  
 - [EBPocket Basic (transfer EPWINGs using iTunes)](https://apps.apple.com/us/app/ebpocket-basic/id314082593)  
 - [MDict, an MDX reader](https://www.mdict.cn/wp/?page_id=5325&lang=en)  
   

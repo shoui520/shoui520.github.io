@@ -49,13 +49,15 @@ The other reason why you should use monolingual definitions is because they help
 Monolingual dictionaries are very powerful, and you will only realise this once they become second nature to you.
 
 ### Why people find it hard to go monolingual.
-Two reasons: 
-They don’t know the words.
-Nihonjin way of thinking (only applies to very few dictionary definitions such as 呆れる)
+Two reasons:  
+
+- They don’t know the words.  
+- Nihonjin way of thinking (only applies to very few dictionary definitions such as 呆れる)  
 
 ### Monolingual transition myths
-A profound belief that "dictionary vocabulary" exist. Primarily due to poor wording by Matt.
 
+- A profound belief that "dictionary vocabulary" exist. Primarily due to poor wording by Matt.  
+  
 **The truth:** “Dictionary vocabulary” = words you don’t know because you don’t read enough.
 
 Hey shoui, are you also going to say that 体言 and 終止形 are also “common words”? Yes. You are only asking me this because you looked up “を” and other particles in the monolingual dictionary. They appeared because you asked them to. They are linguistic words so they need to be used to explain grammar, that’s it. Where else do you hear stuff like “passive form” and “nominalization” outside of language learning websites? Exactly. 99% of dictionary definitions don’t use that linguistic jargon, except for maybe 打ち消し (I’ve heard this in anime by the way so you need to know it). I’ve seen 終止形 used in a Twitter account that posts about Japanese grammar/linguistics by the way, so it is common when you look at Japanese grammar in Japanese :wink:
