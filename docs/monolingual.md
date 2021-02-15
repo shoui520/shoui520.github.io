@@ -8,7 +8,7 @@ This guide is **long.** But it is still simple, it’s just the initial setup th
 
 ### What is the monolingual transition
 
-The monolingual transition is when you “transition” to using a monolingual dictionary. A monolingual dictionary is a dictionary that defines words of the language in that language. For example, the Oxford Dictionary is a monolingual English dictionary. The Kōjien (広辞苑) is a monolingual Japanese dictionary.
+The monolingual transition is when you “transition" into getting used to a monolingual dictionary, often with the help of a bilingual dictionary as an aid. A monolingual dictionary is a dictionary that defines words of the language in that language. For example, the Oxford Dictionary is a monolingual English dictionary. The Kōjien (広辞苑) is a monolingual Japanese dictionary.
 Sites such as Jisho.org use the Japanese-English *bilingual* dictionary known as “JMdict (English)”. Jisho.org is not its own dictionary, it is only a portal that accesses JMdict. So keep that in mind.
 
 ### Why you should use a monolingual dictionary
