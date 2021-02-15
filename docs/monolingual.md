@@ -1,5 +1,4 @@
-# Monolingual Guide
-
+# Monolingual Guide  
 
 !!! info "Intermediate Learners"
 	This is a guide targeted at "intermediate" learners.
@@ -147,13 +146,11 @@ Next, I’ll talk you through *how to actually get the monolingual dictionaries*
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
 Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing)
 
-Extract the .zip file (You can use [7zip](https://www.7-zip.org/) for this), and you will be greeted with more .zip files. 
+Extract the .7z file (You can use [7-Zip](https://www.7-zip.org/) for this), and you will be greeted with some .zip files. 
 **Do not tamper with these.**
 
-![Image](img/mono12.png)  
-*old pic btw*
-
-
+![Image](img/mono12.png)    
+ 
 These are our Yomichan dictionaries. **You only need all dictionaries tagged [Monolingual] and [Bilingual], the rest are kinda optional**
 
 Scroll down in your Yomichan settings to *Dictionaries*. Click *Import Dictionary*
@@ -197,7 +194,7 @@ KireiCake
 
 大辞林３  
 デジタル大辞泉  
-新明解国語辞典 第五版
+新明解国語辞典 第五版  
 新明解国語辞典 第七版  
 明鏡国語辞典  
 実用日本語表現辞典  
@@ -295,7 +292,7 @@ That’s how.
 
 ### EB (EPWINGS)
 
-*[Skip to Approaching Monolingual Dictionaries](#approaching-monolingual-dictionaries)*  
+*[→ Skip to Approaching Monolingual Dictionaries](#approaching-monolingual-dictionaries)*  
 
 EB is an EPWING reader.
 
@@ -306,9 +303,7 @@ There’s EBWin, EBMac, EBPocket and EBWeb. To use EB, download it, install it a
 Download this .zip I’ve just prepared for you (this has EBWin, EBMac and the EPWING files you need): [Google Drive](https://drive.google.com/file/d/1fDhrnxFlPl7PZVlX83cZRhTSRk3xetb2/view?usp=sharing)
 
 **NEW: Compact, Standard and Full EPWING dictionary packages can be found in [Resources](/resources)** 
-
-
-
+ 
 ### Linux Installation Instructions for Qolibri
 
  *EB is not supported on GNU/Linux systems. Please use qolibri instead.*
@@ -317,11 +312,9 @@ Download this .zip I’ve just prepared for you (this has EBWin, EBMac and the E
 
 ```bash
 $ yay -S qolibri
-```
-
-
+```  
 ### Windows/OS X Installation Instructions for EB
-
+ 
 First things first, extract the zip you just downloaded above.
 
 ![Image](img/mono20.png)
@@ -429,26 +422,27 @@ There’s a few ways to approach getting used to monolingual dictionaries. I’l
 Primarily in the AJATT community, there’s this one piece of advice:
 
 ### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach
+This is something Khatzumoto of AJATT proposed.  
 
-I mean, if you read novels, this may be an OK approach. Because you will already be familiar with those words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out. Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions. 
-This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more bro lololo”, because that’s exactly what you need to do. I just disagree with throwing away the bilingual dictionary completely, because you still need it in the beginning of the monolingual transition. 
+I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out, Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
 
-**I recommend learning words within definitions using a bilingual dictionary.**
+This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more!”, because that’s exactly what you need to do. 
 
-If you’re feeling adventurous, you can use the monolingual dictionary for looking up words in monolingual dictionaries if you want. I try to use monolingual dictionaries as much as I *can*.
+I just disagree with throwing away the bilingual dictionary completely, because you still need it in the beginning of the monolingual transition. 
 
 ### The Morphman Approach
-no
+no  
 
 ### What you SHOULD do
 
-How did I learn how to be comfortable with monolingual dictionaries? I read more.
+How did I learn how to be comfortable with monolingual dictionaries? I read more. (novels, light novels, visual novels)  
 
 When I read more novels I got more used to written Japanese, and when I looked up words, they were in monolingual, so when I learned more words, I got better at using the monolingual dictionary. Huh? Yeah. It’s really that simple. Read more. Read the novel more = reading the dictionary more because you need a dictionary to read novels :)
 
 ### >What did you do when you came across a word you didn’t know in the definition?
 
-I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition,  I looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION. Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it. Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
+I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
+Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
 
 ### >Soo… what’s the best way to approach monolingual?
 
@@ -458,11 +452,9 @@ Read more novels with a monolingual dictionary. I recommend reading novels on [I
 
 So what? It’s good that you are reading the dictionary more.
 
-*Love Live picture*
+![Image](img/mono35.png)  
 
-![Image](img/mono35.png)
-
-**10 Important Tips and Tricks**
+#### 10 Important Tips and Tricks
 
 (壱). Read at least 1 novel (it can be a light novel or visual novel) before going monolingual.
 
@@ -484,7 +476,7 @@ So what? It’s good that you are reading the dictionary more.
 
 (拾). Don’t overdo yourself! If it's too hard, try to use the bilingual dictionary until you feel confident again!
 
-**Other Guides**
+#### Other Guides
 
 [Matt’s monolingual walkthrough](https://youtu.be/D-AfT8XW63w)
 
