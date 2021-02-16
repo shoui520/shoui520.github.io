@@ -169,7 +169,7 @@ You can change the color of tags by changing the following variables below:
 }
 ```
 
-#### Example: Full Nord Theme
+### Example: Full Nord Theme
 
 A full Nord theme I made for Yomichan can be found below:  
 
@@ -361,6 +361,11 @@ This could be a bug, I don't know, but lets fix it.
 
 .frequency-value:before{
     content:":";
+
+}
+
+.entry-body-section-content.frequency-group-list{
+    padding: 0;
 
 }
 ```

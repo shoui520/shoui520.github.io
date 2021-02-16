@@ -70,112 +70,51 @@ If you want guidelines on what to mine, then mine every word that comes up in yo
 This went a little off-topic, sorry about that.
 
 ## Yomichan - the better way to go monolingual.
-**I recommend doing the monolingual transition with Yomichan.**
+**I recommend doing the monolingual transition with Yomichan.**  
 
-Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding Shift and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out more about Yomichan [here](https://foosoft.net/projects/yomichan/)
+![Image](img/monodemo1.png)  
 
-![Image](img/mono1.png)
+Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding Shift and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
 
-It should take you to your respective store.
+### Optimizing Yomichan Settings 
 
-Once you’re there, click whatever button there is
+First you need to ensure that Advanced options is enabled.  
+![Image](img/mono1.png)  
 
-![Image](img/mono2.png)
+Second, we want to remove any and all scan delays because we will be making heavy use of this extension and wouldn't want to be slowed down by anything.  
 
-Once you have Yomichan, click the Yomichan ﾖﾐ icon in the menu and then click the monkey wrench icon.
+![Image](img/mono2.png)  
 
-![Image](img/mono3.png)
+Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
 
-**Fixing Yomichan settings / Optimizing Yomichan**
+![Image](img/mono3.png)  
 
-*Newer versions of Yomichan may have different settings.*
+You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
 
-Right off the bat, make sure you uncheck, “Show usage guide on startup” the only reason is because it can get annoying. Next, check “Show advanced options”
+![Image](img/mono4.png)  
 
-![Image](img/mono4.png)
+Here's how our pop up looks now:  
+![Image](img/mono5.png) 
 
-I underline in red which settings are important. I suggest you check “Compact tags” and “Compact glossaries”. For me this is better, it isn’t important though so it’s more like personal preference.
+Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!
 
-Scroll down a little.
+![Image](img/mono6.png)  
 
-![Image](img/mono5.png)
-
-I have underlined in red which settings are important. Popup size multiplier is important; by default, the default Yomichan text in the popups can feel too small, and straining to read. You will realise this after a lot of reading. Recommended values are 1.1, 1.2 and 1.3. Anything above may be too big, and anything below may be too small. Popup width and Popup height are important too, this is because of one reason: I recommend you use as many Yomichan dictionaries as possible. Modifying the popup width and height allows for more room for the definitions.
-
-Compare.
-
-I’m looking up 愚問 for demonstration purposes by the way, I ALREADY KNOW that word.
-
-**Default size:**
-
-![Image](img/mono6.png)
-
-**Modified:**
-
-![Image](img/mono7.png)
-
-*Much better when you’re actually experiencing it! And I was too lazy to find a word with a long definition, where this change actually shows its worth.*
-Next, check your Audio Options. Make sure they are like this. Playing audio automatically is very useful. Make sure you have “JapanesePod101” and “JapanesePod101 (alternate)” in your playback sources. JapanesePod101 sucks. But they seem to have native audio recordings of a lot of words, but there are a lot of words which don’t have audio and a few are just wrong lol. Yomichan illegally accesses it. From the main source “JapanesePod101” most if not all katakana word audio are cut out, the alternate source “JapanesePod101” (alternate) seems to have them though
-
-![Image](img/mono8.png)
-
-Next, check your scanning options. Remove the scan delay.
-
-![Image](img/mono9.png)
-
-Scroll down a little.
-
-This is the most important part.
-
-![Image](img/mono10.png)
-
-Make sure your settings are my settings!!!
-
-This is the biggest reason why you should use Yomichan for the monolingual transition.
-
-Demonstration:
-
-![Image](img/mono11.png)
-
-I looked up 私 for demonstration purposes. I ALREADY KNOW that word.
-
-*btw I used to just look at the English definition when I can’t read the definitions at all, but when it is only one or two words I would look the words up, this is just for demonstration purposes after all*
-
-You may think, “what’s the point of that?” It is kinda inevitable that you’re gonna not know at least 1 word in the definition, so this becomes useful.
-Next, I’ll talk you through *how to actually get the monolingual dictionaries*
+I will touch on dictionaries in the next section.  
 
 ### Getting and using monolingual dictionaries
+
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
 Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing)
 
 Extract the .7z file (You can use [7-Zip](https://www.7-zip.org/) for this), and you will be greeted with some .zip files. 
 **Do not tamper with these.**
 
-![Image](img/mono12.png)    
+![Image](img/mono7.png)    
  
-These are our Yomichan dictionaries. **You only need all dictionaries tagged [Monolingual] and [Bilingual], the rest are kinda optional**
-
-Scroll down in your Yomichan settings to *Dictionaries*. Click *Import Dictionary*
-
-![Image](img/mono13.png)
-
-Import all dictionaries tagged [Monolingual] and [Bilingual] **do not import 学研**
-
-![Image](img/mono14.png)
-
-*old pic btw*  
-
-You can only import one dictionary at a time. So wait for one to finish importing before importing the next.
-
-![Image](img/mono15.png)
-
-*Dictionary data is being imported, please be patient…*
-
-After that, import the rest. It should look something like this in the end.
-
-![Image](img/mono16.png)
-
-Then change your dictionary order. You can do this by changing result priority. See recommended dicts below.
+These are our Yomichan dictionaries. No you don't need to import all of them.
+ 
+Before we continue, have a read on recommended dictionaries and what they are exactly. 
 
 ### Recommended Dictionaries
 
@@ -187,26 +126,22 @@ Then change your dictionary order. You can do this by changing result priority. 
 実用日本語表現辞典  
 JMdict (English)  
 研究社 新和英大辞典 第５版  
-デジタル大辞泉 
-大辞林３          
-精選版 日本国語大辞典     
-KireiCake     
+デジタル大辞泉    
+KireiCake      
 
 #### For general, 100% monolingual coverage:**
 
-大辞林３  
+大辞林 第三版   
 デジタル大辞泉  
 新明解国語辞典 第五版  
-新明解国語辞典 第七版  
+新明解国語辞典 第七版   
 明鏡国語辞典  
 実用日本語表現辞典  
 精選版 日本国語大辞典  
 岩波国語辞典  
 広辞苑 第六版  
 漢字源  
-
-I shall explain each dictionary in the next section.  
-
+  
 ### Every Dictionary Explained.
 
 #### Monolingual
@@ -215,7 +150,7 @@ I shall explain each dictionary in the next section.
 
 **明鏡国語辞典** - 1st edition of Meikyou. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Best for definitions on Anki cards. Second smallest. However, the current version we have has 未収録語 but I have the source for the full version, will get it converted soon.  
 
-**大辞林３** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
+**大辞林 第三版** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
 
 **デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. Highly recommend. If you are using animecards.site's handlebars.js, I recommend you do not put this as your topmost dictionary as the first definition will get cut out when sent to the Anki card. Working on a fix.  
 
@@ -257,6 +192,15 @@ Anything else like 大辞林 第二版 and 大辞泉 are just older versions. I 
 
 **超級クラウン日中大辞典** - Choukyuu Crown Chinese-Japanese Dictionary. Something Matt gave me, but it is broken, this is also a Chinese-Japanese dictionary that supports both traditional and simplified. Do not import if not a learner of Chinese.    
 
+### Continuation: Getting and using monolingual dictionaries  
+
+Let's continue. 
+Import the set of dictionaries that best suits you in [Recommended Dictionaries](#recommended-dictionaries).  
+
+You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
+
+![Image](img/mono8.png)  
+
 ### Why do you say use a lot of dictionaries?
 
 You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here.
@@ -276,9 +220,7 @@ Goo: <https://dictionary.goo.ne.jp/> (Uses デジタル大辞泉)
 Kotobank: <https://kotobank.jp/> (Uses デジタル大辞泉、大辞林 第三版 and 精選版 日本国語大辞典) 
 
 Google: search “[word] 意味” e.g. “侮る 意味” (Uses 岩波国語辞典)
-
-![Image](img/mono18.png)
-
+  
 ### Offline Alternatives
 
 You’re gonna be learning Japanese for a long time, so it is possible that your internet may go out when you’re tryna nihongo grind! So you’re basically screwed right? Nope! 
@@ -292,130 +234,15 @@ You can still use Yomichan offline. Here’s how.
 
 That’s how.
 
-### EB (EPWINGS)
+### Digital Dictionary Formats
 
-*[→ Skip to Approaching Monolingual Dictionaries](#approaching-monolingual-dictionaries)*  
+You can see:  
 
-EB is an EPWING reader.
+[Japanese MDict (MDX) Dictionaries](https://learnjapanese.moe/resources/#mdict-mdx) - newer, open source, up to date and lower in size. Encoded in UTF-8 which is a nice bonus for anyone wanting to convert these to other formats.  
 
-EPWING (pronounced *E P wing*, i just pronounce it *epwing*) is a digital dictionary format.
+[Japanese EPWING Dictionaries](https://learnjapanese.moe/resources/#epwing) - old, extremely esoteric but popular in 電子辞書's from the 90's. Some are 
+extremely bloated in file size. Encoded in EUC-JP which is a big spit in the face for anyone wanting to do any conversion with them.  
 
-There’s EBWin, EBMac, EBPocket and EBWeb. To use EB, download it, install it and load the EPWINGs. I’ll go into detail.
-
-Download this .zip I’ve just prepared for you (this has EBWin, EBMac and the EPWING files you need): [Google Drive](https://drive.google.com/file/d/1fDhrnxFlPl7PZVlX83cZRhTSRk3xetb2/view?usp=sharing)
-
-**NEW: Compact, Standard and Full EPWING dictionary packages can be found in [Resources](/resources)** 
- 
-### Linux Installation Instructions for Qolibri
-
- *EB is not supported on GNU/Linux systems. Please use qolibri instead.*
-
-**Arch** (AUR, make sure you have `yay` installed):
-
-```bash
-$ yay -S qolibri
-```  
-### Windows/OS X Installation Instructions for EB
- 
-First things first, extract the zip you just downloaded above.
-
-![Image](img/mono20.png)
-
-It should look like this inside the folder “Offline Dictionaries”
-
-In the EB folder, you can find the files you need to install EB.
-
-![Image](img/mono21.png)
-
-After EB is installed. Launch it.
-
-![Image](img/mono22.png)
-
-Click File (F) and Re-search Dictionaries (R)
-
-It will open your file explorer, find the “Monolingual” folder and click “OK”
-
-![Image](img/mono23.png)
-
-Now you can use the search feature to search a word. But first, maybe clean your dictionary bar?
-
-![Image](img/mono24v2.png)
-
-Here how it looks if you just click OK and leave it.
-
-I’ll talk you through how to make it better.
-
-**(壱) Sorting dictionary order**
-
-![Image](img/mono24.png)
-
-Then
-
-![Image](img/mono25.png)
-
-This is largely a personal preference. I have sorted mine to meet my preferences.
-
-**(弐) Changing dictionary short-name.**
-
-You wouldn’t want the 三省堂 スーパー大辞林 to be called “三省堂”  or ハイブリッド新辞林 to be “ハイブ”. You can change the dictionary short-name like this.
-
-![Image](img/mono26.png)
-
-Click “OK”. See the result.
-
-
-![Image](img/mono27.png)
-Click on a dictionary to search it specifically. Or すべて to search all of them.
-
-When searching in the dictionary. **I recommend you do a kana search**
-
-![Image](img/mono28.png)
-
-Here’s how it looks like when I do a すべて search.
-
-I am looking up 魑魅魍魎 for demonstration purposes. I ALREADY KNOW that word.
-
-![Image](img/mono29.png)
-
-On the side bar you can change between dictionaries.
-
-Because of my dictionary order, the 広辞苑’s definition is listed first.
-
-Oh, I nearly forgot, how to look up words in the definitions with EB? First of all, enable clipboard search.
-
-![Image](img/mono30.png)
-
-![Image](img/mono31.png)
-
-Check “clipboard search/クリップボード検索”
-
-![Image](img/mono32.png)
-
-## Mobile Users
-
-So you’ve read up to here and was probably thinking, “I’m screwed, I don’t have a PC” Don’t lose hope just now...
-
-You can use EBPocket. You can find this on the App Store and Google Play Store. I was able to find it in the UK App Store lmao.
-
-~~I don’t have an Android so I dunno how to move your dictionaries to Android~~  I got an Android now so just drag and drop dictionaries to the `EBPocket` folder in `/storage/emulated/0`
-
-If you use iOS, you can just transfer the “Monolingual” folder to EBPocket using iTunes.
-
-Edit: Wait iTunes needs a computer.. lmfao. Well, maybe you can use a friend's
-
-![Image](img/mono33.png)
-
-*Actually I don’t even use iTunes I just use some alternative called 3uTools lol.*
-
-Here’s how it looks like when you actually use it:
-
-I am looking up 修羅場 for demonstration purposes. I ALREADY KNOW that word.
-
-![Image](img/mono34.png)
-
-I hoped this helped.
-
-Now let’s finally get on to how to approach using monolingual dictionaries.
 
 ## Approaching Monolingual Dictionaries
 
