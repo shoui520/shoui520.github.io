@@ -242,12 +242,16 @@ Use the following CSS below to remove them.
 ```css
 h5 {
     display: none;
+
 }
 ```
 
 ### Frequency value outside of tag
 
 This could be a bug, I don't know, but lets fix it.  
+
+!!! info "Existing CSS"
+    If you already have existing CSS, this must be placed right at the top for it to work. 
 
 ```css
 .frequency-group-item {
