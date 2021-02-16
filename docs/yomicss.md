@@ -223,6 +223,73 @@ body {
 The result:  
 ![Yomichan CSS Demo](img/yomicss10.png)
 
+## Yomichan 21.1.31.0 annoyances  
+
+Since 21.1.31.0, there have been MANY poor design decisions. Here I will help you fix them.
+
+### Ctrl+C / ⌘+C not working  
+
+This is not CSS but definitely needs addressing.  
+
+Settings > Shortcuts > Configure standard... > 16. > DISABLE
+
+### Titles??
+
+Titles such as "Frequencies", "Pitch Accents" and "Definitions" have been added, and I have no idea why.  
+
+Use the following CSS below to remove them.  
+
+```css
+h5 {
+    display: none;
+}
+```
+
+### Frequency value outside of tag
+
+This could be a bug, I don't know, but lets fix it.  
+
+```css
+.frequency-group-item {
+    display: inline-block;
+    margin-right: 4px !important;
+
+}
+
+.frequency-value {
+    font-size: var(--tag-font-size);
+    font-weight: var(--tag-font-weight);
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+.frequency-group-item {
+
+    margin: 0.1em 0em;
+    padding: 0em 0.3em 0.0em 0.1em;
+    border-radius: 0.25em;
+    color: var(--tag-text-color);
+    background-color: var(--tag-frequency-background-color)
+
+}
+
+
+.frequency-group-item .tag {
+    margin-right: 0;
+    padding-right: 0;
+
+}
+
+.frequency-value:before{
+    content:":";
+
+}
+```
+
+And viola, that issue should be fixed.  
+
 ## Miscellaneous 
 
 Some misc. modifications you can do which I found cool.  
