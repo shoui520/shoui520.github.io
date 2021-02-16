@@ -179,7 +179,7 @@ Then change your dictionary order. You can do this by changing result priority. 
 
 ### Recommended Dictionaries
 
-**Here’s what I recommend for first time monolingual users:**
+#### Here’s what I recommend for first time monolingual users:**
 
 明鏡国語辞典  
 ハイブリッド新辞林  
@@ -192,7 +192,7 @@ JMdict (English)
 精選版 日本国語大辞典     
 KireiCake     
 
-**For general, 100% monolingual coverage:**
+#### For general, 100% monolingual coverage:**
 
 大辞林３  
 デジタル大辞泉  
