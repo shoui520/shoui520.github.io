@@ -169,6 +169,79 @@ You can change the color of tags by changing the following variables below:
 }
 ```
 
+#### Example: Full Nord Theme
+
+A full Nord theme I made for Yomichan can be found below:  
+
+```css
+body {
+    background: #2E3440;
+
+}
+ 
+.kanji-link {
+    color: #ebffff;
+ 
+}
+ 
+.source-text {
+    color: #ebffff;
+
+}
+ 
+ 
+.term-glossary {
+    color: #ebffff;
+ 
+}
+ 
+ 
+:root {
+    --background-color: #2E3440;
+    --tag-text-color: white;
+    --tag-border-color: transparent
+    --tag-default-background-color: #88C0D0;
+    --tag-name-background-color: #88C0D0;
+    --tag-expression-background-color: #88C0D0;
+    --tag-popular-background-color: #88C0D0;
+    --tag-frequent-background-color: #88C0D0;
+    --tag-archaism-background-color: #88C0D0;
+    --tag-dictionary-background-color: #8FBCBB;
+    --tag-frequency-background-color: #81A1C1;
+    --tag-part-of-speech-background-color: #88C0D0;
+    --tag-search-background-color: #88C0D0;
+    --tag-pitch-accent-dictionary-background-color: #5E81AC;
+    --accent-color: #8FBCBB;
+    --text-color: #ebffff;
+    --pitch-accent-annotation-color: #ebffff;
+    --input-background-color: #3B4252;
+    --reason-text-color: #5E81AC;
+    --notification-text-color: #ebffff;
+    --notification-background-color: #3B4252;
+    --progress-bar-track-color: #D8DEE9;
+    --light-border-color: #E5E9F0;
+    --sidebar-background-color: #2E3440;
+    --sidebar-button-background-color: transparent;
+    --sidebar-button-background-color-hover: #81A1C1;
+    --sidebar-button-background-color-active: #6d88a3;
+    --sidebar-button-danger-background-color: transparent;
+    --sidebar-button-danger-background-color-hover: #BF616A;
+    --sidebar-button-danger-background-color-active: #8a373f;
+    --sidebar-button-icon-color: #ebffff;
+    --sidebar-button-disabled-icon-color: #808c8c;
+    --sidebar-button-danger-icon-color: #ebffff;
+
+}
+
+::-webkit-scrollbar {
+    display: none;
+
+}
+```  
+
+The result:  
+![Yomichan CSS Demo](img/yomicssnord.png)  
+
 ## Background
 
 Background can be edited with the selector below:  
