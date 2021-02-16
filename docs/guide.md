@@ -110,9 +110,8 @@ Look at the manga picture above. Look at the first panel. You see "人数"? That
 
 **How to: Isolated Kanji Study**
 
-![Kanji](img/kanji.png)
-
-*Image Credit: Daily Japanese Thread/Itazuraneko*  
+![Kanji](img/kanji.png)  
+ 
 When approaching kanji as a beginner, they can look like scribbles rather than familiar shapes. Kanji have common shapes and patterns and Isolated Kanji Study helps you see those common shapes and patterns. Instead of "草" looking like a random drawing, you can see that it’s composed from "艹", "日" and "十".
 
 An isolated kanji study method I recommend is *RRTK 450* (Recognition Remembering the Kanji 450 Cards) which is designed to help you see kanji as familiar shapes. It is used in the application Anki. You can find more information about it below.  
