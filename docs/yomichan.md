@@ -53,7 +53,10 @@ You can use the ![search icon](img/yomichan-search.png) icon to access Yomichan 
 
 ## Allowing access to file URLs
 
-Enabling this allows you to use Yomichan on local files such as .PDF and .HTML files.  
+Enabling this allows you to use Yomichan on local files such as .HTML files.  
+
+!!! failure "PDF Files"
+    On Chrome, it is impossible to use Yomichan on PDF files.  
 
 Chromium:  
 	- Right click the ![yomi icon](img/yomichan-icon.png)  
