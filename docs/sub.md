@@ -4,6 +4,10 @@
 
 Please see below.
 
+[Get Japanese Subtitles](https://learnjapanese.moe/resources/#subtitles)  
+
+## Guides  
+
 [Matt vs. Japan: mpv: The Best Video Player for Language Learning](https://youtu.be/bbg6ztWecbU)
 
 [DJT's QM: Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)

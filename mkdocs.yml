@@ -12,6 +12,7 @@ nav:
     - 'vn.md'
     - 'monolingual.md'
     - 'faq.md'
+    - 'Japanese Subtitles': 'sub.md'
   - 'Resources':
     - 'Resources': 'resources.md'
   - 'Other':
