@@ -7,7 +7,7 @@ This FAQ aims to assist you with your self study. When it comes to learning Japa
 
 
 ### How do I learn Japanese?
-Through massive amounts of *input*,in other words **immersion.** See [the guide](/guide) for more info.
+Through massive amounts of *input*, in other words **immersion.** See [the guide](/guide) for more info.
 ### Can you teach me Japanese?
 No. I can’t teach you Japanese. No one can. You need to learn it yourself. Read my guide to get started.
 ### Where can I find a Japanese language tutor?
@@ -26,7 +26,7 @@ You can start to use Anki whenever you want actually, you can even learn the kan
 ### When (what time of day) should I do Anki?
 I recommend doing Anki the first thing in the morning. (As early as possible)
 ### How long should I spend on Anki?
-No more than 1 hour per day. Prioritise immersion time, not flashcards.They are only a supplement to your immersion. I spend about 25 minutes with Anki. ~~And I study about 500 cards per day~~, Not anymore, I reset my Anki. Your format may vary the amount of time you spend. Personally I just use AnimeCards.
+No more than 1 hour per day. Prioritise immersion time, not flashcards. They are only a supplement to your immersion. I spend about 25 minutes with Anki. ~~And I study about 500 cards per day~~, Not anymore, I reset my Anki. Your format may vary the amount of time you spend. Personally I just use AnimeCards.
 ### About grammar, should I do Tae Kim or Cure Dolly? Pls answer
 Who cares. Just do whatever. (Cure Dolly is better in my humble opinion ;))
 ### What JLPT are you shoui
@@ -41,7 +41,7 @@ this may be inaccurate, but usually what the average DJT'er will consoom.
 ### How to study kanji?
 By reading. Just read, look up words. If you can read the words in their kanji in this sentence: そして起死回生の閃きを得たのは唯我部長だった。then you “know” the kanji. If you look up the words and then remember them then you'll know more kanji, well done.
 ### How much kanji are used in Japanese?
-The 常用 (jouyou, kanji required to be taught in the Japanese school curriculum) kanji list has 2136 kanji. But don’t let this fool you. Approximately 3000 kanji are used in Japanese, outside of newspapers and JLPT/learner oriented material. Don’t worry too much about how much kanji are used in Japanese. I literally only think about how much kanji are used when I write guides and FAQs such as this one, it’s pretty irrelevant. You should just read.
+The 常用 (Jouyou, kanji required to be taught in the Japanese school curriculum) kanji list has 2136 kanji. But don’t let this fool you. Approximately 3000 kanji are used in Japanese, outside of newspapers and JLPT/learner oriented material. Don’t worry too much about how much kanji are used in Japanese. I literally only think about how much kanji are used when I write guides and FAQs such as this one, it’s pretty irrelevant. You should just read.
 ### How do I look up words easier on webpages?
 Yomichan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the Shift key. I went into more detail in [Yomichan Guide](/yomichan) , so check that out.
 ### How do I look up words easier in manga?
@@ -95,7 +95,7 @@ I believe most widespread methods don’t help people achieve, nor give proper p
 Laptop and video player
 ### When is hiragana, katakana and kanji used?
 Go learn with immersion. 
-Please note that the usages of these are not consistent. So I can’t really say for sure. Hiragana is used for words not written in kanji (such as こと which also has a kanji form 事), whatever sticks out at the end of a verb (e.g. 味わう, 掛ける. 怯む), things like “だろう, でしょう”, particles (such as を、の、は、に、が、で etc.), someones name (like ゆみ, this can also be in kanji too because like I said it’s not consistent). Katakana is mainly used for foreign/imported words such as コミュニケーション (communication from English), レントゲン (Röntgen from German), オブラート (oblaat from Dutch). But katakana is used in 擬音語 (*giongo*, onomatopoeic word). There are a lot of these in Japanese. But not all giongo are written in katakana, things like あっさり are almost always in hiragana, things like ゴワゴワ are more likely to be in katakana. A change in nuance perhaps? Katakana can also be used for foreign names. Kanji is used when it is used. Yes. Kanji is used when it’s used. I recommend you just learn the usages through immersion. I have a picture in [the guide](/guide) about these writing systems too by the way.
+Please note that the usages of these are not consistent. So I can’t really say for sure. Hiragana is used for words not written in kanji (such as こと which also has a kanji form 事), whatever sticks out at the end of a verb (e.g. 味わう, 掛ける. 怯む), things like “だろう, でしょう”, particles (such as を、の、は、に、が、で etc.), someone's name (like ゆみ, this can also be in kanji too because like I said it’s not consistent). Katakana is mainly used for foreign/imported words such as コミュニケーション (communication from English), レントゲン (Röntgen from German), オブラート (oblaat from Dutch). But katakana is used in 擬音語 (*giongo*, onomatopoeic word). There are a lot of these in Japanese. But not all giongo are written in katakana, things like あっさり are almost always in hiragana, things like ゴワゴワ are more likely to be in katakana. A change in nuance perhaps? Katakana can also be used for foreign names. Kanji is used when it is used. Yes. Kanji is used when it’s used. I recommend you just learn the usages through immersion. I have a picture in [the guide](/guide) about these writing systems too by the way.
 ### Why is WaniKani bad?
 It forces you to go in a specific order and at a specific pace. The SRS is poor and offers no customisation. You don’t learn with compelling content, instead you learn with whatever watered-down JSL stuff they throw in front of you. And it’s paid. Why would you pay to learn Japanese? It isn't a paid endeavour. I haven’t spent a penny on Japanese.  It's a glorified textbook. They put you through an RTK-style tedious 2000 kanji learning process, only that they add readings to it, I guess the people over at Tofugu didn't realise learning readings in isolation is pretty much useless.  
 
@@ -122,7 +122,7 @@ Wrong. It’s never too early to watch anime without subtitles. You need to watc
 ### Reddit
 If you wish to make actual gains in Japanese, I suggest you stop using Reddit completely.
 ### I don’t have time to learn Japanese
-You may have more time than you think you do to learn Japanese. Stop playing video games. Stop going on Reddit. Wake up early. Do your Anki reps in the morning. Stop talking on Discord. Stop consuming content in English. Or if you really don’t have any time and it isn’t just you saying “i’d rather spend my time doing other things.” then just try to squeeze in even the smallest amount of Japanese into your day, it won’t be much but “barely any Japanese” is better than “no Japanese”
+You may have more time than you think you do to learn Japanese. Stop playing video games. Stop going on Reddit. Wake up early. Do your Anki reps in the morning. Stop talking on Discord. Stop consuming content in English. Or if you really don’t have any time and it isn’t just you saying “I’d rather spend my time doing other things.” then just try to squeeze in even the smallest amount of Japanese into your day, it won’t be much but “barely any Japanese” is better than “no Japanese”
 ### I am immersing late at night, is this bad?
 It is bad. Please don’t immerse when you’re supposed to be sleeping, you’re only reducing your immersion quality.
 ### This sentence in the Tango N5 deck…
@@ -197,7 +197,7 @@ For your PC, definitely romaji input. For your phone, then kana input. No questi
 ### Should I use Japanese subs?
 I might have already answered this but… not always. Only in the beginning. Split your time up between watching raw and in Japanese subs. The reason you need to watch raw is so you get the best accent in the end.
 ### How much should I balance my listening and reading?
-I think, when you’re at the stage where you can go on to reading without messing up your accent, you should read more than you listen. Why is this? Well, reading is probably the best way I currently know of to increase your vocabulary. These new vocabulary you acquired can easily transfer to your listening. Most of my vocabulary is what I learned from reading. There’s about a 90% chance you will hear these new words in the next anime you watch. It happens everytime. Learned 滑稽 from reading one day, heard it in the anime I watched the next. I cannot think of any exception. Reading is a powerful tool. But don’t slack on the listening! That’s still very important.
+I think, when you’re at the stage where you can go on to reading without messing up your accent, you should read more than you listen. Why is this? Well, reading is probably the best way I currently know of to increase your vocabulary. These new vocabulary you acquired can easily transfer to your listening. Most of my vocabulary is what I learned from reading. There’s about a 90% chance you will hear these new words in the next anime you watch. It happens every time. Learned 滑稽 from reading one day, heard it in the anime I watched the next. I cannot think of any exception. Reading is a powerful tool. But don’t slack on the listening! That’s still very important.
 But, I can admit that reading for long hours is harder than listening for long hours so even if your reading hours are a little shorter than your listening hours (e.g. 4 listening hours 2.5 reading hours), you are still making some serious gains. Don’t see this as an excuse to slack reading though.
 ### Should I study other languages along with Japanese?
 If you don’t want to get remotely good at any of the languages, then ok. But if you want to get good at Japanese, then don’t study any other languages while studying Japanese.

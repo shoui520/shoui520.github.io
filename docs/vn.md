@@ -15,7 +15,7 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 
 ###Finding and downloading VNs (Windows)
 
-Getting Japanese visual novels legally isn't as easy as it seems, DLSite is inaccesible in many countries and publishers often choose to omit Japanese from their Steam releases, and even if you are able to get the visual novel legally in Japanese, the import cost and time just isn't worth it.  
+Getting Japanese visual novels legally isn't as easy as it seems, DLSite is inaccessible in many countries and publishers often choose to omit Japanese from their Steam releases, and even if you are able to get the visual novel legally in Japanese, the import cost and time just isn't worth it.  
 So in the [Resources](/resources) you can find where to get visual novels for free.  
 
 ### Installing VNs (Windows)  
@@ -51,7 +51,7 @@ Now, take time and follow the picture instructions I made for you. This will giv
 
 ### VNs on mobile
 #### Android
-There are a couple of native Android Visual Novels but these are usually spin-offs/gacha cashgrabs.  
+There are a couple of native Android Visual Novels but these are usually spin-offs/gacha cash-grabs.  
 
 The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=ja&gl=US) emulator and download PSP ROMs.
 
@@ -175,7 +175,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 11. Now click "Start" and wait for Windows XP to boot into the installation.  
 12. You will be greeted with a blue installation screen. Don't worry. Just keep hitting the `Enter ⏎` key.  
 13. When the initial setup is complete, Windows XP will boot into another installation screen. Wait it out.  
-14. Before installation finishes, it will ask for your name, computer name, password. Just do whatever. I put "shoui" for every field. You will be asked to set a time zone too, do Tokyo because some VNs actually check for Japanese timezone.
+14. Before installation finishes, it will ask for your name, computer name, password. Just do whatever. I put "shoui" for every field. You will be asked to set a time zone too, do Tokyo because some VNs actually check for Japanese time zone.
 15. Once it finishes installation and reboots, you will be greeted with Windows XP setup. Enjoy the music!  
 16. Click Next, then Yes, then Next, then No, then Next, then No, then put your name, then Finish.  
 17. Wait until Windows XP boots into the desktop. Nostalgic isn't it?  
@@ -185,7 +185,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 21. Now go in Display and enable 3D acceleration and set video memory to `128 MB`
 22. Now launch your VM again by double clicking it in the left menu.
 23. Once you are in the XP desktop. On the VirtualBox window, click "Devices" and then click on "Insert Guest Addons CD Image"  
-24. It will now autorun VBox Guest Additions setup, install it and reboot your VM. Go in Devices again and set Drag and Drop to Bidirectional. This will allow us to drag and drop files from our actual PC to our VM.  
+24. It will now automatically run VBox Guest Additions setup, install it and reboot your VM. Go in Devices again and set Drag and Drop to Bidirectional. This will allow us to drag and drop files from our actual PC to our VM.  
 25. Now we will enable Japanese locale. Again in "Devices", click on Optical Drives > select the disc image you used to install Windows XP. Exit setup when prompted.  
 26. Now open a Run dialog box, by doing `Win+R`, and enter `intl.cpl`. Go in the `Languages` tab and check "Install files for East Asian languages" now hit Apply. Do not reboot yet.   
 27. Go in the Regional Options tab and set format to Japanese and location to Japan. Hit Apply.  
@@ -439,7 +439,7 @@ It is usually best to use a VM of Microsoft Windows 7, as it works on newer Macs
 Search on Google for how to run a Windows virtual machine on your Mac using Parallels (paid) or VirtualBox (free)  
 Contact me on Discord if you need help with getting either a Windows XP, 7 or 10 ISO.  
 
-#### Dual Boot using Bootcamp Method (All Intel-based Macs)
+#### Dual Boot using Boot Camp Method (All Intel-based Macs)
 
 All Intel-based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007.   
 If your Mac supports it, I recommend you run Windows 7 instead of Windows 10.  
@@ -458,7 +458,7 @@ Intel-based iMac introduced in 2012 or later
 Intel-based iMac Pro (all models)    
 Intel-based Mac Pro introduced in 2013 or later     
 
-Search on Google for how to use Bootcamp on your Mac.
+Search on Google for how to use Boot Camp on your Mac.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
 #### HIGHLY EXPERIMENTAL: Wine Method (macOS 10.8 - 10.14)
@@ -484,7 +484,7 @@ First we need to make sure we can install non App Store verified apps. Type the 
 ```bash
 sudo spctl --master-disable
 ```  
-Authenciate with the admin password. You can now go in **System Preferences** > **Security & Privacy** > click the **Lock** at the bottom left > choose **Anywhere**.  
+Authenticate with the admin password. You can now go in **System Preferences** > **Security & Privacy** > click the **Lock** at the bottom left > choose **Anywhere**.  
 
 Now go back in the terminal, we will now install `brew`.  
 !!! warning "macOS Mojave"
