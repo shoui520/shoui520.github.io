@@ -36,7 +36,7 @@ Once downloaded, extract the .7z to any location on your computer. You can use [
 Click anywhere outside of the box or use the `Esc` key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 8. You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 
-![demo](img/yomidemo1.png)  
+![demo](img/yomidemo1.jpg)  
 
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  

@@ -1,6 +1,6 @@
 # Anime Japanese
 
-![LoveLive! Sunshine!!](img/lls1.png)
+![LoveLive! Sunshine!!](img/lls1.jpg)
 
 In the Japanese learning world, it is common to come across the saying, "Don't/You can't learn Japanese from anime, no one talks that way!". However, this is in fact, false.
 First, let's consider just exactly why this argument exists in the first place.

@@ -11,7 +11,7 @@ Reading Japanese is extremely important, but not everyone loves reading books, I
 For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
 ![Image](img/vn2.jpg)
 
-[*Click here to view image.*](img/vnbased1.png)
+[*Click here to view image.*](img/vnbased1.jpg)
 
 ###Finding and downloading VNs (Windows)
 
@@ -39,15 +39,15 @@ Now, take time and follow the picture instructions I made for you. This will giv
 
 ### Sample VN Install (Windows)
 
-![Image](img/vn3.png)
-![Image](img/vn4.png)
-![Image](img/vn5.png)
-![Image](img/vn6.png)
-![Image](img/vn7.png)
-![Image](img/vn8.png)
-![Image](img/vn9.png)
-![Image](img/vn10.png)
-![Image](img/vn11.png)
+![Image](img/vn3.jpg)
+![Image](img/vn4.jpg)
+![Image](img/vn5.jpg)
+![Image](img/vn6.jpg)
+![Image](img/vn7.jpg)
+![Image](img/vn8.jpg)
+![Image](img/vn9.jpg)
+![Image](img/vn10.jpg)
+![Image](img/vn11.jpg)
 
 ### VNs on mobile
 #### Android
@@ -55,7 +55,7 @@ There are a couple of native Android Visual Novels but these are usually spin-of
 
 The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=ja&gl=US) emulator and download PSP ROMs.
 
-![Image](img/vn12.png)  
+![Image](img/vn12.jpg)  
 
 #### iOS (Non-jailbreak)
 
@@ -84,19 +84,19 @@ A detailed Yomichan setup tutorial can be found [here](/yomichan)
 
 For most applications, use the x86 executable of Textractor.
 
-![Image](img/vn13.png)
+![Image](img/vn13.jpg)
 
 Launch a VN and attach Textractor to it using the “Attach to game” function.
 
 Advance the text (click) in the visual novel, and cycle through the hooks until you find the one that matches the text in the game.
 
-![Image](img/vn14.png)
+![Image](img/vn14.jpg)
 
 Navigate to the *Texthooking page*, and toggle the clipboard inserter.
 
-![Image](img/vn15.png)
+![Image](img/vn15.jpg)
 
-![Image](img/vn16.png)
+![Image](img/vn16.jpg)
 
 Now that you have it all set up, enjoy the reading!!
 
@@ -137,7 +137,7 @@ Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSS
 
 Proof of texthooking working with PPSSPP:  
   
-![Image](img/vn17.png)  
+![Image](img/vn17.jpg)  
 
 ### Bonus #2: Visuals Novels on a Windows XP virtual machine
 #### Why?
@@ -202,7 +202,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 34. ITHVNR will automatically copy text to your clipboard, which is shared with your actual PC. I recommend you use [Yomichan](/yomichan)'s clipboard monitor :)
 35. Phew, that's pretty much it, have fun!
 ![Image](img/winxp1.jpg)
-![Image](img/winxp2.png)  
+![Image](img/winxp2.jpg)  
 *from actual pc*
 
 :smirk_cat:
@@ -352,15 +352,15 @@ Once thats done, we can setup Lutris.
 
 Open Lutris, and click the plus icon in the top left corner, and click Install runners.
 
-![Image](img/vnlinux1.png)
+![Image](img/vnlinux1.jpg)
 
 Scroll down to the bottom and find "Wine" and click the cog icon next to it.  
 
-![Image](img/vnlinux2.png)  
+![Image](img/vnlinux2.jpg)  
 
 Now go to System options and set the environment variables as shown below and click Save.  
 
-![Image](img/vnlinux3.png)  
+![Image](img/vnlinux3.jpg)  
 
 ### Example installation of a visual novel
 
@@ -391,7 +391,7 @@ sudo mount -o loop file.ISO /media/cdrom0
 
 If all went well, you will be able to see the ISO contents like:  
 
-![Image](img/vnlinux4.png)
+![Image](img/vnlinux4.jpg)
 
 Next, we will run the setup file using `wine`:
 
@@ -405,20 +405,20 @@ Now we can add the game to Lutris so we can launch it quickly.
 
 Back in Lutris, click the plus icon in the corner, add the name of the VN, choose Wine as the runner and under "Game Options" navigate to the game's executable. You should also change the prefix architecture to 32-bit.
 
-![Image](img/vnlinux5-sup.png)  
+![Image](img/vnlinux5-sup.jpg)  
 
-![Image](img/vnlinux5.png)  
+![Image](img/vnlinux5.jpg)  
 
 !!! warning "Vulkan Unsupported Systems"
 	If your system does not support Vulkan, you must disable DXVK in "Runner options". DXVK is also a better implementation of DirectX 9 so we will be keeping it on even though VNs don't use 3D graphics.  
 
 Now you can just launch it in Lutris!  
 
-![Image](img/vnlinux6.png)  
+![Image](img/vnlinux6.jpg)  
 
 and viola!  
 
-![Image](img/vnlinux7.png)
+![Image](img/vnlinux7.jpg)
 
 !!! question "Why do you use *that* distro?"
 	I don't. I only used it in a virtual machine for this tutorial.
