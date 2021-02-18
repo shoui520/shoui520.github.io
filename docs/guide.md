@@ -28,7 +28,7 @@ Acquisition requires *meaningful* interaction with the target language, during w
 In simple terms, i+1 means “one [and no more than one] thing [piece of language] you do not yet know in the sentence"
 Say if you were learning English and you heard the sentence, "I'm playing the guitar", but you didn't know the word "playing" . This sentence would be i+1 because you know all the words and grammar structures apart from "playing". This is also comprehensible input IF you understood the message it was conveying.
 
-![i+1](img/i1.png)
+![i+1](img/i1.jpg)
 
 ### Input & Comprehensible Input
 *Input* itself refers to listening and reading to native content in the target language. *Mass input* can be referred to as *immersion*. Native content means content made by natives, for natives. (Raw) Anime is made by natives, for natives, therefore it is native content.
@@ -52,7 +52,10 @@ Has your friend achieved something close to what you want to achieve? If not, yo
 
 ## ”Learning” Japanese Effectively
 Now that you know the basics of language acquisition, let’s dive into how to learn Japanese.
-### Kana
+### Kana  
+
+![Hiragana and Katakana](img/kana.jpg)  
+
 Kana refers to *hiragana* and *katakana*, they are the two scripts of the Japanese language. Hiragana and Katakana are two versions of the same sounds in the language.
 
 Hiragana is used for words and names not written in kanji and for grammatical purposes. The writer can choose whether or not to use the kanji form.
@@ -80,7 +83,13 @@ Steps if you got confused:
 
 After a week or so, you should have all the kana nailed down.
 
-### Kanji
+### Kanji  
+
+<figure>
+  <img src="https://learnjapanese.moe/img/kanji2.jpg" />
+  <figcaption>Kanji taught to Japanese 1st graders.</figcaption>
+</figure> 
+
 Kanji, literally meaning "Chinese Characters" is the third part of the Japanese writing system. They are logographic and therefore much more complex than kana. There are 2136 kanji taught in the Japanese school system, however don’t let this fool you.
 
 Around 3000 or more are used in daily life. Kanji are used when they are used. You will eventually understand what this means when you get a little more advanced in Japanese.
@@ -96,7 +105,7 @@ Around 3000 or more are used in daily life. Kanji are used when they are used. Y
 
 There’s two ways to approach kanji. One is **kanji with vocab** which is to learn words from reading without studying the individual kanji. You can fully comprehend "守銭奴" without knowing what the individual kanji mean just by looking it up in a dictionary.
 
-The other is **isolated kanji study** which is studying the meaning and composition of the individual kanji. Example: "守" “guard” "銭" “coin” "奴" “guy” = cheapskate. Huh? It’s pretty smart. Isolated kanji study can make remembering vocab easier, but it can put you behind due to the amount of time it takes, so it is up to you to decide whether it is worth it.
+The other is **isolated kanji study** which is studying the meaning and composition of the individual kanji. Example: "守"(guard)"銭"(coin)"奴"(guy) = cheapskate. Huh? It’s pretty smart. Isolated kanji study can make remembering vocab easier, but it can put you behind due to the amount of time it takes, so it is up to you to decide whether it is worth it.
 
 If you really struggle with reading words, then you should do isolated kanji study.
 ※ Another interesting thing about kanji with vocab, is that if you know other words that also use the kanji of said word, it can become easier to remember. (Example: If you can comprehend "**守**護", "**銭**湯" and "売国**奴**" then "**守銭奴**" becomes easier)
@@ -127,7 +136,7 @@ The bulk of your language learning journey is learning vocabulary, so you will b
 
 Anki is a spaced repetition system (SRS) flashcard program. It is designed to help you remember information. You can get it [here](https://apps.ankiweb.net/)  
 
-![Anki](img/anki21_tango_example.png)
+![Anki](img/anki21_tango_example.jpg)
 
 I recommend you start learning vocabulary using Anki after you have learned the kana and know extremely basic grammar. How basic is extremely basic is up to you to decide. I will go through how to study grammar after this section, so don't panic.  
 
@@ -155,7 +164,7 @@ There has been no settlement to which one is the “best”, they each have thei
 **i+1 Sentence Cards**  
 I+1 Sentence Cards are cards with an i+1 sentence with all its kanji :wink: on the front, and the piece of information needed to understand the sentence on the back. Let’s go through the benefits and drawbacks.  
 
-![Sentence Card](img/cardexample2.png)  
+![Sentence Card](img/cardexample2.jpg)  
 
 __Benefits:__  
 + Easier to judge whether or not you should pass (as opposed to fail) the card, as the task is simple: understand the sentence without revealing the back.   
@@ -169,7 +178,7 @@ __Drawbacks:__
 **High Quality Vocab Cards**  
 *High Quality* vocab cards are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back. Making them much more superior to standard vocab cards.  
 
-![Anime Cards](img/cardexample1.png)  
+![Anime Cards](img/cardexample1.jpg)  
 
 ※ They are known as “Anime Cards” because of [AnimeCards Site](https://animecards.site)  
 
@@ -216,7 +225,7 @@ Just putting it on in the background (Passive Immersion) is not going to help yo
 
 **Choosing what to immerse with**  
 
-It’s usually best to immerse with something with a visual and audio component, such as anime and j-drama (TV Show). TV shows have a visual component, and also a plot, so this brings more i+1 opportunities. It is not recommended to immerse with say, a podcast or an audiobook as a beginner, as you will have no idea what’s going on (incomprehensible input). If you’re in this server, then chances are you are a fan of anime, cool. You can use that to immerse, and even anime you have seen in the past.  
+It’s usually best to immerse with something with a visual and audio component, such as anime and j-drama (TV Show). TV shows have a visual component, and also a plot, so this brings more i+1 opportunities. It is not recommended to immerse with say, a podcast or an audiobook as a beginner, as you will have no idea what’s going on (incomprehensible input). If you are learning Japanese, then chances are you are a fan of anime, cool. You can use that to immerse, and even anime you have seen in the past.  
 
 
 What is also pretty helpful is reading an episode summary of the episode on Wikipedia before watching it, this can help you understand the plot more, so you can make more acquisition gains.  
@@ -243,15 +252,15 @@ I cannot answer that, that is up to you to experiment and decide. It all depends
   
 
 ## Now what?
-> 1. Learn the kana by copying out the entire chart posted in the **Kana** section into a notebook, or something similar.  
-> 2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself.  
-> 3. After you have completed Kana, then you should move on to learning grammar alongside vocabulary.. It is important that you pace yourself and don’t try to punch above your own weight, this is not a race.  
-> 4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing)  
+1. Learn the kana by copying out the entire chart posted in the **Kana** section into a notebook, or something similar.  
+2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself.  
+3. After you have completed Kana, then you should move on to learning grammar alongside vocabulary.. It is important that you pace yourself and don’t try to punch above your own weight, this is not a race.  
+4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing)  
 You can import the Tango N5 deck by clicking on it. It should open in Anki, wait a while for it to import.  
-> 5. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.  
-> 6. Work on the Tango N5 Anki deck **while** reading/watching your chosen grammar guide.  
+5. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.  
+6. Work on the Tango N5 Anki deck **while** reading/watching your chosen grammar guide.  
 After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing), too. You should also be nearing the end of your grammar guide at this point. I also suggest starting to read manga at this point.  
-> 7. After you finished Tango N4. You should set up a mining deck. It doesn’t matter that much which one you pick.  
+7. After you finished Tango N4. You should set up a mining deck. It doesn’t matter that much which one you pick.  
 
 *Choose one below.*   
 [High Quality Vocab Cards (“anime cards”)](https://animecards.site/)   
@@ -259,16 +268,17 @@ After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/
 
 **The process of learning Japanese is as follows:**  
 
-> **∞. Immersion is ongoing throughout this entire process. Keep this in mind.**   
-> 0. [Tolerate the ambiguity](https://refold.la/roadmap/stage-0/b/tolerate-ambiguity).  
-> 1. Learn the hiragana and katakana using the method as described above.    
-> 2. Learn grammar using the method as described above.   
-> 3. Download Anki and use the Tango N5 deck to learn basic words.   
-> 4. After you finish the Tango N5 deck, move on to Tango N4.   
-> 5. After you finish Tango N4, use [Quizmaster's Anki Guide](https://animecards.site/ankisetup/) to learn how to mine.    
-> 6. Once you are mining, the process of learning Japanese becomes as simple as reading Japanese and listening to Japanese everyday, and adding unknown words to your Anki flashcard deck.  
-> 7. You should now be just immersing (inputting) and making flashcards everyday.    
+!!! tip "Ongoing"
+	**Immersion is ongoing throughout this entire process. Keep this in mind.**   
 
+1. [Tolerate the ambiguity](https://refold.la/roadmap/stage-0/b/tolerate-ambiguity).  
+2. Learn the hiragana and katakana using the method as described above.    
+3. Learn grammar using the method as described above.   
+4. Download Anki and use the Tango N5 deck to learn basic words.   
+5. After you finish the Tango N5 deck, move on to Tango N4.   
+6. After you finish Tango N4, use [Quizmaster's Anki Guide](https://animecards.site/ankisetup/) to learn how to mine.    
+7. Once you are mining, the process of learning Japanese becomes as simple as reading Japanese and listening to Japanese everyday, and adding unknown words to your Anki flashcard deck.  
+8. You should now be just immersing (inputting) and making flashcards everyday.    
 
 ### Final Notes  
 That’s it. You can get fluent in Japanese just like that. But don’t forget that the most important part is immersion, Anki and grammar only assist your immersion.   
@@ -277,6 +287,8 @@ Music is not immersion.
 However, you can use the lyric sheet as reading practice.    
 This guide would have not been possible if it was not for Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay. Thank you all!   
 
+!!! note
+    You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
 
 ### Further Reading  
 
@@ -295,7 +307,7 @@ Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extensio
 For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomichan but for situations where you can’t select the text, e.g. in manga. It uses an OCR, so a little less reliable than Yomichan. To use, hover your mouse over whatever you want to look up.    
 
 
-### Android tools  
+#### Android tools  
 If you have an Android device, you can use Yomichan on [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=ja&gl=US).  
 You can get the app [JP-Dictionary](https://github.com/kamui-7/JP-Dictionary) which adds the iOS “Look Up” feature to your select menu.
 There is also [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) which works a little like KanjiTomo.   
@@ -304,15 +316,13 @@ You should get [Typhon Reader](https://play.google.com/store/apps/details?id=net
 There’s also [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku), it’s a system wide OCR. Pretty useful too.  
 
 
-### iOS tools
+#### iOS tools
 If you use an iOS device, you can use Books to read novels on your phone. You can use the “Look Up” feature. Make sure you have Japanese   dictionaries enabled in Settings > General > Dictionary.  
 Kantan Manga Reader is the iOS equivalent of OCR Manga Reader.  
 
 **Visual Novels**  
 If you intend on playing Visual Novels, then make sure you setup texthooking, you can find out how to do that [here](/vn)    
 
-!!! note
-    You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
 
 ### Discord   
 If you have any questions, you can ask at our Discord. 

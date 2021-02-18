@@ -72,33 +72,33 @@ This went a little off-topic, sorry about that.
 ## Yomichan - the better way to go monolingual.
 **I recommend doing the monolingual transition with Yomichan.**  
 
-![Image](img/monodemo1.png)  
+![Image](img/monodemo1.jpg)
 
 Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding Shift and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
 
 ### Optimizing Yomichan Settings 
 
 First you need to ensure that Advanced options is enabled.  
-![Image](img/mono1.png)  
+![Image](img/mono1.jpg)
 
 Second, we want to remove any and all scan delays because we will be making heavy use of this extension and wouldn't want to be slowed down by anything.  
 
-![Image](img/mono2.png)  
+![Image](img/mono2.jpg)
 
 Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
 
-![Image](img/mono3.png)  
+![Image](img/mono3.jpg)  
 
 You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
 
-![Image](img/mono4.png)  
+![Image](img/mono4.jpg)  
 
 Here's how our pop up looks now:  
-![Image](img/mono5.png) 
+![Image](img/mono5.jpg) 
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!
 
-![Image](img/mono6.png)  
+![Image](img/mono6.jpg)  
 
 I will touch on dictionaries in the next section.  
 
@@ -110,7 +110,7 @@ Download my [NEW Yomichan dictionaries pack](https://drive.google.com/file/d/1E1
 Extract the .7z file (You can use [7-Zip](https://www.7-zip.org/) for this), and you will be greeted with some .zip files. 
 **Do not tamper with these.**
 
-![Image](img/mono7.png)    
+![Image](img/mono7.jpg)    
  
 These are our Yomichan dictionaries. No you don't need to import all of them.
  
@@ -156,7 +156,7 @@ KireiCake
 
 **広辞苑 第六版, 付属資料** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.   
 
-**岩波国語辞典** - 6th edition of Iwanami dictionary. This is the dictionary Google uses when you search "〇〇 定義"、"〇〇 定義"とは、 and/or "〇〇 意味". The definitions "[feel like the Meikyou](/img/iwakoku.png)".  
+**岩波国語辞典** - 6th edition of Iwanami dictionary. This is the dictionary Google uses when you search "〇〇 定義"、"〇〇 定義"とは、 and/or "〇〇 意味". The definitions "[feel like the Meikyou](/img/iwakoku.jpg)".  
 
 **ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
 
@@ -199,7 +199,7 @@ Import the set of dictionaries that best suits you in [Recommended Dictionaries]
 
 You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
 
-![Image](img/mono8.png)  
+![Image](img/mono8.jpg)  
 
 ### Why do you say use a lot of dictionaries?
 
@@ -230,7 +230,7 @@ You’re gonna be learning Japanese for a long time, so it is possible that your
 ### Yomichan Offline
 You can still use Yomichan offline. Here’s how.
 
-![Image](img/mono19.png)
+![Image](img/mono9.jpg)
 
 That’s how.
 
@@ -281,7 +281,7 @@ Read more novels with a monolingual dictionary. I recommend reading novels on [I
 
 So what? It’s good that you are reading the dictionary more.
 
-![Image](img/mono35.png)  
+![Image](img/mono10.jpg)  
 
 #### 10 Important Tips and Tricks
 

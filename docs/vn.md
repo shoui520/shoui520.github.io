@@ -207,15 +207,234 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 
 :smirk_cat:
 
-### Bonus #3: Visual Novels on Linux (WINE)
+### Bonus #3: Visual Novels on Linux (Wine)
 
-kamui-7's vn and hotkey guide for linux [[link]](https://gist.github.com/kamui-7/3ea1d2cc953f0f213f559e5293a6144a)
+Follow the steps below to run VNs on Linux. This is based on kamui-7's VN guide, so credit to him. 
+
+### Install Dependencies
+
+#### Arch
+
+You will need to enable multilib before running this command. To do this, uncomment the `[multilib]` section in `/etc/pacman.conf`.
+
+```bash
+sudo pacman -S wine winetricks giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs lutris cdemu-client cdemu-daemon
+```
+
+!!! info "Custom Kernels"
+	If you are using a custom kernel such as Xanmod, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
+
+You can then enable the CDEmu daemon by running:
+
+```bash
+sudo systemctl enable --now cdemu-daemon
+```
+#### Debian/Ubuntu
+
+!!! info "Ubuntu 20.10"
+	If you are on Ubuntu 20.10 you must do `sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y` instead. 
+
+First you will need to enable 32-bit architecture.  
+```bash
+sudo dpkg --add-architecture i386
+```  
+Download the WineHQ repository key:  
+```bash
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+```  
+Now add the WineHQ repository key:  
+```bash
+sudo apt-key add winehq.key
+```  
+Add the repository:  
+```bash
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
+```
+Add PPA's for Lutris:  
+```bash
+sudo add-apt-repository ppa:lutris-team/lutris -y
+```
+Add PPA's for CDEmu:  
+```bash
+sudo add-apt-repository ppa:cdemu/ppa -y
+```
+Update packages:  
+```bash
+sudo apt update
+```
+Now install the stable version of Wine:  
+```bash
+sudo apt-get install --install-recommends winehq-stable -y
+```
+Now install Lutris, CDEmu and some needed libraries:  
+```bash
+sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:1386 ocl-icd-dev:i386 -y
+```
+Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
+First, wget the binary:  
+```bash
+wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+```
+Use `chmod` to make it into an executable:  
+```bash
+chmod +x winetricks
+```
+Now copy it to your `/usr/bin` so it can be used in a command line.  
+```bash
+sudo cp winetricks /usr/bin
+```  
+All done!  
+
+#### Gentoo
+
+Make sure your kernel is compiled with the following options enabled:
+
+1. `CONFIG_BLK_DEV_SR`
+2. `CONFIG_ISO9660_FS`
+3. `CONFIG_UDF_FS`
+
+It is recommended to have the following global use flags in your `make.conf`:
+
+1. `X`
+2. `pulseaudio`
+3. `jpeg`
+4. `png`
+
+```bash
+sudo emerge -av virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
+sudo modprobe vhba
+```
+
+Edit your `/etc/conf.d/modules` file and add this:
+
+```toml
+modules="vhba"
+```
+
+In order for the CDEmu daemon to be started automatically on boot, you will need to have dbus enabled. You can enable it by running:
+
+```bash
+sudo rc-update add dbus default
+```
+
+### Wine Setup
+
+First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit is unnecessary for VNs.
+
+```bash
+WINEARCH=win32 wineboot
+```
+Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work.   
+```bash
+winetricks ffdshow quartz wmp10 lavfilters d3dx9 dxvk dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+```
+Then, run this command to disable DLL overrides:
+
+```bash
+winetricks settings alldlls=default
+```
+
+You need to install Japanese fonts to Wine now. Please download the pack below.  
+[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
+Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`    
+
+!!! question "Why not install `cjkfonts` in winetricks?"
+	Because it doesn't work properly for VNs.
+
+If your Wine Windows version was set to XP, set it back to 7 using:  
+
+```bash
+winecfg -v win7
+```  
+It is useful to know that changing the Windows version in Wine does not change the way Wine behaves, rather, it only changes what it reports to the application, since 99% of VNs recommend Windows 7, we will be using that.  
+
+Once thats done, we can setup Lutris.
+
+Open Lutris, and click the plus icon in the top left corner, and click Install runners.
+
+![Image](img/vnlinux1.png)
+
+Scroll down to the bottom and find "Wine" and click the cog icon next to it.  
+
+![Image](img/vnlinux2.png)  
+
+Now go to System options and set the environment variables as shown below and click Save.  
+
+![Image](img/vnlinux3.png)  
+
+### Example installation of a visual novel
+
+I will be using 古色迷宮輪舞曲～HISTOIRE DE DESTIN～ for this demonstration. Visual Novels usually come in .ISO files and if not, an .MDS/.MDF file which can be converted to an .ISO using tools such as mdf2iso.  
+In the case of 古色迷宮輪舞曲～HISTOIRE DE DESTIN～, the install files came in an .ISO, so we got lucky here.  
+
+Navigate to the path of the .ISO  
+
+```bash
+cd /path/to/visualnovelfolder
+```
+
+Load the .ISO file with CDEmu
+```bash
+cdemu load 0 file.ISO
+```
+
+Create a mount point for the ISO file.
+
+```bash
+sudo mkdir -p /media/cdrom0
+```
+Now we can mount our ISO to our mount point.  
+
+```bash
+sudo mount -o loop file.ISO /media/cdrom0
+```  
+
+If all went well, you will be able to see the ISO contents like:  
+
+![Image](img/vnlinux4.png)
+
+Next, we will run the setup file using `wine`:
+
+```bash
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine launcher.exe
+```
+
+Proceed with the installation. The game may be installed in `~/.wine/drive_c/Program Files` or wherever you chose to install it.
+
+Now we can add the game to Lutris so we can launch it quickly.  
+
+Back in Lutris, click the plus icon in the corner, add the name of the VN, choose Wine as the runner and under "Game Options" navigate to the game's executable. You should also change the prefix architecture to 32-bit.
+
+![Image](img/vnlinux5-sup.png)  
+
+![Image](img/vnlinux5.png)  
+
+!!! warning "Vulkan Unsupported Systems"
+	If your system does not support Vulkan, you must disable DXVK in "Runner options". DXVK is also a better implementation of DirectX 9 so we will be keeping it on even though VNs don't use 3D graphics.  
+
+Now you can just launch it in Lutris!  
+
+![Image](img/vnlinux6.png)  
+
+and viola!  
+
+![Image](img/vnlinux7.png)
+
+!!! question "Why do you use *that* distro?"
+	I don't. I only used it in a virtual machine for this tutorial.
+
+### Texthooking
+
+Textractor works perfectly on Linux. Please refer to [Looking up words in VNs using Yomichan and Textractor](#looking-up-words-in-vns-using-yomichan-and-textractor).  
+
+### Mining 
+Use [ames](https://github.com/Ajatt-Tools/ames) by Ajatt Tools to mine effectively on Linux.  
 
 ### Bonus #4: Visual Novels on macOS 
 
 #### Virtual Machine Method (macOS 10.11 - 11.2)
 
-It is usually best to use a VM of Microsoft Windows 7, as it works on newer Macs and does not have a tedious hacky setup like WINE. Why not Windows 10? Simply because 10 is not necessary for Visual Novels and is also bloated.  
+It is usually best to use a VM of Microsoft Windows 7, as it works on newer Macs and does not have a tedious hacky setup like Wine. Why not Windows 10? Simply because 10 is not necessary for Visual Novels and is also bloated.  
 
 Search on Google for how to run a Windows virtual machine on your Mac using Parallels (paid) or VirtualBox (free)  
 Contact me on Discord if you need help with getting either a Windows XP, 7 or 10 ISO.  
@@ -242,13 +461,13 @@ Intel-based Mac Pro introduced in 2013 or later
 Search on Google for how to use Bootcamp on your Mac.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-#### HIGHLY EXPERIMENTAL: WINE Method (macOS 10.8 - 10.14)
+#### HIGHLY EXPERIMENTAL: Wine Method (macOS 10.8 - 10.14)
 
 !!! warning "Compatibility Issues"
 	macOS has poor compatibility, therefore this guide may not work for everyone. 
-	The best version to use if you want to run VNs with WINE is **macOS Mojave 10.14.6** formatted in **HFS+**
+	The best version to use if you want to run VNs with Wine is **macOS Mojave 10.14.6** formatted in **HFS+**
 
-WINE, in layman's terms, allows you to run Microsoft Windows programs on your Mac.
+Wine, in layman's terms, allows you to run Microsoft Windows programs on your Mac.
  
 ####**Step 1. Installing Japanese fonts on your Mac.**
 
@@ -280,7 +499,7 @@ When the Xcode installation is complete, press any key. Now we will need to ente
 
 
 
-####**Step 3. Installing WINE and other dependencies**  
+####**Step 3. Installing Wine and other dependencies**  
 
 We will install some dependencies using `brew` first.:  
 ```bash
@@ -290,8 +509,8 @@ brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-tur
 !!! warning "macOS High Sierra or older"
 	It is recommend you install old versions of these packages, or else it will not work.  
 
-Now we will install WINE Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
-Now you need to add WINE to our PATH so we can use it in the terminal.  
+Now we will install Wine Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
+Now you need to add Wine to our PATH so we can use it in the terminal.  
 First we need to open a terminal text editor.  
 ```bash
 nano .profile
@@ -303,36 +522,32 @@ export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
 export DYLD_FALLBACK_LIBRARY_PATH="/usr/lib:/opt/X11/lib:$DYLD_FALLBACK_LIBRARY_PATH"
 ```  
 Now press ^X to exit and Y and Return to save.  
-Now we will install `winetricks` which will help us configure WINE.   
+Now we will install `winetricks` which will help us configure Wine.   
 ```bash
 brew install winetricks
 ```  
 
 !!! failure "APFS"
-	WINE will fail to work if your macOS installation is installed on a drive formatted in APFS. You can check if you are using APFS by using the command `diskutil info /` in a terminal. It is recommended you reinstall macOS on a HFS+ formatted drive and change it from a case sensitive drive to a case insensitive drive using the tutorial found [here](https://www.macworld.com/article/3440258/how-to-convert-a-case-sensitive-mac-hfs-partition-into-a-case-insensitive-one.html) 
+	Wine will fail to work if your macOS installation is installed on a drive formatted in APFS. You can check if you are using APFS by using the command `diskutil info /` in a terminal. It is recommended you reinstall macOS on a HFS+ formatted drive and change it from a case sensitive drive to a case insensitive drive using the tutorial found [here](https://www.macworld.com/article/3440258/how-to-convert-a-case-sensitive-mac-hfs-partition-into-a-case-insensitive-one.html) 
 
-Now we will create a 32-bit WINE prefix. This has the best compatibility across the board.
+Now we will create a 32-bit Wine prefix. This has the best compatibility across the board.
 ```bash
 WINEARCH=win32 wineboot
 ```  
 
 We will now install common dependencies needed by visual novels such as DirectX, Visual C Runtimes and the .NET framework.  
 ```bash
-winetricks quartz d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015 ffdshow
+winetricks quartz d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015 ffdshow wmp10 lavfilters
 ```  
 Then, we need to disable DLL overrides to make VNs work better.
 ```bash
 winetricks settings alldlls=default
 ```   
 
-You need to install Japanese fonts to WINE now. Please download the pack below.  
+You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
 Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`   
 
-Some visual novels require you to have LAVFilters installed. You can find the download below.  
-[[GitHub]](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe)  
-To run it, you can double click the `.exe` or `cd` to the path it is downloaded to and run `wine LAVFilters-0.74.1-Installer.exe`   
-Proceed with the installation.  
 
 ####**Step 4. CD Emulation**  
 Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
@@ -350,7 +565,7 @@ LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine Autorun.exe
 Proceed with the installation. You can reference [Sample VN Install (Windows)](https://learnjapanese.moe/vn/#sample-vn-install-windows) if you need help.  
 
 I installed the game into `~/.wine/drive_c/Program Files/KEY/AngelBeats!`, and have applied the patch.  
-I can run it in WINE by first using `cd` into that directory, then running the .exe file with the command below.  
+I can run it in Wine by first using `cd` into that directory, then running the .exe file with the command below.  
 ```bash
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine SiglusEngine.exe
 ```
