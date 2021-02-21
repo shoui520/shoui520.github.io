@@ -461,9 +461,9 @@ Intel-based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-#### Experimental: Wine Method (macOS 10.8 - 10.14)  
+#### Experimental: Wine Method (macOS 10.8 - 10.15¹)
 
-!!! info "macOS Catalina"
+!!! info "¹ macOS Catalina"
 	Only CrossOver-19 and later will run on macOS Catalina.  
 
 !!! warning "Compatibility Issues"
