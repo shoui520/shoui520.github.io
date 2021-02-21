@@ -461,11 +461,14 @@ Intel-based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-#### HIGHLY EXPERIMENTAL: Wine Method (macOS 10.8 - 10.14)
+#### HIGHLY EXPERIMENTAL: Wine Method (macOS 10.8 - 10.14)  
+
+!!! info "macOS Catalina"
+	Only CrossOver-19 and later will run on macOS Catalina.  
 
 !!! warning "Compatibility Issues"
 	macOS has poor compatibility, therefore this guide may not work for everyone. 
-	The best version to use if you want to run VNs with Wine is **macOS Mojave 10.14.6** formatted in **HFS+**
+	The best version to use if you want to run VNs with Wine is **macOS Mojave 10.14.6**. 
 
 Wine, in layman's terms, allows you to run Microsoft Windows programs on your Mac.
  
@@ -501,67 +504,100 @@ When the Xcode installation is complete, press any key. Now we will need to ente
 
 ####**Step 3. Installing Wine and other dependencies**  
 
-We will install some dependencies using `brew` first.:  
-```bash
-brew install xquartz zenity giflib libpng gnutls mpg123 libgpg-error libjpeg-turbo sqlite libxcomposite libxinerama libgcrypt ncurses libva gst-plugins-base 
-```   
+First, we need to make sure **XQuartz 2.7.7** or above is installed. We can install it with `brew`
 
-!!! warning "macOS High Sierra or older"
-	It is recommend you install old versions of these packages, or else it will not work.  
-
-Now we will install Wine Staging manually. [You can get the .PKG for Wine Staging here](https://dl.winehq.org/wine-builds/macosx/pool/winehq-staging-5.7.pkg)  
-Now you need to add Wine to our PATH so we can use it in the terminal.  
-First we need to open a terminal text editor.  
 ```bash
-nano .profile
-```  
-From there we can add the following:  
-```bash
-export PATH="/Applications/Wine Staging.app/Contents/Resources/wine/bin:$PATH"
-export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
-export DYLD_FALLBACK_LIBRARY_PATH="/usr/lib:/opt/X11/lib:$DYLD_FALLBACK_LIBRARY_PATH"
-```  
-Now press ^X to exit and Y and Return to save.  
-Now we will install `winetricks` which will help us configure Wine.   
-```bash
-brew install winetricks
+brew install --cask xquartz
 ```  
 
-!!! failure "APFS"
-	Wine will fail to work if your macOS installation is installed on a drive formatted in APFS. You can check if you are using APFS by using the command `diskutil info /` in a terminal. It is recommended you reinstall macOS on a HFS+ formatted drive and change it from a case sensitive drive to a case insensitive drive using the tutorial found [here](https://www.macworld.com/article/3440258/how-to-convert-a-case-sensitive-mac-hfs-partition-into-a-case-insensitive-one.html) 
+Now we can install Wine-Staging, which is the best for macOS as it has all the patches. 
+First add the casks,  
+```bash
+brew tap homebrew/cask-versions
+brew tap gcenx/wine
+```
 
-Now we will create a 32-bit Wine prefix. This has the best compatibility across the board.
+!!! info "macOS Catalina"  
+	You need to do `brew install --cask --no-quarantine wine-crossover` instead.  
+
+Now:  
+```bash
+brew install --cask --no-quarantine gcenx-wine-staging
+```  
+
+We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
+
 ```bash
 WINEARCH=win32 wineboot
 ```  
 
-We will now install common dependencies needed by visual novels such as DirectX, Visual C Runtimes and the .NET framework.  
+Now we can install `winetricks` which helps us configure Wine and install software along with `zenity` which gives us a graphical interface.  
+
+
 ```bash
-winetricks quartz d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015 ffdshow wmp10 lavfilters
+brew install winetricks zenity
+```
+
+Now we need to use XQuartz as our display driver. Note that this may already be set, but do this just in case anyway.  
+
+```bash
+winetricks macdriver=x11
+```
+!!! question "Having issues?"  
+	You can set the display driver back to the native Mac driver using `winetricks macdriver=mac`  
+
+Now let's install the needed dependencies to run visual novels as well as some components to make video cutscenes work.  
+
+!!! tip "Optional: Font smoothing"
+	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+
+!!! tip "Optional: GUI Improvments"
+	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
+
+```bash
+winetricks quartz ffdshow lavfilters wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
-Then, we need to disable DLL overrides to make VNs work better.
-```bash
-winetricks settings alldlls=default
-```   
+Graphical installers will show up, this is very similar to .pkg installers on macOS, so you should be pretty familiar already. 
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`   
+Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`    
+
+!!! tip "Spotlight Search"
+	If you cannot find the `.wine` folder or have no idea what `~` is, just copy and paste that into Spotlight Search and it will open the directory for you. 
 
 
-####**Step 4. CD Emulation**  
-Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
-We can use a handy application known as ToastMount 2.0 to mount .ISO files as if it were an actual disc in a CD reader. You can download it below.  
-[[SourceForge]](http://prdownloads.sourceforge.net/toastmount/toastmount-2.0.dmg?download)  
-Mount the .DMG file and proceed with the installation.  
+!!! question "Why not install `cjkfonts` in winetricks?"
+	Because it doesn't work properly for VNs.
 
-####**Step 5. Running the installer.**
 
-If your VN comes in an .ISO file, you must mount it before preceding. Then you need to `cd` into where the .ISO is mounted/where the installation files are. In the case of the VN I am using for this tutorial, the installation wizard is `Autorun.exe`.    
+
+####**Step 4. Running the installer.**
+
+If your VN comes in an .ISO file, you must double click on it to mount it, I will be using Angel Beats! ~1st beat~ for this tutorial. The .ISO file is `ab_1st.iso`.  
+![ab_1st iso in Finder](img/vnmac1.jpg)  
+
+Now you must find the mount point by using `diskutil`, you can do that below.  
+```bash
+diskutil list
+```
+Look at the output for the mounted iso, for me it is `/dev/disk3`. Now we need to find the mount point. 
+
+```bash
+diskutil info /dev/your_disk_here | grep 'Mount Point'
+```
+The mount point for my .iso is `/Volumes/ab_1st`. I can now `cd` into that directory.  
+
+![Macintosh Terminal](img/vnmac2.jpg)  
+
 You can then run:  
 ```bash
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine Autorun.exe
 ```
+!!! info "Executable Filenames"
+	Filenames for executables will not always be the same for every visual novel, please run whatever you have.  
+	It is `Autorun.exe` for me but it may be `setup.exe` for you, for example.  
+
 Proceed with the installation. You can reference [Sample VN Install (Windows)](https://learnjapanese.moe/vn/#sample-vn-install-windows) if you need help.  
 
 I installed the game into `~/.wine/drive_c/Program Files/KEY/AngelBeats!`, and have applied the patch.  
@@ -569,6 +605,16 @@ I can run it in Wine by first using `cd` into that directory, then running the .
 ```bash
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine SiglusEngine.exe
 ```
+!!! question "cd not working, directory not found?"
+	Because `Program Files` has a space, you must put the path in quotation marks. 
+	Example: `"~/.wine/drive_c/Program Files"`  
+!!! question "DirectX (Direct3D) not working?"  
+	Set it up in the visual novel installer if possible.  
+	
+
+####**Step 5. CD Emulation**  
+Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
+If the VN you downloaded does not come with a crack, CD emulation needs to be done in order to launch the game, that is done using a tool called CDEmu on Linux and WinCDEmu on Windows, however, there is no macOS version, so you can just mount the .ISO file normally and use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip) to trick the VN executable into thinking that the original disc is insterted. To use, drag the VN executable onto the AlphaROM GUI.  
 
 ####**Step 6. Texthooking**
 
