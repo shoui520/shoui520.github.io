@@ -461,7 +461,7 @@ Intel-based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-#### HIGHLY EXPERIMENTAL: Wine Method (macOS 10.8 - 10.14)  
+#### Experimental: Wine Method (macOS 10.8 - 10.14)  
 
 !!! info "macOS Catalina"
 	Only CrossOver-19 and later will run on macOS Catalina.  
@@ -469,6 +469,7 @@ Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO
 !!! warning "Compatibility Issues"
 	macOS has poor compatibility, therefore this guide may not work for everyone. 
 	The best version to use if you want to run VNs with Wine is **macOS Mojave 10.14.6**. 
+
 
 Wine, in layman's terms, allows you to run Microsoft Windows programs on your Mac.
  
@@ -490,7 +491,7 @@ sudo spctl --master-disable
 Authenticate with the admin password. You can now go in **System Preferences** > **Security & Privacy** > click the **Lock** at the bottom left > choose **Anywhere**.  
 
 Now go back in the terminal, we will now install `brew`.  
-!!! warning "macOS Mojave"
+!!! info "macOS Mojave"
 	Mojave users need to run `gcc` in the terminal and install Xcode from there before you run the command below.  
 
 Copy and paste this command and hit Return:  
@@ -527,6 +528,9 @@ brew install --cask --no-quarantine gcenx-wine-staging
 
 We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
 
+!!! warning "AMD Hackintosh"
+	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. wineboot without a WINEARCH parameter, also wine commands must be run with wine64 instead.  
+
 ```bash
 WINEARCH=win32 wineboot
 ```  
@@ -542,7 +546,8 @@ Now we need to use XQuartz as our display driver. Note that this may already be 
 
 ```bash
 winetricks macdriver=x11
-```
+```  
+
 !!! question "Having issues?"  
 	You can set the display driver back to the native Mac driver using `winetricks macdriver=mac`  
 
@@ -591,9 +596,11 @@ The mount point for my .iso is `/Volumes/ab_1st`. I can now `cd` into that direc
 ![Macintosh Terminal](img/vnmac2.jpg)  
 
 You can then run:  
+
 ```bash
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine Autorun.exe
-```
+```  
+
 !!! info "Executable Filenames"
 	Filenames for executables will not always be the same for every visual novel, please run whatever you have.  
 	It is `Autorun.exe` for me but it may be `setup.exe` for you, for example.  
@@ -602,15 +609,17 @@ Proceed with the installation. You can reference [Sample VN Install (Windows)](h
 
 I installed the game into `~/.wine/drive_c/Program Files/KEY/AngelBeats!`, and have applied the patch.  
 I can run it in Wine by first using `cd` into that directory, then running the .exe file with the command below.  
+
 ```bash
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine SiglusEngine.exe
 ```
+
 !!! question "cd not working, directory not found?"
 	Because `Program Files` has a space, you must put the path in quotation marks. 
 	Example: `"~/.wine/drive_c/Program Files"`  
 !!! question "DirectX (Direct3D) not working?"  
-	Set it up in the visual novel installer if possible.  
-	
+	Make sure `d3dx9` is installed with winetricks. 
+	Note that you cannot use DirectX on a macOS virtual machine.  
 
 ####**Step 5. CD Emulation**  
 Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
