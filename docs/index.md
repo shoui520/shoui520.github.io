@@ -1,6 +1,5 @@
 !!! warning "Under Maintenance"  
-	This website is currently under maintenance, you may not be able to use the website.  
-	Come back later.  
+	This website is currently under maintenance, you may not be able to use the website.   
 
 ![welcome](img/welcome.png){:  style="display: block; margin: 0 auto;" }
 
