@@ -331,7 +331,7 @@ winetricks ffdshow quartz wmp10 lavfilters d3dx9 dxvk dotnet35 vcrun2003 vcrun20
 Then, run this command to disable DLL overrides:
 
 ```bash
-winetricks settings alldlls=default
+winetricks alldlls=default
 ```
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
