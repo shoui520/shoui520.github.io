@@ -48,3 +48,8 @@ markdown_extensions:
   - pymdownx.superfences
 extra_css:
   - stylesheets/extra.css
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
