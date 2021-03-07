@@ -324,7 +324,15 @@ First we need to create a 32 bit Wine prefix, this has the best compatibility an
 ```bash
 WINEARCH=win32 wineboot
 ```
-Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work.   
+Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work. 
+
+!!! tip "Optional: Font smoothing"
+	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+
+!!! tip "Optional: GUI Improvments"
+	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
+
+
 ```bash
 winetricks ffdshow quartz wmp10 lavfilters d3dx9 dxvk dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```
@@ -432,7 +440,7 @@ Use [ames](https://github.com/Ajatt-Tools/ames) by Ajatt Tools to mine effective
 
 ### Bonus #4: Visual Novels on macOS 
 
-#### Virtual Machine Method (macOS 10.11 - 11.2)
+#### Virtual Machine Method (macOS 10.11 - 11.x)
 
 It is usually best to use a VM of Microsoft Windows 7, as it works on newer Macs and does not have a tedious hacky setup like Wine. Why not Windows 10? Simply because 10 is not necessary for Visual Novels and is also bloated.  
 
@@ -461,36 +469,42 @@ Intel-based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-#### Experimental: Wine Method (macOS 10.8 - 10.15¹)
+#### Wine Method (macOS 10.8 - 11.x)
 
-!!! info "¹ macOS Catalina"
+!!! info "macOS Catalina"
 	Only CrossOver-19 and later will run on macOS Catalina.  
-
+!!! info "macOS Big Sur"
+	Only CrossOver-20 and later will run on macOS Big Sur.  
 !!! warning "Compatibility Issues"
-	macOS has poor compatibility, therefore this guide may not work for everyone. 
-	The best version to use if you want to run VNs with Wine is **macOS Mojave 10.14.6**. 
+	macOS has poor backwards compatibility, therefore this guide may not work for everyone. 
 
 
-Wine, in layman's terms, allows you to run Microsoft Windows programs on your Mac.
+Wine, in layman's terms, allows you to run Microsoft Windows programs on your Mac without any virtualization or dual booting.
  
-####**Step 1. Installing Japanese fonts on your Mac.**
+#### Step 1. Installing Japanese fonts on your Mac.
 
 You can download all Japanese fonts needed from [this archive](https://drive.google.com/file/d/1gOv5Y4eDMtZTFJIXFWY62nFqkmeeBMkD/view?usp=sharing). Next you need to double click on the archive in Finder, it will extract it into the folder "macOS Japanese Fonts [learnjapanese.moe]"  
 Now press `⌘+Space` to bring up Spotlight Search and search for *Font Book.* Now click the + button in Font Book, and select the folder *macOS Japanese Fonts [learnjapanese.moe]* and click *Open* to install the required fonts.
 
-####**Step 2. Using the Terminal and installing Brew**
+#### Step 2. Using the Terminal and installing Brew
 
 !!! warning "macOS High Sierra or older"
-	Brew no longer supports any version older than Mojave, it may take considerably long to install Brew, or fail entirely on anything older than High Sierra.  
+	Brew no longer officially supports any version older than Mojave, it may take considerably long to install Brew, or fail entirely on anything older than High Sierra.  
+
 To make this tutorial easier, we will be using the terminal to install a lot of things. We will need `brew` which allows you to install things from the terminal.  
 Open Spotlight Search using `⌘+Space` and search for "Terminal" and open it.  
-First we need to make sure we can install non App Store verified apps. Type the following command below and hit Return.
+
+First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit Return.
 ```bash
 sudo spctl --master-disable
 ```  
-Authenticate with the admin password. You can now go in **System Preferences** > **Security & Privacy** > click the **Lock** at the bottom left > choose **Anywhere**.  
+Authenticate with the admin password. You can now go in **System Preferences** > **Security & Privacy** > click the **Lock** at the bottom left > choose **Anywhere**.
+
+!!! note "Re-enabling Gatekeeper"
+	You can revert this change using `sudo spctl --master-enable`
 
 Now go back in the terminal, we will now install `brew`.  
+
 !!! info "macOS Mojave"
 	Mojave users need to run `gcc` in the terminal and install Xcode from there before you run the command below.  
 
@@ -501,9 +515,7 @@ Copy and paste this command and hit Return:
 It will ask for your password because it is an administrative action. Hit Return when asked, and install Xcode when prompted.  
 When the Xcode installation is complete, press any key. Now we will need to enter our password again to complete the installation of Brew.  
 
-
-
-####**Step 3. Installing Wine and other dependencies**  
+#### Step 3. Installing Wine and other dependencies  
 
 First, we need to make sure **XQuartz 2.7.7** or above is installed. We can install it with `brew`
 
@@ -516,20 +528,23 @@ First add the casks,
 ```bash
 brew tap homebrew/cask-versions
 brew tap gcenx/wine
-```
-
-!!! info "macOS Catalina"  
-	You need to do `brew install --cask --no-quarantine wine-crossover` instead.  
+```  
 
 Now:  
 ```bash
 brew install --cask --no-quarantine gcenx-wine-staging
 ```  
 
+!!! info "macOS Catalina & later"  
+	You need to do `brew install --cask --no-quarantine wine-crossover` instead.
+
 We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
 
 !!! warning "AMD Hackintosh"
-	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. wineboot without a WINEARCH parameter, also wine commands must be run with wine64 instead.  
+	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. `wineboot` without a `WINEARCH` parameter, also `wine` commands must be run with `wine64` instead.  
+
+!!! info "macOS Catalina & later"
+	From [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac): On macOS Catalina 10.15.0 to 10.15.3, [SIP](https://support.apple.com/en-us/HT204899) needs to be disabled this will allow `wine32on64` to change the state of `i386_set_ldt`. 
 
 ```bash
 WINEARCH=win32 wineboot
@@ -537,12 +552,11 @@ WINEARCH=win32 wineboot
 
 Now we can install `winetricks` which helps us configure Wine and install software along with `zenity` which gives us a graphical interface.  
 
-
 ```bash
 brew install winetricks zenity
 ```
 
-Now we need to use XQuartz as our display driver. Note that this may already be set, but do this just in case anyway.  
+Now we need to use XQuartz as our display driver, this will let us use hardware acceleration for the Wine window.  
 
 ```bash
 winetricks macdriver=x11
@@ -553,45 +567,42 @@ winetricks macdriver=x11
 
 Now let's install the needed dependencies to run visual novels as well as some components to make video cutscenes work.  
 
+```bash
+winetricks quartz ffdshow lavfilters wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+```  
+Graphical installers will show up, this is very similar to .pkg installers on macOS, so you should be pretty familiar already. 
+
 !!! tip "Optional: Font smoothing"
 	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
 
 !!! tip "Optional: GUI Improvments"
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
-```bash
-winetricks quartz ffdshow lavfilters wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
-```  
-Graphical installers will show up, this is very similar to .pkg installers on macOS, so you should be pretty familiar already. 
-
-You need to install Japanese fonts to Wine now. Please download the pack below.  
+You need to install Japanese fonts into Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
 Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`    
 
 !!! tip "Spotlight Search"
 	If you cannot find the `.wine` folder or have no idea what `~` is, just copy and paste that into Spotlight Search and it will open the directory for you. 
 
-
 !!! question "Why not install `cjkfonts` in winetricks?"
-	Because it doesn't work properly for VNs.
+	Because it doesn't work properly for visual novels.
 
-
-
-####**Step 4. Running the installer.**
+#### Step 4. Running the installer.
 
 If your VN comes in an .ISO file, you must double click on it to mount it, I will be using Angel Beats! ~1st beat~ for this tutorial. The .ISO file is `ab_1st.iso`.  
-![ab_1st iso in Finder](img/vnmac1.jpg)  
+![ab_1st.iso in Finder](img/vnmac1.jpg)  
 
 Now you must find the mount point by using `diskutil`, you can do that below.  
 ```bash
 diskutil list
 ```
-Look at the output for the mounted iso, for me it is `/dev/disk3`. Now we need to find the mount point. 
+Look at the output for the mounted .ISO, for me it is `/dev/disk3`. Now we need to find the mount point. 
 
 ```bash
 diskutil info /dev/your_disk_here | grep 'Mount Point'
 ```
-The mount point for my .iso is `/Volumes/ab_1st`. I can now `cd` into that directory.  
+The mount point for my .ISO is `/Volumes/ab_1st`. I can now `cd` into that directory.  
 
 ![Macintosh Terminal](img/vnmac2.jpg)  
 
@@ -616,16 +627,17 @@ LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine SiglusEngine.exe
 
 !!! question "cd not working, directory not found?"
 	Because `Program Files` has a space, you must put the path in quotation marks. 
-	Example: `"~/.wine/drive_c/Program Files"`  
+	Example: `"~/.wine/drive_c/Program Files/"`  
+
 !!! question "DirectX (Direct3D) not working?"  
 	Make sure `d3dx9` is installed with winetricks. 
-	Note that you cannot use DirectX on a macOS virtual machine.  
+	Note that you cannot use hardware 3D accelerated programs on a macOS virtual machine without GPU passthrough.  
 
-####**Step 5. CD Emulation**  
+#### Step 5. CD Emulation  
 Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
 If the VN you downloaded does not come with a crack, CD emulation needs to be done in order to launch the game, that is done using a tool called CDEmu on Linux and WinCDEmu on Windows, however, there is no macOS version, so you can just mount the .ISO file normally and use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip) to trick the VN executable into thinking that the original disc is insterted. To use, drag the VN executable onto the AlphaROM GUI.  
 
-####**Step 6. Texthooking**
+#### Step 6. Texthooking
 
 Refer to *[Looking up words in VNs using Yomichan and Textractor](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor)*.
 

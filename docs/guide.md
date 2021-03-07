@@ -124,7 +124,7 @@ Look at the manga picture above. Look at the first panel. You see "人数"? That
 When approaching kanji as a beginner, they can look like scribbles rather than familiar shapes. Kanji have common shapes and patterns and Isolated Kanji Study helps you see those common shapes and patterns. Instead of "草" looking like a random drawing, you can see that it’s composed from "艹", "日" and "十".
 
 An isolated kanji study method I recommend is *RRTK 450* (Recognition Remembering the Kanji 450 Cards) which is designed to help you see kanji as familiar shapes. It is used in the application Anki. You can find more information about it below.  
-[RRTK Explained](https://massimmersionapproach.com/table-of-contents/stage-1/practice/recognition-rtk)  
+[RRTK Explained](https://docs.google.com/document/u/1/d/e/2PACX-1vRTJ22UiHpPaafBlY2vNxQr1ROjq1iFp8_3rlVPYFqf3Se316Vf4Ucw2fljzDA8PPVqyMuWqf-t70s5/pub#h.2ymix0g1ikdt)  
 [Get RRTK 450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
 With that said, to truly “learn” kanji, you still need to read Japanese for thousands of hours, so in the end, you’re going to be doing kanji with vocab anyway. Think of isolated kanji study as your training wheels for kanji with vocab.
@@ -295,7 +295,6 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)  
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)  
 [Refoold Languages](https://refold.la/)  
-[Mass Immersion Approach (discontinued)](https://massimmersionapproach.com/)  
 [All Japanese All The Time](https://learnjapanese.link/ajatt)  
 [AntiMoon](http://www.antimoon.com/)  
 [Itazuraneko](https://itazuraneko.neocities.org/)  

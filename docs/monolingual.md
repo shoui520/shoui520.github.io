@@ -118,7 +118,7 @@ Before we continue, have a read on recommended dictionaries and what they are ex
 
 ### Recommended Dictionaries
 
-#### Here’s what I recommend for first time monolingual users:**
+#### Here’s what I recommend for first time monolingual users:
 
 明鏡国語辞典  
 ハイブリッド新辞林  
@@ -129,7 +129,7 @@ JMdict (English)
 デジタル大辞泉    
 KireiCake      
 
-#### For general, 100% monolingual coverage:**
+#### For general, 100% monolingual coverage:
 
 大辞林 第三版   
 デジタル大辞泉  

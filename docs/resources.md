@@ -304,7 +304,6 @@ You can search for “ExpressVPN crack apk” if you’re an Android user lmao.
 - [AntiMoon](http://www.antimoon.com/)
 - [Itazuraneko Guide](https://itazuraneko.neocities.org/learn/guide.html)
 - [DJT Guide](https://djtguide.neocities.org/guide.html)
-- [(discontinued) Mass Immersion Approach](https://massimmersionapproach.com/)
 - [Matt vs. Japan playlist](https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm)
 
 ### "Other"
