@@ -25,6 +25,8 @@ Acquisition requires *meaningful* interaction with the target language, during w
 ***※ “Learning Japanese” may improperly refer to both acquiring and learning. So please keep that in mind.***
 
 ### i+1
+From Wikipedia: “[The Input Hypothesis] states that learners progress in their knowledge of the language when they comprehend language input that is slightly more advanced than their current level. Krashen called this level of input “i+1”, where “i” is the learner’s interlanguage and “+1″ is the next stage of language acquisition.” 
+
 In simple terms, i+1 means “one [and no more than one] thing [piece of language] you do not yet know in the sentence"
 Say if you were learning English and you heard the sentence, "I'm playing the guitar", but you didn't know the word "playing" . This sentence would be i+1 because you know all the words and grammar structures apart from "playing". This is also comprehensible input IF you understood the message it was conveying.
 
