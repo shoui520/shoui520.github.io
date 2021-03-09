@@ -142,15 +142,15 @@ Anki is a spaced repetition system (SRS) flashcard program. It is designed to he
 
 I recommend you start learning vocabulary using Anki after you have learned the kana and know extremely basic grammar. How basic is extremely basic is up to you to decide. I will go through how to study grammar after this section, so don't panic.  
 
-You should use Anki to build up a vocabulary of basic words to assist your immersion, after that learning vocabulary from immersion, especially in reading, becomes easier. Usually people use the *Core 2K* deck to build up a vocabulary of 2000 words. It works by showing you the word you need to learn at the front, and it has the meaning and how to read it at the back, along with a voiced example sentence. You learn words with Core2K by recalling the meaning and reading of the displayed word. However, I advise against using Core 2K, and suggest you do *Tango N5+N4* instead, and here’s why:
+You should use Anki to build up a vocabulary of basic words to assist your immersion, after that learning vocabulary from immersion, especially in reading, becomes easier. Usually people use the *Core 2K* deck to build up a vocabulary of 2000 words. It works by showing you the word you need to learn at the front, and it has the meaning and how to read it at the back, along with a voiced example sentence. You learn words with Core2K by recalling the meaning and reading of the displayed word. However, I advise against using Core 2K, and suggest you do [*Tango N5+N4*](https://learnjapanese.moe/resources/#vocabulary) instead, and here’s why:
 
-Core 2K is significantly harder than Tango N5+N4 because Tango has the sentence on the front, Core 2K has only the word on the front.  
+Core 2K is significantly harder than [Tango N5+N4](https://learnjapanese.moe/resources/#vocabulary) because Tango has the sentence on the front, Core 2K has only the word on the front.  
 Tango decks work by showing you a sentence at the front, and the piece of information (a meaning and reading) needed to understand the sentence at the back. The "N" number in the deck name refers to the Japanese Language Proficiency Test (JLPT), with N5 being the lowest, easiest and N1 being the highest.  
 Sentences make recalling vocabulary easier, after all, it is much more close to how we use language in real life as opposed to isolated words.  
 
 **However, it is important to note that Tango's translations are not literal, and do not represent Japanese structure well, so I guess that's a flaw of Tango. In other cases, it might be utterly wrong.**  
 
-People have always struggled with Core 2K, and to make the process smoother, I recommend Tango N5+N4 over Core 2K. Especially if you don’t want to do isolated kanji study!  
+People have always struggled with Core 2K, and to make the process smoother, I recommend [Tango N5+N4](https://learnjapanese.moe/resources/#vocabulary) over Core 2K. Especially if you don’t want to do isolated kanji study!  
 
 ### Mining
 Mining means when you add vocabulary (often along with the sentence they were found in) into your Anki deck. You can then review these flashcards overtime to make sure you don’t forget them. It usually recommended you begin mining right after you finished Tango N5+N4. You should not bother with Tango N3, N2 and/or N1 because at this point you should be making your own flashcards from your immersion, which is overall a fun process.
@@ -189,7 +189,7 @@ __Benefits__
 + Able to mine everything and anything (does not follow i+1)    
 + Animecards.site: “has the same benefits as sentence cards” this can be disputed though.      
 __Drawbacks__    
-- Significantly harder than i+1 sentence cards. For the same reason Core 2K is harder than Tango N5+N4.    
+- Significantly harder than i+1 sentence cards. For the same reason Core 2K is harder than [Tango N5+N4](https://learnjapanese.moe/resources/#vocabulary).    
 - Much more likely to mix up similar words.    
 - Not beginner friendly. I do not recommend a beginner does this until they have at least 1000 i+1 sentence cards.    
 - Words *may* not be learned as well as with i+1 sentence cards   
@@ -250,19 +250,19 @@ In our [Resources](/resources) you can find links to sites that let you read a l
 Balance is important. It may be obvious just to split your time up in half, and if you are able to do that, then that is great. However, not  everyone has the time, and when it comes to reading, depending on your current level, it may be considerably difficult to read for extended hours.  For example people that have gotten further in the Tango Anki deck may be able to read longer than those who are a little behind.   
  
 So what is the perfect balance?   
-I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the Tango N5 Anki deck.    
+I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the [Tango N5](https://learnjapanese.moe/resources/#vocabulary) Anki deck.    
   
 
 ## Now what?
 1. Learn the kana by copying out the entire chart posted in the **Kana** section into a notebook, or something similar.  
 2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself.  
 3. After you have completed Kana, then you should move on to learning grammar alongside vocabulary.. It is important that you pace yourself and don’t try to punch above your own weight, this is not a race.  
-4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing)  
-You can import the Tango N5 deck by clicking on it. It should open in Anki, wait a while for it to import.  
+4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://learnjapanese.moe/resources/#vocabulary)  
+You can import the [Tango N5](https://learnjapanese.moe/resources/#vocabulary) deck by clicking on it. It should open in Anki, wait a while for it to import.  
 5. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.  
-6. Work on the Tango N5 Anki deck **while** reading/watching your chosen grammar guide.  
-After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing), too. You should also be nearing the end of your grammar guide at this point. I also suggest starting to read manga at this point.  
-7. After you finished Tango N4. You should set up a mining deck. It doesn’t matter that much which one you pick.  
+6. Work on the [Tango N5](https://learnjapanese.moe/resources/#vocabulary) Anki deck **while** reading/watching your chosen grammar guide.  
+After you have finished [Tango N5](https://learnjapanese.moe/resources/#vocabulary), do [Tango N4](https://learnjapanese.moe/resources/#vocabulary), too. You should also be nearing the end of your grammar guide at this point. I also suggest starting to read manga at this point.  
+7. After you finished [Tango N4](https://learnjapanese.moe/resources/#vocabulary). You should set up a mining deck. It doesn’t matter that much which one you pick.  
 
 *Choose one below.*   
 [High Quality Vocab Cards (“anime cards”)](https://animecards.site/)   
@@ -276,9 +276,9 @@ After you have finished Tango N5, do [Tango N4](https://drive.google.com/file/d/
 1. [Tolerate the ambiguity](https://refold.la/roadmap/stage-0/b/tolerate-ambiguity).  
 2. Learn the hiragana and katakana using the method as described above.    
 3. Learn grammar using the method as described above.   
-4. Download Anki and use the Tango N5 deck to learn basic words.   
-5. After you finish the Tango N5 deck, move on to Tango N4.   
-6. After you finish Tango N4, use [Quizmaster's Anki Guide](https://animecards.site/ankisetup/) to learn how to mine.    
+4. Download Anki and use the [Tango N5 deck](https://learnjapanese.moe/resources/#vocabulary) to learn basic words.   
+5. After you finish the [Tango N5 deck](https://learnjapanese.moe/resources/#vocabulary), move on to [Tango N4](https://learnjapanese.moe/resources/#vocabulary).   
+6. After you finish [Tango N4](https://learnjapanese.moe/resources/#vocabulary), use [Quizmaster's Anki Guide](https://animecards.site/ankisetup/) to learn how to mine.    
 7. Once you are mining, the process of learning Japanese becomes as simple as reading Japanese and listening to Japanese everyday, and adding unknown words to your Anki flashcard deck.  
 8. You should now be just immersing (inputting) and making flashcards everyday.    
 
