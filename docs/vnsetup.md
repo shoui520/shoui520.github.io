@@ -2,7 +2,7 @@
 
 This page will go over how to set up visual novels on all platforms.  
 
-# Getting Visual Novels
+## Getting Visual Novels
 
 Check out the [Resources](/resources/#the-following-may-be-nsfw) page to find where to get Visual novels.
 
@@ -10,8 +10,6 @@ Visual novels for Microsoft Windows are distributed commonly in disc image files
 
 !!! question "Glossary: disc image file"
 	A disc image file does not refer to a picture of a disc, rather it is a file (usually `.iso`) that contains an exact copy of what was on a disc. Remember: Japanese visual novels are sold on optical discs, and then people make an exact copy of what is on the disc onto an `.iso` or `.mdf/.mds` file.
-
-# Desktop 
 
 ## Microsoft Windows (7 - 10)
 
@@ -116,7 +114,6 @@ TBA
 
 TBA
 
-# Mobile
 
 ## Android
 
@@ -146,8 +143,6 @@ TBA
 
 TBA
 
-# Legacy
-
 TBA
 
 ## Windows XP Virtual Machine
@@ -160,6 +155,7 @@ TBA
 
 ## PC-98
 
+TBA
 
 
 
