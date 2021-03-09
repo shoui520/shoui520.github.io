@@ -67,6 +67,8 @@ The disc image is now mounted. You should see a new volume appear on your Explor
 
 ![Image](img/vnwin5.jpg)
 
+### Step 3. Installing the VN and applying patch
+
 Click on the new volume that appeared on your sidebar and run the installer. See below for details.  
 
 ![Image](img/vnwin6.jpg)  
