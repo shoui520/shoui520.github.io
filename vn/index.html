@@ -1,0 +1,818 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Learn Japanese for free, on your own, with the things you love. Acquire with anime, TheMoeWay.">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.8">
+    
+    
+      
+        <title>Learning Japanese with VNs - TheMoeWay</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.cb6bc1d0.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.39b8e14a.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#7e56c2">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="blue">
+      
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#visual-novel-guide" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <!--
+  Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Mitigate bug: https://github.com/mkdocs/mkdocs/issues/2191 -->
+
+
+
+<!-- Application header -->
+<header class="md-header" data-md-component="header">
+
+    <!-- Top-level navigation -->
+    <nav class="md-header-nav md-grid" aria-label="Header">
+
+        <!-- Link to home -->
+        <a href=".." title="TheMoeWay" class="md-header-nav__button md-logo"
+            aria-label="TheMoeWay">
+            
+  <img src="../img/moe.svg" alt="logo">
+
+        </a>
+
+        <!-- Button to open drawer -->
+        <label class="md-header-nav__button md-icon" for="__drawer">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+        </label>
+
+        <!-- Header title -->
+        <div class="md-header-nav__title" data-md-component="header-title">
+            <div class="md-header-nav__ellipsis">
+                <div class="md-header-nav__topic">
+                    <span class="md-ellipsis">
+                        <a href="..">TheMoeWay</a>
+                    </span>
+                </div>
+                <div class="md-header-nav__topic">
+                    <span class="md-ellipsis">
+                        
+                        Learning Japanese with VNs
+                        
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Button to open search dialogue -->
+        
+        <label class="md-header-nav__button md-icon" for="__search">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        </label>
+
+        <!-- Search interface -->
+        
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+
+        <!-- Repository information -->
+        
+    </nav>
+</header> 
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+
+
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            
+
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="TheMoeWay" class="md-nav__button md-logo" aria-label="TheMoeWay">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+    TheMoeWay
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+      
+      <label class="md-nav__link" for="nav-2">
+        Guides
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Guides" data-md-level="1">
+        <label class="md-nav__title" for="nav-2">
+          <span class="md-nav__icon md-icon"></span>
+          Guides
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide/" class="md-nav__link">
+        New Japanese Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speaking/" class="md-nav__link">
+        Speaking Japanese
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../animejp/" class="md-nav__link">
+        Anime Japanese
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kanji/" class="md-nav__link">
+        Learning Kanji
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reading/" class="md-nav__link">
+        Getting into Reading
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monolingual/" class="md-nav__link">
+        Monolingual Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        Japanese FAQ
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sub/" class="md-nav__link">
+        Japanese Subtitles
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+      
+      <label class="md-nav__link" for="nav-3">
+        Visual Novels
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Visual Novels" data-md-level="1">
+        <label class="md-nav__title" for="nav-3">
+          <span class="md-nav__icon md-icon"></span>
+          Visual Novels
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Learning Japanese with VNs
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Learning Japanese with VNs
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-are-visual-novels" class="md-nav__link">
+    What are Visual Novels?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-visual-novels" class="md-nav__link">
+    Why Visual Novels?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#downloading-and-setting-up-visual-novels" class="md-nav__link">
+    Downloading and setting up Visual Novels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#looking-up-words-in-vns-using-yomichan-and-textractor" class="md-nav__link">
+    Looking up words in VNs using Yomichan and Textractor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#use-a-walkthrough" class="md-nav__link">
+    Use a walkthrough!
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#unsure-what-to-play" class="md-nav__link">
+    Unsure what to play?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bonus-using-textractor-for-ppsspp-visual-novels" class="md-nav__link">
+    Bonus: Using Textractor for PPSSPP Visual Novels
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn-setup/" class="md-nav__link">
+        Installing Visual Novels
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+      
+      <label class="md-nav__link" for="nav-4">
+        Yomichan
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Yomichan" data-md-level="1">
+        <label class="md-nav__title" for="nav-4">
+          <span class="md-nav__icon md-icon"></span>
+          Yomichan
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomichan/" class="md-nav__link">
+        Yomichan Setup Tutorial
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomicss/" class="md-nav__link">
+        Yomichan Custom CSS
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+      
+      <label class="md-nav__link" for="nav-5">
+        Resources
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Resources" data-md-level="1">
+        <label class="md-nav__title" for="nav-5">
+          <span class="md-nav__icon md-icon"></span>
+          Resources
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        Resources
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" >
+      
+      <label class="md-nav__link" for="nav-6">
+        About
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="About" data-md-level="1">
+        <label class="md-nav__title" for="nav-6">
+          <span class="md-nav__icon md-icon"></span>
+          About
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contact/" class="md-nav__link">
+        Contact & Support
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc" >
+    <div class="md-sidebar__scrollwrap">
+        <a href="https://discord.gg/nhqjydaR8j"><img width="100%" src="/img/discord.png"></a>
+        <div class="md-sidebar__inner">
+            
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-are-visual-novels" class="md-nav__link">
+    What are Visual Novels?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-visual-novels" class="md-nav__link">
+    Why Visual Novels?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#downloading-and-setting-up-visual-novels" class="md-nav__link">
+    Downloading and setting up Visual Novels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#looking-up-words-in-vns-using-yomichan-and-textractor" class="md-nav__link">
+    Looking up words in VNs using Yomichan and Textractor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#use-a-walkthrough" class="md-nav__link">
+    Use a walkthrough!
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#unsure-what-to-play" class="md-nav__link">
+    Unsure what to play?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bonus-using-textractor-for-ppsspp-visual-novels" class="md-nav__link">
+    Bonus: Using Textractor for PPSSPP Visual Novels
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+        </div>
+    </div>
+</div>
+
+
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="visual-novel-guide">Visual Novel Guide<a class="headerlink" href="#visual-novel-guide" title="Permanent link">&para;</a></h1>
+<h3 id="what-are-visual-novels">What are Visual Novels?<a class="headerlink" href="#what-are-visual-novels" title="Permanent link">&para;</a></h3>
+<p>Visual Novels (often abbreviated as <strong>VN</strong>) can be described as sort of a mix of a novel and a game, they feature a text-based storyline and only little interaction of the player. Most VNs have anime-like sprites and visuals, and are usually accompanied by voice acting, background music and sound effects. Throughout the game, the player may be given choices, which will have an effect on how the story will play out, so if you play it a second time, with different choices, you may get an entirely different plot.</p>
+<p><img alt="Image" src="../img/vn1.jpg" /></p>
+<h3 id="why-visual-novels">Why Visual Novels?<a class="headerlink" href="#why-visual-novels" title="Permanent link">&para;</a></h3>
+<p>Reading Japanese is extremely important, but not everyone loves reading books, I am definitely one of them. I hate reading books, it’s way too often I get bored when reading a regular, text-only novel. I’m not much of a reader in English either. Oddly enough, I can read visual novels for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it’s perfect for reading immersion.
+For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
+<img alt="Image" src="../img/vn2.jpg" /></p>
+<p><a href="../img/vnbased1.jpg"><em>Click here to view image.</em></a></p>
+<h3 id="downloading-and-setting-up-visual-novels">Downloading and setting up Visual Novels<a class="headerlink" href="#downloading-and-setting-up-visual-novels" title="Permanent link">&para;</a></h3>
+<p>Please refer to <a href="/vn-setup">Cross Platform Visual Novel Setup</a> for instructions on downloading and setting up Visual Novels for all platforms.  </p>
+<h3 id="looking-up-words-in-vns-using-yomichan-and-textractor">Looking up words in VNs using Yomichan and Textractor<a class="headerlink" href="#looking-up-words-in-vns-using-yomichan-and-textractor" title="Permanent link">&para;</a></h3>
+<p>Requirements:</p>
+<p><a href="https://github.com/Artikash/Textractor/releases">Download Textractor (preferably the zip version)</a><br />
+<a href="https://foosoft.net/projects/yomichan/">Get Yomichan</a><br />
+<a href="https://github.com/kmltml/clipboard-inserter">Get Clipboard Inserter</a><br />
+<a href="https://learnjapanese.moe/texthooker.html">Texthooking Page</a>  </p>
+<p>A detailed Yomichan setup tutorial can be found <a href="/yomichan">here</a></p>
+<p>For most applications, use the x86 executable of Textractor.</p>
+<div class="admonition info">
+<p class="admonition-title">Steins;Gate</p>
+<p>If you wish to hook Steins;Gate and Steins;Gate 0, please check out <a href="https://github.com/shiiion/steinsgate_textractor">Steins;Gate Textractor</a>  </p>
+</div>
+<p>Launch your VN and Textractor and first remove all the unneeded extensions using the <span class="keys"><kbd class="key-delete">Del</kbd></span> key.  </p>
+<p><img alt="Image" src="../img/textractor1.jpg" />  </p>
+<p>Now we need to <em>attach</em> Textractor to your VN. </p>
+<p><img alt="Image" src="../img/textractor2.jpg" />  </p>
+<p>When it is attached, advance the text in the VN then cycle through the hooks to find the hook that matches the text displayed on the VN.  </p>
+<p><img alt="Image" src="../img/textractor3.jpg" />  </p>
+<p>Now open your browser, head over to my <a href="https://learnjapanese.moe/texthooker.html">texthooking page</a> make sure <strong>Clipboard Inserter</strong> is installed and enabled and then advance the text in the VN again.  </p>
+<p><img alt="Image" src="../img/textractor4.jpg" />  </p>
+<p>You can then just use <span class="keys"><kbd class="key-shift">Shift</kbd></span> to use Yomichan.  </p>
+<p><img alt="Image" src="../img/textractor5.jpg" />  </p>
+<p>All done! Enjoy the reading!! <img alt="😼" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f63c.svg" title=":smirk_cat:" /></p>
+<h3 id="use-a-walkthrough">Use a walkthrough!<a class="headerlink" href="#use-a-walkthrough" title="Permanent link">&para;</a></h3>
+<p>Playing a VN with a walkthrough is usually better than playing without one, because we wouldn’t want to get a bad ending.</p>
+<p>You can find walkthroughs by searching “[vn name] 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.</p>
+<h3 id="unsure-what-to-play">Unsure what to play?<a class="headerlink" href="#unsure-what-to-play" title="Permanent link">&para;</a></h3>
+<p>Have a look at visual novel lists below</p>
+<p><a href="https://anacreondjt.gitlab.io/vn-chart/">jamal's list</a><br />
+<a href="https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub">This infamous list</a><br />
+<a href="/dinuzlist">Dinuz's list</a>  </p>
+<p>Have fun reading!</p>
+<p>Consider joining our <strong>VN Club</strong> in the <a href="https://discord.gg/nhqjydaR8j">Discord</a>!</p>
+<h3 id="bonus-using-textractor-for-ppsspp-visual-novels">Bonus: Using Textractor for PPSSPP Visual Novels<a class="headerlink" href="#bonus-using-textractor-for-ppsspp-visual-novels" title="Permanent link">&para;</a></h3>
+<p>Hooking PPSSPP Visual Novels require you to use the x86 (32-bit) version of PPSSPP along with the x86 version of Textractor.  </p>
+<ol>
+<li>Launch PPSSPP (32-bit)  </li>
+<li>Launch the Visual Novel.  </li>
+<li>Attach Textractor (x86) to PPSSPP (32-bit)  </li>
+<li>Advance the text in the VN (O button)  </li>
+<li>Using the "Search for hooks" feature, select "search for specific text"  </li>
+<li>Search for the specific text that is on the PPSSPP VN. It needs to be <strong>exact.</strong>  </li>
+<li>It will take a while to search for the hook, your emulator may start to lag for a while.  </li>
+<li>If Textractor asks, (keep an eye on the Console) frantically advance the text (O button) on the PPSSPP VN.  </li>
+<li>Now it will have found the hook.  </li>
+<li>Advance the text once more (O button)  </li>
+<li>Cycle through the hooks to see which hook has the newly advanced text.   </li>
+<li>That's it! <img alt="🎉" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f389.svg" title=":tada:" /> You could save the hook to make the process more convenient later.  </li>
+</ol>
+<p>Proof of texthooking working with PPSSPP:  </p>
+<p><img alt="Image" src="../img/vnpsp2.jpg" />  </p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.18f0862e.min.js"></script>
+      <script src="../assets/javascripts/bundle.994580cf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: ['navigation.instant', 'navigation.sections'],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.9c0e82ba.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

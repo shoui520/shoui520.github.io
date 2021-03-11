@@ -1,0 +1,1765 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Learn Japanese for free, on your own, with the things you love. Acquire with anime, TheMoeWay.">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.8">
+    
+    
+      
+        <title>Installing Visual Novels - TheMoeWay</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.cb6bc1d0.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.39b8e14a.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#7e56c2">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="blue">
+      
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cross-platform-visual-novel-setup" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <!--
+  Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Mitigate bug: https://github.com/mkdocs/mkdocs/issues/2191 -->
+
+
+
+<!-- Application header -->
+<header class="md-header" data-md-component="header">
+
+    <!-- Top-level navigation -->
+    <nav class="md-header-nav md-grid" aria-label="Header">
+
+        <!-- Link to home -->
+        <a href=".." title="TheMoeWay" class="md-header-nav__button md-logo"
+            aria-label="TheMoeWay">
+            
+  <img src="../img/moe.svg" alt="logo">
+
+        </a>
+
+        <!-- Button to open drawer -->
+        <label class="md-header-nav__button md-icon" for="__drawer">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+        </label>
+
+        <!-- Header title -->
+        <div class="md-header-nav__title" data-md-component="header-title">
+            <div class="md-header-nav__ellipsis">
+                <div class="md-header-nav__topic">
+                    <span class="md-ellipsis">
+                        <a href="..">TheMoeWay</a>
+                    </span>
+                </div>
+                <div class="md-header-nav__topic">
+                    <span class="md-ellipsis">
+                        
+                        Installing Visual Novels
+                        
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Button to open search dialogue -->
+        
+        <label class="md-header-nav__button md-icon" for="__search">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        </label>
+
+        <!-- Search interface -->
+        
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+
+        <!-- Repository information -->
+        
+    </nav>
+</header> 
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+
+
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            
+
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="TheMoeWay" class="md-nav__button md-logo" aria-label="TheMoeWay">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+    TheMoeWay
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+      
+      <label class="md-nav__link" for="nav-2">
+        Guides
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Guides" data-md-level="1">
+        <label class="md-nav__title" for="nav-2">
+          <span class="md-nav__icon md-icon"></span>
+          Guides
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide/" class="md-nav__link">
+        New Japanese Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speaking/" class="md-nav__link">
+        Speaking Japanese
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../animejp/" class="md-nav__link">
+        Anime Japanese
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kanji/" class="md-nav__link">
+        Learning Kanji
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reading/" class="md-nav__link">
+        Getting into Reading
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monolingual/" class="md-nav__link">
+        Monolingual Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        Japanese FAQ
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sub/" class="md-nav__link">
+        Japanese Subtitles
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+      
+      <label class="md-nav__link" for="nav-3">
+        Visual Novels
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Visual Novels" data-md-level="1">
+        <label class="md-nav__title" for="nav-3">
+          <span class="md-nav__icon md-icon"></span>
+          Visual Novels
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn/" class="md-nav__link">
+        Learning Japanese with VNs
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Installing Visual Novels
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Installing Visual Novels
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-visual-novels" class="md-nav__link">
+    Getting Visual Novels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-windows" class="md-nav__link">
+    Microsoft Windows
+  </a>
+  
+    <nav class="md-nav" aria-label="Microsoft Windows">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-setting-japanese-locale" class="md-nav__link">
+    Step 1. Setting Japanese Locale
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-extracting-archives-and-mounting-images" class="md-nav__link">
+    Step 2. Extracting archives and mounting images
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-installing-the-vn-and-applying-patch" class="md-nav__link">
+    Step 3. Installing the VN and applying patch
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#steam-games" class="md-nav__link">
+    Steam Games
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#windows-troubleshooting" class="md-nav__link">
+    Windows: Troubleshooting
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#macos" class="md-nav__link">
+    macOS
+  </a>
+  
+    <nav class="md-nav" aria-label="macOS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#virtual-machines-1011-11x" class="md-nav__link">
+    Virtual Machines (10.11 - 11.x)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#boot-camp-assistant-intel-based-macs" class="md-nav__link">
+    Boot Camp Assistant (Intel® based Macs)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wine-108-11x" class="md-nav__link">
+    Wine (10.8 - 11.x)
+  </a>
+  
+    <nav class="md-nav" aria-label="Wine (10.8 - 11.x)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-installing-japanese-fonts-on-your-mac" class="md-nav__link">
+    Step 1. Installing Japanese fonts on your Mac.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-using-the-terminal-and-installing-brew" class="md-nav__link">
+    Step 2. Using the Terminal and installing Brew
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-installing-wine-and-other-dependencies" class="md-nav__link">
+    Step 3. Installing Wine and other dependencies
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-4-running-the-installer" class="md-nav__link">
+    Step 4. Running the installer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-5-cd-emulation" class="md-nav__link">
+    Step 5. CD Emulation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-6-texthooking" class="md-nav__link">
+    Step 6. Texthooking
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gnulinux" class="md-nav__link">
+    GNU/Linux
+  </a>
+  
+    <nav class="md-nav" aria-label="GNU/Linux">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wine" class="md-nav__link">
+    Wine
+  </a>
+  
+    <nav class="md-nav" aria-label="Wine">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-install-dependencies" class="md-nav__link">
+    Step 1. Install Dependencies
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-configure-wine-and-install-runtimes" class="md-nav__link">
+    Step 2. Configure Wine and install runtimes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-installing-the-visual-novel" class="md-nav__link">
+    Step 3. Installing the visual novel
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bsd-freebsd" class="md-nav__link">
+    BSD (FreeBSD)
+  </a>
+  
+    <nav class="md-nav" aria-label="BSD (FreeBSD)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wine_1" class="md-nav__link">
+    Wine
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#android" class="md-nav__link">
+    Android
+  </a>
+  
+    <nav class="md-nav" aria-label="Android">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#using-ppssspp-emulator" class="md-nav__link">
+    Using PPSSSPP Emulator
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ios" class="md-nav__link">
+    iOS
+  </a>
+  
+    <nav class="md-nav" aria-label="iOS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#non-jailbreak-using-ppsspp-emulator" class="md-nav__link">
+    Non-jailbreak: Using PPSSPP Emulator
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jailbreak-using-ppsspp-emulator" class="md-nav__link">
+    Jailbreak: Using PPSSPP Emulator
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emulators" class="md-nav__link">
+    Emulators
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#windows-xp-virtual-machine" class="md-nav__link">
+    Windows XP Virtual Machine
+  </a>
+  
+    <nav class="md-nav" aria-label="Windows XP Virtual Machine">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requirements" class="md-nav__link">
+    Requirements
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#full-setup" class="md-nav__link">
+    Full Setup
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pc-98" class="md-nav__link">
+    PC-98
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+      
+      <label class="md-nav__link" for="nav-4">
+        Yomichan
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Yomichan" data-md-level="1">
+        <label class="md-nav__title" for="nav-4">
+          <span class="md-nav__icon md-icon"></span>
+          Yomichan
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomichan/" class="md-nav__link">
+        Yomichan Setup Tutorial
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomicss/" class="md-nav__link">
+        Yomichan Custom CSS
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+      
+      <label class="md-nav__link" for="nav-5">
+        Resources
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Resources" data-md-level="1">
+        <label class="md-nav__title" for="nav-5">
+          <span class="md-nav__icon md-icon"></span>
+          Resources
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        Resources
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" >
+      
+      <label class="md-nav__link" for="nav-6">
+        About
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="About" data-md-level="1">
+        <label class="md-nav__title" for="nav-6">
+          <span class="md-nav__icon md-icon"></span>
+          About
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contact/" class="md-nav__link">
+        Contact & Support
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc" >
+    <div class="md-sidebar__scrollwrap">
+        <a href="https://discord.gg/nhqjydaR8j"><img width="100%" src="/img/discord.png"></a>
+        <div class="md-sidebar__inner">
+            
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-visual-novels" class="md-nav__link">
+    Getting Visual Novels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#microsoft-windows" class="md-nav__link">
+    Microsoft Windows
+  </a>
+  
+    <nav class="md-nav" aria-label="Microsoft Windows">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-setting-japanese-locale" class="md-nav__link">
+    Step 1. Setting Japanese Locale
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-extracting-archives-and-mounting-images" class="md-nav__link">
+    Step 2. Extracting archives and mounting images
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-installing-the-vn-and-applying-patch" class="md-nav__link">
+    Step 3. Installing the VN and applying patch
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#steam-games" class="md-nav__link">
+    Steam Games
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#windows-troubleshooting" class="md-nav__link">
+    Windows: Troubleshooting
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#macos" class="md-nav__link">
+    macOS
+  </a>
+  
+    <nav class="md-nav" aria-label="macOS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#virtual-machines-1011-11x" class="md-nav__link">
+    Virtual Machines (10.11 - 11.x)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#boot-camp-assistant-intel-based-macs" class="md-nav__link">
+    Boot Camp Assistant (Intel® based Macs)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wine-108-11x" class="md-nav__link">
+    Wine (10.8 - 11.x)
+  </a>
+  
+    <nav class="md-nav" aria-label="Wine (10.8 - 11.x)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-installing-japanese-fonts-on-your-mac" class="md-nav__link">
+    Step 1. Installing Japanese fonts on your Mac.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-using-the-terminal-and-installing-brew" class="md-nav__link">
+    Step 2. Using the Terminal and installing Brew
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-installing-wine-and-other-dependencies" class="md-nav__link">
+    Step 3. Installing Wine and other dependencies
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-4-running-the-installer" class="md-nav__link">
+    Step 4. Running the installer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-5-cd-emulation" class="md-nav__link">
+    Step 5. CD Emulation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-6-texthooking" class="md-nav__link">
+    Step 6. Texthooking
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gnulinux" class="md-nav__link">
+    GNU/Linux
+  </a>
+  
+    <nav class="md-nav" aria-label="GNU/Linux">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wine" class="md-nav__link">
+    Wine
+  </a>
+  
+    <nav class="md-nav" aria-label="Wine">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-install-dependencies" class="md-nav__link">
+    Step 1. Install Dependencies
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-configure-wine-and-install-runtimes" class="md-nav__link">
+    Step 2. Configure Wine and install runtimes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-installing-the-visual-novel" class="md-nav__link">
+    Step 3. Installing the visual novel
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bsd-freebsd" class="md-nav__link">
+    BSD (FreeBSD)
+  </a>
+  
+    <nav class="md-nav" aria-label="BSD (FreeBSD)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wine_1" class="md-nav__link">
+    Wine
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#android" class="md-nav__link">
+    Android
+  </a>
+  
+    <nav class="md-nav" aria-label="Android">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#using-ppssspp-emulator" class="md-nav__link">
+    Using PPSSSPP Emulator
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ios" class="md-nav__link">
+    iOS
+  </a>
+  
+    <nav class="md-nav" aria-label="iOS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#non-jailbreak-using-ppsspp-emulator" class="md-nav__link">
+    Non-jailbreak: Using PPSSPP Emulator
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jailbreak-using-ppsspp-emulator" class="md-nav__link">
+    Jailbreak: Using PPSSPP Emulator
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emulators" class="md-nav__link">
+    Emulators
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#windows-xp-virtual-machine" class="md-nav__link">
+    Windows XP Virtual Machine
+  </a>
+  
+    <nav class="md-nav" aria-label="Windows XP Virtual Machine">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#requirements" class="md-nav__link">
+    Requirements
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#full-setup" class="md-nav__link">
+    Full Setup
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pc-98" class="md-nav__link">
+    PC-98
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+        </div>
+    </div>
+</div>
+
+
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="cross-platform-visual-novel-setup">Cross Platform Visual Novel Setup<a class="headerlink" href="#cross-platform-visual-novel-setup" title="Permanent link">&para;</a></h1>
+<p>This page will go over how to set up visual novels on all platforms.  </p>
+<h2 id="getting-visual-novels">Getting Visual Novels<a class="headerlink" href="#getting-visual-novels" title="Permanent link">&para;</a></h2>
+<p>Check out the <a href="/resources/#the-following-may-be-nsfw">Resources</a> page to find where to get Visual novels.</p>
+<p>Visual novels for Microsoft Windows are distributed commonly in disc image files. Usually in .ISO and sometimes .MDF/.MDS files, or, these files but contained in a .rar/.zip/.7z file.</p>
+<div class="admonition question">
+<p class="admonition-title">Glossary: disc image file</p>
+<p>A disc image file does not refer to a picture of a disc, rather it is a file (usually <code>.iso</code>) that contains an exact copy of what was on a disc. Remember: Japanese visual novels are sold on optical discs, and then people make an exact copy of what is on the disc onto an <code>.iso</code> or <code>.mdf/.mds</code> file.</p>
+</div>
+<h2 id="microsoft-windows">Microsoft Windows<a class="headerlink" href="#microsoft-windows" title="Permanent link">&para;</a></h2>
+<p>Visual novels are always Microsoft Windows applications. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  </p>
+<h3 id="step-1-setting-japanese-locale">Step 1. Setting Japanese Locale<a class="headerlink" href="#step-1-setting-japanese-locale" title="Permanent link">&para;</a></h3>
+<div class="admonition tip">
+<p class="admonition-title">Word of Wisdom</p>
+<p>Always create a Restore Point before making any administrative modifications to your system, even if what you're doing is extremely unlikely to cause any damage. <span class="keys"><kbd class="key-windows">Win</kbd><span>+</span><kbd class="key-r">R</kbd></span> &gt; <code>sysdm.cpl</code> &gt; System Protection &gt; Create &gt; <em>enter a name</em></p>
+</div>
+<p>Japanese visual novels will not run without Japanese locale. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.<br />
+Follow the steps below to set Japanese locale on your Windows system.  </p>
+<ol>
+<li>Open the Run dialog box using <span class="keys"><kbd class="key-windows">Win</kbd><span>+</span><kbd class="key-r">R</kbd></span></li>
+<li>Type <code>intl.cpl</code> and hit <span class="keys"><kbd class="key-enter">Enter</kbd></span>.</li>
+<li>Click on the <strong>Administrative</strong> tab, go to <strong>Change System Locale</strong> and select <strong>Japanese (Japan)</strong> and click <strong>OK</strong>.</li>
+<li>Reboot your PC to apply the changes.</li>
+</ol>
+<p>Japanese locale can also be enabled using <strong>Windows Powershell (Administrator)</strong>:
+<div class="highlight"><pre><span></span><code><span class="nb">Set-WinSystemLocale</span> <span class="n">-SystemLocale</span> <span class="n">ja-JP</span><span class="p">;</span> <span class="nb">Restart-Computer</span>
+</code></pre></div>
+This will restart your PC.</p>
+<h3 id="step-2-extracting-archives-and-mounting-images">Step 2. Extracting archives and mounting images<a class="headerlink" href="#step-2-extracting-archives-and-mounting-images" title="Permanent link">&para;</a></h3>
+<p>Requirements:<br />
+<a href="https://www.7-zip.org/">Get 7-Zip</a><br />
+<a href="https://wincdemu.sysprogs.org/download/">Get WinCDEmu</a>  </p>
+<div class="admonition info">
+<p class="admonition-title">Alternatives</p>
+<p>I am aware of alternatives such as DAEMON Tools as an alternative for WinCDEmu and WinRAR as an alternative for 7-Zip. However, I would <strong>rather not</strong> use crappy software. #FOSS</p>
+</div>
+<p>We will be using 2 pieces of software today, <em>7-Zip</em> which is a tool for making and extracting archives such as <code>.zip</code> , <code>.tar</code> and <code>.7z</code> files, and <em>WinCDEmu</em> which allows us to mount image files such as <code>.mds/.mdf</code>, <code>.iso</code>.  </p>
+<p>If you have downloaded a visual novel, and it came in a .rar/.zip/.7z archive, you must extract it before you can mount the installation files. You can use 7-Zip for this. </p>
+<blockquote>
+<p>Right click the archive &gt; 7-Zip &gt; Extract to %folder%</p>
+</blockquote>
+<p><img alt="Image" src="../img/vnwin1.jpg" /></p>
+<p>Above is an example of extracting the archive using 7-Zip.  </p>
+<p>After the archive has been extracted, we will now use WinCDEmu to mount the image that has been extracted from it.  </p>
+<blockquote>
+<p>Right click the image &gt; Select drive letter &amp; mount &gt; OK</p>
+</blockquote>
+<p><img alt="Image" src="../img/vnwin2.jpg" />  </p>
+<p>After that,</p>
+<p><img alt="Image" src="../img/vnwin3.jpg" />  </p>
+<p>The disc image is now mounted. You should see a new volume appear on your Explorer sidebar.</p>
+<p><img alt="Image" src="../img/vnwin4.jpg" />  </p>
+<div class="admonition info">
+<p class="admonition-title">.MDS/.MDF files</p>
+<p>It is a little different if you have .MDS/.MDF files, see below.  </p>
+</div>
+<p><img alt="Image" src="../img/vnwin5.jpg" /></p>
+<h3 id="step-3-installing-the-vn-and-applying-patch">Step 3. Installing the VN and applying patch<a class="headerlink" href="#step-3-installing-the-vn-and-applying-patch" title="Permanent link">&para;</a></h3>
+<p>Click on the new volume that appeared on your sidebar and run the installer. See below for details.  </p>
+<p><img alt="Image" src="../img/vnwin6.jpg" />  </p>
+<p>Proceed with the installation, you may want to take note of where you installed the game. I installed Angel Beats! into <code>D:\Games\KEY\AngelBeats!</code></p>
+<p>If your visual novel came with a crack, you will need to apply this crack before you are able to launch the game. Cracks often come in the form of a .exe/.dll file found in folders/archives called "AlphaROM" or  "NoDVD" or simply just "Patch" or "Crack", whatever it may be, copy these files into the installation directory of the game.  </p>
+<p>You can find an example below. Sorry for the "awkward" cursor placement, it happens in the recording for some reason.  </p>
+<p><img alt="Image" src="../img/vnwin7.gif" />  </p>
+<p>After that, you should just be able to launch the game! </p>
+<div class="admonition info">
+<p class="admonition-title">Common problems</p>
+<p>Common problems that persist is the game asking for the original disc to be inserted, even after a crack is applied, restart your PC to fix this.
+Another issue is the game not loading at all or having garbled text, in this case, check Japanese locale is set and then restart your PC.</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">No Crack?</p>
+<p>If there is no crack available for your VN, and your VN does not launch, use <a href="https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip">AlphaROMdiE</a>. See pictures within .zip file for instructions.</p>
+</div>
+<p>Now go back to <a href="https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor">Visual Novel Guide</a> to learn how to use Textractor with Yomichan.</p>
+<h3 id="steam-games">Steam Games<a class="headerlink" href="#steam-games" title="Permanent link">&para;</a></h3>
+<p>If you obtained your visual novel from Steam, first check if "Japanese" is listed as a supported Interface and Subtitles language on the store page first. You can then set Japanese language within the Steam client itself.  </p>
+<ol>
+<li>Open your Steam Library.</li>
+<li>From a game's library page, select Manage &gt; Properties.</li>
+<li>Go to the Language tab.</li>
+<li>Select Japanese from the drop-down menu.</li>
+</ol>
+<p>In other cases, the game language can be set within the game itself.  </p>
+<p>If you did not purchase the <strong>Steam game</strong> from Steam (i.e. a cracked game) you can edit the <code>steam_api.ini</code> file within the game's installation directory.<br />
+<div class="highlight"><pre><span></span><code>language=japanese
+</code></pre></div></p>
+<h3 id="windows-troubleshooting">Windows: Troubleshooting<a class="headerlink" href="#windows-troubleshooting" title="Permanent link">&para;</a></h3>
+<div class="admonition info">
+<p class="admonition-title">Direct3D, Visual C++ Related Issues</p>
+<p>This can be easily fixed by installing DirectX <a href="https://www.microsoft.com/en-us/Download/confirmation.aspx?id=35">here</a> and all the Visual C++ Redistributable Runtimes <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/">here</a>.  </p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">Garbled Text (文字化け)</p>
+<p>Solution 1: Check <a href="#step-1-setting-japanese-locale">Japanese locale</a> and restart your PC.<br />
+Solution 2: Install Japanese fonts. Download <a href="https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk">this .zip file</a>. Extract, <span class="keys"><kbd class="key-control">Ctrl</kbd><span>+</span><kbd class="key-a">A</kbd></span>(select all), Right click, Install, check "Do this for all current items", then Yes.  </p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">Japan Time Zone Required</p>
+<p>Make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: <span class="keys"><kbd class="key-windows">Win</kbd><span>+</span><kbd class="key-i">I</kbd></span> &gt; Time &amp; Language &gt; "Set time zone automatically" OFF &gt; Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)</p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">Legacy Visual Novels</p>
+<p>If your visual novel is particularly old and does not work with recent versions of Windows, you can try using a <a href="#windows-xp-virtual-machine">Windows XP Virtual Machine</a>  </p>
+</div>
+<div class="admonition failure">
+<p class="admonition-title">Rare error: Boot failure 0xc000000f</p>
+<p>This is an issue that happens after locale settings are changed on a system that is missing NLS (National Language Support) files. If this happens to you, then it is likely you were using a <strong>unofficial modified copy of Windows</strong>. See <a href="https://support.microsoft.com/en-us/windows/about-genuine-windows-0b88ba3d-f799-7c15-9f36-2be445a56493">this article</a> to check. Also check Windows Update for Japanese language packs and <a href="https://www.microsoft.com/en-us/software-download/">Microsoft Software Download Center</a> for getting clean disc images for Windows. If you need to restore your system, insert a Windows recovery media and restore from a restore point.  </p>
+</div>
+<h2 id="macos">macOS<a class="headerlink" href="#macos" title="Permanent link">&para;</a></h2>
+<p>Visual novels are only Microsoft Windows applications, therefore if you want to run a visual novel on your Mac you must either virtualize/dual boot Windows or use <em>Wine</em>.</p>
+<h3 id="virtual-machines-1011-11x">Virtual Machines (10.11 - 11.x)<a class="headerlink" href="#virtual-machines-1011-11x" title="Permanent link">&para;</a></h3>
+<p>It is usually best to use a Virtual Machine of Microsoft Windows 7, as it works on newer Macs and does not have a hacky setup like Wine. Why not Windows 10? Simply because 10 is not necessary for Visual Novels and is also bloated.  </p>
+<p>Search on Google for how to run a Windows virtual machine on your Mac using Parallels (paid) or VirtualBox (free). I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.  <br />
+Contact me on Discord if you need help with getting either a Windows XP, 7 or 10 ISO.  </p>
+<h3 id="boot-camp-assistant-intel-based-macs">Boot Camp Assistant (Intel® based Macs)<a class="headerlink" href="#boot-camp-assistant-intel-based-macs" title="Permanent link">&para;</a></h3>
+<p>You can check if your Mac is an Intel® based Mac by doing the following command in Terminal:
+<div class="highlight"><pre><span></span><code>sysctl -n machdep.cpu.brand_string 
+</code></pre></div>
+You can pipe this together with <code>| grep Intel(R)</code> if you want.  </p>
+<p>All Intel® based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007. <br />
+If your Mac supports it, I recommend you run Windows 7 instead of Windows 10.  </p>
+<p><strong>Macs that support Windows 7:</strong>  </p>
+<p>Any Intel® based Mac that predates 2014. (With the exception of 2013 Mac Pro)</p>
+<p><strong>Macs that support Windows 10:</strong></p>
+<p>Intel® based MacBook introduced in 2015 or later <br />
+Intel® based MacBook Air introduced in 2012 or later<br />
+Intel® based MacBook Pro introduced in 2012 or later <br />
+Intel® based Mac mini introduced in 2012 or later <br />
+Intel® based iMac introduced in 2012 or later<br />
+Intel® based iMac Pro (all models)  <br />
+Intel® based Mac Pro introduced in 2013 or later     </p>
+<p>Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.
+Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  </p>
+<h3 id="wine-108-11x">Wine (10.8 - 11.x)<a class="headerlink" href="#wine-108-11x" title="Permanent link">&para;</a></h3>
+<div class="admonition info">
+<p class="admonition-title">macOS Catalina</p>
+<p>Only CrossOver-19 and later will run on macOS Catalina.  </p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">macOS Big Sur</p>
+<p>Only CrossOver-20 and later will run on macOS Big Sur.  </p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Compatibility Issues</p>
+<p>macOS has poor backwards compatibility, therefore this guide may not work for everyone. </p>
+</div>
+<p>Wine, in layman's terms, allows you to run Microsoft Windows applications on your Mac without any virtualization or dual booting.</p>
+<h4 id="step-1-installing-japanese-fonts-on-your-mac">Step 1. Installing Japanese fonts on your Mac.<a class="headerlink" href="#step-1-installing-japanese-fonts-on-your-mac" title="Permanent link">&para;</a></h4>
+<p>You can download all Japanese fonts needed from <a href="https://drive.google.com/file/d/1gOv5Y4eDMtZTFJIXFWY62nFqkmeeBMkD/view?usp=sharing">this archive</a>. Next you need to double click on the archive in Finder, it will extract it into the folder "macOS Japanese Fonts [learnjapanese.moe]"<br />
+Now press <span class="keys"><kbd class="key-command">Cmd</kbd><span>+</span><kbd class="key-space">Space</kbd></span> to bring up Spotlight Search and search for <em>Font Book.</em> Now click the + button in Font Book, and select the folder <em>macOS Japanese Fonts [learnjapanese.moe]</em> and click <em>Open</em> to install the required fonts.</p>
+<h4 id="step-2-using-the-terminal-and-installing-brew">Step 2. Using the Terminal and installing Brew<a class="headerlink" href="#step-2-using-the-terminal-and-installing-brew" title="Permanent link">&para;</a></h4>
+<div class="admonition warning">
+<p class="admonition-title">macOS High Sierra or older</p>
+<p>Brew no longer officially supports any version older than Mojave, it may take considerably long to install Brew, or fail entirely on anything older than High Sierra.  </p>
+</div>
+<p>To make this tutorial easier, we will be using the terminal to install a lot of things. We will need <code>brew</code> which allows you to install things from the terminal.<br />
+Open Spotlight Search using <span class="keys"><kbd class="key-command">Cmd</kbd><span>+</span><kbd class="key-space">Space</kbd></span> and search for "Terminal" and open it.  </p>
+<p>First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit <span class="keys"><kbd class="key-enter">Enter</kbd></span>.
+<div class="highlight"><pre><span></span><code>sudo spctl --master-disable
+</code></pre></div>
+Authenticate with the admin password. You can now go in <strong>System Preferences</strong> &gt; <strong>Security &amp; Privacy</strong> &gt; click the <strong>Lock</strong> at the bottom left &gt; choose <strong>Anywhere</strong>.</p>
+<div class="admonition note">
+<p class="admonition-title">Re-enabling Gatekeeper</p>
+<p>You can revert this change using <code>sudo spctl --master-enable</code></p>
+</div>
+<p>Now go back in the terminal, we will now install <code>brew</code>.  </p>
+<div class="admonition info">
+<p class="admonition-title">macOS Mojave</p>
+<p>Mojave users need to run <code>gcc</code> in the terminal and install Xcode from there before you run the command below.  </p>
+</div>
+<p>Copy and paste this command and hit <span class="keys"><kbd class="key-enter">Enter</kbd></span>:<br />
+<div class="highlight"><pre><span></span><code>/bin/bash -c <span class="s2">&quot;</span><span class="k">$(</span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh<span class="k">)</span><span class="s2">&quot;</span>
+</code></pre></div>
+It will ask for your password because it is an administrative action. Hit <span class="keys"><kbd class="key-enter">Enter</kbd></span> when asked, and install Xcode when prompted.<br />
+When the Xcode installation is complete, press any key. Now we will need to enter our password again to complete the installation of Brew.  </p>
+<h4 id="step-3-installing-wine-and-other-dependencies">Step 3. Installing Wine and other dependencies<a class="headerlink" href="#step-3-installing-wine-and-other-dependencies" title="Permanent link">&para;</a></h4>
+<p>First, we need to make sure <strong>XQuartz 2.7.7</strong> or above is installed. We can install it with <code>brew</code></p>
+<div class="highlight"><pre><span></span><code>brew install --cask xquartz
+</code></pre></div>
+<p>Now we can install Wine-Staging, which is the best for macOS as it has all the patches. 
+First add the taps,<br />
+<div class="highlight"><pre><span></span><code>brew tap homebrew/cask-versions
+brew tap gcenx/wine
+</code></pre></div></p>
+<p>Now:<br />
+<div class="highlight"><pre><span></span><code>brew install --cask --no-quarantine gcenx-wine-staging
+</code></pre></div></p>
+<div class="admonition info">
+<p class="admonition-title">macOS Catalina</p>
+<p>You need to do <code>brew install --cask --no-quarantine wine-crossover</code> instead.</p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">macOS Big Sur</p>
+<p>You need to do <code>brew install --cask --no-quarantine wine-crossover20.0.2</code> instead.</p>
+</div>
+<p>We will now create a <strong>32-bit</strong> Wine prefix, this has the best compatibility and stability.  </p>
+<div class="admonition warning">
+<p class="admonition-title">AMD Hackintosh</p>
+<p>If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. <code>wineboot</code> without a <code>WINEARCH</code> parameter, also <code>wine</code> commands must be run with <code>wine64</code> instead.  </p>
+</div>
+<p><strong>Attention: macOS Catalina &amp; later</strong></p>
+<p>On macOS Catalina 10.15.0 to 10.15.3, <a href="https://support.apple.com/en-us/HT204899">System Integrity Protection</a> needs to be disabled to allow <code>wine32on64</code> to change the state of <code>i386_set_ldt</code>. In other words, let Wine run in 32-bit mode, because if you didn't know, Apple artificially killed 32-bit application support in Catalina. Oh, Apple!</p>
+<p>Let's do that below. Ignore if running an older version.  </p>
+<ol>
+<li>Turn off your Mac (Apple &gt; Shut Down).</li>
+<li>Hold down <span class="keys"><kbd class="key-command">Cmd</kbd><span>+</span><kbd class="key-r">R</kbd></span> and press the Power button. Keep holding <span class="keys"><kbd class="key-command">Cmd</kbd><span>+</span><kbd class="key-r">R</kbd></span> until the Apple logo appears.</li>
+<li>Wait for macOS to boot into the macOS Utilities window.</li>
+<li>Choose Utilities &gt; Terminal.</li>
+<li>Type <code>csrutil disable</code> and hit <span class="keys"><kbd class="key-enter">Enter</kbd></span>.</li>
+<li>Type <code>reboot</code> and hit <span class="keys"><kbd class="key-enter">Enter</kbd></span>.</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Enabling System Integrity Protection again</p>
+<p>Same steps but type <code>csrutil enable</code> instead at step 5.</p>
+</div>
+<div class="highlight"><pre><span></span><code><span class="nv">WINEARCH</span><span class="o">=</span>win32 wineboot
+</code></pre></div>
+<p>Now we can install <code>winetricks</code> which helps us configure Wine and install software along with <code>zenity</code> which gives us a graphical interface.  </p>
+<div class="highlight"><pre><span></span><code>brew install winetricks zenity
+</code></pre></div>
+<p>Now we need to use XQuartz as our display driver, this will let us use hardware acceleration for the Wine window.  </p>
+<div class="highlight"><pre><span></span><code>winetricks <span class="nv">macdriver</span><span class="o">=</span>x11
+</code></pre></div>
+<div class="admonition question">
+<p class="admonition-title">Having issues?</p>
+<p>You can set the display driver back to the native Mac driver using <code>winetricks macdriver=mac</code>  </p>
+</div>
+<p>Now let's install the needed dependencies to run visual novels as well as some components to make video cutscenes work.  </p>
+<p><div class="highlight"><pre><span></span><code>winetricks quartz ffdshow lavfilters wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+</code></pre></div>
+Graphical installers will show up, this is very similar to .pkg installers on macOS, so you should be pretty familiar already. </p>
+<div class="admonition tip">
+<p class="admonition-title">Optional: Font smoothing</p>
+<p>You can do <code>winetricks fontsmooth=rgb</code> because without it, the font is simply awful.  </p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Optional: GUI Improvments</p>
+<p>You can open the Registry Editor using <code>wine regedit</code> and import <a href="https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg">this .reg file</a>, the GUI should look nice and clean then.  </p>
+</div>
+<p>You need to install Japanese fonts into Wine now. Please download the pack below.<br />
+<a href="https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk">[Google Drive]</a><br />
+Unzip the file and move the font files to your <code>Fonts</code> folder in <code>~/.wine/drive_c/Windows/Fonts</code>    </p>
+<div class="admonition tip">
+<p class="admonition-title">Spotlight Search</p>
+<p>If you cannot find the <code>.wine</code> folder or have no idea what <code>~</code> is, just copy and paste that into Spotlight Search and it will open the directory for you. </p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Why not install <code>cjkfonts</code> in winetricks?</p>
+<p>Because it doesn't work properly for visual novels.</p>
+</div>
+<h4 id="step-4-running-the-installer">Step 4. Running the installer<a class="headerlink" href="#step-4-running-the-installer" title="Permanent link">&para;</a></h4>
+<p>If your VN comes in an .ISO file, you must double click on it to mount it, I will be using Angel Beats! ~1st beat~ for this tutorial. The .ISO file is <code>ab_1st.iso</code>.<br />
+<img alt="ab_1st.iso in Finder" src="../img/vnmac1.jpg" />  </p>
+<p>Now you must find the mount point by using <code>diskutil</code>, you can do that below.<br />
+<div class="highlight"><pre><span></span><code>diskutil list
+</code></pre></div>
+Look at the output for the mounted .ISO, for me it is <code>/dev/disk3</code>. Now we need to find the mount point. </p>
+<p><div class="highlight"><pre><span></span><code>diskutil info /dev/your_disk_here <span class="p">|</span> grep <span class="s1">&#39;Mount Point&#39;</span>
+</code></pre></div>
+The mount point for my .ISO is <code>/Volumes/ab_1st</code>. I can now <code>cd</code> into that directory.  </p>
+<p><img alt="Macintosh Terminal" src="../img/vnmac2.jpg" />  </p>
+<p>You can then run:  </p>
+<div class="highlight"><pre><span></span><code><span class="nv">LC_ALL</span><span class="o">=</span><span class="s2">&quot;ja_JP.UTF-8&quot;</span> <span class="nv">TZ</span><span class="o">=</span><span class="s2">&quot;Asia/Tokyo&quot;</span> wine Autorun.exe
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">Executable Filenames</p>
+<p>Filenames for executables will not always be the same for every visual novel, please run whatever you have.<br />
+It is <code>Autorun.exe</code> for me but it may be <code>setup.exe</code> for you, for example.  </p>
+</div>
+<p>Proceed with the installation.   </p>
+<p>I installed the game into <code>~/.wine/drive_c/Program Files/KEY/AngelBeats!</code>, and have applied the patch.<br />
+I can run it in Wine by first using <code>cd</code> into that directory, then running the .exe file with the command below.  </p>
+<div class="highlight"><pre><span></span><code><span class="nv">LC_ALL</span><span class="o">=</span><span class="s2">&quot;ja_JP.UTF-8&quot;</span> <span class="nv">TZ</span><span class="o">=</span><span class="s2">&quot;Asia/Tokyo&quot;</span> wine SiglusEngine.exe
+</code></pre></div>
+<div class="admonition question">
+<p class="admonition-title">cd not working, directory not found?</p>
+<p>Because <code>Program Files</code> has a space, you must put the path in quotation marks. 
+Example: <code>"~/.wine/drive_c/Program Files/"</code>  </p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">DirectX (Direct3D) not working?</p>
+<p>Make sure <code>d3dx9</code> is installed with winetricks. 
+Note that you cannot use hardware 3D accelerated programs on a macOS virtual machine without GPU passthrough.  </p>
+</div>
+<h4 id="step-5-cd-emulation">Step 5. CD Emulation<a class="headerlink" href="#step-5-cd-emulation" title="Permanent link">&para;</a></h4>
+<p>Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.<br />
+If the VN you downloaded does not come with a crack, CD emulation needs to be done in order to launch the game, that is done using a tool called CDEmu on Linux and WinCDEmu on Windows, however, there is no macOS version, so you can just mount the .ISO file normally and use <a href="https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip">AlphaROMdiE</a> to trick the VN executable into thinking that the original disc is insterted. To use, drag the VN executable onto the AlphaROM GUI.  </p>
+<h4 id="step-6-texthooking">Step 6. Texthooking<a class="headerlink" href="#step-6-texthooking" title="Permanent link">&para;</a></h4>
+<p>Now go back to <a href="https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor">Visual Novel Guide</a> to learn how to use Textractor, it works perfectly under Wine.</p>
+<h2 id="gnulinux">GNU/Linux<a class="headerlink" href="#gnulinux" title="Permanent link">&para;</a></h2>
+<p>Visual novels are only Microsoft Windows applications, therefore you must use Wine in order to run them. This works exceptionally well on Linux.  </p>
+<h3 id="wine">Wine<a class="headerlink" href="#wine" title="Permanent link">&para;</a></h3>
+<p>Follow the steps below to run VNs on Linux. </p>
+<h4 id="step-1-install-dependencies">Step 1. Install Dependencies<a class="headerlink" href="#step-1-install-dependencies" title="Permanent link">&para;</a></h4>
+<p><strong>Arch</strong></p>
+<p>You will need to enable multilib before running this command. To do this, uncomment the <code>[multilib]</code> section in <code>/etc/pacman.conf</code>.</p>
+<div class="highlight"><pre><span></span><code>sudo pacman -S wine winetricks giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs lutris cdemu-client cdemu-daemon
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">Custom Kernels</p>
+<p>If you are using a custom kernel such as Xanmod, install <code>vhba-module-dkms</code>. Otherwise, install <code>vhba-module</code>.  </p>
+</div>
+<p>You can then enable the CDEmu daemon by running:</p>
+<p><div class="highlight"><pre><span></span><code>sudo systemctl <span class="nb">enable</span> --now cdemu-daemon
+</code></pre></div>
+<strong>Debian/Ubuntu</strong></p>
+<div class="admonition info">
+<p class="admonition-title">Ubuntu 20.10</p>
+<p>If you are on Ubuntu 20.10 you must do <code>sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y</code> instead. </p>
+</div>
+<p>First you will need to enable 32-bit architecture.<br />
+<div class="highlight"><pre><span></span><code>sudo dpkg --add-architecture i386
+</code></pre></div>
+Download the WineHQ repository key:<br />
+<div class="highlight"><pre><span></span><code>wget -nc https://dl.winehq.org/wine-builds/winehq.key
+</code></pre></div>
+Now add the WineHQ repository key:<br />
+<div class="highlight"><pre><span></span><code>sudo apt-key add winehq.key
+</code></pre></div>
+Add the repository:<br />
+<div class="highlight"><pre><span></span><code>sudo add-apt-repository <span class="s1">&#39;deb https://dl.winehq.org/wine-builds/ubuntu/ focal main&#39;</span> -y
+</code></pre></div>
+Add PPA's for Lutris:<br />
+<div class="highlight"><pre><span></span><code>sudo add-apt-repository ppa:lutris-team/lutris -y
+</code></pre></div>
+Add PPA's for CDEmu:<br />
+<div class="highlight"><pre><span></span><code>sudo add-apt-repository ppa:cdemu/ppa -y
+</code></pre></div>
+Update packages:<br />
+<div class="highlight"><pre><span></span><code>sudo apt update
+</code></pre></div>
+Now install the stable version of Wine:<br />
+<div class="highlight"><pre><span></span><code>sudo apt-get install --install-recommends winehq-stable -y
+</code></pre></div>
+Now install Lutris, CDEmu and some needed libraries:<br />
+<div class="highlight"><pre><span></span><code>sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:1386 ocl-icd-dev:i386 -y
+</code></pre></div>
+Now we need to install <code>winetricks</code> manually because the one on the repository already is outdated and causes errors.<br />
+First, wget the binary:<br />
+<div class="highlight"><pre><span></span><code>wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+</code></pre></div>
+Use <code>chmod</code> to make it into an executable:<br />
+<div class="highlight"><pre><span></span><code>chmod +x winetricks
+</code></pre></div>
+Now copy it to your <code>/usr/bin</code> so it can be used in a command line.<br />
+<div class="highlight"><pre><span></span><code>sudo cp winetricks /usr/bin
+</code></pre></div>
+All done!  </p>
+<p><strong>Gentoo</strong></p>
+<p>Make sure your kernel is compiled with the following options enabled:</p>
+<ol>
+<li><code>CONFIG_BLK_DEV_SR</code></li>
+<li><code>CONFIG_ISO9660_FS</code></li>
+<li><code>CONFIG_UDF_FS</code></li>
+</ol>
+<p>It is recommended to have the following global use flags in your <code>make.conf</code>:</p>
+<ol>
+<li><code>X</code></li>
+<li><code>pulseaudio</code></li>
+<li><code>jpeg</code></li>
+<li><code>png</code></li>
+</ol>
+<div class="highlight"><pre><span></span><code>sudo emerge -av virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
+sudo modprobe vhba
+</code></pre></div>
+<p>Edit your <code>/etc/conf.d/modules</code> file and add this:</p>
+<div class="highlight"><pre><span></span><code><span class="n">modules</span><span class="o">=</span><span class="s">&quot;vhba&quot;</span>
+</code></pre></div>
+<p>In order for the CDEmu daemon to be started automatically on boot, you will need to have dbus enabled. You can enable it by running:</p>
+<div class="highlight"><pre><span></span><code>sudo rc-update add dbus default
+</code></pre></div>
+<h4 id="step-2-configure-wine-and-install-runtimes">Step 2. Configure Wine and install runtimes<a class="headerlink" href="#step-2-configure-wine-and-install-runtimes" title="Permanent link">&para;</a></h4>
+<p>First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit is unnecessary for VNs.</p>
+<p><div class="highlight"><pre><span></span><code><span class="nv">WINEARCH</span><span class="o">=</span>win32 wineboot
+</code></pre></div>
+Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work. </p>
+<div class="admonition tip">
+<p class="admonition-title">Optional: Font smoothing</p>
+<p>You can do <code>winetricks fontsmooth=rgb</code> because without it, the font is simply awful.  </p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Optional: GUI Improvments</p>
+<p>You can open the Registry Editor using <code>wine regedit</code> and import <a href="https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg">this .reg file</a>, the GUI should look nice and clean then.  </p>
+</div>
+<p><div class="highlight"><pre><span></span><code>winetricks ffdshow quartz wmp10 lavfilters d3dx9 dxvk dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+</code></pre></div>
+Then, run this command to disable DLL overrides:</p>
+<div class="highlight"><pre><span></span><code>winetricks <span class="nv">alldlls</span><span class="o">=</span>default
+</code></pre></div>
+<p>You need to install Japanese fonts to Wine now. Please download the pack below.<br />
+<a href="https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk">[Google Drive]</a><br />
+Unzip the file and move the font files to your <code>Fonts</code> folder in <code>~/.wine/drive_c/Windows/Fonts</code>    </p>
+<div class="admonition question">
+<p class="admonition-title">Why not install <code>cjkfonts</code> in winetricks?</p>
+<p>Because it doesn't work properly for VNs.</p>
+</div>
+<p>If your Wine Windows version was set to XP, set it back to 7 using:  </p>
+<p><div class="highlight"><pre><span></span><code>winecfg -v win7
+</code></pre></div>
+It is useful to know that changing the Windows version in Wine does not change the way Wine behaves, rather, it only changes what it reports to the application, since 99% of VNs recommend Windows 7, we will be using that.  </p>
+<p>Once thats done, we can setup Lutris.</p>
+<p>Open Lutris, and click the plus icon in the top left corner, and click Install runners.</p>
+<p><img alt="Image" src="../img/vnlinux1.jpg" /></p>
+<p>Scroll down to the bottom and find "Wine" and click the cog icon next to it.  </p>
+<p><img alt="Image" src="../img/vnlinux2.jpg" />  </p>
+<p>Now go to System options and set the environment variables as shown below and click Save.  </p>
+<p><img alt="Image" src="../img/vnlinux3.jpg" />  </p>
+<h4 id="step-3-installing-the-visual-novel">Step 3. Installing the visual novel<a class="headerlink" href="#step-3-installing-the-visual-novel" title="Permanent link">&para;</a></h4>
+<p>I will be using 古色迷宮輪舞曲～HISTOIRE DE DESTIN～ for this demonstration. Visual Novels usually come in .ISO files and if not, an .MDS/.MDF file which can be converted to an .ISO using tools such as mdf2iso.<br />
+In the case of 古色迷宮輪舞曲～HISTOIRE DE DESTIN～, the install files came in an .ISO, so we got lucky here.  </p>
+<p>Navigate to the path of the .ISO  </p>
+<div class="highlight"><pre><span></span><code><span class="nb">cd</span> /path/to/visualnovelfolder
+</code></pre></div>
+<p>Load the .ISO file with CDEmu
+<div class="highlight"><pre><span></span><code>cdemu load <span class="m">0</span> file.ISO
+</code></pre></div></p>
+<p>Create a mount point for the ISO file.</p>
+<p><div class="highlight"><pre><span></span><code>sudo mkdir -p /media/cdrom0
+</code></pre></div>
+Now we can mount our ISO to our mount point.  </p>
+<div class="highlight"><pre><span></span><code>sudo mount -o loop file.ISO /media/cdrom0
+</code></pre></div>
+<p>If all went well, you will be able to see the ISO contents like:  </p>
+<p><img alt="Image" src="../img/vnlinux4.jpg" /></p>
+<p>Next, we will run the setup file using <code>wine</code>:</p>
+<div class="highlight"><pre><span></span><code><span class="nv">LC_ALL</span><span class="o">=</span><span class="s2">&quot;ja_JP.UTF-8&quot;</span> <span class="nv">TZ</span><span class="o">=</span><span class="s2">&quot;Asia/Tokyo&quot;</span> wine launcher.exe
+</code></pre></div>
+<p>Proceed with the installation. The game may be installed in <code>~/.wine/drive_c/Program Files</code> or wherever you chose to install it.</p>
+<p>Now we can add the game to Lutris so we can launch it quickly.  </p>
+<p>Back in Lutris, click the plus icon in the corner, add the name of the VN, choose Wine as the runner and under "Game Options" navigate to the game's executable. You should also change the prefix architecture to 32-bit.</p>
+<p><img alt="Image" src="../img/vnlinux5-sup.jpg" />  </p>
+<p><img alt="Image" src="../img/vnlinux5.jpg" />  </p>
+<div class="admonition warning">
+<p class="admonition-title">Vulkan Unsupported Systems</p>
+<p>If your system does not support Vulkan, you must disable DXVK in "Runner options", this will fallback to regular D3DX9. DXVK is a Vulkan implementation of Direct3D so we will be keeping it on even though VNs don't use 3D graphics.  </p>
+</div>
+<p>Now you can just launch it in Lutris!  </p>
+<p><img alt="Image" src="../img/vnlinux6.jpg" />  </p>
+<p>and viola!  </p>
+<p><img alt="Image" src="../img/vnlinux7.jpg" /></p>
+<div class="admonition question">
+<p class="admonition-title">Why do you use <em>that</em> distro?</p>
+<p>I don't. I only used it in a virtual machine for this tutorial.</p>
+</div>
+<p>Now go back to <a href="https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor">Visual Novel Guide</a> to learn how to use Textractor, it works perfectly under Wine.</p>
+<h2 id="bsd-freebsd">BSD (FreeBSD)<a class="headerlink" href="#bsd-freebsd" title="Permanent link">&para;</a></h2>
+<p>Visual novels are only Microsoft Windows applications, therefore you must use Wine in order to run them.</p>
+<h3 id="wine_1">Wine<a class="headerlink" href="#wine_1" title="Permanent link">&para;</a></h3>
+<p>TBA</p>
+<h2 id="android">Android<a class="headerlink" href="#android" title="Permanent link">&para;</a></h2>
+<h3 id="using-ppssspp-emulator">Using PPSSSPP Emulator<a class="headerlink" href="#using-ppssspp-emulator" title="Permanent link">&para;</a></h3>
+<p>There are a couple of native Android visual novels but these are usually spin-offs/gacha cash-grabs.  </p>
+<p>The best option is to use <a href="https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp">PPSSPP</a> emulator and download PSP ROMs.</p>
+<p>PSP games are probably the best quality visual novels you can get on a mobile device.</p>
+<p><img alt="Image" src="../img/vnpsp1.jpg" />  </p>
+<h2 id="ios">iOS<a class="headerlink" href="#ios" title="Permanent link">&para;</a></h2>
+<h3 id="non-jailbreak-using-ppsspp-emulator">Non-jailbreak: Using PPSSPP Emulator<a class="headerlink" href="#non-jailbreak-using-ppsspp-emulator" title="Permanent link">&para;</a></h3>
+<p>Again, there <em>are</em> in fact native iOS visual novels, but I feel like emulating PSP visual novels is a better idea, just because the games on a PSP console are just going to be <em>so</em> much higher quality than games made for phones.</p>
+<p>It is a little more tricky to get PPSSPP working on iOS without a jailbreak, but it is definitely possible.<br />
+You will need:<br />
+<a href="https://altstore.io/">AltStore</a> - check the <a href="https://altstore.io/faq/">FAQ</a> on the website for instructions<br />
+<a href="https://build.ppsspp.org/builds/iOS/ppssppbuildbot-org.ppsspp.ppsspp-dev-working-ios.ipa">PPSSPP IPA</a></p>
+<h3 id="jailbreak-using-ppsspp-emulator">Jailbreak: Using PPSSPP Emulator<a class="headerlink" href="#jailbreak-using-ppsspp-emulator" title="Permanent link">&para;</a></h3>
+<p>PPSSPP can be installed via Cydia package by adding the repository: <code>https://cydia.ppsspp.org/</code>.</p>
+<h2 id="emulators">Emulators<a class="headerlink" href="#emulators" title="Permanent link">&para;</a></h2>
+<p>TBA</p>
+<h2 id="windows-xp-virtual-machine">Windows XP Virtual Machine<a class="headerlink" href="#windows-xp-virtual-machine" title="Permanent link">&para;</a></h2>
+<h3 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h3>
+<p>Oracle VM VirtualBox <a href="https://www.virtualbox.org/wiki/Downloads">(Link)</a>  </p>
+<p>Windows XP Professional SP3 Disc Image (.ISO) (Will not be provided here due to copyright, contact me at the Discord)  </p>
+<p>At least 4GB RAM (Recommended)  </p>
+<p>At least 30GB free disk space. (Recommended) </p>
+<p>Virtualization technology enabled in your BIOS. (Highly Recommended, you can search on Google how to do this for your computer.)  </p>
+<h3 id="full-setup">Full Setup<a class="headerlink" href="#full-setup" title="Permanent link">&para;</a></h3>
+<p>Here I'll walk you through the entire process. From installing Windows XP to getting a VN hooked and working.</p>
+<ol>
+<li>Install Oracle VM VirtualBox  </li>
+<li>Acquire a disc image for Windows XP Professional SP3  </li>
+<li>Open Oracle VM Virtual Box, at the top, click the blue "New" button.  </li>
+<li>You can set any name you wish.  </li>
+<li>Make the "Type" <code>Microsoft Windows</code> and the "Version" <code>Windows XP (32-bit)</code>. Click next.   </li>
+<li>For the memory size, make it at least <code>768</code> MB. Click next.  </li>
+<li>Keep on clicking next until you reach the "File location and size". Over here you'd want to set the size of the virtual hard disk to <code>30.00 GB</code>. Now click Create.  </li>
+<li>Now double click the virtual machine that has now appeared in the left menu to run the virtual machine.    </li>
+<li>In the "Select start-up disk" dialog box, click the little folder icon, and then click "Add".  </li>
+<li>Navigate to the disc image (.ISO) for Windows XP Professional SP3, open it and then click "Choose".  </li>
+<li>Now click "Start" and wait for Windows XP to boot into the installation.  </li>
+<li>You will be greeted with a blue installation screen. Don't worry. Just keep hitting the <span class="keys"><kbd class="key-enter">Enter</kbd></span> key.  </li>
+<li>When the initial setup is complete, Windows XP will boot into another installation screen. Wait it out.  </li>
+<li>Before installation finishes, it will ask for your name, computer name, password. Just do whatever. I put "shoui" for every field. You will be asked to set a time zone too, do Tokyo because some VNs actually check for Japanese time zone.</li>
+<li>Once it finishes installation and reboots, you will be greeted with Windows XP setup. Enjoy the music!  </li>
+<li>Click Next, then Yes, then Next, then No, then Next, then No, then put your name, then Finish.  </li>
+<li>Wait until Windows XP boots into the desktop. Nostalgic isn't it?  </li>
+<li>Turn off your Windows XP virtual machine. <span class="keys"><kbd class="key-alt">Alt</kbd><span>+</span><kbd class="key-f4">F4</kbd></span> &gt; Turn Off  </li>
+<li>We will now increase the specs of your VM. Click on the VM on the left menu, then click the orange "Settings" button.  </li>
+<li>Go in System &gt; Processor, and increase the CPU core count to whatever is on the green bar. For me it's <code>2</code> CPUs. If you want to use more than 4GB of memory on this VM, enable PAE/NX too.</li>
+<li>Now go in Display and enable 3D acceleration and set video memory to <code>128 MB</code></li>
+<li>Now launch your VM again by double clicking it in the left menu.</li>
+<li>Once you are in the XP desktop. On the VirtualBox window, click "Devices" and then click on "Insert Guest Addons CD Image"  </li>
+<li>It will now automatically run VBox Guest Additions setup, install it and reboot your VM. Go in Devices again and set Drag and Drop to Bidirectional. This will allow us to drag and drop files from our actual PC to our VM.  </li>
+<li>Now we will enable Japanese locale. Again in "Devices", click on Optical Drives &gt; select the disc image you used to install Windows XP. Exit setup when prompted.  </li>
+<li>Now open a Run dialog box, by doing <span class="keys"><kbd class="key-windows">Win</kbd><span>+</span><kbd class="key-r">R</kbd></span>, and enter <code>intl.cpl</code>. Go in the <code>Languages</code> tab and check "Install files for East Asian languages" now hit Apply. Do not reboot yet.   </li>
+<li>Go in the Regional Options tab and set format to Japanese and location to Japan. Hit Apply.  </li>
+<li>Now go in the Advanced tab and set "Language for non-Unicode programs" to Japanese. Hit Apply. Now reboot your VM when prompted.  </li>
+<li>Now go and install some software. I recommend you download these on your actual PC and just drag and drop it into your VM.<br />
+<a href="https://www.7-zip.org/a/7z1900.exe">7-Zip (32 bit)</a>  <br />
+<a href="https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox%20Setup%2052.9.0esr.exe">Mozilla Firefox 52.9.0 ESR</a>  - Most recent browser that supports XP.<br />
+<a href="https://cdn.discordapp.com/attachments/715225470798659667/799731133683728404/ITHVNR-3.4524.1-win32.7z">ITHVNR</a> - because Textractor is not supported on XP. Install vcredist_x86 to make it work.<br />
+<a href="https://github.com/snowie2000/mactype/releases/download/2019.1-beta6/MacTypeInstaller_2019.1-beta6.exe">MacType</a> - Fix pixelated CJK font. Also recommend on Win10. Use registry mode. <img alt="🙂" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f642.svg" title=":slight_smile:" />  </li>
+<li>In "Devices" enable bidirectional clipboard.</li>
+<li>Download your visual novel of choice and drag and drop it to your VM. If it needs to be installed, then install it.</li>
+<li>Open ITHVNR and your VN. In ITHVNR, go in "Process", find the process of the VN, then click "Attach" and "OK"</li>
+<li>Advance some text in the VN. Now cycle through the hooks in ITHVNR and find the right hook.</li>
+<li>ITHVNR will automatically copy text to your clipboard, which is shared with your actual PC. I recommend you use <a href="/yomichan">Yomichan</a>'s clipboard monitor :)</li>
+<li>Phew, that's pretty much it, have fun!
+<img alt="Image" src="../img/winxp1.jpg" />
+<em>from vm</em>
+<img alt="Image" src="../img/winxp2.jpg" /><br />
+<em>from actual pc</em></li>
+</ol>
+<h2 id="pc-98">PC-98<a class="headerlink" href="#pc-98" title="Permanent link">&para;</a></h2>
+<p>TBA</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.18f0862e.min.js"></script>
+      <script src="../assets/javascripts/bundle.994580cf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: ['navigation.instant', 'navigation.sections'],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.9c0e82ba.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

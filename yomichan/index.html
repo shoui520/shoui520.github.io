@@ -1,0 +1,799 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Learn Japanese for free, on your own, with the things you love. Acquire with anime, TheMoeWay.">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.8">
+    
+    
+      
+        <title>Yomichan Setup Tutorial - TheMoeWay</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.cb6bc1d0.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.39b8e14a.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#7e56c2">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="blue">
+      
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#yomichan-setup-tutorial" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <!--
+  Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Mitigate bug: https://github.com/mkdocs/mkdocs/issues/2191 -->
+
+
+
+<!-- Application header -->
+<header class="md-header" data-md-component="header">
+
+    <!-- Top-level navigation -->
+    <nav class="md-header-nav md-grid" aria-label="Header">
+
+        <!-- Link to home -->
+        <a href=".." title="TheMoeWay" class="md-header-nav__button md-logo"
+            aria-label="TheMoeWay">
+            
+  <img src="../img/moe.svg" alt="logo">
+
+        </a>
+
+        <!-- Button to open drawer -->
+        <label class="md-header-nav__button md-icon" for="__drawer">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+        </label>
+
+        <!-- Header title -->
+        <div class="md-header-nav__title" data-md-component="header-title">
+            <div class="md-header-nav__ellipsis">
+                <div class="md-header-nav__topic">
+                    <span class="md-ellipsis">
+                        <a href="..">TheMoeWay</a>
+                    </span>
+                </div>
+                <div class="md-header-nav__topic">
+                    <span class="md-ellipsis">
+                        
+                        Yomichan Setup Tutorial
+                        
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Button to open search dialogue -->
+        
+        <label class="md-header-nav__button md-icon" for="__search">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        </label>
+
+        <!-- Search interface -->
+        
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+
+        <!-- Repository information -->
+        
+    </nav>
+</header> 
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+
+
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            
+
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="TheMoeWay" class="md-nav__button md-logo" aria-label="TheMoeWay">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+    TheMoeWay
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+      
+      <label class="md-nav__link" for="nav-2">
+        Guides
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Guides" data-md-level="1">
+        <label class="md-nav__title" for="nav-2">
+          <span class="md-nav__icon md-icon"></span>
+          Guides
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide/" class="md-nav__link">
+        New Japanese Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speaking/" class="md-nav__link">
+        Speaking Japanese
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../animejp/" class="md-nav__link">
+        Anime Japanese
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kanji/" class="md-nav__link">
+        Learning Kanji
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reading/" class="md-nav__link">
+        Getting into Reading
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monolingual/" class="md-nav__link">
+        Monolingual Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        Japanese FAQ
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sub/" class="md-nav__link">
+        Japanese Subtitles
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+      
+      <label class="md-nav__link" for="nav-3">
+        Visual Novels
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Visual Novels" data-md-level="1">
+        <label class="md-nav__title" for="nav-3">
+          <span class="md-nav__icon md-icon"></span>
+          Visual Novels
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn/" class="md-nav__link">
+        Learning Japanese with VNs
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn-setup/" class="md-nav__link">
+        Installing Visual Novels
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+      
+      <label class="md-nav__link" for="nav-4">
+        Yomichan
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Yomichan" data-md-level="1">
+        <label class="md-nav__title" for="nav-4">
+          <span class="md-nav__icon md-icon"></span>
+          Yomichan
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Yomichan Setup Tutorial
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Yomichan Setup Tutorial
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-yomichan" class="md-nav__link">
+    What is Yomichan?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    Getting Started
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acquiring-dictionaries" class="md-nav__link">
+    Acquiring Dictionaries
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installing-dictionaries-and-basic-usage" class="md-nav__link">
+    Installing Dictionaries and basic usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#allowing-access-to-file-urls" class="md-nav__link">
+    Allowing access to file URLs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anki-setup" class="md-nav__link">
+    Anki Setup
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomicss/" class="md-nav__link">
+        Yomichan Custom CSS
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+      
+      <label class="md-nav__link" for="nav-5">
+        Resources
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Resources" data-md-level="1">
+        <label class="md-nav__title" for="nav-5">
+          <span class="md-nav__icon md-icon"></span>
+          Resources
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        Resources
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" >
+      
+      <label class="md-nav__link" for="nav-6">
+        About
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="About" data-md-level="1">
+        <label class="md-nav__title" for="nav-6">
+          <span class="md-nav__icon md-icon"></span>
+          About
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contact/" class="md-nav__link">
+        Contact & Support
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc" >
+    <div class="md-sidebar__scrollwrap">
+        <a href="https://discord.gg/nhqjydaR8j"><img width="100%" src="/img/discord.png"></a>
+        <div class="md-sidebar__inner">
+            
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-yomichan" class="md-nav__link">
+    What is Yomichan?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    Getting Started
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acquiring-dictionaries" class="md-nav__link">
+    Acquiring Dictionaries
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installing-dictionaries-and-basic-usage" class="md-nav__link">
+    Installing Dictionaries and basic usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#allowing-access-to-file-urls" class="md-nav__link">
+    Allowing access to file URLs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anki-setup" class="md-nav__link">
+    Anki Setup
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+        </div>
+    </div>
+</div>
+
+
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="yomichan-setup-tutorial">Yomichan Setup Tutorial<a class="headerlink" href="#yomichan-setup-tutorial" title="Permanent link">&para;</a></h1>
+<h2 id="what-is-yomichan">What is Yomichan?<a class="headerlink" href="#what-is-yomichan" title="Permanent link">&para;</a></h2>
+<p>Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease. As you can see, I made a dedicated tutorial for it, even though the process is simple and there are already guides out there, only so I can stress how it is a very important tool when it comes to learning Japanese. Yomichan also has extra features such as Anki flashcard creation, which makes it a powerful learning tool.</p>
+<h2 id="getting-started">Getting Started<a class="headerlink" href="#getting-started" title="Permanent link">&para;</a></h2>
+<p>Yomichan is available for both Chromium and Firefox based browsers. You can find the respective versions below.<br />
+<a href="https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami">Chrome Web Store</a><br />
+<a href="https://addons.mozilla.org/en-US/firefox/addon/yomichan/">Firefox Add-Ons</a><br />
+Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  </p>
+<h2 id="acquiring-dictionaries">Acquiring Dictionaries<a class="headerlink" href="#acquiring-dictionaries" title="Permanent link">&para;</a></h2>
+<p>When you first install Yomichan, you need to load dictionaries into it in order to use it.<br />
+These come in <code>.zip</code> extension and <strong>are not to be extracted by the user.</strong></p>
+<p>Download my pack of Yomichan dictionaries below. This will have everything you need and (probably) don't need. <img alt="🙂" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f642.svg" title=":slight_smile:" /><br />
+<a href="https://drive.google.com/file/d/1E1y4ry1Q0jF-5SKT7r8jdkhlKhfcyyxj/view?usp=sharing">NEW Version 4 Google Drive</a>  </p>
+<p>Once downloaded, extract the .7z to any location on your computer. You can use <a href="http://7zip.org/">7-Zip</a> for this.<br />
+<strong>Do not touch the .zip files inside.</strong></p>
+<h2 id="installing-dictionaries-and-basic-usage">Installing Dictionaries and basic usage<a class="headerlink" href="#installing-dictionaries-and-basic-usage" title="Permanent link">&para;</a></h2>
+<p><em>Updated for the "new" settings page.</em>  </p>
+<ol>
+<li>Click on the <img alt="yomichan-icon" src="../img/yomichan-icon.png" /> icon in the browser toolbar.  </li>
+<li>Click on the <img alt="cog" src="../img/yomichan-cog.png" /> icon to access the settings page.  </li>
+<li>On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  </li>
+<li>Click the "Import" button on the bottom.  </li>
+<li>Here's where you select the dictionaries to import. Please only import the following. Do not import every dictionary if you don't need to.<ul>
+<li><code>[Bilingual] JMdict (English).zip</code></li>
+<li><code>[Bilingual] KireiCake.zip</code></li>
+<li><code>[Bilingual] 研究社　新和英大辞典　第５版.zip</code></li>
+<li><code>[Kanji] KANJIDIC (English).zip</code></li>
+</ul>
+</li>
+<li>Please wait for the dictionaries to import. This could take a while if you are using a mechanical hard drive.  </li>
+<li>Once complete, you can test Yomichan by holding down the <span class="keys"><kbd class="key-shift">Shift</kbd></span> key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.<br />
+Click anywhere outside of the box or use the <code>Esc</code> key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).</li>
+<li>You can click the <img alt="audio" src="../img/yomichan-audio.png" /> button to hear the word being pronounced by a native speaker.</li>
+</ol>
+<p><img alt="demo" src="../img/yomidemo1.jpg" />  </p>
+<p>Pop up box size can be edited with advanced settings enabled.<br />
+A full dark mode can be enabled in the settings too.  </p>
+<p>JMDict is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMDict. This is the most common Japanese to English dictionary.  </p>
+<p>KireiCake is based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.</p>
+<p>研究社　新和英大辞典　第５版 (Kenkyuusha New Japanese-English Dictionary, 5th Edition) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with example sentences stripped called is <code>[Bilingual] 新和英.zip</code> can also be found in my dictionary pack (not recommended).  </p>
+<p>KANJIDIC is a kanji dictionary, it allows you to view information of individual kanji.</p>
+<p>You can use the <img alt="search icon" src="../img/yomichan-search.png" /> icon to access Yomichan Search. Where you can use Yomichan as a standalone Japanese to English dictionary, however, Yomichan does not support any advanced dictionary features.</p>
+<h2 id="allowing-access-to-file-urls">Allowing access to file URLs<a class="headerlink" href="#allowing-access-to-file-urls" title="Permanent link">&para;</a></h2>
+<p>Enabling this allows you to use Yomichan on local files such as .HTML files.  </p>
+<div class="admonition failure">
+<p class="admonition-title">PDF Files</p>
+<p>On Chrome, it is impossible to use Yomichan on PDF files.  </p>
+</div>
+<p>Chromium:<br />
+    - Right click the <img alt="yomi icon" src="../img/yomichan-icon.png" /><br />
+    - Click "Manage Extensions"<br />
+    - Enable "Allow access to file URLs"  </p>
+<p>Firefox:<br />
+    - Enabled by default.  </p>
+<h2 id="anki-setup">Anki Setup<a class="headerlink" href="#anki-setup" title="Permanent link">&para;</a></h2>
+<p>Due to there being an already wonderful Anki guide with Yomichan written on the internet. I will not write about that here.</p>
+<p>See <a href="https://animecards.site/">AnimeCards Site</a></p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.18f0862e.min.js"></script>
+      <script src="../assets/javascripts/bundle.994580cf.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: ['navigation.instant', 'navigation.sections'],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.9c0e82ba.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
