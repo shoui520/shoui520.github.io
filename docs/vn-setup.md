@@ -205,11 +205,11 @@ Now go back in the terminal, we will now install `brew`.
 !!! info "macOS Mojave"
 	Mojave users need to run `gcc` in the terminal and install Xcode from there before you run the command below.  
 
-Copy and paste this command and hit Return:  
+Copy and paste this command and hit ++return++:  
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```  
-It will ask for your password because it is an administrative action. Hit Return when asked, and install Xcode when prompted.  
+It will ask for your password because it is an administrative action. Hit ++return++ when asked, and install Xcode when prompted.  
 When the Xcode installation is complete, press any key. Now we will need to enter our password again to complete the installation of Brew.  
 
 #### Step 3. Installing Wine and other dependencies  
@@ -232,8 +232,10 @@ Now:
 brew install --cask --no-quarantine gcenx-wine-staging
 ```  
 
-!!! info "macOS Catalina & later"  
+!!! info "macOS Catalina"  
 	You need to do `brew install --cask --no-quarantine wine-crossover` instead.
+!!! info "macOS Big Sur"
+	You need to do `brew install --cask --no-quarantine wine-crossover20.0.2` instead.
 
 We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
 
@@ -603,10 +605,6 @@ The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id
 PSP games are probably the best quality visual novels you can get on a mobile device.
 
 ![Image](img/vnpsp1.jpg)  
-
-### Running Microsoft Windows in QEMU
-
-deprecated
 
 ## iOS
 
