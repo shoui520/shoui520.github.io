@@ -2,6 +2,9 @@
 
 !!! info "This is an optional tutorial."
     If you want to setup Yomichan, you can find that [here](/yomichan)
+!!! info "Yomichan Update"
+    Yomichan has been updated and since changed old classes and added new ones. I can't be bothered to keep up with the Yomichan developers' design decisions so I will not update this guide. Go figure.
+
 
 The appearance of the Yomichan pop-up window can be modified with custom [CSS](https://en.wikipedia.org/wiki/CSS) found in the settings.  
 
@@ -58,7 +61,7 @@ This demonstrates differing font colors for kanji and kana. You may edit this to
 The definition can be modified with the class below:  
 
 ```css
-.term-glossary {
+.glossary {
 
 }
 ```
@@ -67,14 +70,14 @@ The definition can be modified with the class below:
 
 !!! info "Custom Fonts"
 	To use a certain font in Yomichan, the font must be installed on your system. You can find installed fonts in:  
-	Windows: `C:/Windows/Fonts`  
+	Windows: `C:\Windows\Fonts`  
 	Linux: `/usr/share/fonts` or `/usr/share/local/fonts` or `$HOME/.fonts`  
 	macOS: `/System/Library/Fonts` or `$HOME/Library/Fonts`  
 	Newly installed fonts may require a system restart to be detected by Yomichan.  
 
 With the following CSS:  
 ```css
-.term-glossary {
+.glossary {
 	font-family: MS Mincho; /* Japanese serif font provided in Windows */
 
 }
@@ -92,7 +95,7 @@ This demonstrates the changing of font for definitions to MS Mincho. Linux users
 With the following CSS:
 ```css
 /* You must have 衡山毛筆フォント行書 installed on your system for this to work. */
-.term-glossary {
+.glossary {
 	   font-family: "衡山毛筆フォント行書";
 
 }
@@ -111,22 +114,16 @@ Tags can be modified with the classes below:
 
 }
 
-.tag-inner {
+.tag-label {
 
 }
 
-.term-special-tags {
-
-}
-
-.tag-list {
-
-}
-
-.term-definition-tag-list {
+.tag-label-content {
 
 }
 ```
+
+
 
 
 ### Example: Removing all tags
@@ -190,7 +187,7 @@ body {
 }
  
  
-.term-glossary {
+.glossary {
     color: #ebffff;
  
 }

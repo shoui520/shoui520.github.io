@@ -11,7 +11,7 @@ Visual novels for Microsoft Windows are distributed commonly in disc image files
 !!! question "Glossary: disc image file"
 	A disc image file does not refer to a picture of a disc, rather it is a file (usually `.iso`) that contains an exact copy of what was on a disc. Remember: Japanese visual novels are sold on optical discs, and then people make an exact copy of what is on the disc onto an `.iso` or `.mdf/.mds` file.
 
-## Microsoft Windows (7 - 10)
+## Microsoft Windows
 
 Visual novels are always Microsoft Windows applications. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  
 
@@ -20,7 +20,7 @@ Visual novels are always Microsoft Windows applications. If you have a Windows P
 !!! tip "Word of Wisdom"
 	Always create a Restore Point before making any administrative modifications to your system, even if what you're doing is extremely unlikely to cause any damage. ++windows+r++ > `sysdm.cpl` > System Protection > Create > *enter a name*
 
-Japanese visual novels will not run without Japanese locale. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.
+Japanese visual novels will not run without Japanese locale. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.  
 Follow the steps below to set Japanese locale on your Windows system.  
 
 1. Open the Run dialog box using ++windows+r++
@@ -660,10 +660,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 ![Image](img/winxp2.jpg)  
 *from actual pc*
 
-## MS-DOS
-
-TBA
-
+## PC-98
 
 
 
