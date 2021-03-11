@@ -8,16 +8,17 @@ nav:
     - 'animejp.md'
     - 'kanji.md'
     - 'reading.md'
-    - 'Yomichan Setup Tutorial': 'yomichan.md'
-    - 'vn.md'
     - 'monolingual.md'
     - 'faq.md'
     - 'Japanese Subtitles': 'sub.md'
+  - 'Visual Novels':
+    - 'Learning Japanese with VNs': 'vn.md'
+    - 'Installing Visual Novels': 'vn-setup.md'
+  - 'Yomichan':
+    - 'Yomichan Setup Tutorial': 'yomichan.md' 
+    - 'Yomichan Custom CSS': 'yomicss.md'      
   - 'Resources':
-    - 'Resources': 'resources.md'
-  - 'Other':
-    - "Visual Novel Setup": 'vn-setup.md'
-    - 'Yomichan Custom CSS': 'yomicss.md'
+    - 'Resources': 'resources.md' 
   - 'About':
     - 'Contact & Support': 'contact.md'
 theme:

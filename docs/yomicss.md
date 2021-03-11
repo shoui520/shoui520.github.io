@@ -3,7 +3,7 @@
 !!! info "This is an optional tutorial."
     If you want to setup Yomichan, you can find that [here](/yomichan)
 !!! info "Yomichan Update"
-    Yomichan has been updated and since changed old classes and added new ones. I can't be bothered to keep up with the Yomichan developers' design decisions so I will not update this guide. Go figure.
+    Yomichan has been updated and since changed old classes and added new ones. This guide will no longer work. Please come back later when this message has been removed.
 
 
 The appearance of the Yomichan pop-up window can be modified with custom [CSS](https://en.wikipedia.org/wiki/CSS) found in the settings.  

@@ -74,7 +74,7 @@ This went a little off-topic, sorry about that.
 
 ![Image](img/monodemo1.jpg)
 
-Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding Shift and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
+Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
 
 ### Optimizing Yomichan Settings 
 

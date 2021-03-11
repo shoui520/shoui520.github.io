@@ -96,6 +96,22 @@ After that, you should just be able to launch the game!
 
 Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor with Yomichan.
 
+### Steam Games
+
+If you obtained your visual novel from Steam, first check if "Japanese" is listed as a supported Interface and Subtitles language on the store page first. You can then set Japanese language within the Steam client itself.  
+
+1. Open your Steam Library.
+2. From a game's library page, select Manage > Properties.
+3. Go to the Language tab.
+3. Select Japanese from the drop-down menu.
+
+In other cases, the game language can be set within the game itself.  
+
+If you did not purchase the **Steam game** from Steam (i.e. a cracked game) you can edit the `steam_api.ini` file within the game's installation directory.  
+```txt
+language=japanese
+```
+
 ### Windows: Troubleshooting
 
 !!! info "Direct3D, Visual C++ Related Issues" 
@@ -113,7 +129,7 @@ Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-wor
 
 ## macOS
 
-Visual novels are only Microsoft Windows applications, therefore if you want to run a visual novel on your Mac you must either, virtualize/dual boot Windows or use *Wine*.
+Visual novels are only Microsoft Windows applications, therefore if you want to run a visual novel on your Mac you must either virtualize/dual boot Windows or use *Wine*.
 
 ### Virtual Machines (10.11 - 11.x)
 
@@ -175,7 +191,7 @@ Now press ++command+space++ to bring up Spotlight Search and search for *Font Bo
 To make this tutorial easier, we will be using the terminal to install a lot of things. We will need `brew` which allows you to install things from the terminal.  
 Open Spotlight Search using ++cmd+space++ and search for "Terminal" and open it.  
 
-First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit Return.
+First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit ++return++.
 ```bash
 sudo spctl --master-disable
 ```  
@@ -205,7 +221,7 @@ brew install --cask xquartz
 ```  
 
 Now we can install Wine-Staging, which is the best for macOS as it has all the patches. 
-First add the casks,  
+First add the taps,  
 ```bash
 brew tap homebrew/cask-versions
 brew tap gcenx/wine
@@ -662,7 +678,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 
 ## PC-98
 
-
+TBA
 
 
 

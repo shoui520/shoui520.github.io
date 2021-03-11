@@ -32,7 +32,7 @@ Once downloaded, extract the .7z to any location on your computer. You can use [
 	- `[Bilingual] 研究社　新和英大辞典　第５版.zip`
 	- `[Kanji] KANJIDIC (English).zip`
 6. Please wait for the dictionaries to import. This could take a while if you are using a mechanical hard drive.  
-7. Once complete, you can test Yomichan by holding down the `⇧ Shift` key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
+7. Once complete, you can test Yomichan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
 Click anywhere outside of the box or use the `Esc` key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 8. You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 

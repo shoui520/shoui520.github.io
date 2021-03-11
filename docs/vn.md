@@ -30,6 +30,9 @@ A detailed Yomichan setup tutorial can be found [here](/yomichan)
 
 For most applications, use the x86 executable of Textractor.
 
+!!! info "Steins;Gate"
+	If you wish to hook Steins;Gate and Steins;Gate 0, please check out [Steins;Gate Textractor](https://github.com/shiiion/steinsgate_textractor)  
+
 Launch your VN and Textractor and first remove all the unneeded extensions using the ++delete++ key.  
 
 ![Image](img/textractor1.jpg)  
