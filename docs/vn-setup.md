@@ -240,8 +240,22 @@ We will now create a **32-bit** Wine prefix, this has the best compatibility and
 !!! warning "AMD Hackintosh"
 	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. `wineboot` without a `WINEARCH` parameter, also `wine` commands must be run with `wine64` instead.  
 
-!!! info "macOS Catalina & later"
-	From [Gcenx/wine-on-mac](https://github.com/Gcenx/wine-on-mac): On macOS Catalina 10.15.0 to 10.15.3, [SIP](https://support.apple.com/en-us/HT204899) needs to be disabled this will allow `wine32on64` to change the state of `i386_set_ldt`. 
+**Attention: macOS Catalina & later**
+
+On macOS Catalina 10.15.0 to 10.15.3, [System Integrity Protection](https://support.apple.com/en-us/HT204899) needs to be disabled to allow `wine32on64` to change the state of `i386_set_ldt`. In other words, let Wine run in 32-bit mode, because if you didn't know, Apple artificially killed 32-bit application support in Catalina. Oh, Apple!
+
+Let's do that below. Ignore if running an older version.  
+
+1. Turn off your Mac (Apple > Shut Down).
+2. Hold down ++command+r++ and press the Power button. Keep holding ++command+r++ until the Apple logo appears.
+3. Wait for macOS to boot into the macOS Utilities window.
+4. Choose Utilities > Terminal.
+5. Type `csrutil disable` and hit ++return++.
+6. Type `reboot` and hit ++return++.
+
+!!! note "Enabling System Integrity Protection again"
+	Same steps but type `csrutil enable` instead at step 5.
+
 
 ```bash
 WINEARCH=win32 wineboot
