@@ -99,8 +99,6 @@ Around 3000 or more are used in daily life. Kanji are used when they are used. Y
 ![Highlighted Manga](img/highlighted_manga.jpg)
 <!-- https://media.discordapp.net/attachments/732715294459691044/733033853127622696/02.jpg?width=471&height=670 -->
 
-*Image Credit:* luckhd
-
 *Above is a page from the Love Live! Sunshine!! manga, showing hiragana, katakana and kanji.*
 
 **Approaching Kanji - Kanji With Vocab vs. Isolated Kanji Study**
