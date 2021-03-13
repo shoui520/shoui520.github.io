@@ -42,7 +42,7 @@ It is also important to keep in mind that talking (output) is not practicing a l
 
 Speaking (output) is just the icing on the cake, and input is where you are actually acquiring language.
 
-### Knowing who’s advice to trust
+### Knowing whose advice to trust
 It may seem natural to take as much people’s advice as you can, after all, they have experience right? Maybe you can learn something valuable? Well, not quite.
 If the person you are taking advice from has not achieved what you want to achieve, then you have no reason to trust their advice. If you do, then you will get no better than the low level they are at right now.
 
