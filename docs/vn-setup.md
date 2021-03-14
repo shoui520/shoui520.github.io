@@ -17,7 +17,7 @@ Visual novels are always Microsoft Windows applications. If you have a Windows P
 
 ### Step 1. Setting Japanese Locale
 
-!!! tip "Word of Wisdom"
+!!! tip "A Word of Wisdom"
 	Always create a Restore Point before making any administrative modifications to your system, even if what you're doing is extremely unlikely to cause any damage. ++windows+r++ > `sysdm.cpl` > System Protection > Create > *enter a name*
 
 Japanese visual novels will not run without Japanese locale. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.  
@@ -25,7 +25,7 @@ Follow the steps below to set Japanese locale on your Windows system.
 
 1. Open the Run dialog box using ++windows+r++
 2. Type `intl.cpl` and hit ++enter++.
-3. Click on the **Administrative** tab, go to **Change System Locale** and select **Japanese (Japan)** and click **OK**.
+3. Click on the Administrative tab, go to Change System Locale and select Japanese (Japan) and click OK.
 4. Reboot your PC to apply the changes.
 
 Japanese locale can also be enabled using **Windows Powershell (Administrator)**:
@@ -125,7 +125,7 @@ language=japanese
 !!! info "Legacy Visual Novels"
 	If your visual novel is particularly old and does not work with recent versions of Windows, you can try using a [Windows XP Virtual Machine](#windows-xp-virtual-machine)  
 !!! failure  "Rare error: Boot failure 0xc000000f"  
-	This is an issue that happens after locale settings are changed on a system that is missing NLS (National Language Support) files. If this happens to you, then it is likely you were using a **unofficial modified copy of Windows**. See [this article](https://support.microsoft.com/en-us/windows/about-genuine-windows-0b88ba3d-f799-7c15-9f36-2be445a56493) to check. Also check Windows Update for Japanese language packs and [Microsoft Software Download Center](https://www.microsoft.com/en-us/software-download/) for getting clean disc images for Windows. If you need to restore your system, insert a Windows recovery media and restore from a restore point.  
+	This is an issue that happens after locale settings are changed on a system that is missing NLS (National Language Support) files. If this happens to you, then it is likely you were using a **unofficial modified copy of Windows**. See [this article](https://support.microsoft.com/en-us/windows/about-genuine-windows-0b88ba3d-f799-7c15-9f36-2be445a56493) to check. You can restore NLS files on your Windows system with the archive I made [here](https://drive.google.com/file/d/1qk6T7pzwn-Nl9JaEJD8G3Amuxl8oG1vS/view?usp=sharing) However I recommend checking the [Microsoft Software Download Center](https://www.microsoft.com/en-us/software-download/) for getting clean disc images for Windows. If you need to restore your system, insert a Windows recovery media and restore from a restore point.  
 
 ## macOS
 
@@ -237,11 +237,6 @@ brew install --cask --no-quarantine gcenx-wine-staging
 !!! info "macOS Big Sur"
 	You need to do `brew install --cask --no-quarantine wine-crossover20.0.2` instead.
 
-We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
-
-!!! warning "AMD Hackintosh"
-	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. `wineboot` without a `WINEARCH` parameter, also `wine` commands must be run with `wine64` instead.  
-
 **Attention: macOS Catalina & later**
 
 On macOS Catalina 10.15.0 to 10.15.3, [System Integrity Protection](https://support.apple.com/en-us/HT204899) needs to be disabled to allow `wine32on64` to change the state of `i386_set_ldt`. In other words, let Wine run in 32-bit mode, because if you didn't know, Apple artificially killed 32-bit application support in Catalina. Oh, Apple!
@@ -258,6 +253,12 @@ Let's do that below. Ignore if running an older version.
 !!! note "Enabling System Integrity Protection again"
 	Same steps but type `csrutil enable` instead at step 5.
 
+We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
+
+!!! warning "AMD Hackintosh"
+	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. `wineboot` without a `WINEARCH` parameter, also `wine` commands must be run with `wine64` instead.  
+
+Do the command below to create a 32-bit Wine prefix.  
 
 ```bash
 WINEARCH=win32 wineboot
@@ -353,7 +354,6 @@ If the VN you downloaded does not come with a crack, CD emulation needs to be do
 #### Step 6. Texthooking
 
 Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine.
-
 
 ## GNU/Linux
 
@@ -484,7 +484,6 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 !!! tip "Optional: GUI Improvments"
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
-
 ```bash
 winetricks ffdshow quartz wmp10 lavfilters d3dx9 dxvk dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```
@@ -585,7 +584,6 @@ and viola!
 
 Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine.
  
-
 ## BSD (FreeBSD)
 
 Visual novels are only Microsoft Windows applications, therefore you must use Wine in order to run them.
@@ -691,13 +689,3 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 ## PC-98
 
 TBA
-
-
-
-
-
-
-
-
-
-
