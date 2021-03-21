@@ -228,7 +228,7 @@ brew install --cask --no-quarantine wine-crossover20.0.2
 
 We are all done with the Terminal now!    
 
-#### Using PlayOnMac  
+#### Step 3. Using PlayOnMac  
 
 Download and install PlayOnMac here: [[Download PlayOnMac]](https://www.playonmac.com/en/download.html)  
 
