@@ -145,7 +145,6 @@ You can check if your Mac is an Intel® based Mac by doing the following command
 ```bash
 sysctl -n machdep.cpu.brand_string 
 ```
-You can pipe this together with `| grep Intel(R)` if you want.  
 
 All Intel® based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007.   
 If your Mac supports it, I recommend you run Windows 7 instead of Windows 10.  
