@@ -196,7 +196,7 @@ Authenticate with the your password. You can now go in **System Preferences** > 
 	You can revert this change using `sudo spctl --master-enable`
 
 Now back in the Terminal, we will now install *Homebrew*, copy and paste the command below and hit ++return++  
-!!! "warning"  macOS High Sierra and older  
+!!! warning "macOS High Sierra and older"  
 	macOS High Sierra and older versions is not officially supported by Homebrew anymore. This can successfully install on High Sierra but may fail entirely on anything older.  
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
