@@ -4,17 +4,18 @@ This guide will go over how to set up a workflow while streaming anime online on
 
 ### Finding an Anime Streaming Site
 
-There are many streaming sites available to you in [Resources](https://learnjapanese.moe/resources/#anime), so feel free to check them out there and get a feel for them if you plan to research and find a streaming site that best suits you. Some things to consider when looking for an online streaming site should include ensuring the video player actually works. Nearly all browser videos can work with this method as long as the site you stream from uses HTML5 video players. That isn't difficult to find as HTML5 video is the sole, most widely supported video playback technology as of 2020 for working sites in the absence of Adobe Flash Player. **If you somehow are streaming media with Flash, this method will not work because the Asbplayer site solely detects video elements in HTML5 video players. **Avoid any streaming site using Flash whether you use this method or not since the service is defunct.
+There are many streaming sites available to you in [Resources](https://learnjapanese.moe/resources/#anime), so feel free to check them out there and get a feel for them if you plan to research and find a streaming site that best suits you. Some things to consider when looking for an online streaming site should include ensuring the video player actually works.
 
-With the important stuff out of the way, let's get to the streaming site recommendation. For around a year now, I've been searching for a frequently updated, free streaming site that works for immersion learners. This included having soft subtitles/Japanese subtitles option, newly released series, large catalog, updated site, easy to navigate, and free. For the most part, many popular anime streaming sites have hardcoded subs while others had server issues too often, slow or outdated sites, paid for access, frequent adblock detection, too many ads, broken pages, etc. at least until this one particular site. Eventually, I found an anime streaming site seemed to meet all the criteria and more, and that was [Anime Fever](https://www.animefever.tv/) (animefever.tv). Because of this, I recommend this site for anyone looking to watch anime via online streaming.
+With the important stuff out of the way, let's get to the streaming site recommendation. For around a year now, I've been searching for a frequently updated, free streaming site that works for immersion learners. This included having soft subtitles/Japanese subtitles option, newly released series, large catalog, updated site, easy to navigate, and free. For the most part, many popular anime streaming sites have hardcoded subs while others had server issues too often, slow or outdated sites, paid for access, frequent adblock detection, too many ads, broken pages, etc. at least until this one particular site. Eventually, I found an anime streaming site seemed to meet all the criteria and more, and that was **[Anime Fever](https://www.animefever.tv/)** (animefever.tv). Because of this, I recommend this site for anyone looking to watch anime via online streaming.
 
 ![Image](img/anime1.jpg)
 
 ![Image](img/anime2.jpg)
 
-> **Please turn on your adblocker when visiting the site!** Occasionally, it will detect Brave adblocker and will ask you to turn it off. Fortunately, it has never detected [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) when I used the site. 
+!!! tip "Ad-blocker
+	**Please turn on your adblocker when visiting the site!** Do not use any trashy ones like ABP! Use [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en). If you are using Brave, then disable their built in ad blocker and use uBlock instead.
 
-When you visit this site, you will be greeted by a stunning UI and a page of newly released episodes, even as early as the same day that you visited the website. Don't believe me? Check it for yourself. I took the image above on March 20, 2021, the same day episode 11 of Horimiya was released which, as you can see, is the third episode in latest releases in my screenshot. Of course, a beautiful site means nothing without a functional player, which this site does have and goes beyond with. The subtitles in all the episodes are not hardcoded━meaning they can easily be turned on and off by the viewer━which differs from it's competitors who use hardcoded subs, which are subs that cannot be modified by the viewer. 
+When you visit this site, you will be greeted by a stunning UI and a page of newly released episodes, even as early as the same day that you visited the website. I took the image above on March 20, 2021, the same day episode 11 of Horimiya was released which, as you can see, is the third episode in latest releases in my screenshot. The subtitles in all the episodes are not hardcoded, meaning they can easily be turned on and off by the viewer. Which differs from it's competitors who use hardcoded subs, which are subs that cannot be modified by the viewer. 
 
 #### Navigating the Streaming Site
 
@@ -24,7 +25,7 @@ Navigate to the screenshot icon:
 Result from screenshot:
 ![Image](img/anime4.png)
 
-The player has all the functionalities of a normal player with added features not typically found on online players such as easy in-media screenshots of the scene by clicking on the camera icon which is located underneath the progress bar, and the ability to turn off the subtitles. On it's own, it's a really good resource for those in the absolute beginner stage for the purpose of getting exposure to the language since the ability to turn off the subtitles helps the learner to focus on the dialogue and improve their ability to parse through words, which is a crucial skill for sentence mining.
+The player has all the functionalities of a normal player with added features not typically found on online players such as easy in-media screenshots of the scene by clicking on the camera icon which is located underneath the progress bar, and the ability to turn off the subtitles. On it's own, it's a really good resource for those in the absolute beginner stage for the purpose of getting exposure to the language since the ability to turn off the subtitles helps the learner to focus on the dialogue and improve their ability to parse through words, which is a crucial skill for listening and speaking ability.
 
 Navigate to subtitle settings:
 
@@ -46,11 +47,9 @@ This workflow allows you to view Japanese subtitles directly on any HTML5 video 
 
 From this point forward, it is assumed that you've already picked out your preferred anime streaming site. **Before installing anything, make sure your browser is a Chrome or Chromium based browser.** 
 
-Now, go to the [Asbplayer Github releases](https://github.com/killergerbah/asbplayer/releases) page, and download the latest zip file for the Asbplayer extension. Once the download is complete, unzip the file using 7zip which you can download [here](https://www.7-zip.org/) or by using your preferred file archiver. 
+Now, go to the [Asbplayer Github releases](https://github.com/killergerbah/asbplayer/releases) page, and download the latest .zip file for the Asbplayer extension. Once the download is complete, unzip the file using 7-Zip which you can download [here](https://www.7-zip.org/) or by using your preferred unarchiver. 
 
-Unzipping extension via 7zip:
-
-
+Unzipping extension with 7-Zip:
 
 ![Image](img/anime6.jpg)
 
@@ -147,7 +146,8 @@ Click "Ok" once you have done this, and exit out of the addons window. Now, navi
 
 Click on the settings icon on the right hand side of the page. This should open up a window with Anki Settings for the deck and cards.
 
-> Common error experienced by Brave users: [Image](img/anime18.jpg). The Anki Connect URL shows a "Failed to Fetch" error. To fix this, turn off your Brave adblocker and click on the settings icon again to continue. You should no longer see this error. If you have already done this, make sure you have your Anki application open, then click "Retry Anki URL".
+!!! warning "Brave"
+	Common error experienced by Brave users: https://i.imgur.com/OqdxFB7.png. The Anki Connect URL shows a "Failed to Fetch" error. To fix this, turn off your Brave adblocker and click on the settings icon again to continue. You should no longer see this error. If you have already done this, make sure you have your Anki application open, then click "Retry Anki URL".
 
 Now, you can pick which deck and note type you want to choose by clicking the white arrows and clicking again on the option you prefer. You can also choose where you want the sentence field, definition field, and audio field to be located. Make sure all of this filled out, otherwise you will get a "can't add because note type is empty" error.
 
@@ -167,9 +167,9 @@ The result:
 
 ### Adding the Audio Field
 
-The audio field will only apply if an audio source was playing when the subtitle was copied. Make sure your Anki card type has an audio field before exporting. **Be sure to use`Ctrl + Alt + Z` as that is the only way to copy and paste audio + the sentence for the card**, then navigate to the copy history menu where you should see your pasted sentence and export it with the star icon. You should now see an auto-filled audio option which you can click to playback. Click export once you've filled in all the fields. 
+The audio field will only apply if an audio source was playing when the subtitle was copied. Make sure your Anki card type has an audio field before exporting. **Be sure to use ++ctrl+alt+z++ as that is the only way to copy and paste audio + the sentence for the card**, then navigate to the copy history menu where you should see your pasted sentence and export it with the star icon. You should now see an auto-filled audio option which you can click to playback. Click export once you've filled in all the fields. 
 
-This shortcut is probably the fastest way to create a card using Asbplayer and most efficient due to the easy audio capture. This is the best workflow option for mining while streaming because using `Ctrl + Alt + Z` easily adds a card with audio in the copy menu for you to export. To complete the mining process, grab a screenshot by clicking the camera icon if you are using the [animecards](https://animecards.site/) format or any similar one. 
+This shortcut is probably the fastest way to create a card using Asbplayer and most efficient due to the easy audio capture. This is the best workflow option for mining while streaming because using ++ctrl+alt+z++ easily adds a card with audio in the copy menu for you to export. To complete the mining process, grab a screenshot by clicking the camera icon if you are using the [Animecards](https://animecards.site/) format or any similar one. 
 
 ![Image](img/anime22.gif)
 
