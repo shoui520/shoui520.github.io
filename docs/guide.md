@@ -76,12 +76,12 @@ The Chart:
 
 ![Hiragana + Katakana Chart](img/hiragana_katakana.jpg)
 
-When you've done that you should go on [DJT Kana](https://djtguide.neocities.org/kana/index.html) and enable all the kana by going in "Show/Hide" and test yourself.
+When you've done that you should go on [DJT Kana](https://djtguide.neocities.org/kana/index.html) and check all the kana by going in "show/hide" and test yourself. Make sure you also scroll down and check all for hiragana combinations and katakana/katakana combinations!
 
 Steps if you got confused:
 > 1. Read [Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) until you complete *The Writing System*
 > 2. Copy out the chart above into a notebook or something similar.
-> 3. Test yourself by using [DJT Kana](https://djtguide.neocities.org/kana/index.html)
+> 3. Test yourself by using [DJT Kana](https://djtguide.neocities.org/kana/index.html). Make sure you check all the kana by going in "show/hide" and test yourself. MAKE SURE you also scroll down and check all for hiragana combinations and katakana/katakana combinations!
 
 After a week or so, you should have all the kana nailed down.
 
@@ -185,7 +185,6 @@ __Drawbacks:__
 __Benefits__     
 + Quick to review. I average 500 cards in 30 minutes with these.     
 + Able to mine everything and anything (does not follow i+1)    
-+ Animecards.site: “has the same benefits as sentence cards” this can be disputed though.      
 __Drawbacks__    
 - Significantly harder than i+1 sentence cards. For the same reason Core 2K is harder than [Tango N5+N4](https://learnjapanese.moe/resources/#vocabulary).    
 - Much more likely to mix up similar words.    
@@ -253,7 +252,7 @@ I cannot answer that, that is up to you to experiment and decide. It all depends
 
 ## Now what?
 1. Learn the kana by copying out the entire chart posted in the **Kana** section into a notebook, or something similar.  
-2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself.  
+2. Use [DJT Kana](https://djtguide.neocities.org/kana/index.html) to test yourself. Make sure you check all the kana by going in "show/hide" and test yourself. MAKE SURE you also scroll down and check all for hiragana combinations and katakana/katakana combinations! 
 3. After you have completed Kana, then you should move on to learning grammar alongside vocabulary.. It is important that you pace yourself and don’t try to punch above your own weight, this is not a race.  
 4. Download and set up [Anki](https://apps.ankiweb.net/), read the [manual](https://apps.ankiweb.net/docs/manual.html) and download & import the [Tango N5 deck](https://learnjapanese.moe/resources/#vocabulary)  
 You can import the [Tango N5](https://learnjapanese.moe/resources/#vocabulary) deck by clicking on it. It should open in Anki, wait a while for it to import.  

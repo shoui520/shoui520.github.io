@@ -167,194 +167,109 @@ Intel® based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-### Wine (10.8 - 11.x)
+### PlayOnMac (10.5-11.x)
 
-!!! info "macOS Catalina"
-	Only CrossOver-19 and later will run on macOS Catalina.  
-!!! info "macOS Big Sur"
-	Only CrossOver-20 and later will run on macOS Big Sur.  
-!!! warning "Compatibility Issues"
-	macOS has poor backwards compatibility, therefore this guide may not work for everyone. 
+PlayOnMac uses the Wine compatibility layer which allows you to run Windows applications directly on your Mac without any virtualization or dual booting.  
 
+#### Step 1. Installing Japanese fonts on your Mac.  
 
-Wine, in layman's terms, allows you to run Microsoft Windows applications on your Mac without any virtualization or dual booting.
- 
-#### Step 1. Installing Japanese fonts on your Mac.
+1. Download the font pack [here](https://drive.google.com/file/d/1gOv5Y4eDMtZTFJIXFWY62nFqkmeeBMkD/view?usp=sharing)
+2. Double click the .zip file to extract it in Finder. This may happen automatically.  
+3. Open Spotlight Search (++cmd+space++) and search for *Font Book* and open it.  
+4. Click the + button and choose the extracted folder (macOS Japanese fonts [learnjapanese.moe])
+5. Click *Open* to install. 
 
-You can download all Japanese fonts needed from [this archive](https://drive.google.com/file/d/1gOv5Y4eDMtZTFJIXFWY62nFqkmeeBMkD/view?usp=sharing). Next you need to double click on the archive in Finder, it will extract it into the folder "macOS Japanese Fonts [learnjapanese.moe]"  
-Now press ++command+space++ to bring up Spotlight Search and search for *Font Book.* Now click the + button in Font Book, and select the folder *macOS Japanese Fonts [learnjapanese.moe]* and click *Open* to install the required fonts.
+#### Step 2. Installing the Wine compatibility layer.  
 
-#### Step 2. Using the Terminal and installing Brew
+Now we need to install Wine, which will let us run PlayOnMac.
+You need to install *Homebrew* first, so we can install Wine properly from the Terminal.  
 
-!!! warning "macOS High Sierra or older"
-	Brew no longer officially supports any version older than Mojave, it may take considerably long to install Brew, or fail entirely on anything older than High Sierra.  
+First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit ++return++ 
 
-To make this tutorial easier, we will be using the terminal to install a lot of things. We will need `brew` which allows you to install things from the terminal.  
-Open Spotlight Search using ++cmd+space++ and search for "Terminal" and open it.  
-
-First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit ++return++.
 ```bash
 sudo spctl --master-disable
-```  
-Authenticate with the admin password. You can now go in **System Preferences** > **Security & Privacy** > click the **Lock** at the bottom left > choose **Anywhere**.
+```
 
-!!! note "Re-enabling Gatekeeper"
+Authenticate with the your password. You can now go in **System Preferences** > **Security & Privacy** > click the Lock at the bottom left > choose **Anywhere**.
+
+!!! note "Re-enabling Gatekeeper"  
 	You can revert this change using `sudo spctl --master-enable`
 
-Now go back in the terminal, we will now install `brew`.  
-
-!!! info "macOS Mojave"
-	Mojave users need to run `gcc` in the terminal and install Xcode from there before you run the command below.  
-
-Copy and paste this command and hit ++return++:  
+Now back in the Terminal, we will now install *Homebrew*, copy and paste the command below and hit ++return++  
+!!! "warning"  macOS High Sierra and older  
+	macOS High Sierra and older versions is not officially supported by Homebrew anymore. This can successfully install on High Sierra but may fail entirely on anything older.  
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```  
-It will ask for your password because it is an administrative action. Hit ++return++ when asked, and install Xcode when prompted.  
-When the Xcode installation is complete, press any key. Now we will need to enter our password again to complete the installation of Brew.  
+```
 
-#### Step 3. Installing Wine and other dependencies  
+It will ask for your password because it is an administrative action. Hit ++return++ when asked, and install Command Line Utilities when prompted.
+When the Command Line Utilities installation is complete, press any key. Now we will need to enter our password again to complete the installation of Homebrew.  
 
-First, we need to make sure **XQuartz 2.7.7** or above is installed. We can install it with `brew`
+The installation of Homebrew will take a while, please wait.   
+
+Now we need to install **XQuartz**, a dependency of Wine.  
 
 ```bash
 brew install --cask xquartz
-```  
+```
+This will take a while.  
 
-Now we can install Wine-Staging, which is the best for macOS as it has all the patches. 
-First add the taps,  
+Then add the taps for Wine:
 ```bash
 brew tap homebrew/cask-versions
 brew tap gcenx/wine
-```  
-
+```
 Now:  
 ```bash
-brew install --cask --no-quarantine gcenx-wine-staging
-```  
-
-!!! info "macOS Catalina"  
-	You need to do `brew install --cask --no-quarantine wine-crossover` instead.
-!!! info "macOS Big Sur"
-	You need to do `brew install --cask --no-quarantine wine-crossover20.0.2` instead.
-
-**Attention: macOS Catalina & later**
-
-On macOS Catalina 10.15.0 to 10.15.3, [System Integrity Protection](https://support.apple.com/en-us/HT204899) needs to be disabled to allow `wine32on64` to change the state of `i386_set_ldt`. In other words, let Wine run in 32-bit mode, because if you didn't know, Apple artificially killed 32-bit application support in Catalina. Oh, Apple!
-
-Let's do that below. Ignore if running an older version.  
-
-1. Turn off your Mac (Apple > Shut Down).
-2. Hold down ++command+r++ and press the Power button. Keep holding ++command+r++ until the Apple logo appears.
-3. Wait for macOS to boot into the macOS Utilities window.
-4. Choose Utilities > Terminal.
-5. Type `csrutil disable` and hit ++return++.
-6. Type `reboot` and hit ++return++.
-
-!!! note "Enabling System Integrity Protection again"
-	Same steps but type `csrutil enable` instead at step 5.
-
-We will now create a **32-bit** Wine prefix, this has the best compatibility and stability.  
-
-!!! warning "AMD Hackintosh"
-	If you are using a Hackintosh with an AMD processor, you must use a 64-bit Wine prefix. `wineboot` without a `WINEARCH` parameter, also `wine` commands must be run with `wine64` instead.  
-
-Do the command below to create a 32-bit Wine prefix.  
-
-```bash
-WINEARCH=win32 wineboot
-```  
-
-Now we can install `winetricks` which helps us configure Wine and install software along with `zenity` which gives us a graphical interface.  
-
-```bash
-brew install winetricks zenity
+brew install --cask --no-quarantine wine-crossover20.0.2
 ```
+!!! note "macOS Sierra"  
+	You need to do `brew install --cask --no-quarantine wine-crossover` instead.  
 
-Now we need to use XQuartz as our display driver, this will let us use hardware acceleration for the Wine window.  
+We are all done with the Terminal now!    
 
-```bash
-winetricks macdriver=x11
-```  
+#### Using PlayOnMac  
 
-!!! question "Having issues?"  
-	You can set the display driver back to the native Mac driver using `winetricks macdriver=mac`  
+Download and install PlayOnMac here: [[Download PlayOnMac]](https://www.playonmac.com/en/download.html)  
 
-Now let's install the needed dependencies to run visual novels as well as some components to make video cutscenes work.  
+Make sure you have your downloaded VN already at hand. Mount the .iso file if you haven't already.  
 
-```bash
-winetricks quartz ffdshow lavfilters wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
-```  
-Graphical installers will show up, this is very similar to .pkg installers on macOS, so you should be pretty familiar already. 
+!!! info ".MDF/.MDS files"  
+	If you have .MDF/.MDS files, you can use The Unarchiver to just extract the MDF file and you'll be fine. If you want to make an ISO, then you can just rename the .mdf to .iso, if that does not work then you can do `brew install mdf2iso` and then `cd` into your directory and do `mdf2iso <file>.mdf <new file>.iso`  
 
-!!! tip "Optional: Font smoothing"
-	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+1. Open PlayOnMac
+2. Click "Install a program", then "Install a non-listed program"
+3. Keep clicking Next until you reach *Install a program in a new virtual drive*. Choose that.
+4. Put any name. I put *VN* because we will be using this virtual drive for *multiple applications*  
+5. Click next, then click next again
+6. Choose 32 bits Windows installation
+7. Now where it says *Please select a set-up file* to run, **Don't do anything yet.**
+8. We need to install Japanese fonts into your virtual drive now, download [[this .zip file]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
+9. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Miscellaneous* tab and click **Open virtual drive's directory**. Put the fonts in the `drive_c/windows/Fonts`  folder.
+10. Now we need to set Japanese DOS environment variables. 
+11. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Wine* tab and click **Registry Editor**
+12. In HKEY_CURRENT_USER, click on Environment, right click, New > String value. Make the name **LC_ALL**
+13. Now double click it, set the value to **ja_JP.UTF-8**
+14. Exit.  
+15. Now back in PlayOnMac, where it says *Please select a set-up file*, click **Browse**
+16. Navigate to your VN's installation files, and choose the .exe or .msi file. 
+17. Now click Next.  
+18. Proceed with the Windows installation.  
+19. After it is done, make the shortcut for it, BUT do not launch it yet!  
+20. We need the set the VN to launch with Japanese locale now.
+21. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Miscellaneous* tab and in the box where it says "Command to exec before running the program", type THIS: `LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo"`.
+22. Now we need to install libraries that will allow the VN to run properly. 
+23. Download [this dependencies pack]ILL ADD THE LINK LATER OK. Put the folder in a memorable location on your Mac. 
+24. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Wine* tab and click **Command Prompt**
+25. In the command prompt. Use `CD` (CHANGE DIRECTORY) to the location of the "dependencies" folder. E.g. `CD Z:/Users/shoui/Downloads/dependencies`
+26. Run `install.bat` by typing install.bat, hit ++enter++.
+27. Wait for install
+28. Done, now just launch your VN!!!!!!
 
-!!! tip "Optional: GUI Improvments"
-	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
-
-You need to install Japanese fonts into Wine now. Please download the pack below.  
-[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`    
-
-!!! tip "Spotlight Search"
-	If you cannot find the `.wine` folder or have no idea what `~` is, just copy and paste that into Spotlight Search and it will open the directory for you. 
-
-!!! question "Why not install `cjkfonts` in winetricks?"
-	Because it doesn't work properly for visual novels.
-
-#### Step 4. Running the installer
-
-If your VN comes in an .ISO file, you must double click on it to mount it, I will be using Angel Beats! ~1st beat~ for this tutorial. The .ISO file is `ab_1st.iso`.  
-![ab_1st.iso in Finder](img/vnmac1.jpg)  
-
-Now you must find the mount point by using `diskutil`, you can do that below.  
-```bash
-diskutil list
-```
-Look at the output for the mounted .ISO, for me it is `/dev/disk3`. Now we need to find the mount point. 
-
-```bash
-diskutil info /dev/your_disk_here | grep 'Mount Point'
-```
-The mount point for my .ISO is `/Volumes/ab_1st`. I can now `cd` into that directory.  
-
-![Macintosh Terminal](img/vnmac2.jpg)  
-
-You can then run:  
-
-```bash
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine Autorun.exe
-```  
-
-!!! info "Executable Filenames"
-	Filenames for executables will not always be the same for every visual novel, please run whatever you have.  
-	It is `Autorun.exe` for me but it may be `setup.exe` for you, for example.  
-
-Proceed with the installation.   
-
-I installed the game into `~/.wine/drive_c/Program Files/KEY/AngelBeats!`, and have applied the patch.  
-I can run it in Wine by first using `cd` into that directory, then running the .exe file with the command below.  
-
-```bash
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine SiglusEngine.exe
-```
-
-!!! question "cd not working, directory not found?"
-	Because `Program Files` has a space, you must put the path in quotation marks. 
-	Example: `"~/.wine/drive_c/Program Files/"`  
-
-!!! question "DirectX (Direct3D) not working?"  
-	Make sure `d3dx9` is installed with winetricks. 
-	Note that you cannot use hardware 3D accelerated programs on a macOS virtual machine without GPU passthrough.  
-
-#### Step 5. CD Emulation  
-Some VNs have a form of DRM (Digital Rights Management) that require you to have the original disc inserted in order for it to run.  
-If the VN you downloaded does not come with a crack, CD emulation needs to be done in order to launch the game, that is done using a tool called CDEmu on Linux and WinCDEmu on Windows, however, there is no macOS version, so you can just mount the .ISO file normally and use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip) to trick the VN executable into thinking that the original disc is insterted. To use, drag the VN executable onto the AlphaROM GUI.  
-
-#### Step 6. Texthooking
-
-Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine.
+!!! failure "BORKED: WHY APPLE"
+	THIS WAS SUPPOSED TO WORK BUT I RAN INTO SOME UNPREDICTABLE ERRORS JUST WAIT UNTIL THIS MESSAGED IS REMOVED OK
+	OR JUST USE A DAMN VIRTUAL MACHINE!!! OR BOOT CAMP!!! YOU DONT EVEN NEED WINDOWS!!! LINUX WITH WINE WORKS AMAZINGLY!!! 
+	WINE ON MAC IS A NIGHTMARE!! ARGHHH1!!!!!
 
 ## GNU/Linux
 
@@ -384,9 +299,6 @@ sudo systemctl enable --now cdemu-daemon
 ```
 **Debian/Ubuntu**
 
-!!! info "Ubuntu 20.10"
-	If you are on Ubuntu 20.10 you must do `sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y` instead. 
-
 First you will need to enable 32-bit architecture.  
 ```bash
 sudo dpkg --add-architecture i386
@@ -400,6 +312,9 @@ Now add the WineHQ repository key:
 sudo apt-key add winehq.key
 ```  
 Add the repository:  
+
+!!! info "Ubuntu 20.10"
+	If you are on Ubuntu 20.10 you must do `sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y` instead. 
 ```bash
 sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
 ```
@@ -421,7 +336,7 @@ sudo apt-get install --install-recommends winehq-stable -y
 ```
 Now install Lutris, CDEmu and some needed libraries:  
 ```bash
-sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:1386 ocl-icd-dev:i386 -y
+sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:i386 ocl-icd-dev:i386 -y
 ```
 Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
 First, wget the binary:  

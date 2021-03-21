@@ -151,8 +151,6 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) (Use the Repository search feature)
 - [SentenceSearch](https://sentencesearch.neocities.org/)
 - [Jisho.org](https://jisho.org/search/%20%23sentences)
-- [ｺﾂ](https://kotu.kez.io/)
-
 ### Japanese Fonts
 - [Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)  
 
@@ -243,7 +241,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)    
 *Not Japanese related but still a must:*  
 - [uBlock Origin - Best ad blocker.](https://github.com/gorhill/uBlock)  
-- [Universal Bypass - Skip annoying short links, be a more powerful pirate.](https://universal-bypass.org/install)  
+- [Universal Bypass - Skip annoying short links.](https://universal-bypass.org/install)  
 
 ### Downloading Tools
 - [qBittorrent for torrents](https://www.qbittorrent.org/)
@@ -256,7 +254,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 
 ### Private Trackers
 *Info: [https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers](https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers)*  
-You can find hard to find things on private trackers.   
+You can find hard to find things on private trackers. You can only get in by knowing someone that is already a member of these private trackers.
 
 - **AvistaZ**, for J-drama and such (I have **0** invites)   
 - **AnimeBytes**, for anime, manga, VNs and such (ONLY close friends shall be invited)  
@@ -280,10 +278,10 @@ I only recommend Private Internet Access.
 - [Private Internet Access](https://www.privateinternetaccess.com/)  
 
 #### Premium Cracks/Cheats/Accounts
-I usually find working premium VPN cheats/cracks over at [TeamOS](https://teamos-hkrg.com/forums/web-tools.74) *USE AN ADBLOCKER*
+I usually find working premium VPN cheats/cracks over at [TeamOS](https://teamos-hkrg.com/forums/web-tools.74)
 
 - [VPN Accounts Dump](https://leak.sx/dispenser_vpn.php)   
-You can search for “ExpressVPN crack apk” if you’re an Android user lmao.  
+You can search for “ExpressVPN crack apk” if you’re an Android user.  
 
 ### Condensed Audio
 - [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)  
