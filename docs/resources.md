@@ -120,8 +120,6 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#)
 - [Sukebei Nyaa.si](https://sukebei.nyaa.si/)
 
-¹ - There is no PlayStation Vita emulator that can run commercial games. You must have a real hacked PlayStation Vita with NoNpDrm.
-
 - [Visual Novel Recommendation Lists](https://learnjapanese.moe/vn/#unsure-what-to-play)
 
 #### Hook VNs with Textractor!
