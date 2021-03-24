@@ -106,17 +106,13 @@ Scan websites usually have the best collection but can be a pain to download fro
 
 ### Visual Novels & Games
 - [Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive](https://itazuraneko.neocities.org/library/game.html)
-- [NBlog Japanese PC Games](https://nblog.org/region/japan/?language=japanese&post_types=pc-games)
-- [NBlog Japanese PS3 Games](https://nblog.org/region/japan/?language=japanese&post_types=ps3-iso)
-- [NBlog Japanese PS Vita Games¹](https://nblog.org/region/japan/?language=japanese&post_types=psvita)
 - [CDRomance Japanese PSP Games](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan)
 - [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan)
 - [Softcobra Nintendo Switch Games](https://www.softcobra.com/)
 - [RoyalRoms (GB, GBA, GBC, N64, NDS, Sega | Sort region by "Japan")](https://www.royalroms.com/roms/)
 - [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround)
+**PC**
 - [Nyaa.si](https://nyaa.si/?f=0&c=6_2&q=_)
-
-#### The following may be NSFW
 - [Itazuraneko Visual Novel Archive](https://itazuraneko.neocities.org/library/vn.html)
 - [RyuuGames](https://www.ryuugames.com/tag/japanese/)
 - [RyuuBlogger](https://ryuubloggerv2.blogspot.com/)
