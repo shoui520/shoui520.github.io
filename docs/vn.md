@@ -54,6 +54,7 @@ You can then just use ++shift++ to use Yomichan.
 ![Image](img/textractor5.jpg)  
 
 All done! Enjoy the reading!! :smirk_cat:
+You can track how much characters you have read using the indicator in the top right corner of the texthooking page.
 
 ### Use a walkthrough!
 Playing a VN with a walkthrough is usually better than playing without one, because we wouldn’t want to get a bad ending.
