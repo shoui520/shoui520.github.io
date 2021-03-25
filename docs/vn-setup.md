@@ -28,6 +28,9 @@ Follow the steps below to set Japanese locale on your Windows system.
 3. Click on the Administrative tab, go to Change System Locale and select Japanese (Japan) and click OK.
 4. Reboot your PC to apply the changes.
 
+!!! note "Use Unicode UTF-8 for worldwide language support"
+	This is a recent feature of Windows 10. Keep it disabled.
+
 Japanese locale can also be enabled using **Windows Powershell (Administrator)**:
 ```powershell
 Set-WinSystemLocale -SystemLocale ja-JP; Restart-Computer
