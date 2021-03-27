@@ -122,6 +122,9 @@ language=japanese
 	Make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & Language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
 !!! info "This Game is Japan Only!"
 	Ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
+!!! info "Cutscenes and video not working"
+	First, check if you are not using an N or KN edition of Windows. You can do that buy doing ++windows+r++ and typing `winver` and hit ++enter++. There you will see your Windows version and edition. If you *are* using an N edition, then you need to get the Media feature pack from Microsoft [here](https://www.microsoft.com/en-gb/download/details.aspx?id=48231).   
+	If you are not using a N or KN edition of Windows, then make sure the game files are installed correctly, try reinstalling the game. If the problem persists, maybe try installing [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/SVN%20builds%20by%20clsid/generic%20builds/ffdshow_rev4532_20140717_clsid.exe/download) and [LAVFilters](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe)  
 !!! info "Legacy Visual Novels"
 	If your visual novel is particularly old and does not work with recent versions of Windows, you can try using a [Windows XP Virtual Machine](#windows-xp-virtual-machine)  
 !!! failure "Rare error: Boot failure 0xc000000f"  
