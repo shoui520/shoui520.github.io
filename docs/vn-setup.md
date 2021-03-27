@@ -29,7 +29,8 @@ Follow the steps below to set Japanese locale on your Windows system.
 4. Reboot your PC to apply the changes.
 
 !!! note "Use Unicode UTF-8 for worldwide language support"
-	This is a recent feature of Windows 10. Keep it disabled.
+	This is a recent feature of Windows 10. We do not need it for VNs, it is unrelated, and may cause problems. Keep it disabled.  
+	If you're curious: It sets CHCP 65001 in the registry.
 
 Japanese locale can also be enabled using **Windows Powershell (Administrator)**:
 ```powershell
@@ -487,7 +488,7 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 ![Image](img/vnlinux5.jpg)  
 
 !!! warning "Vulkan Unsupported Systems"
-	If your system does not support Vulkan, you must disable DXVK in "Runner options", this will fallback to regular D3DX9. DXVK is a Vulkan implementation of Direct3D so we will be keeping it on even though VNs don't use 3D graphics.  
+	If your system does not support Vulkan, you must disable DXVK in "Runner options", this will fallback to regular D3DX9. DXVK is a Vulkan implementation of Direct3D so we will be keeping it on even though Vulkan may not make much of a difference.  
 
 Now you can just launch it in Lutris!  
 
