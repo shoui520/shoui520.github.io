@@ -89,12 +89,6 @@ You can find an example below. Sorry for the "awkward" cursor placement, it happ
 
 After that, you should just be able to launch the game! 
 
-!!! info "Common problems"
-	Common problems that persist is the game asking for the original disc to be inserted, even after a crack is applied, restart your PC to fix this.
-	Another issue is the game not loading at all or having garbled text, in this case, check Japanese locale is set and then restart your PC.
-!!! tip "No Crack?"
-	If there is no crack available for your VN, and your VN does not launch, use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). See pictures within .zip file for instructions.
-
 Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor with Yomichan.
 
 ### Steam Games
@@ -115,6 +109,10 @@ language=japanese
 
 ### Windows: Troubleshooting
 
+!!! info "Please insert original disc オリジナルディスクを入れてください"
+	Make sure you have applied the crack/patch. Some VNs require the original disc inserted at least once before it will launch. In that case, use WinCDEmu to mount the .ISO or .MDS as a DVD drive. If the problem persists, try restarting your PC.
+!!! tip "No Crack?"
+	If there is no crack available for your VN, and your VN does not launch, use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). See pictures within .zip file for instructions.
 !!! info "Direct3D, Visual C++ Related Issues" 
 	This can be easily fixed by installing DirectX [here](https://www.microsoft.com/en-us/Download/confirmation.aspx?id=35) and all the Visual C++ Redistributable Runtimes [here](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).  
 !!! info "Garbled Text (文字化け)"  
@@ -122,10 +120,11 @@ language=japanese
 	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
 !!! info "Japan Time Zone Required"
 	Make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & Language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
-
+!!! info "This Game is Japan Only!"
+	Ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
 !!! info "Legacy Visual Novels"
 	If your visual novel is particularly old and does not work with recent versions of Windows, you can try using a [Windows XP Virtual Machine](#windows-xp-virtual-machine)  
-!!! failure  "Rare error: Boot failure 0xc000000f"  
+!!! failure "Rare error: Boot failure 0xc000000f"  
 	This is an issue that happens after locale settings are changed on a system that is missing NLS (National Language Support) files. If this happens to you, then it is likely you were using a **unofficial modified copy of Windows**. See [this article](https://support.microsoft.com/en-us/windows/about-genuine-windows-0b88ba3d-f799-7c15-9f36-2be445a56493) to check. You can restore NLS files on your Windows system with the archive I made [here](https://drive.google.com/file/d/1qk6T7pzwn-Nl9JaEJD8G3Amuxl8oG1vS/view?usp=sharing).  
 	However I recommend checking the [Microsoft Software Download Center](https://www.microsoft.com/en-us/software-download/) for getting clean disc images for Windows. If you need to restore your system, insert a Windows recovery media and restore from a restore point.  
 
@@ -289,7 +288,7 @@ You will need to enable multilib before running this command. To do this, uncomm
 sudo pacman -S wine winetricks giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs lutris cdemu-client cdemu-daemon
 ```
 
-!!! info "Custom Kernels"
+!!! info "Custom and LTS Kernels"
 	If you are using a custom kernel such as Xanmod, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
 
 You can then enable the CDEmu daemon by running:
@@ -495,10 +494,40 @@ and viola!
 
 ![Image](img/vnlinux7.jpg)
 
-!!! question "Why do you use *that* distro?"
-	I don't. I only used it in a virtual machine for this tutorial.
-
 Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine.
+
+### Troubleshooting: Linux
+
+#### Shift-JIS
+
+When you've done everything correctly but your VN text still looks like this: ????? ?????????? ???????????? 
+This means your VN needs to use ja_JP.sjis instead of ja_JP.UTF-8.  
+
+You need to download ja_JP.sjis from [here](https://cdn.discordapp.com/attachments/813105334763126814/825472692558889022/ja_JP.sjis.zip) first.  
+
+Unzip it to a memorable location on your computer and `cd` into that directory.  
+
+```bash
+cd /path/to/ja_JP.sjis
+```
+
+Now compile the locale using `localedef`:
+```bash
+localedef  -i ja_JP  -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
+```
+
+Using `sed`, edit your locale.gen to include ja_JP.sjis:
+
+```bash
+sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/locale.gen
+```
+Now generate locales:
+
+```bash
+locale-gen --no-warnings=ascii
+```
+
+You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
  
 ## BSD (FreeBSD)
 
