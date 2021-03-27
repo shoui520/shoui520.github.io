@@ -44,8 +44,8 @@ Requirements:
 [Get 7-Zip](https://www.7-zip.org/)  
 [Get WinCDEmu](https://wincdemu.sysprogs.org/download/)  
 
-!!! info "Alternatives"
-	I am aware of alternatives such as DAEMON Tools as an alternative for WinCDEmu and WinRAR as an alternative for 7-Zip. However, I would **rather not** use crappy software. #FOSS
+!!! question "FAQ: What about alternatives?"
+	I am aware of alternatives such as *DAEMON Tools* as an alternative for WinCDEmu and *WinRAR* as an alternative for 7-Zip. However, I am not very fond of these pieces of software as DAEMON Tools installs bundleware (crap) and pesters the user to buy the premium version of their product, and WinRAR is not open source, I feel 7-Zip is a much better alternative, you can still extract .rar files with 7-Zip because UnRAR is at least open source. And I personally use 7-Zip and WinCDEmu so writing a tutorial using these will be easier for me.
 
 We will be using 2 pieces of software today, *7-Zip* which is a tool for making and extracting archives such as `.zip` , `.tar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
 	
