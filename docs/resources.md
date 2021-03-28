@@ -110,7 +110,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan)
 - [Softcobra Nintendo Switch Games](https://www.softcobra.com/)
 - [RoyalRoms (GB, GBA, GBC, N64, NDS, Sega | Sort region by "Japan")](https://www.royalroms.com/roms/)
-- [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround)
+- [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround)  
 **PC**
 - [Nyaa.si](https://nyaa.si/?f=0&c=6_2&q=_)
 - [Itazuraneko Visual Novel Archive](https://itazuraneko.neocities.org/library/vn.html)
