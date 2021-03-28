@@ -54,6 +54,10 @@ You can then just use ++shift++ to use Yomichan.
 All done! Enjoy the reading!! :smirk_cat:
 You can track how much characters you have read using the indicator in the top right corner of the texthooking page.
 
+!!! info "Can't hook?"
+	Try referring to the [H-Code list @ Visual Novel Texthooking Wiki](https://vn-hooking.fandom.com/wiki/H-Code)  
+	Please note that Little Busters! (REALLIVE.EXE) is impossible to hook. LITBUS_WIN32.EXE (Steam version) works with limited functionality however.
+
 ### Use a walkthrough!
 Playing a VN with a walkthrough is usually better than playing without one, because we wouldn’t want to get a bad ending.
 
