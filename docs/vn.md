@@ -13,11 +13,9 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 
 [*Click here to view image.*](img/vnbased1.jpg)
 
-### Downloading and setting up Visual Novels
+### Playing visual novels in Japanese
 
-Please refer to [Cross Platform Visual Novel Setup](/vn-setup) for instructions on downloading and setting up Visual Novels for all platforms.  
-
-### Looking up words in VNs using Yomichan and Textractor
+This guide will go over how to play visual novels in Japanese and learn Japanese from them, this guide assumes you already have a Japanese visual novel set up and working, if not, check out [Cross Platform VN Setup](/vn-setup).
 
 Requirements:
 
