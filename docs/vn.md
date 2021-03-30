@@ -35,6 +35,9 @@ Launch your VN and Textractor and first remove all the unneeded extensions using
 
 ![Image](img/textractor1.jpg)  
 
+!!! info "Regex Filter"
+	If you want to use Regex Filter, it has to be moved to the top for some reason.  
+
 Now we need to *attach* Textractor to your VN. 
 
 ![Image](img/textractor2.jpg)  
