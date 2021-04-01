@@ -31,7 +31,14 @@ For most applications, use the x86 executable of Textractor.
 !!! info "Steins;Gate"
 	If you wish to hook Steins;Gate and Steins;Gate 0, please check out [Steins;Gate Textractor](https://github.com/shiiion/steinsgate_textractor)  
 
-Launch your VN and Textractor and first remove all the unneeded extensions using the ++delete++ key.  
+Launch your VN and Textractor and first remove all the unneeded extensions using the ++delete++ key. 
+
+Remove the following:
+
+- Bing Translate
+- Extra Window
+- Extra Newlines
+- Styler 
 
 ![Image](img/textractor1.jpg)  
 
