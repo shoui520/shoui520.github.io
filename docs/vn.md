@@ -62,7 +62,9 @@ You can then just use ++shift++ to use Yomichan.
 ![Image](img/textractor5.jpg)  
 
 All done! Enjoy the reading!! :smirk_cat:
+
 You can track how much characters you have read using the indicator in the top right corner of the texthooking page.
+You can choose to keep the text when you refresh the page, or just the character count, or nothing.
 
 !!! info "Can't hook?"
 	Try referring to the [H-Code list @ Visual Novel Texthooking Wiki](https://vn-hooking.fandom.com/wiki/H-Code)  
