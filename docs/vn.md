@@ -13,7 +13,7 @@ For the people that hate reading, and even find manga boring, VNs might just be 
 
 [*Click here to view image.*](img/vnbased1.jpg)
 
-### Playing visual novels in Japanese
+### Playing visual novels to learn Japanese
 
 This guide will go over how to play visual novels in Japanese and learn Japanese from them, this guide assumes you already have a Japanese visual novel set up and working, if not, check out [Cross Platform VN Setup](/vn-setup).
 

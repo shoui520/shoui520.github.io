@@ -15,28 +15,28 @@ Visual novels for Microsoft Windows are distributed commonly in disc image files
 
 Visual novels are always Microsoft Windows applications. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  
 
-### Step 1. Setting Japanese Locale
+### Step 1. Japanese Locale
 
-!!! tip "A Word of Wisdom"
-	Always create a Restore Point before making any administrative modifications to your system, even if what you're doing is extremely unlikely to cause any damage. ++windows+r++ > `sysdm.cpl` > System Protection > Create > *enter a name*
+Japanese visual novels will not run without Japanese locale. Some may run, but have limited functionality, audio, visuals and saving may not work. Japanese locale is the minimum requirement for running Japanese games on your Windows PC. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.  
 
-Japanese visual novels will not run without Japanese locale. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.  
-Follow the steps below to set Japanese locale on your Windows system.  
+**Follow the steps below to set Japanese locale on your Windows system.**  
 
-1. Open the Run dialog box using ++windows+r++
-2. Type `intl.cpl` and hit ++enter++.
-3. Click on the Administrative tab, go to Change System Locale and select Japanese (Japan) and click OK.
-4. Reboot your PC to apply the changes.
+!!! abstract "Setting Japanese locale"
+	1. Open the Run dialog box using ++windows+r++
+	2. Type `intl.cpl` and hit ++enter++
+	3. Click on the *Administrative* tab, go to *Change System Locale* and select **Japanese (Japan)** and click OK.	
+	4. Reboot your PC to apply the changes.
 
-!!! question "FAQ: What about 'Use Unicode UTF-8 for worldwide language support"?"
-	This is a recent feature of Windows 10. We do not need it for VNs, it is unrelated, and may cause problems. Keep it disabled.  
+!!! question "FAQ: What about "Use Unicode UTF-8 for worldwide language support"?"
+	Keep it disabled. This is a recent feature of Windows 10. We do not need it for VNs, it is unrelated, and may cause problems.   
 	If you're curious: It sets CHCP 65001 in the registry.
 
-Japanese locale can also be enabled using **Windows Powershell (Administrator)**:
-```powershell
-Set-WinSystemLocale -SystemLocale ja-JP; Restart-Computer
-```
-This will restart your PC.
+??? tip "Advanced Users: Powershell"
+	Japanese locale can also be enabled using **Windows Powershell (Administrator)**:
+	```powershell
+	Set-WinSystemLocale -SystemLocale ja-JP; Restart-Computer
+	```  
+	This will restart your PC.
 
 ### Step 2. Extracting archives and mounting images
 
@@ -119,15 +119,15 @@ language=japanese
 	Solution 1: Check [Japanese locale](#step-1-setting-japanese-locale) and restart your PC.  
 	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
 !!! info "Japan Time Zone Required"
-	Make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & Language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
+	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & Language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
 !!! info "This Game is Japan Only!"
-	Ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
+	Check Japanese locale and ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
 !!! info "Cutscenes and video not working"
 	First, check if you are not using an N or KN edition of Windows. You can do that buy doing ++windows+r++ and typing `winver` and hit ++enter++. There you will see your Windows version and edition. If you *are* using an N edition, then you need to get the Media feature pack from Microsoft [here](https://www.microsoft.com/en-gb/download/details.aspx?id=48231).   
 	If you are not using a N or KN edition of Windows, then make sure the game files are installed correctly, try reinstalling the game. If the problem persists, maybe try installing [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/SVN%20builds%20by%20clsid/generic%20builds/ffdshow_rev4532_20140717_clsid.exe/download) and [LAVFilters](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe)  
 !!! info "Legacy Visual Novels"
 	If your visual novel is particularly old and does not work with recent versions of Windows, you can try using a [Windows XP Virtual Machine](#windows-xp-virtual-machine)  
-!!! failure "Rare error: Boot failure 0xc000000f"  
+!!! bug "Rare error: Boot failure 0xc000000f"  
 	This is an issue that happens after locale settings are changed on a system that is missing NLS (National Language Support) files. If this happens to you, then it is likely you were using a **unofficial modified copy of Windows**. See [this article](https://support.microsoft.com/en-us/windows/about-genuine-windows-0b88ba3d-f799-7c15-9f36-2be445a56493) to check. You can restore NLS files on your Windows system with the archive I made [here](https://drive.google.com/file/d/1qk6T7pzwn-Nl9JaEJD8G3Amuxl8oG1vS/view?usp=sharing).  
 	However I recommend checking the [Microsoft Software Download Center](https://www.microsoft.com/en-us/software-download/) for getting clean disc images for Windows. If you need to restore your system, insert a Windows recovery media and restore from a restore point.  
 
