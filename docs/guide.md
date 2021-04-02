@@ -287,7 +287,7 @@ However, you can use the lyric sheet as reading practice.
 This guide would have not been possible if it was not for Stephen Krashen, Mass Immersion Approach, All Japanese All The Time, AntiMoon, Daily Japanese Thread/Itazuraneko, and my brothers and sisters here in TheMoeWay. Thank you all!   
 
 !!! note
-    You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
+    You should not expect to comprehend this guide the first time you read it. Take your time and read it as many times as you can until you finally get it.
 
 ### Further Reading  
 
