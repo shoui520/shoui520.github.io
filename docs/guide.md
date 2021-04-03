@@ -325,7 +325,7 @@ If you intend on playing Visual Novels, then make sure you setup texthooking, yo
 ### Discord   
 If you have any questions, you can ask at our Discord. 
 
-[Join us on Discord :fontawesome-brands-discord:](/discord-confirmation){: .md-button .md-button--primary }  
+[Join us on Discord :fontawesome-brands-discord:](/join){: .md-button .md-button--primary }  
 
 ### Sources
 1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)  
