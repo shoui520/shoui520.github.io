@@ -1,4 +1,4 @@
-# Beginner Japanese Guide
+# Japanese Guide
 I know that the following guide is long. But language learning is something you do in the long term, so please take time to read this guide in its entirety.
 
 I apologise if this guide may get a little scientific, and I **will not write a simplified version** of this guide. Everything stated below is what you need to know. Sorry about that.
