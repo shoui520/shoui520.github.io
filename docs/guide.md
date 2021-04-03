@@ -56,7 +56,7 @@ Has your friend achieved something close to what you want to achieve? If not, yo
 Now that you know the basics of language acquisition, let’s dive into how to learn Japanese.
 ### Kana  
 
-![Hiragana and Katakana](img/kana.jpg)  
+![Hiragana and Katakana](img/kana2.png)  
 
 Kana refers to *hiragana* and *katakana*, they are the two scripts of the Japanese language. Hiragana and Katakana are two versions of the same sounds in the language.
 
