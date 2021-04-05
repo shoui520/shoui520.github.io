@@ -115,7 +115,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [RoyalRoms (GB, GBA, GBC, N64, NDS, Sega | Sort region by "Japan")](https://www.royalroms.com/roms/)  
 - [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround)    
 
-**PC**
+**PC (Windows)**  
 
 - [Nyaa.si](https://nyaa.si/?f=0&c=6_2&q=_) ← Has no H scene 18+ vn, use sukebei
 - [Itazuraneko Visual Novel Archive](https://itazuraneko.neocities.org/library/vn.html)
