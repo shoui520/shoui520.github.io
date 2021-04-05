@@ -133,14 +133,14 @@ language=japanese
 
 ## macOS
 
-Visual novels are only Microsoft Windows applications, therefore if you want to run a visual novel on your Mac you must either virtualize/dual boot Windows or use *Wine*.
+Visual novels are only Microsoft Windows applications, therefore if you want to run a visual novel on your Mac you must either virtualize or dual boot Windows.
 
 ### Virtual Machines (10.11 - 11.x)
 
-It is usually best to use a Virtual Machine of Microsoft Windows 7, as it works on newer Macs and does not have a hacky setup like Wine. Why not Windows 10? Simply because 10 is not necessary for Visual Novels and is also bloated.  
+The most convenient way would be to play VNs on your Mac is to use a virtual machine. You can use Parallels (Paid), VMWare (Paid) or VirtualBox (Free). Parallels is the most simple, fastest, offers almost native performance while still being virtualized. VMWare is pretty fast but is quite technical. VirtualBox is free but the performance can be abysmal.  
+You should search on Google how to use either one of these to virtualize Windows, it is not VN specific and there are a ton of guides out there.  
+Contact me on Discord if you need help with getting a Windows 7 or 10 ISO image, you will need this to install a Windows virtual machine.  
 
-Search on Google for how to run a Windows virtual machine on your Mac using Parallels (paid) or VirtualBox (free). I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.    
-Contact me on Discord if you need help with getting either a Windows XP, 7 or 10 ISO.  
 
 ### Boot Camp Assistant (Intel® based Macs)
 
@@ -148,9 +148,7 @@ You can check if your Mac is an Intel® based Mac by doing the following command
 ```bash
 sysctl -n machdep.cpu.brand_string 
 ```
-
-All Intel® based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007.   
-If your Mac supports it, I recommend you run Windows 7 instead of Windows 10.  
+All Intel® based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007.     
 
 **Macs that support Windows 7:**  
 
@@ -169,109 +167,12 @@ Intel® based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-### PlayOnMac (10.5-11.x)
+### Wine
 
-PlayOnMac uses the Wine compatibility layer which allows you to run Windows applications directly on your Mac without any virtualization or dual booting.  
-
-#### Step 1. Installing Japanese fonts on your Mac.  
-
-1. Download the font pack [here](https://drive.google.com/file/d/1gOv5Y4eDMtZTFJIXFWY62nFqkmeeBMkD/view?usp=sharing)
-2. Double click the .zip file to extract it in Finder. This may happen automatically.  
-3. Open Spotlight Search (++cmd+space++) and search for *Font Book* and open it.  
-4. Click the + button and choose the extracted folder (macOS Japanese fonts [learnjapanese.moe])
-5. Click *Open* to install. 
-
-#### Step 2. Installing the Wine compatibility layer.  
-
-Now we need to install Wine, which will let us run PlayOnMac.
-You need to install *Homebrew* first, so we can install Wine properly from the Terminal.  
-
-First we need to set Gatekeeper to allow us to install non App Store verified apps. Type the following command below and hit ++return++ 
-
-```bash
-sudo spctl --master-disable
-```
-
-Authenticate with the your password. You can now go in **System Preferences** > **Security & Privacy** > click the Lock at the bottom left > choose **Anywhere**.
-
-!!! note "Re-enabling Gatekeeper"  
-	You can revert this change using `sudo spctl --master-enable`
-
-Now back in the Terminal, we will now install *Homebrew*, copy and paste the command below and hit ++return++  
-!!! warning "macOS High Sierra and older"  
-	macOS High Sierra and older versions is not officially supported by Homebrew anymore. This can successfully install on High Sierra but may fail entirely on anything older.  
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-It will ask for your password because it is an administrative action. Hit ++return++ when asked, and install Command Line Utilities when prompted.
-When the Command Line Utilities installation is complete, press any key. Now we will need to enter our password again to complete the installation of Homebrew.  
-
-The installation of Homebrew will take a while, please wait.   
-
-Now we need to install **XQuartz**, a dependency of Wine.  
-
-```bash
-brew install --cask xquartz
-```
-This will take a while.  
-
-Then add the taps for Wine:
-```bash
-brew tap homebrew/cask-versions
-brew tap gcenx/wine
-```
-Now:  
-```bash
-brew install --cask --no-quarantine wine-crossover20.0.2
-```
-!!! note "macOS Sierra"  
-	You need to do `brew install --cask --no-quarantine wine-crossover` instead.  
-
-We are all done with the Terminal now!    
-
-#### Step 3. Using PlayOnMac  
-
-Download and install PlayOnMac here: [[Download PlayOnMac]](https://www.playonmac.com/en/download.html)  
-
-Make sure you have your downloaded VN already at hand. Mount the .iso file if you haven't already.  
-
-!!! info ".MDF/.MDS files"  
-	If you have .MDF/.MDS files, you can use The Unarchiver to just extract the MDF file and you'll be fine. If you want to make an ISO, then you can just rename the .mdf to .iso, if that does not work then you can do `brew install mdf2iso` and then `cd` into your directory and do `mdf2iso <file>.mdf <new file>.iso`  
-
-1. Open PlayOnMac
-2. Click "Install a program", then "Install a non-listed program"
-3. Keep clicking Next until you reach *Install a program in a new virtual drive*. Choose that.
-4. Put any name. I put *VN* because we will be using this virtual drive for *multiple applications*  
-5. Click next, then click next again
-6. Choose 32 bits Windows installation
-7. Now where it says *Please select a set-up file* to run, **Don't do anything yet.**
-8. We need to install Japanese fonts into your virtual drive now, download [[this .zip file]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-9. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Miscellaneous* tab and click **Open virtual drive's directory**. Put the fonts in the `drive_c/windows/Fonts`  folder.
-10. Now we need to set Japanese DOS environment variables. 
-11. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Wine* tab and click **Registry Editor**
-12. In HKEY_CURRENT_USER, click on Environment, right click, New > String value. Make the name **LC_ALL**
-13. Now double click it, set the value to **ja_JP.UTF-8**
-14. Exit.  
-15. Now back in PlayOnMac, where it says *Please select a set-up file*, click **Browse**
-16. Navigate to your VN's installation files, and choose the .exe or .msi file. 
-17. Now click Next.  
-18. Proceed with the Windows installation.  
-19. After it is done, make the shortcut for it, BUT do not launch it yet!  
-20. We need the set the VN to launch with Japanese locale now.
-21. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Miscellaneous* tab and in the box where it says "Command to exec before running the program", type THIS: `LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo"`.
-22. Now we need to install libraries that will allow the VN to run properly. 
-23. Download [this dependencies pack]ILL ADD THE LINK LATER OK. Put the folder in a memorable location on your Mac. 
-24. On the main PlayOnMac main window, click Configure, choose your virtual drive (mine is **VN**), click on the *Wine* tab and click **Command Prompt**
-25. In the command prompt. Use `CD` (CHANGE DIRECTORY) to the location of the "dependencies" folder. E.g. `CD Z:/Users/shoui/Downloads/dependencies`
-26. Run `install.bat` by typing install.bat, hit ++enter++.
-27. Wait for install
-28. Done, now just launch your VN!!!!!!
-
-!!! failure "BORKED: WHY APPLE"
-	THIS WAS SUPPOSED TO WORK BUT I RAN INTO SOME UNPREDICTABLE ERRORS JUST WAIT UNTIL THIS MESSAGED IS REMOVED OK
-	OR JUST USE A DAMN VIRTUAL MACHINE!!! OR BOOT CAMP!!! YOU DONT EVEN NEED WINDOWS!!! LINUX WITH WINE WORKS AMAZINGLY!!! 
-	WINE ON MAC IS A NIGHTMARE!! ARGHHH1!!!!!
+!!! failure "Borked"
+	After failing to get a simple, and fully functional VN setup using Wine on macOS, I declare this **borked.** It is recommended you use a virtual machine or Boot Camp instead. 
+!!! question "Don't want to install Windows?"
+	You don't need to touch Windows at all actually. You can use any flavor of Linux and follow the Linux instructions here.  
 
 ## GNU/Linux
 
