@@ -28,6 +28,7 @@ theme:
   name: material
   custom_dir: overrides
   palette:
+    scheme: slate
     primary: deep purple
     accent: blue
   favicon: img/favicon.png
