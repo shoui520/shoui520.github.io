@@ -1,3 +1,15 @@
 .md-typeset ul li, .md-typeset ol li{
     margin-bottom: 0em;
 }
+
+:root {
+  --md-default-fg-color:               rgba(255, 255, 255, 0.60); /*Regular font*/
+  --md-default-fg-color--light:        rgba(255, 255, 255, 0.87); /*h1*/
+  --md-default-fg-color--lighter:      rgba(255, 255, 255, 0.60); /*Quote line of >*/
+  --md-default-fg-color--lightest:     rgba(255, 255, 255, 0.38); /*Horizontal line used for separation*/
+  --md-default-bg-color:               rgba(018, 018, 018, 0.90); /*Background color*/
+}
+
+b, strong, .md-nav__title, h2, h3, h4 {
+  color: rgba(255, 255, 255, 0.87);
+}
