@@ -228,7 +228,6 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
     let chars = { total: 0 }
     let history = [];
     let expanded = false;
-    const detailedCounter = document.querySelector('#detailed-counter');
     const selection = document.querySelector('#local-storage');
 
     //This function is invoked when a node(line) is inserted.
@@ -455,13 +454,15 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
     //End of "remove line" function.
 
     //Function to update the char and line counter.
-    function updateCounter(charDiff, lineDiff, date) {
+    function updateCounter(charDiff, lineDiff, date, shouldDisplay = true) {
       chars.total += charDiff;
       chars[date] = (chars[date] ?? 0) + charDiff;
       lines.total += lineDiff;
       lines[date] = (lines[date] ?? 0) + lineDiff;
 
-      displayCounter();
+      if(shouldDisplay) {
+        displayCounter();
+      }
 
       if(selection.value === 'chars') {
         updateLocalStorage('chars', _ => ({ chars, lines }));
@@ -486,22 +487,27 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
           const text = JSON.parse(localStorage.getItem('text'));
           const reverseDates = text.dates.reverse();
 
-          // Imitate text injection
-          callback(
-            text.text.map((a, i) => ({
-              source: 'localStorage',
-              date: reverseDates.find(b => b.index <= i)?.date || text.dates[0].date,
-              target: document.body,
-              type: 'childList',
-              addedNodes: [
-                {
-                  tagName: 'P',
-                  textContent: a,
-                  remove: () => null
-                }
-              ]
-            }))
-          );
+          document.body.innerHTML += text.text.map((a) =>
+            `<div class='line_box'><span>${a}</span><div class="remove_button" onclick="delet(this)">x</div></div>`
+          ).join('\n');
+
+          text.text.forEach((a, i) => {
+            a = a.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
+            for (var j = 0; j < CHARS_TO_IGNORE.length; j++) {
+              a = a.split(CHARS_TO_IGNORE[j]).join('')
+            }
+
+            let lineLen = a.length
+            updateCounter(
+              lineLen,
+              1,
+              reverseDates.find(b => b.index <= i)?.date || text.dates[0].date,
+              false
+            );
+          });
+
+          displayCounter();
+
           break;
         case 'chars':
           const charsInLS = JSON.parse(localStorage.getItem('chars'));
@@ -523,7 +529,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
         return new Date(date.split('/').reverse()).toLocaleDateString();
       }
 
-      detailedCounter.innerHTML = Object.keys(chars)
+      document.querySelector('#detailed-counter').innerHTML = Object.keys(chars)
         .filter(a => a !== 'total' && chars[a] !== 0)
         .map(key => `<div>
           <span>
@@ -596,9 +602,9 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
     function expandCounter() {
       if(expanded) {
-        detailedCounter.style.display = 'none';
+        document.querySelector('#detailed-counter').style.display = 'none';
       } else {
-        detailedCounter.style.display = 'block';
+        document.querySelector('#detailed-counter').style.display = 'block';
       }
 
       expanded = !expanded;
