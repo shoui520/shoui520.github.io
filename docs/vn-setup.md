@@ -24,7 +24,7 @@ Japanese visual novels will not run without Japanese locale. Some may run, but h
 !!! abstract "Setting Japanese locale"
 	1. Open the Run dialog box using ++windows+r++
 	2. Type `intl.cpl` and hit ++enter++
-	3. Click on the *Administrative* tab, go to *Change System Locale* and select **Japanese (Japan)** and click OK.	
+	3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.	
 	4. Reboot your PC to apply the changes.
 
 !!! question "FAQ: What about "Use Unicode UTF-8 for worldwide language support"?"
@@ -44,7 +44,7 @@ Requirements:
 [Get 7-Zip](https://www.7-zip.org/)  
 [Get WinCDEmu](https://wincdemu.sysprogs.org/download/)  
 
-We will be using 2 pieces of software today, *7-Zip* which is a tool for making and extracting archives such as `.zip` , `.tar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
+We will be using 2 pieces of software today, *7-Zip* which is a tool for making and extracting archives such as `.zip` , `.rar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
 	
 If you have downloaded a visual novel, and it came in a .rar/.zip/.7z archive, you must extract it before you can mount the installation files. You can use 7-Zip for this. 
 
@@ -83,7 +83,7 @@ Proceed with the installation, you may want to take note of where you installed 
 
 If your visual novel came with a crack, you will need to apply this crack before you are able to launch the game. Cracks often come in the form of a .exe/.dll file found in folders/archives called "AlphaROM" or  "NoDVD" or simply just "Patch" or "Crack", whatever it may be, copy these files into the installation directory of the game.  
 
-You can find an example below. Sorry for the "awkward" cursor placement, it happens in the recording for some reason.  
+You can find an example below.  
 
 ![Image](img/vnwin7.gif)  
 
@@ -148,13 +148,17 @@ You can check if your Mac is an Intel® based Mac by doing the following command
 ```bash
 sysctl -n machdep.cpu.brand_string 
 ```
-All Intel® based Macs are able to run Microsoft Windows, with the exception of Macs that predate 2007.     
+All Intel® based Macs are able to run Microsoft Windows.  
 
 **Macs that support Windows 7:**  
+
+*Theoretically any Intel® based Mac will be able to run Windows 7, this is just Apple's official support list.* 
 
 Any Intel® based Mac that predates 2014. (With the exception of 2013 Mac Pro)
 
 **Macs that support Windows 10:**
+
+*Theoretically any Intel® based Mac will be able to run Windows 10, this is just Apple's official support list.*  
 
 Intel® based MacBook introduced in 2015 or later   
 Intel® based MacBook Air introduced in 2012 or later  
@@ -184,7 +188,7 @@ Follow the steps below to run VNs on Linux.
 
 #### Step 1. Install Dependencies
 
-**Arch**
+**Arch Linux**
 
 You will need to enable multilib before running this command. To do this, uncomment the `[multilib]` section in `/etc/pacman.conf`.
 
@@ -199,7 +203,13 @@ You can then enable the CDEmu daemon by running:
 
 ```bash
 sudo systemctl enable --now cdemu-daemon
-```
+```  
+
+If drivers for CD/DVD drives are not automatically loaded, you can load it manually.  
+```bash
+sudo modprobe -a sg sr_mod vhba
+```  
+
 **Debian/Ubuntu**
 
 First you will need to enable 32-bit architecture.  
@@ -216,11 +226,14 @@ sudo apt-key add winehq.key
 ```  
 Add the repository:  
 
-!!! info "Ubuntu 20.10"
-	If you are on Ubuntu 20.10 you must do `sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y` instead. 
 ```bash
 sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
 ```
+!!! info "Ubuntu 20.10"
+	If you are on Ubuntu 20.10 you must do this instead.
+	```bash
+	sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y
+	``` 
 Add PPA's for Lutris:  
 ```bash
 sudo add-apt-repository ppa:lutris-team/lutris -y
@@ -310,7 +323,7 @@ Then, run this command to disable DLL overrides:
 
 ```bash
 winetricks alldlls=default
-```
+```  
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
@@ -342,40 +355,44 @@ Now go to System options and set the environment variables as shown below and cl
 
 #### Step 3. Installing the visual novel
 
-I will be using 古色迷宮輪舞曲～HISTOIRE DE DESTIN～ for this demonstration. Visual Novels usually come in .ISO files and if not, an .MDS/.MDF file which can be converted to an .ISO using tools such as mdf2iso.  
-In the case of 古色迷宮輪舞曲～HISTOIRE DE DESTIN～, the install files came in an .ISO, so we got lucky here.  
+I will be using 古色迷宮輪舞曲～HISTOIRE DE DESTIN～ for this demonstration. Visual Novels usually come in .ISO files and if not, an .MDS/.MDF file which can be mounted with `cdemu`.  
 
-Navigate to the path of the .ISO  
-
+Navigate to the path of the disc image:  
 ```bash
 cd /path/to/visualnovelfolder
 ```
+!!! info "MDS"
+	Load the .MDS file with CDEmu first. The Linux `mount` command will not mount it.
+	```bash
+	cdemu load 0 /path/to/mds_image.MDS
+	```  
+!!! info "UDF Volumes"
+	Load the UDF volume with CDEmu. The Linux `mount` command with the `-t udf` argument is not advised.  
+	```bash
+	cdemu load 0 /path/to/udf_volume
+	```
+!!! question "Where on earth does CDEmu even mount images?"  
+	The `0` in the command corresponds to the virtual drive number. CDEmu emulates a physical drive, which should be in `/dev/sr0` if `0` was the number you chose. Doing `cdemu load 1 /path/to/mds_image.MDS` would load the image into `/dev/sr1`  
 
-Load the .ISO file with CDEmu
-```bash
-cdemu load 0 file.ISO
-```
-
-Create a mount point for the ISO file.
-
+If using a regular ISO9660 ISO file create a mount point for it.
 ```bash
 sudo mkdir -p /media/cdrom0
 ```
 Now we can mount our ISO to our mount point.  
-
 ```bash
 sudo mount -o loop file.ISO /media/cdrom0
 ```  
-
-If all went well, you will be able to see the ISO contents like:  
+If all went well, you will be able to see the contents of the image by doing `ls /media/cdrom0` or `ls /dev/sr0`:  
 
 ![Image](img/vnlinux4.jpg)
 
 Next, we will run the setup file using `wine`:
 
 ```bash
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine launcher.exe
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
 ```
+!!! info ".msi installer"
+	Run with `msiexec` instead of `wine`.  
 
 Proceed with the installation. The game may be installed in `~/.wine/drive_c/Program Files` or wherever you chose to install it.
 
@@ -384,6 +401,13 @@ Now we can add the game to Lutris so we can launch it quickly.
 Back in Lutris, click the plus icon in the corner, add the name of the VN, choose Wine as the runner and under "Game Options" navigate to the game's executable. You should also change the prefix architecture to 32-bit.
 
 ![Image](img/vnlinux5-sup.jpg)  
+
+!!! tip "AlphaROMdiE"
+	For AlphaROMdiE, you need to add AlphaROMdiE to Lutris as the executable, and the filename .exe of the Visual Novel as an argument. If you are using Wine in a command line it should look something like this: 
+	```bash
+	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN.exe>
+	``` 
+	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe.  
 
 ![Image](img/vnlinux5.jpg)  
 
@@ -394,11 +418,17 @@ Now you can just launch it in Lutris!
 
 ![Image](img/vnlinux6.jpg)  
 
+!!! failure "オリジナルディスクを入れてください"
+	Load the .ISO image with `cdemu`. Even though Linux can mount it without, *Wine* programs cannot seem to find it.  
+	```bash
+	cdemu load 0 /path/to/image.ISO
+	```
+
 and viola!  
 
 ![Image](img/vnlinux7.jpg)
 
-Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine.
+Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine. Also consider adding Textractor to Lutris for quick access.
 
 ### Troubleshooting: Linux
 
@@ -417,13 +447,13 @@ cd /path/to/ja_JP.sjis
 
 Now compile the locale using `localedef`:
 ```bash
-localedef  -i ja_JP  -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
+localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 ```
 
 Using `sed`, edit your locale.gen to include ja_JP.sjis:
 
 ```bash
-sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/locale.gen
+sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS' /etc/locale.gen
 ```
 Now generate locales:
 
@@ -453,6 +483,16 @@ PSP games are probably the best quality visual novels you can get on a mobile de
 
 ![Image](img/vnpsp1.jpg)  
 
+### KirikiriDroid2
+
+Any games that use the Kirikiri2 engine (e.g. has a `data.xp3` file) can be loaded and played natively without any virtualization on Android.  
+
+TBA
+
+### QEMU/Limbo/Bochs PC Emulator  
+
+This way is dreadfully slow and I recommend you stay away from this. If you want a portable PC visual novel experience, I recommend you pick up a GPD Win. The first model equipped with an Intel Atom will be fine for VNs, the second model with a Intel Core m3 is more likely to be in stock though.  
+
 ## iOS
 
 ### Non-jailbreak: Using PPSSPP Emulator
@@ -462,11 +502,12 @@ Again, there *are* in fact native iOS visual novels, but I feel like emulating P
 It is a little more tricky to get PPSSPP working on iOS without a jailbreak, but it is definitely possible.  
 You will need:  
 [AltStore](https://altstore.io/) - check the [FAQ](https://altstore.io/faq/) on the website for instructions  
-[PPSSPP IPA](https://build.ppsspp.org/builds/iOS/ppssppbuildbot-org.ppsspp.ppsspp-dev-working-ios.ipa)
+[PPSSPP IPA](https://www.ppsspp.org/downloads.html)  
 
 ### Jailbreak: Using PPSSPP Emulator
 
-PPSSPP can be installed via Cydia package by adding the repository: `https://cydia.ppsspp.org/`.
+PPSSPP can be installed via Cydia package by adding the repository: `https://cydia.ppsspp.org/`.  
+[Tap here to launch Cydia and add the repository](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.ppsspp.org/)  
 
 ## Emulators
 
