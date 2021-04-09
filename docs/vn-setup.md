@@ -119,7 +119,7 @@ language=japanese
 	Solution 1: Check [Japanese locale](#step-1-setting-japanese-locale) and restart your PC.  
 	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
 !!! info "Japan Time Zone Required"
-	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & Language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
+	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
 !!! info "This Game is Japan Only!"
 	Check Japanese locale and ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
 !!! info "Cutscenes and video not working"
@@ -193,11 +193,15 @@ Follow the steps below to run VNs on Linux.
 You will need to enable multilib before running this command. To do this, uncomment the `[multilib]` section in `/etc/pacman.conf`.
 
 ```bash
-sudo pacman -S wine winetricks giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs lutris cdemu-client cdemu-daemon
+sudo pacman -S wine winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs 
 ```
+We also need to install the VHBA module.  
+```bash
+sudo pacman -S vhba-module
+````
 
 !!! info "Custom and LTS Kernels"
-	If you are using a custom kernel such as Xanmod, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
+	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
 
 You can then enable the CDEmu daemon by running:
 
