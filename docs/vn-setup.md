@@ -360,6 +360,9 @@ Scroll down to the bottom and find "Wine" and click the cog icon next to it.
 
 Now go to System options and set the environment variables as shown below and click Save.  
 
+- Key: `LC_ALL`	Value: `ja_JP.UTF-8`  
+- Key: `TZ`	Value: `Asia/Tokyo`   
+
 ![Image](img/vnlinux3.jpg)  
 
 #### Step 3. Installing the visual novel
