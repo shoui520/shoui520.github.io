@@ -198,7 +198,7 @@ sudo pacman -S wine winetricks lutris cdemu-client cdemu-daemon giflib lib32-gif
 We also need to install the VHBA module.  
 ```bash
 sudo pacman -S vhba-module
-````
+```
 
 !!! info "Custom and LTS Kernels"
 	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
