@@ -31,7 +31,7 @@ For most applications, use the x86 executable of Textractor.
 !!! info "Steins;Gate"
 	If you wish to hook Steins;Gate and Steins;Gate 0, please check out [Steins;Gate Textractor](https://github.com/shiiion/steinsgate_textractor)  
 
-Launch your VN and Textractor and first remove all the unneeded extensions using the ++delete++ key. 
+Launch your VN and Textractor and first remove all the unneeded extensions by pressing the ++delete++ key. 
 
 Remove the following:
 
@@ -57,7 +57,7 @@ Now open your browser, head over to my [texthooking page](https://learnjapanese.
 
 ![Image](img/textractor4.jpg)  
 
-You can then just use ++shift++ to use Yomichan.  
+You can then just press ++shift++ to use Yomichan.  
 
 ![Image](img/textractor5.jpg)  
 

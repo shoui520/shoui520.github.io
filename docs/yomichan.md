@@ -33,7 +33,7 @@ Once downloaded, extract the .7z to any location on your computer. You can use [
 	- `[Kanji] KANJIDIC (English).zip`
 6. Please wait for the dictionaries to import. This could take a while if you are using a mechanical hard drive.  
 7. Once complete, you can test Yomichan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
-Click anywhere outside of the box or use the ++esc++ key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
+Click anywhere outside of the box or press the ++esc++ key to dismiss. Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 8. You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 
 ![demo](img/yomidemo1.jpg)  
@@ -41,11 +41,11 @@ Click anywhere outside of the box or use the ++esc++ key to dismiss. Click on an
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  
 
-JMDict is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMDict. This is the most common Japanese to English dictionary.  
+**JMDict** is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMDict. This is the most common Japanese to English dictionary.  
 
-KireiCake is based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.
+**KireiCake** is based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.
 
-研究社　新和英大辞典　第５版 (Kenkyuusha New Japanese-English Dictionary, 5th Edition) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with example sentences stripped called is `[Bilingual] 新和英.zip` can also be found in my dictionary pack (not recommended).  
+**研究社　新和英大辞典　第５版** (Kenkyuusha New Japanese-English Dictionary, 5th Edition) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with example sentences stripped called is `[Bilingual] 新和英.zip` can also be found in my dictionary pack (not recommended).  
 
 KANJIDIC is a kanji dictionary, it allows you to view information of individual kanji.
 

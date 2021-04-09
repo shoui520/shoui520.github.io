@@ -22,8 +22,8 @@ Japanese visual novels will not run without Japanese locale. Some may run, but h
 **Follow the steps below to set Japanese locale on your Windows system.**  
 
 !!! abstract "Setting Japanese locale"
-	1. Open the Run dialog box using ++windows+r++
-	2. Type `intl.cpl` and hit ++enter++
+	1. Open the Run dialog box by pressing ++windows+r++
+	2. Type `intl.cpl` and press ++enter++
 	3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.	
 	4. Reboot your PC to apply the changes.
 
@@ -117,13 +117,13 @@ language=japanese
 	This can be easily fixed by installing DirectX [here](https://www.microsoft.com/en-us/Download/confirmation.aspx?id=35) and all the Visual C++ Redistributable Runtimes [here](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).  
 !!! info "Garbled Text (文字化け)"  
 	Solution 1: Check [Japanese locale](#step-1-setting-japanese-locale) and restart your PC.  
-	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
+	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, press ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
 !!! info "Japan Time Zone Required"
-	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: ++windows+i++ > Time & language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
+	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: Press ++windows+i++ > Time & language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
 !!! info "This Game is Japan Only!"
 	Check Japanese locale and ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
 !!! info "Cutscenes and video not working"
-	First, check if you are not using an N or KN edition of Windows. You can do that buy doing ++windows+r++ and typing `winver` and hit ++enter++. There you will see your Windows version and edition. If you *are* using an N edition, then you need to get the Media feature pack from Microsoft [here](https://www.microsoft.com/en-gb/download/details.aspx?id=48231).   
+	First, check if you are not using an N or KN edition of Windows. You can do that buy pressing ++windows+r++ and typing `winver` and press ++enter++. There you will see your Windows version and edition. If you *are* using an N edition, then you need to get the Media feature pack from Microsoft [here](https://www.microsoft.com/en-gb/download/details.aspx?id=48231).   
 	If you are not using a N or KN edition of Windows, then make sure the game files are installed correctly, try reinstalling the game. If the problem persists, maybe try installing [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/SVN%20builds%20by%20clsid/generic%20builds/ffdshow_rev4532_20140717_clsid.exe/download) and [LAVFilters](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe)  
 !!! info "Legacy Visual Novels"
 	If your visual novel is particularly old and does not work with recent versions of Windows, you can try using a [Windows XP Virtual Machine](#windows-xp-virtual-machine)  
@@ -555,13 +555,13 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 9. In the "Select start-up disk" dialog box, click the little folder icon, and then click "Add".  
 10. Navigate to the disc image (.ISO) for Windows XP Professional SP3, open it and then click "Choose".  
 11. Now click "Start" and wait for Windows XP to boot into the installation.  
-12. You will be greeted with a blue installation screen. Don't worry. Just keep hitting the ++enter++ key.  
+12. You will be greeted with a blue installation screen. Don't worry. Just keep pressing the ++enter++ key.  
 13. When the initial setup is complete, Windows XP will boot into another installation screen. Wait it out.  
 14. Before installation finishes, it will ask for your name, computer name, password. Just do whatever. I put "shoui" for every field. You will be asked to set a time zone too, do Tokyo because some VNs actually check for Japanese time zone.
 15. Once it finishes installation and reboots, you will be greeted with Windows XP setup. Enjoy the music!  
 16. Click Next, then Yes, then Next, then No, then Next, then No, then put your name, then Finish.  
 17. Wait until Windows XP boots into the desktop. Nostalgic isn't it?  
-18. Turn off your Windows XP virtual machine. ++alt+f4++ > Turn Off  
+18. Turn off your Windows XP virtual machine. Press ++alt+f4++ > Turn Off  
 19. We will now increase the specs of your VM. Click on the VM on the left menu, then click the orange "Settings" button.  
 20. Go in System > Processor, and increase the CPU core count to whatever is on the green bar. For me it's `2` CPUs. If you want to use more than 4GB of memory on this VM, enable PAE/NX too.
 21. Now go in Display and enable 3D acceleration and set video memory to `128 MB`
@@ -569,7 +569,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 23. Once you are in the XP desktop. On the VirtualBox window, click "Devices" and then click on "Insert Guest Addons CD Image"  
 24. It will now automatically run VBox Guest Additions setup, install it and reboot your VM. Go in Devices again and set Drag and Drop to Bidirectional. This will allow us to drag and drop files from our actual PC to our VM.  
 25. Now we will enable Japanese locale. Again in "Devices", click on Optical Drives > select the disc image you used to install Windows XP. Exit setup when prompted.  
-26. Now open a Run dialog box, by doing ++windows+r++, and enter `intl.cpl`. Go in the `Languages` tab and check "Install files for East Asian languages" now hit Apply. Do not reboot yet.   
+26. Now open a Run dialog box, by pressing ++windows+r++, and enter `intl.cpl`. Go in the `Languages` tab and check "Install files for East Asian languages" now hit Apply. Do not reboot yet.   
 27. Go in the Regional Options tab and set format to Japanese and location to Japan. Hit Apply.  
 28. Now go in the Advanced tab and set "Language for non-Unicode programs" to Japanese. Hit Apply. Now reboot your VM when prompted.  
 29. Now go and install some software. I recommend you download these on your actual PC and just drag and drop it into your VM.  
