@@ -13,7 +13,7 @@ Visual novels for Microsoft Windows are distributed commonly in disc image files
 
 ## Microsoft Windows
 
-Visual novels are always Microsoft Windows applications. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  
+Visual novels are always Microsoft Windows programs. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  
 
 ### Step 1. Japanese Locale
 
@@ -133,7 +133,7 @@ language=japanese
 
 ## macOS
 
-Visual novels are only Microsoft Windows applications, therefore if you want to run a visual novel on your Mac you must either virtualize or dual boot Windows.
+Visual novels are only Microsoft Windows programs, therefore if you want to run a visual novel on your Mac you must either virtualize or dual boot Windows.
 
 ### Virtual Machines (10.11 - 11.x)
 
@@ -180,7 +180,7 @@ Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO
 
 ## GNU/Linux
 
-Visual novels are only Microsoft Windows applications, therefore you must use Wine in order to run them. This works exceptionally well on Linux.  
+Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux.  
 
 ### Wine
 
@@ -190,7 +190,7 @@ Follow the steps below to run VNs on Linux.
 
 **Arch Linux**
 
-You will need to enable multilib before running this command. To do this, uncomment the `[multilib]` section in `/etc/pacman.conf`.
+You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
 
 ```bash
 sudo pacman -S wine winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs 
@@ -271,7 +271,12 @@ Now copy it to your `/usr/bin` so it can be used in a command line.
 ```bash
 sudo cp winetricks /usr/bin
 ```  
-All done!  
+Now we need to install the VHBA module if you don't already have it.  
+```bash
+sudo apt-get install vhba-module -y
+```
+!!! info "Custom and LTS Kernels"
+	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.   
 
 **Gentoo**
 
@@ -396,7 +401,7 @@ Next, we will run the setup file using `wine`:
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
 ```
 !!! info ".msi installer"
-	Run with `msiexec` instead of `wine`.  
+	If the installer executable is an .msi, run with `msiexec` instead of `wine`.  
 
 Proceed with the installation. The game may be installed in `~/.wine/drive_c/Program Files` or wherever you chose to install it.
 
@@ -409,7 +414,7 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 !!! tip "AlphaROMdiE"
 	For AlphaROMdiE, you need to add AlphaROMdiE to Lutris as the executable, and the filename .exe of the Visual Novel as an argument. If you are using Wine in a command line it should look something like this: 
 	```bash
-	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN.exe>
+	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN_executable.exe>
 	``` 
 	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe.  
 
@@ -422,8 +427,8 @@ Now you can just launch it in Lutris!
 
 ![Image](img/vnlinux6.jpg)  
 
-!!! failure "オリジナルディスクを入れてください"
-	Load the .ISO image with `cdemu`. Even though Linux can mount it without, *Wine* programs cannot seem to find it.  
+!!! failure "Error: オリジナルディスクを入れてください"
+	Load the .ISO image with `cdemu`. Even though Linux can mount ISO9660 images without CDEmu, *Wine* programs cannot seem to find the mounted image.  
 	```bash
 	cdemu load 0 /path/to/image.ISO
 	```
@@ -469,7 +474,7 @@ You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
  
 ## BSD (FreeBSD)
 
-Visual novels are only Microsoft Windows applications, therefore you must use Wine in order to run them.
+Visual novels are only Microsoft Windows programs, therefore you must use *Wine* in order to run them.
 
 ### Wine
 
@@ -495,7 +500,7 @@ TBA
 
 ### QEMU/Limbo/Bochs PC Emulator  
 
-This way is dreadfully slow and I recommend you stay away from this. If you want a portable PC visual novel experience, I recommend you pick up a GPD Win. The first model equipped with an Intel Atom will be fine for VNs, the second model with a Intel Core m3 is more likely to be in stock though.  
+This way is dreadfully slow and I recommend you stay FAR away from this. If you want a portable PC visual novel experience, I recommend you pick up a GPD Win. The first model equipped with an Intel Atom will be fine for VNs, the second model with an Intel Core m3 is more likely to be in stock though.  
 
 ## iOS
 
