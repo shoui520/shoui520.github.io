@@ -171,7 +171,7 @@ Intel® based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-### Wine
+### Wine (BORKED)  
 
 !!! failure "Borked"
 	After failing to get a simple, and fully functional VN setup using Wine on macOS, I declare this **borked.** It is recommended you use a virtual machine or Boot Camp instead. 
@@ -182,11 +182,9 @@ Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO
 
 Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux.  
 
-### Wine
-
 Follow the steps below to run VNs on Linux. 
 
-#### Step 1. Install Dependencies
+### Step 1. Install Wine & Dependencies
 
 #### Arch Linux
 
@@ -337,7 +335,7 @@ In order for the CDEmu daemon to be started automatically on boot, you will need
 sudo rc-update add dbus default
 ```
 
-#### Step 2. Configure Wine and install runtimes
+### Step 2. Configure Wine and install runtimes
 
 First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit is unnecessary for VNs.
 
@@ -380,7 +378,7 @@ winetricks alldlls=default
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/Windows/Fonts`    
+Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/Windows/Fonts`    
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.
@@ -409,7 +407,7 @@ Now go to System options and set the environment variables as shown below and cl
 
 ![Image](img/vnlinux3.jpg)  
 
-#### Step 3. Installing the visual novel
+### Step 3. Installing the visual novel
 
 I will be using 古色迷宮輪舞曲～HISTOIRE DE DESTIN～ for this demonstration. Visual Novels usually come in .ISO files and if not, an .MDS/.MDF file which can be mounted with `cdemu`.  
 
@@ -450,7 +448,7 @@ LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
 !!! info ".msi installer"
 	If the installer executable is an .msi, run with `msiexec` instead of `wine`.  
 
-Proceed with the installation. The game may be installed in `~/.wine/drive_c/Program Files` or wherever you chose to install it.
+Proceed with the installation. The game may be installed in `$WINEPREFIX/drive_c/Program Files` or wherever you chose to install it.
 
 Now we can add the game to Lutris so we can launch it quickly.  
 
@@ -527,13 +525,209 @@ You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
 !!! failure "No fix found yet"
 	I spent 8 hours trying to fix this issue (I use openSUSE) with a Liar-soft VN. If you manage to find a fix, please let me know! 
  
-## BSD (FreeBSD)
+## FreeBSD
 
-Visual novels are only Microsoft Windows programs, therefore you must use *Wine* in order to run them.
+Visual novels are only Microsoft Windows programs, therefore you must use *Wine* in order to run them.  
 
-### Wine
+Follow the steps below to run VNs on FreeBSD.  
 
-TBA
+### Step 1. Japanese and UTF-8 support
+
+By default, FreeBSD is unable to display Japanese text. Make sure you have a Japanese font before proceeding.
+I am using **/usr/ports/japanese/fonts-kochi**
+
+If you haven't done so already, fetch a snapshot of ports, and then extract them:
+```bash
+sudo portsnap fetch
+sudo portsnap extract
+```  
+Then `cd` into the directory and install the port.  
+```bash
+cd /usr/ports/japanese/fonts-kochi
+sudo make install clean
+```  
+
+Then make sure the "Files" section in `/etc/X11/xorg.conf` includes the following in the **FontPath**: 
+
+```{linenums="9 1" hl_lines="2"}
+Section "Files"
+FontPath     "/usr/local/lib/X11/fonts/TrueType/"
+```
+
+You can verify that your FreeBSD system is able to display Japanese text if you can see the Japanese text below:  
+
+> てすとテスト試験  
+
+FreeBSD also does not use Unicode by default. So Japanese filenames will be broken. You need to add these lines to your `/etc/login.conf`  
+
+```{linenums="25 1" hl_lines="3 4"}
+default:\
+			[...]
+			:charset=UTF-8:\
+			:lang=en_US.UTF-8:
+```  
+Now rebuild database for this file:  
+
+```bash
+sudo cap_mkdb /etc/login.conf
+```
+Log out by using `pkill -u $USER` and log back in.  
+
+!!! info "KDE5/SDDM"  
+	If you are using KDE, create a file called `locale.sh` in `$HOME/.config/plasma-workspace/env/`. If the directory doesn't exist then just make it. Add the following contents:  
+	```{linenums="1 1" hl_lines="1 2"}
+	export LANG=en_US.UTF-8
+	export MM_CHARSET=UTF-8
+	```
+
+### Step 2. Installing Wine and dependencies 
+Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to run 64-bit applications with Wine and you also must use the 32-bit version of Wine. However, this is not an issue for visual novels, as most VNs are 32-bit anyway.    
+
+First install all the needed dependencies for Wine first, this is to ensure you don't end up in "Wine dependency hell":  
+```bash
+sudo pkg install p7zip freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer-plugins-good alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123 
+```  
+
+Now, we need to install Wine:  
+
+```bash
+sudo pkg install i386-wine wine-mono wine-gecko cabextract
+```  
+We will now need `winetricks`, do not use the one on the FreeBSD repository as it is outdated and WILL cause headaches.  
+Using, `curl`, download the latest winetricks binary.  
+```bash
+curl https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks --output winetricks
+```
+Using `chmod`, make it executable.  
+```bash
+chmod +x winetricks
+```  
+Now copy it to your `/usr/bin` so it can be used in a command line.  
+```bash
+sudo cp winetricks /usr/bin
+```  
+
+### Step 3. Configuring Wine and installing runtimes  
+
+First we need to create a 32 bit Wine prefix, this has the best compatibility 64 bit doesn't even work on FreeBSD anyway.
+
+```bash
+WINEARCH=win32 wineboot
+```
+Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work. 
+
+!!! tip "Optional: Font smoothing"
+	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+
+!!! tip "Optional: GUI Improvments"
+	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
+
+```bash
+winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+```  
+!!! tip "ffdshow"
+	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
+
+For some VNs, such as TYPE-MOON's, LAVFilters may be needed to playback video.  
+```bash
+winetricks lavfilters
+```  
+!!! failure "ffdshow and LAVFilters"
+	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
+
+Then, run this command to disable DLL overrides, and use the native dlls instead:
+
+```bash
+winetricks alldlls=default
+```  
+
+You need to install Japanese fonts to Wine now. Please download the pack below.  
+[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
+Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/Windows/Fonts`    
+
+!!! question "Why not install `cjkfonts` in winetricks?"
+	Because it doesn't work properly for VNs.
+
+If your Wine Windows version was set to XP, set it back to 7 using:  
+
+```bash
+winecfg -v win7
+```  
+It is useful to know that changing the Windows version in Wine does not change the way Wine behaves, rather, it only changes what it reports to the application, since 99% of VNs recommend Windows 7, we will be using that.  
+
+### Step 4. Installing the visual novel  
+
+FreeBSD does not have CDEmu, FUSEISO or anything similar, so you'll need to mount the disc image file regularly. Luckily, FreeBSD doesn't make the distinction between virtual drives and physical drives.  
+BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT!  
+You cannot execute Wine as root so we will not be mounting image files. Thankfully, BSD tar is better than GNU tar and can extract ISO9660 images.  
+
+Navigate to the directory of the disc image file.  
+
+```bash
+cd /path/to/<disc_image>.ISO
+```
+
+!!! info "MDS/MDF"  
+	If you have Alcohol 120% CD/DVD Images (MDS/MDF), you need to use tools such as `mdf2iso`. Common syntax is
+	```bash
+	mdf2iso <source>.MDF <output>.ISO
+	```
+	In other cases you may be able to rename the .MDF file to use the .ISO extension and it will just work.  
+
+No actually BSD tar and GNU tar both suck, let's just use 7zip. You needed this for winetricks anyway.  
+
+Let's first make our destination folder and `cd` into it.  
+```bash
+mkdir ~/extracted
+cd ~/extracted
+```
+Now, extract it with `7z`:  
+
+```bash
+7z -x /path/to<disc_image>.ISO
+```  
+
+Now we can finally launch the installer with Wine.  
+
+```bash
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
+```  
+
+Proceed with the installation. You may want to take note of the installation directory. `C:\` is relative to `$WINEPREFIX/drive_c`.  
+
+I used Kanon Memorial Edition for this guide. I can `cd` into `$WINEPREFIX/drive_c/KEY/KANON_ME_ALL` and then run `REALLIVE.EXE` with Wine to launch the VN at any time.  
+
+```bash
+cd /path/to/visualnovelfolder
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <vn_executable.exe>
+```
+
+!!! tip "AlphaROMdiE"
+	For AlphaROMdiE, you need to run it with Wine and the VN executable as an argument. It should look like this:  
+	```bash
+	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN_executable.exe>
+	``` 
+	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
+	```bash
+	touch disable_conv other_engine
+	```
+
+And viola!
+
+![Image](img/vnbsd1.jpg)  
+
+And the actual game works see:  
+
+![Image](img/vnbsd2.jpg)
+
+### Step 5. Homura Launcher (TBA)  
+
+This is just a little something to launch your games easier.  
+Yes, it's that Homura:  
+
+![Image](img/homura.png)  
+
+*TBA*  
 
 ## Android
 
@@ -547,7 +741,7 @@ PSP games are probably the best quality visual novels you can get on a mobile de
 
 ![Image](img/vnpsp1.jpg)  
 
-### KirikiriDroid2
+### Kirikiroid2
 
 Any games that use the Kirikiri2 engine (e.g. has a `data.xp3` file) can be loaded and played natively without any virtualization on Android.  
 
@@ -568,14 +762,16 @@ You will need:
 [AltStore](https://altstore.io/) - check the [FAQ](https://altstore.io/faq/) on the website for instructions  
 [PPSSPP IPA](https://www.ppsspp.org/downloads.html)  
 
+### Non-jailbreak: Kirikiroid2  
+
+Any games that use the Kirikiri2 engine (e.g. has a `data.xp3` file) can be loaded and played natively without any virtualization on iOS.  
+
+TBA  
+  
 ### Jailbreak: Using PPSSPP Emulator
 
 PPSSPP can be installed via Cydia package by adding the repository: `https://cydia.ppsspp.org/`.  
 [Tap here to launch Cydia and add the repository](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.ppsspp.org/)  
-
-## Emulators
-
-TBA
 
 ## Windows XP Virtual Machine
 
@@ -639,7 +835,3 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 *from vm*
 ![Image](img/winxp2.jpg)  
 *from actual pc*
-
-## PC-98
-
-TBA

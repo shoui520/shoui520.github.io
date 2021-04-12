@@ -43,6 +43,7 @@ Resource descriptions will be added soon, for now, just links.
 ### Anime
 
 - [Nyaa.si - raw anime (torrent client required, recommended: qBittorrent)](https://nyaa.si/?q=&f=0&c=1_4)
+- [AnimeFever - beautiful, elegant anime streaming site](https://www.animefever.tv/) - You can turn off the subs!  
 - [B9GOOD - watch raw anime](http://b9good.com/)
 - [Anime-Raws - raw anime (Stream or Download)](https://sites.google.com/view/animerawsmasterlist/home#)
 - [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html)
