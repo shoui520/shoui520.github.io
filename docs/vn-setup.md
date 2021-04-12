@@ -463,8 +463,11 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 	```bash
 	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN_executable.exe>
 	``` 
-	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe.  
-
+	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
+	```bash
+	touch disable_conv other_engine
+	```
+	
 ![Image](img/vnlinux5.jpg)  
 
 !!! warning "Vulkan Unsupported Systems"
