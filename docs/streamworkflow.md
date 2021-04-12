@@ -1,4 +1,6 @@
-# Anime/Japanese Online Streaming Workflow Setup
+# Anime Streaming Workflow
+
+*Contributed to TheMoeWay by Anonymous*  
 
 This guide will go over how to set up a workflow while streaming anime online on Chrome or other Chromium based browsers. Unfortunately, this guide is more primarily focused on anime streaming sites as I do not regularly search for other forms of Japanese media; however, this method still works well for those who use any form of online streaming in the browser. If you aren't interested in anime streaming or found a site that works for you, go immediately to [Starting the Setup](#starting-the-setup).
 
