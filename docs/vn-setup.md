@@ -351,7 +351,7 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
 ```bash
-winetricks ffdshow quartz wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 !!! tip "ffdshow"
 	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
@@ -635,7 +635,7 @@ winetricks lavfilters
 !!! failure "ffdshow and LAVFilters"
 	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
 
-Then, run this command to disable DLL overrides, and use the native dlls instead:
+Then, run this command to disable DLL overrides, and use the native DLLs instead:
 
 ```bash
 winetricks alldlls=default
@@ -684,7 +684,7 @@ cd ~/extracted
 Now, extract it with `7z`:  
 
 ```bash
-7z -x /path/to<disc_image>.ISO
+7z -x /path/to/<disc_image>.ISO
 ```  
 
 Now we can finally launch the installer with Wine.  
@@ -702,7 +702,7 @@ cd /path/to/visualnovelfolder
 LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <vn_executable.exe>
 ```
 
-!!! tip "AlphaROMdiE"
+!!! info "AlphaROMdiE"
 	For AlphaROMdiE, you need to run it with Wine and the VN executable as an argument. It should look like this:  
 	```bash
 	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN_executable.exe>
@@ -712,13 +712,29 @@ LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <vn_executable.exe>
 	touch disable_conv other_engine
 	```
 
-And viola!
+And viola! Here's a demonstration of 2 VNs working at the same time:
 
 ![Image](img/vnbsd1.jpg)  
 
-And the actual game works see:  
+And the actual games work see:  
 
-![Image](img/vnbsd2.jpg)
+![Image](img/vnbsd2.jpg)  
+
+!!! tip "Need shortcuts?"  
+	You can add shortcuts to your `~/Desktop`. Create a file such as "vn.desktop". Here's how I am launching Kanon from the desktop (with the icon!)  
+	```txt
+	#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=Kanon Memorial Edition
+	Icon=/home/shoui/.wine/drive_c/KEY/KANON_ME_ALL/KANON_ME_ALL.ICO
+	Exec=LC_ALL=ja_JP.UTF-8 TZ=Asia/Tokyo wine ~/.wine/drive_c/KEY/KANON_ME_ALL/RealLive.exe
+	Terminal=false
+	Type=Application
+	Categories=Game
+	```
+	Remember, paths to icons must be absolute!
+??? tip "Preview"
+	![Image](img/vnbsd3.gif)
 
 ### Step 5. Homura Launcher (TBA)  
 
