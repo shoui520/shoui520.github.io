@@ -283,8 +283,6 @@ You’re probably confused but trust me it is tricky at the beginning but overti
 If you’re doing sentence cards then I’ll talk you through the review process.
 Let's think back to bilingual cards, how do you grade them? You should already know that the sentence that goes on the front is the thing you need to understand, and the on the back is the word along with its reading and definition is needed to understand the sentence. 
 The process of reviewing sentence cards goes as follows: You read the sentence, reveal the backside of the card, read the definition that is on the back of the card, if the definition on the back made you understand the sentence better, then grade it as a Fail. If not, grade it as a Pass. In other words, you grade the card as a Pass if the extra information (the definition) on the card was not needed to comprehend the sentence. It’s basically the same for monolingual cards.
-### How to grade AnimeCards?
-Remember the reading and definition. It is explained on the site. Here → <https://www.animecards.site/home#h.p_63qHvXAHEzxn>
 ### How to grade Tango cards?
 You should already know that the sentence that goes on the front is the thing you need to understand, and the on the back is the word along with its reading and definition is needed to understand the sentence. 
 The process of reviewing sentence cards goes as follows: You read the sentence, reveal the backside of the card, read the definition that is on the back of the card, if the definition on the back made you understand the sentence better, then grade it as a Fail. If not, grade it as a Pass. In other words, you grade the card as a Pass if the extra information (the definition) on the card was not needed to comprehend the sentence.
