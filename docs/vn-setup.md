@@ -581,7 +581,7 @@ Log out by using `pkill -u $USER` and log back in.
 	```
 
 ### Step 2. Installing Wine and dependencies 
-Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to run 64-bit applications with Wine and you also must use the 32-bit version of Wine. However, this is not an issue for visual novels, as most VNs are 32-bit anyway.    
+Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to run 64-bit applications with Wine and you also must use the `i386-wine` package of Wine if on an amd64 system. Do not be fooled by this name, if you are on a 32-bit system, use the regular `wine` package. However. lack of 64-bit support is not an issue for visual novels, as they are all 32-bit anyway.    
 
 First install all the needed dependencies for Wine first, this is to ensure you don't end up in "Wine dependency hell":  
 ```bash
@@ -609,7 +609,7 @@ sudo cp winetricks /usr/bin
 
 ### Step 3. Configuring Wine and installing runtimes  
 
-First we need to create a 32 bit Wine prefix, this has the best compatibility 64 bit doesn't even work on FreeBSD anyway.
+First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit doesn't even work on FreeBSD anyway.
 
 ```bash
 WINEARCH=win32 wineboot
