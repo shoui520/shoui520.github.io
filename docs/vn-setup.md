@@ -188,13 +188,16 @@ Follow the steps below to run VNs on Linux.
 
 #### Step 1. Install Dependencies
 
-**Arch Linux**
+#### Arch Linux
 
 You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
 
 ```bash
-sudo pacman -S wine winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gst-plugins-base-libs lib32-gst-plugins-base-libs 
+sudo pacman -S wine-staging winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
 ```
+
+*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
+
 We also need to install the VHBA module.  
 ```bash
 sudo pacman -S vhba-module
@@ -214,7 +217,7 @@ If drivers for CD/DVD drives are not automatically loaded, you can load it manua
 sudo modprobe -a sg sr_mod vhba
 ```  
 
-**Debian/Ubuntu**
+#### Debian/Ubuntu
 
 First you will need to enable 32-bit architecture.  
 ```bash
@@ -233,11 +236,22 @@ Add the repository:
 ```bash
 sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
 ```
-!!! info "Ubuntu 20.10"
-	If you are on Ubuntu 20.10 you must do this instead.
+!!! info "Other Ubuntu Versions"
+	If you use a different version of Ubuntu you must do this instead. Replace `groovy` with the codename of the Ubuntu version you use. This one is for 20.10:
 	```bash
 	sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y
 	``` 
+!!! info "Linux Mint"  
+	If you are on Linux Mint you must do this instead. Replace `bionic` with the codename of the Linux Mint version you use. This one is for 19.x:
+	```bash
+	sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
+	```
+!!! info "Debian"
+	If you are on Debian you must do this instead. Replace `buster` with the codename of the Debian version you use. This one is for Buster:
+	```bash
+	deb https://dl.winehq.org/wine-builds/debian/ buster main
+	```
+
 Add PPA's for Lutris:  
 ```bash
 sudo add-apt-repository ppa:lutris-team/lutris -y
@@ -278,7 +292,20 @@ sudo apt-get install vhba-module -y
 !!! info "Custom and LTS Kernels"
 	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.   
 
-**Gentoo**
+#### openSUSE  
+
+:white_check_mark: Tested on openSUSE Tumbleweed 20210408 
+
+```bash
+sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit libSDL2-2_0-0 libjpeg-turbo
+```  
+Now load the VHBA module into your kernel.  
+
+```bash
+sudo modprobe -a sg sr_mod vhba
+```  
+
+#### Gentoo
 
 Make sure your kernel is compiled with the following options enabled:
 
@@ -326,13 +353,30 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
 ```bash
-winetricks ffdshow quartz wmp10 lavfilters d3dx9 dxvk dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
-```
-Then, run this command to disable DLL overrides:
+winetricks ffdshow quartz wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+```  
+!!! tip "ffdshow"
+	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
+Installing DXVK slightly improves performance as it is a Vulkan implementation of D3DX9.  
+```bash
+winetricks dxvk
+```  
+!!! warning "Vulkan Unsupported Systems"  
+	If your system does not support Vulkan, do not install DXVK. If you want to remove DXVK, follow the instructions [here](https://github.com/doitsujin/dxvk)  
+For some VNs, such as TYPE-MOON's, LAVFilters may be needed to playback video.  
+```bash
+winetricks lavfilters
+```  
+!!! failure "ffdshow and LAVFilters"
+	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
+
+Then, run this command to disable DLL overrides, and use the native dlls instead:
 
 ```bash
 winetricks alldlls=default
 ```  
+!!! question "Having issues?"	
+	You can set it back using `winetricks alldlls=builtin`
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
@@ -382,9 +426,9 @@ cd /path/to/visualnovelfolder
 	Load the UDF volume with CDEmu. The Linux `mount` command with the `-t udf` argument is not advised.  
 	```bash
 	cdemu load 0 /path/to/udf_volume
-	```
-!!! question "Where on earth does CDEmu even mount images?"  
-	The `0` in the command corresponds to the virtual drive number. CDEmu emulates a physical drive, which should be in `/dev/sr0` if `0` was the number you chose. Doing `cdemu load 1 /path/to/mds_image.MDS` would load the image into `/dev/sr1`  
+	```  
+!!! question "CDEmu Mount Point?"  
+	It should usually be in `/run/media/user/image_name`  
 
 If using a regular ISO9660 ISO file create a mount point for it.
 ```bash
@@ -394,7 +438,7 @@ Now we can mount our ISO to our mount point.
 ```bash
 sudo mount -o loop file.ISO /media/cdrom0
 ```  
-If all went well, you will be able to see the contents of the image by doing `ls /media/cdrom0` or `ls /dev/sr0`:  
+If all went well, you will be able to see the contents of the image by doing `ls /media/cdrom0` or whatever your mount point is:  
 
 ![Image](img/vnlinux4.jpg)
 
@@ -471,9 +515,14 @@ Now generate locales:
 
 ```bash
 locale-gen --no-warnings=ascii
-```
+```  
 
-You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
+You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.  
+
+#### MPEG-1 Video / gstreamer not working
+
+!!! failure "No fix found yet"
+	I spent 8 hours trying to fix this issue (I use openSUSE) with a Liar-soft VN. If you manage to find a fix, please let me know! 
  
 ## BSD (FreeBSD)
 

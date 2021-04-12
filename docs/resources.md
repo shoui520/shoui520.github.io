@@ -235,7 +235,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
   
 ### Browser Extensions
 - [Yomichan](https://foosoft.net/projects/yomichan/)    
-*Android users can use this on Firefox.*    
+*Android users can use this on Kiwi Browser.*    
 - [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)    
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)    
 *Not Japanese related but still a must:*  
