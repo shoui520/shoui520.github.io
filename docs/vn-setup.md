@@ -658,7 +658,7 @@ It is useful to know that changing the Windows version in Wine does not change t
 ### Step 4. Installing the visual novel  
 
 FreeBSD does not have CDEmu, FUSEISO or anything similar, so you'll need to mount the disc image file regularly. Luckily, FreeBSD doesn't make the distinction between virtual drives and physical drives.  
-BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT!  
+BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT! Even accessing a mounted disc requires you to have root privileges.   
 You cannot execute Wine as root so we will not be mounting image files. Thankfully, BSD tar is better than GNU tar and can extract ISO9660 images.  
 
 Navigate to the directory of the disc image file.  

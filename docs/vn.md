@@ -19,7 +19,7 @@ This guide will go over how to play visual novels in Japanese and learn Japanese
 
 Requirements:
 
-[Download Textractor (preferably the zip version)](https://github.com/Artikash/Textractor/releases)  
+[Download Textractor](https://github.com/Artikash/Textractor/releases)  
 [Get Yomichan](https://foosoft.net/projects/yomichan/)  
 [Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
 [Texthooking Page](https://learnjapanese.moe/texthooker.html)  
