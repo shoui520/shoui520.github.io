@@ -759,9 +759,21 @@ PSP games are probably the best quality visual novels you can get on a mobile de
 
 ### Kirikiroid2
 
-Any games that use the Kirikiri2 engine (e.g. has a `data.xp3` file) can be loaded and played natively without any virtualization on Android.  
+Any games that use the Kirikiri2 engine (e.g. has `.xp3` files) can be loaded and played natively without any virtualization on Android.  
 
-TBA
+This is very easy, I got this working in a matter of minutes.  
+You will need:  
+- Kirikiroid2 APK [[Download]](https://cdn.discordapp.com/attachments/813105334763126814/831315953081253938/kirikiri2.apk)  
+- Kirikiri2 Engine-compatible visual novel. (Look for `.xp3` files)  
+- Kirikiroid2 patch for *YOUR* VN! [[Repository here]](https://zeas2.github.io/Kirikiroid2_patch/patch/)  
+
+Now follow the steps below.  
+
+1. Install the APK of Kirikiroid2. You may need to allow install unknown apps for this source.  
+2. On your computer, copy the patch files into the same folder as the game files.
+3. Now copy all these files over to your phone.  
+4. Launch Kirikiroid2 and navigate to the folder and select the .exe of the VN, just like you'd launch it on your PC.  
+
 
 ### QEMU/Limbo/Bochs PC Emulator  
 
@@ -780,9 +792,14 @@ You will need:
 
 ### Non-jailbreak: Kirikiroid2  
 
-Any games that use the Kirikiri2 engine (e.g. has a `data.xp3` file) can be loaded and played natively without any virtualization on iOS.  
+Any games that use the Kirikiri2 engine (e.g. has `.xp3` files) can be loaded and played natively without any virtualization on iOS.  
 
-TBA  
+You will need:  
+[AltStore](https://altstore.io/) - check the [FAQ](https://altstore.io/faq/) on the website for instructions  
+[Kirikiroid2 IPA](https://github.com/zeas2/Kirikiroid2/releases)  
+
+I no longer use an iPhone. The instructions are the same as Android anyway, only difference is you have to use AltStore to install it, and iTunes to transfer files.  
+ 
   
 ### Jailbreak: Using PPSSPP Emulator
 
