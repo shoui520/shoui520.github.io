@@ -38,9 +38,9 @@ Intel® based Mac Pro introduced in 2013 or later
 Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
-## Wine  
+## Wine (Borked)
 
-The process is substantially different across different versions of macOS, so I decided to scrap the Wine guide. 
+The process substantially differs across different versions of macOS, so I decided to scrap the Wine guide. 
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
