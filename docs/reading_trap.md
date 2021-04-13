@@ -1,3 +1,0 @@
-# The Reading Trap
-
-TBA

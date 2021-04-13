@@ -10,10 +10,9 @@ nav:
     - 'reading.md'
     - 'monolingual.md'
     - 'faq.md'
-    - 'Japanese Subtitles': 'sub.md'
   - 'Visual Novels':
     - 'Learning Japanese with VNs': 'vn.md'
-    - 'Installing Visual Novels': 'vn-setup.md'
+    - 'Visual Novel Setup': 'vn-setup.md'
   - 'Yomichan':
     - 'Yomichan Setup Tutorial': 'yomichan.md' 
     - 'Yomichan Custom CSS': 'yomicss.md'      
@@ -21,6 +20,7 @@ nav:
     - 'Resources': 'resources.md' 
   - 'About':
     - 'Contact & Support': 'contact.md'
+    - 'Sitemap': 'sitemap.md'
 theme:
   features:
     - navigation.instant
