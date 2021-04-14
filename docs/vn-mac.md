@@ -2,7 +2,7 @@
 
 Visual novels are only Microsoft Windows programs, therefore if you want to run a visual novel on your Mac you must either virtualize or dual boot Windows.
 
-## Virtual Machines (10.11 - 11.x)
+## Virtual Machines (10.10 - 11.x)
 
 The most convenient way would be to play VNs on your Mac is to use a virtual machine. You can use Parallels (Paid), VMWare (Paid) or VirtualBox (Free). Parallels is the most simple, fastest, offers almost native performance while still being virtualized. VMWare is pretty fast but is quite technical. VirtualBox is free but the performance can be abysmal.  
 You should search on Google how to use either one of these to virtualize Windows, it is not VN specific and there are a ton of guides out there.  
@@ -40,7 +40,7 @@ Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO
 
 ## Wine (Borked)
 
-The process substantially differs across different versions of macOS, so I decided to scrap the Wine guide. 
+This process differs substantially across different versions of macOS, so I decided to scrap the Wine guide. 
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 

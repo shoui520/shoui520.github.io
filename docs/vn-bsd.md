@@ -140,8 +140,6 @@ You cannot execute Wine as root so we will not be mounting image files. Thankful
 
 ### Extracting the ISO  
 
-Navigate to the directory of the disc image file.  
-
 !!! info "MDS/MDF"  
 	If you have Alcohol 120% CD/DVD Images (MDS/MDF), you need to use tools such as `mdf2iso`. Common syntax is
 	```bash
