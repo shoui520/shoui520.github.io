@@ -1,4 +1,4 @@
-# Visual novels on GNU/Linux
+# Visual novels on Linux
 
 Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux.  
 

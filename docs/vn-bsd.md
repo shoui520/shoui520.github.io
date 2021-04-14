@@ -135,16 +135,12 @@ Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/dr
 ## Installing the visual novel  
 
 FreeBSD does not have CDEmu, FUSEISO or anything similar, so you'll need to mount the disc image file regularly. Luckily, FreeBSD doesn't make the distinction between virtual drives and physical drives.  
-BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT! Even accessing a mounted disc requires you to have root privileges.   
+BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT! Even accessing a mounted disc image requires you to have root privileges.   
 You cannot execute Wine as root so we will not be mounting image files. Thankfully, BSD tar is better than GNU tar and can extract ISO9660 images.  
 
 ### Extracting the ISO  
 
 Navigate to the directory of the disc image file.  
-
-```bash
-cd /path/to/<disc_image>.ISO
-```
 
 !!! info "MDS/MDF"  
 	If you have Alcohol 120% CD/DVD Images (MDS/MDF), you need to use tools such as `mdf2iso`. Common syntax is
