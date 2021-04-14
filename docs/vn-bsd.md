@@ -63,7 +63,7 @@ Log out by using `pkill -u $USER` and log back in.
 This is important as we will need hardware acceleration. If you haven't already installed graphics drivers on your FreeBSD system, please do that now.  
 
 [[AMD/ATI Radeon and Intel Graphics]](https://wiki.freebsd.org/Graphics)  
-[NVIDIA Graphics](https://wiki.ghostbsd.org/index.php/Nvidia_driver_installation)  
+[[NVIDIA Graphics]](https://wiki.ghostbsd.org/index.php/Nvidia_driver_installation)  
 
 ## Installing Wine and dependencies 
 
