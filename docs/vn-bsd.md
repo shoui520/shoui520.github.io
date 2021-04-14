@@ -129,6 +129,8 @@ You need to install Japanese fonts to Wine now. Please download the pack below.
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
 Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/Windows/Fonts`    
 
+`$WINEPREFIX` is usually in `~/.wine`. You can do `export WINEPREFIX=~/.wine` to use this variable.  
+
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.
 
