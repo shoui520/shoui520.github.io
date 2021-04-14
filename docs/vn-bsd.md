@@ -58,6 +58,13 @@ Log out by using `pkill -u $USER` and log back in.
 	export MM_CHARSET=UTF-8
 	```
 
+## Graphics Drivers  
+
+This is important as we will need hardware acceleration. If you haven't already installed graphics drivers on your FreeBSD system, please do that now.  
+
+[[AMD/ATI Radeon and Intel Graphics]](https://wiki.freebsd.org/Graphics)  
+[NVIDIA Graphics](https://wiki.ghostbsd.org/index.php/Nvidia_driver_installation)  
+
 ## Installing Wine and dependencies 
 
 !!! tip "Tip"  
@@ -213,7 +220,7 @@ And the actual games work see:
 
 ![Image](img/vnbsd2.jpg)  
 
-Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual-novels-to-learn-japanese) to learn how to use Textractor, it works perfectly under Wine. 
+Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual-novels-to-learn-japanese) to learn how to use Textractor, it works perfectly under Wine. Please note that it needs to be launched with `LC_ALL=ja_JP.UTF-8` environment variable.
 
 !!! tip "Need shortcuts?"  
 	You can add shortcuts to your `${HOME}/Desktop`. Create a file such as "[vn].desktop". You can also put it in `/usr/local/share/applications` so it appears in application launchers. Here's how I am launching Kanon from a shortcut (with the icon too!)  
