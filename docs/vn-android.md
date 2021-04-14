@@ -1,8 +1,12 @@
 # Visual novels on Android
 
+## The Google Play Store  
+
+There are native Android visual novels but most of these are gacha cash grab trash. There are a few Android ports of Windows visual novels which you can buy at the Japanese Play Store or... *wink* *wink* by "other means". You can switch to the Japanese Play Store by putting on a Japanese VPN and then clearing your Play Store data & cache.  
+
 ## Using PPSSSPP Emulator
 
-There are a couple of native Android visual novels but these are usually spin-offs/gacha cash-grabs.  
+While they are a couple of native Android visual novels but these are usually spin-offs and gacha trash, and no one wants to play them.
 
 The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp) emulator and download PSP ROMs.
 

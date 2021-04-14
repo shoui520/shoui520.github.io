@@ -1,8 +1,12 @@
 # Visual novels on iOS
 
+## Non-jailbreak: App Store  
+
+There are a couple of native iOS "visual novels" but these are usually spin offs/gacha cash grab trash. There are a few iOS ports of Windows visual novels which you can buy at the Japanese App Store. You can switch to the Japanese App Store by creating an Apple ID with the "Japan" region. App Store accounts are separate to iCloud accounts so you don't have to switch your Apple ID completely, just in the App Store only.  
+
 ## Non-jailbreak: Using PPSSPP Emulator
 
-Again, there *are* in fact native iOS visual novels, but I feel like emulating PSP visual novels is a better idea, just because the games on a PSP console are just going to be *so* much higher quality than games made for phones.
+While there *are* in fact native iOS "visual novels", these are usually gacha trash, and nobody wants to play them. That's why I feel emulating PSP visual novels is a better idea, just because the games on a PSP console are just going to be *so* much higher quality than games made for phones.
 
 It is a little more tricky to get PPSSPP working on iOS without a jailbreak, but it is definitely possible.  
 You will need:  
