@@ -60,17 +60,30 @@ Log out by using `pkill -u $USER` and log back in.
 
 ## Installing Wine and dependencies 
 
+!!! tip "Tip"  
+	If you are having issues with the binary packages, try compiling from the ports.  
+
 Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to run 64-bit applications with Wine and you also must use the `i386-wine` package of Wine if on an amd64 system. Do not be fooled by this name, if you are on a 32-bit system, use the regular `wine` package. However. lack of 64-bit support is not an issue for visual novels, as they are all 32-bit anyway.    
 First install all the needed dependencies for Wine first, this is to ensure you don't end up in "Wine dependency hell":  
+
+!!! warning "lib32"
+	You need to have lib32 for this to work! Check if `/usr/lib32` exists! If you did not get it when installing FreeBSD, get it now.  
+	On 12.2-RELEASE, get `lib32.txz` from [[here]](https://download.freebsd.org/ftp/releases/amd64/12.2-RELEASE/lib32.txz)  
+	On 13.0-RELEASE, get `lib32.txz` from [[here]](https://download.freebsd.org/ftp/releases/amd64/13.0-RELEASE/lib32.txz)  
+	Then run `sudo tar -C / -xpf lib32.txz` and then run `sudo freebsd-update`  
+
 ```bash
-sudo pkg install p7zip freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer-plugins-good alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123 
+sudo pkg install p7zip cabextract freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer1-plugins-good alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123 
 ```  
 
 Now, we need to install Wine:  
 
-```bash
-sudo pkg install i386-wine wine-mono wine-gecko cabextract
-```  
+```
+cd /usr/ports/emulators/i386-wine-devel
+sudo make install clean
+```
+Bundle gecko and mono in your build options!  
+
 We will now need `winetricks`, do not use the one on the FreeBSD repository as it is outdated and WILL cause headaches.  
 Using, `curl`, download the latest winetricks binary.  
 ```bash
@@ -127,7 +140,7 @@ winetricks alldlls=default
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/Windows/Fonts`    
+Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/windows/Fonts`    
 
 `$WINEPREFIX` is usually in `~/.wine`. You can do `export WINEPREFIX=~/.wine` to use this variable.  
 
