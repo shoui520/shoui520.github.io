@@ -11,7 +11,9 @@ Contact me on Discord if you need help with getting a Windows 7 or 10 ISO image,
 
 ## Boot Camp Assistant (Intel® based Macs)
 
-You can check if your Mac is an Intel® based Mac by doing the following command in Terminal:
+Boot Camp allows you to dual boot Windows on your Mac. You will get to keep macOS and also have Windows, and get to choose between them when ++option++ is pressed down at startup.  
+
+You can check if your Mac is an Intel® based Mac by running the following command in Terminal:
 ```bash
 sysctl -n machdep.cpu.brand_string 
 ```
@@ -35,7 +37,7 @@ Intel® based iMac introduced in 2012 or later
 Intel® based iMac Pro (all models)    
 Intel® based Mac Pro introduced in 2013 or later     
 
-Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google.
+Search on Google for how to use Boot Camp on your Mac. I do not own an actual Mac, so I can't provide instructions on how to do this. Fortunately this isn't VN specific, and you can just find instructions everywhere on Google, and even on Apple's own official website.  
 Contact me on Discord if you need help with getting either a Windows 7 or 10 ISO.  
 
 ## Wine (Borked)
