@@ -164,7 +164,7 @@ And now CDEmu, first enable the rok/cdemu COPR repository:
 ```bash
 sudo dnf copr enable rok/cdemu
 ```
-Now install cdemu daemon and clients:  
+Now install CDEmu daemon and clients:  
 
 ```bash
 sudo dnf install cdemu-daemon cdemu-client gcdemu
@@ -172,8 +172,8 @@ sudo dnf install cdemu-daemon cdemu-client gcdemu
 
 Now load the VHBA kernel module:  
 ```bash
-akmods
-systemctl restart systemd-modules-load.service
+sudo akmods
+sudo systemctl restart systemd-modules-load.service
 ```  
 
 ### openSUSE  
