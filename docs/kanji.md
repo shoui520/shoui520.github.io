@@ -3,25 +3,23 @@
 When people say "learn kanji", it always strikes a nerve with me, because this just does not make sense.  
 You can't just "learn" a kanji because kanji has so much components to them that one cannot simply say they have apparently "learned" it. It's like saying, "I learned a car", "I learned gaming", heck even "I learned Japanese" for example. What on earth do you even mean when you say "I'm learning kanji"?
 
-This channel will go through how useful Isolated Kanji Study is, which is what most people do and think of when they say "learn kanji". We all should know that your long time kanji study will be Kanji with Vocab. With that said, let's see how useful isolated kanji study is!
+This page will go through how useful isolated kanji study is, which is what most people do and think of when they say "learn kanji". We all should know that your long time kanji study will be Kanji with Vocab. With that said, let's see how useful isolated kanji study is!
 
 ### Learning the Meanings - Kind of Helpful
 
 Learning the meanings of a "kanji" is great if it's a word itself, such as [麓](https://jisho.org/search/%20%23kanji%20%E9%BA%93)、[源](https://jisho.org/search/%20%23kanji%20%E6%BA%90)、[力](https://jisho.org/search/%20%23kanji%20%E5%8A%9B) etc. However, one can argue that you are literally learning a *word* not a *kanji*. 
 Furthermore, learning the meanings for kanji **can be useful** for words like [連続](https://jisho.org/word/%E9%80%A3%E7%B6%9A), "take along, continue" the kanji mean *serial, consecutive*. Remembering this can be helpful if you have constant trouble recalling the meaning of a certain word. However, the effectiveness of remembering meanings can be disputed. It is argued that these keywords assigned to kanji fade away as you get better at Japanese, and if you are good at Japanese and never studied kanji meanings, you would know what [連](https://jisho.org/search/%E9%80%A3%20%23kanji) means anyway. If you learn [茶](https://jisho.org/search/%E8%8C%B6%20%23kanji) as a word, you'll know it's *tea*. So if you come across [紅茶](https://jisho.org/word/%E7%B4%85%E8%8C%B6) and [抹茶](https://jisho.org/search/%E6%8A%B9%E8%8C%B6) you may be able to guess that they are also some kind of *tea*. 
-In addition to that, Japanese people would describe 連 as "[連勝](https://jisho.org/word/%E9%80%A3%E5%8B%9D)の連" or "[連射](https://jisho.org/word/%E9%80%A3%E5%B0%84)の連" etc; not your silly keyword you learned.
+In addition to that, Japanese people would describe 連 as "[連勝](https://jisho.org/word/%E9%80%A3%E5%8B%9D)の連" or "[連射](https://jisho.org/word/%E9%80%A3%E5%B0%84)の連" etc; not the keyword you learned.  
 Summary: Kind of useful when you're a beginner, but not needed at all.
 
 ### Learning the Readings - A big NO.
 I'm not talking about learning words, like having [夢中](https://jisho.org/word/%E5%A4%A2%E4%B8%AD) along with a handy example sentence :slight_smile:  
 I mean this:
->涯
->
-> Kun: はて
->
-> On: ガイ
+>	Kanji: 涯  
+	Kun: はて  
+	On: ガイ  
 
-### ↑ **DON'T** **DO THIS** ↑
+<h3> ↑ DON'T LEARN KANJI LIKE THIS ↑ </h3>
 
 Learning kanji readings individually is a complete utter waste of time. Kanji readings are not consistent. Many kanji have multiple onyomi and kunyomi, for instance, [家路](https://jisho.org/word/%E5%AE%B6%E8%B7%AF)[いえじ], [通路](https://jisho.org/word/%E9%80%9A%E8%B7%AF)[つうろ], [家賃](https://jisho.org/word/%E5%AE%B6%E8%B3%83)[やちん], [漫画家](https://jisho.org/word/%E6%BC%AB%E7%94%BB%E5%AE%B6)([まんがか], [小学校](https://jisho.org/word/小学校)[しょうがっこう],[袋小路](https://jisho.org/word/袋小路)[ふくろこうじ], [素足](https://jisho.org/word/素足)[すあし],[素人](https://jisho.org/word/素人)[しろうと],[恋人](https://jisho.org/word/恋人)[こいびと],[日本人](https://jisho.org/word/日本人)[にほんじん], [狩人](https://jisho.org/word/狩人)[かりゅうど] and our favourite: [生](https://jisho.org/search/%20%23kanji%20%E7%94%9F), [先生](https://jisho.org/word/先生/)[せんせい], [生涯](https://jisho.org/word/生涯)[しょうがい], [生粋](https://jisho.org/word/生粋)[きっすい], [芝生](https://jisho.org/word/芝生)[しばふ], [生き残る](https://jisho.org/word/生き残る)[いきのこる], [生ビール](https://jisho.org/word/生き残る)[なまびーる], [生真面目](https://jisho.org/word/生真面目)[きまじめ],[生い茂る](https://jisho.org/word/生い茂る)[おいしげる]
 Furthermore, it is also difficult remembering kanji in this way:
@@ -29,7 +27,7 @@ Furthermore, it is also difficult remembering kanji in this way:
 `Kun: はて`
 `On: ガイ`
 It's much easier remembering it in a word, like [生涯](https://jisho.org/word/生涯) on an Anki card or something. 
-If you repped [涙腺](https://jisho.org/word/涙腺)「るいせん」and come across [熱涙](https://jisho.org/word/熱涙), you will obviously be able to read the [涙](https://jisho.org/search/%E6%B6%99%20%23kanji) portion as るい, am I not wrong?
+If you learned [涙腺](https://jisho.org/word/涙腺)「るいせん」 and come across [熱涙](https://jisho.org/word/熱涙), you will obviously be able to read the [涙](https://jisho.org/search/%E6%B6%99%20%23kanji) portion as るい, am I not wrong?
 In addition, the readings will be easier to remember in context of real words that you can actually use. Essentially, memorizing the readings by themselves is a complete waste of time.
 Summary: Useless. Don't learn readings, learn words.
 
@@ -51,4 +49,4 @@ I don't consider a kanji "learned" unless you know all the common words that use
 Don't "learn kanji", learn words.
 Don't "learn" kanji, feel kanji.
 
-**Honorable Credit: Tae Kim**
+Honorable Credit: Tae Kim, thanks for the idea.
