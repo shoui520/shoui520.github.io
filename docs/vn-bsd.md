@@ -10,7 +10,7 @@ By default, FreeBSD is unable to display Japanese text.
 ### Installing a Japanese font  
 
 Make sure you have a Japanese font before proceeding.
-I am using **/usr/ports/japanese/fonts-kochi**
+I am using **/usr/ports/japanese/font-kochi**
 
 If you haven't done so already, fetch a snapshot of ports, and then extract them:
 ```bash
@@ -19,7 +19,7 @@ sudo portsnap extract
 ```  
 Then `cd` into the directory and install the port.  
 ```bash
-cd /usr/ports/japanese/fonts-kochi
+cd /usr/ports/japanese/font-kochi
 sudo make install clean
 ```  
 
@@ -85,9 +85,8 @@ sudo pkg install p7zip cabextract freetype libosmesa libpcap libjpeg-turbo sane-
 
 Now, we need to install Wine:  
 
-```
-cd /usr/ports/emulators/i386-wine-devel
-sudo make install clean
+```bash
+sudo pkg install i386-wine-devel
 ```
 Bundle gecko and mono in your build options!  
 
@@ -100,9 +99,9 @@ Using `chmod`, make it executable.
 ```bash
 chmod +x winetricks
 ```  
-Now copy it to your `/usr/bin` so it can be used in a command line.  
+Now copy it to your `/usr/local/bin` so it can be used in a command line.  
 ```bash
-sudo cp winetricks /usr/bin
+sudo cp winetricks /usr/local/bin
 ```  
 
 ## Configuring Wine and installing runtimes  
