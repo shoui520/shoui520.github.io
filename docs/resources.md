@@ -34,6 +34,7 @@ Resource descriptions will be added soon, for now, just links.
 
 ### Grammar
 - [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+- [Cure Dolly Complete Transcript by dinuz](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc)  
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://itazuraneko.neocities.org/grammar/taekim.html)
 - [Dictionary of Grammar (DoJG) Reference](https://core6000.neocities.org/dojg/)
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://mega.nz/#!TpESFQoD!vfTQgn_kBXSE_vBeieTe5wvlzL07qbzVkWx1PYfpMFQ)
