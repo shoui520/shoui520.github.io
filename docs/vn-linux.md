@@ -416,10 +416,24 @@ locale-gen --no-warnings=ascii
 
 You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.  
 
-### MPEG-1 Video / gstreamer not working
+### MPEG-1 movie does not play
 
 !!! failure "No fix found yet"
 	I spent 8 hours trying to fix this issue (I use openSUSE) with a Liar-soft VN. If you manage to find a fix, please let me know!  
+
+### Fuguriya VNs
+
+VNs made by Fuguriya such as *Sono Hanabira ni Kuchizuke o* and *Hanahira*  will not launch with Wine by default. Follow the steps below to fix this.  
+
+Download fjfix [[here]](https://discord.com/channels/813105200809771018/813105334763126814/832650409402433606).   
+Extract the archive.   
+Now in the terminal, run:  
+```bash
+LC_ALL=ja_JP.UTF-8 wine fjfix.exe -f /path/to/MGD
+```
+
+Now it should just work.  
+
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 

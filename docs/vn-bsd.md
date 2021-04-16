@@ -10,26 +10,19 @@ By default, FreeBSD is unable to display Japanese text.
 ### Installing a Japanese font  
 
 Make sure you have a Japanese font before proceeding.
-I am using **/usr/ports/japanese/font-kochi**
+I recommend the following fonts:  
+**ja-font-ipa**  
+**ja-font-koruri**
+**ja-font-sazanami**
+**ja-font-kochi**
+**ja-font-mplus-ipa**
+**ja-font-vlgothic**
+**hanazono-fonts-ttf**
 
-If you haven't done so already, fetch a snapshot of ports, and then extract them:
+You can install them from binary package by doing:  
 ```bash
-sudo portsnap fetch
-sudo portsnap extract
+sudo pkg install ja-font-ipa ja-font-koruri ja-font-sazanami ja-font-kochi ja-font-mplus-ipa ja-font-vlgothic hanazono-fonts-ttf
 ```  
-Then `cd` into the directory and install the port.  
-```bash
-cd /usr/ports/japanese/font-kochi
-sudo make install clean
-```  
-
-Then make sure the "Files" section in `/etc/X11/xorg.conf` includes the following in the **FontPath**: 
-
-```{linenums="9 1" hl_lines="2"}
-Section "Files"
-FontPath     "/usr/local/lib/X11/fonts/TrueType/"
-```
-
 You can verify that your FreeBSD system is able to display Japanese text if you can see the Japanese text below:  
 
 > てすとテスト試験  
@@ -87,8 +80,7 @@ Now, we need to install Wine:
 
 ```bash
 sudo pkg install i386-wine-devel
-```
-Bundle gecko and mono in your build options!  
+``` 
 
 We will now need `winetricks`, do not use the one on the FreeBSD repository as it is outdated and WILL cause headaches.  
 Using, `curl`, download the latest winetricks binary.  
@@ -113,6 +105,8 @@ First we need to create a 32 bit Wine prefix, this has the best compatibility an
 ```bash
 WINEARCH=win32 wineboot
 ```  
+
+When Wine is started for the first time, you will need to let it install Gecko and Mono packages.  
 
 ### Using Winetricks
 Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work. 
@@ -157,7 +151,7 @@ Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/dr
 
 FreeBSD does not have CDEmu, FUSEISO or anything similar, so you'll need to mount the disc image file regularly. Luckily, FreeBSD doesn't make the distinction between virtual drives and physical drives.  
 BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT! Even accessing a mounted disc image requires you to have root privileges.   
-You cannot execute Wine as root so we will not be mounting image files. Thankfully, BSD tar is better than GNU tar and can extract ISO9660 images.  
+You cannot execute Wine as root so we will not be mounting image files. So we will be using 7zip. 
 
 ### Extracting the ISO  
 
@@ -167,14 +161,13 @@ You cannot execute Wine as root so we will not be mounting image files. Thankful
 	mdf2iso <source>.MDF <output>.ISO
 	```
 	In other cases you may be able to rename the .MDF file to use the .ISO extension and it will just work.  
-
-No actually BSD tar and GNU tar both suck, let's just use 7zip. You needed this for winetricks anyway.  
-
+ 
 Let's first make our destination folder and `cd` into it.  
 ```bash
 mkdir ~/extracted
 cd ~/extracted
-```
+```  
+
 Now, extract it with `7z`:  
 
 ```bash
@@ -237,6 +230,19 @@ Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual
 	Remember, paths to icons must be absolute!
 ??? tip "Preview"
 	![Image](img/vnbsd3.gif)  
+
+### Troubleshooting: Fuguriya VNs
+
+VNs made by Fuguriya such as Sono *Hanabira ni Kuchizuke o* and *Hanahira*  will not launch with Wine by default. Follow the steps below to fix this.  
+
+Download fjfix [[here]](https://discord.com/channels/813105200809771018/813105334763126814/832650409402433606).   
+Extract the archive.   
+Now in the terminal, run:  
+```bash
+LC_ALL=ja_JP.UTF-8 wine fjfix.exe -f /path/to/MGD
+```
+
+Now it should just work.  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
