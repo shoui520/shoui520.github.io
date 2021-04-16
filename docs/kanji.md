@@ -1,6 +1,6 @@
 # Learning Kanji
 
-My blood boils whenever someone utters the phrase, "learn Kanji". 
+When people say "learn kanji", it always strikes a nerve with me, because this just does not make sense.  
 You can't just "learn" a kanji because kanji has so much components to them that one cannot simply say they have apparently "learned" it. It's like saying, "I learned a car", "I learned gaming", heck even "I learned Japanese" for example. What on earth do you even mean when you say "I'm learning kanji"?
 
 This channel will go through how useful Isolated Kanji Study is, which is what most people do and think of when they say "learn kanji". We all should know that your long time kanji study will be Kanji with Vocab. With that said, let's see how useful isolated kanji study is!
