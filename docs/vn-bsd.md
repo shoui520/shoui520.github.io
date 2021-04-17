@@ -11,14 +11,14 @@ By default, FreeBSD is unable to display Japanese text.
 
 Make sure you have a Japanese font before proceeding.
 I recommend the following fonts:  
-**ja-font-ipa**  
-**ja-font-koruri**
-**ja-font-sazanami**
-**ja-font-kochi**
-**ja-font-mplus-ipa**
-**ja-font-vlgothic**
-**hanazono-fonts-ttf**
-
+**ja-font-ipa**   
+**ja-font-koruri**  
+**ja-font-sazanami**  
+**ja-font-kochi**  
+**ja-font-mplus-ipa**  
+**ja-font-vlgothic**  
+**hanazono-fonts-ttf**  
+  
 You can install them from binary package by doing:  
 ```bash
 sudo pkg install ja-font-ipa ja-font-koruri ja-font-sazanami ja-font-kochi ja-font-mplus-ipa ja-font-vlgothic hanazono-fonts-ttf
@@ -73,7 +73,7 @@ First install all the needed dependencies for Wine first, this is to ensure you 
 	Then run `sudo tar -C / -xpf lib32.txz` and then run `sudo freebsd-update`  
 
 ```bash
-sudo pkg install p7zip cabextract freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer1-plugins-good alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123 
+sudo pkg install p7zip cabextract freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer1-plugins-good alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123
 ```  
 
 Now, we need to install Wine:  

@@ -1,17 +1,15 @@
 # Visual Novel Guide 
 
-###What are Visual Novels?
+### What are Visual Novels?
 
 Visual Novels (often abbreviated as **VN**) can be described as sort of a mix of a novel and a game, they feature a text-based storyline and only little interaction of the player. Most VNs have anime-like sprites and visuals, and are usually accompanied by voice acting, background music and sound effects. Throughout the game, the player may be given choices, which will have an effect on how the story will play out, so if you play it a second time, with different choices, you may get an entirely different plot.
 
 ![Image](img/vn1.jpg)
 
-###Why Visual Novels?
+### Why Visual Novels?
 Reading Japanese is extremely important, but not everyone loves reading books, I am definitely one of them. I hate reading books, it’s way too often I get bored when reading a regular, text-only novel. I’m not much of a reader in English either. Oddly enough, I can read visual novels for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it’s perfect for reading immersion.
 For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
 ![Image](img/vn2.jpg)
-
-[*Click here to view image.*](img/vnbased1.jpg)
 
 ### Playing visual novels to learn Japanese
 

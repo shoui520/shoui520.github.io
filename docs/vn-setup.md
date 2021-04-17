@@ -2,12 +2,16 @@
 
 <h2> Acquiring visual novels </h2>
 
-Check out the [Resources](/resources/#the-following-may-be-nsfw) page to find where to get Visual novels.
+Visual novels are sold either on optical disc or as digital download. You can buy visual novels on DLsite, DMM or even Steam in some cases. Please note that you need a DVD compatible optical drive if you buy your visual novels on optical disc.    
+If your computer does not have a DVD drive, you will need an another computer that has one to create a rip of the DVD disc to a disc image file or use an external USB DVD drive.  
+Alternatively, you may not buy the VNs, and download them using the links found in [Resources](/resources). Please note that **this is piracy** and if you enjoy the VN, consider supporting the creators and buy it.  
 
-Visual novels are distributed commonly in disc image files. Usually in .ISO and sometimes .MDF/.MDS files, or, these files but contained in a .rar/.zip/.7z file.
+On mobile however, VNs will be distributed as digital download through its respective app store.  
 
 !!! question "Glossary: disc image file"
-	A disc image file does not refer to a picture of a disc, rather it is a file (usually `.iso`) that contains an exact copy of what was on a disc. Remember: Japanese visual novels are sold on optical discs, and then people make an exact copy of what was on the disc onto an `.iso` or `.mdf/.mds` file.
+	A disc image file does not refer to a picture of a disc, rather it is a file (usually `.iso`) that contains an exact copy of what was on a disc. You can use tools such as WinCDEmu or Alcohol 120% to make an exact copy of what was on the disc onto an `.iso` or `.mdf/.mds` file.  
+
+ 
 
 Once you have acquired a visual novel, please select your platform below.  
 

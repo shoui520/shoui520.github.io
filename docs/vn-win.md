@@ -1,4 +1,4 @@
-# Visuals novels on Microsoft Windows
+# Visuals novels on Windows
 
 Visual novels are always Microsoft Windows programs. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  
 
@@ -25,7 +25,18 @@ Japanese visual novels will not run without Japanese locale. Some may run, but h
 	```  
 	This will restart your PC.
 
-## Step 2. Extracting archives and mounting images
+## Step 2. Mounting the setup files  
+
+If you have bought your game on an optical disc, please insert the disc into your DVD drive. A new volume will appear on the Explorer sidebar, click on it and run the setup to proceed.  
+
+![Image](img/vnwin-nopiracy1.png)
+
+If you bought your game as digital download, it will come in a `.zip` file, extract it with [7-Zip](https://www.7-zip.org/)  
+In some cases there will be no need for installation, in other cases you may need to install the game by running the setup and register with the DRM.  
+
+![Image](img/vnwin-nopiracy2.png)  
+
+However, if you have not bought the game, it will likely become archived in a `.rar`, `.7z` or `.zip` format, and within it may be disc image files. Follow the instructions below to extract and mount the setup files.
 
 Requirements:  
 [Get 7-Zip](https://www.7-zip.org/)  
@@ -68,7 +79,9 @@ Click on the new volume that appeared on your sidebar and run the installer. See
 
 Proceed with the installation, you may want to take note of where you installed the game. I installed Angel Beats! into `D:\Games\KEY\AngelBeats!`
 
+
 If your visual novel came with a crack, you will need to apply this crack before you are able to launch the game. Cracks often come in the form of a .exe/.dll file found in folders/archives called "AlphaROM" or  "NoDVD" or simply just "Patch" or "Crack", whatever it may be, copy these files into the installation directory of the game.  
+Please note that you will not need to do this if you have bought the game.  
 
 You can find an example below.  
 
@@ -106,9 +119,9 @@ language=japanese
 	Solution 1: Check [Japanese locale](#step-1-setting-japanese-locale) and restart your PC.  
 	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, press ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
 !!! info "Japan Time Zone Required"
-	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, do the following: Press ++windows+i++ > Time & language > "Set time zone automatically" OFF > Time zone: (UTC+9:00 Osaka, Sapporo, Tokyo)
+	Check Japanese locale and make sure all patch(es)/crack(s) are applied. If the problem persists, you wil need to use a [locale emulator](https://xupefei.github.io/Locale-Emulator/) as this also emulates Japanese time zone too.
 !!! info "This Game is Japan Only!"
-	Check Japanese locale and ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too.
+	Check Japanese locale and ensure a crack/patch is applied, if there is no crack available try using [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). Or even, the Rewrite Gaijin Check Patcher, you can get that [here](https://cdn.discordapp.com/attachments/813105334763126814/825474730797563914/Rewrite_Oka-ken_Gaijin-check_Patcher.exe). It's made for KEY's Rewrite but I've had success with it on other VNs too. You may also have luck using a [locale emulator](https://xupefei.github.io/Locale-Emulator/), as this also emulates Japanese time zone too.
 !!! info "Cutscenes and video not working"
 	First, check if you are not using an N or KN edition of Windows. You can do that buy pressing ++windows+r++ and typing `winver` and press ++enter++. There you will see your Windows version and edition. If you *are* using an N edition, then you need to get the Media feature pack from Microsoft [here](https://www.microsoft.com/en-gb/download/details.aspx?id=48231).   
 	If you are not using a N or KN edition of Windows, then make sure the game files are installed correctly, try reinstalling the game. If the problem persists, maybe try installing [ffdshow](https://sourceforge.net/projects/ffdshow-tryout/files/SVN%20builds%20by%20clsid/generic%20builds/ffdshow_rev4532_20140717_clsid.exe/download) and [LAVFilters](https://github.com/Nevcairiel/LAVFilters/releases/download/0.74.1/LAVFilters-0.74.1-Installer.exe)  
