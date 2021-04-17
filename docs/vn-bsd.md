@@ -235,7 +235,7 @@ Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual
 
 VNs made by Fuguriya such as Sono *Hanabira ni Kuchizuke o* and *Hanahira*  will not launch with Wine by default. Follow the steps below to fix this.  
 
-Download fjfix [[here]](https://discord.com/channels/813105200809771018/813105334763126814/832650409402433606).   
+Download fjfix [[here]](https://cdn.discordapp.com/attachments/813105334763126814/832650409167945798/fjfix.tar.gz).   
 Extract the archive.   
 Now in the terminal, run:  
 ```bash
