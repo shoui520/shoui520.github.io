@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 
+{% block analytics %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6M8XGSMGX2"></script>
+{% endblock %}
+
 {% block site_nav %}
 {% if nav %}
 {% if page and page.meta and page.meta.hide %}
