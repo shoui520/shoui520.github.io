@@ -6,220 +6,222 @@ Follow the steps below to run VNs on Linux.
 
 ## Install Wine & Dependencies
 
-### Arch Linux
+=== "Arch"
 
-You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
+	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
 
-```bash
-sudo pacman -S wine-staging winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
-```
-
-*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
-
-We also need to install the VHBA module.  
-```bash
-sudo pacman -S vhba-module
-```
-
-!!! info "Custom and LTS Kernels"
-	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
-
-You can then enable the CDEmu daemon by running:
-
-```bash
-sudo systemctl enable --now cdemu-daemon
-```  
-
-If drivers for CD/DVD drives are not automatically loaded, you can load it manually.  
-```bash
-sudo modprobe -a sg sr_mod vhba
-```  
-
-### Debian/Ubuntu
-
-First you will need to enable 32-bit architecture.  
-```bash
-sudo dpkg --add-architecture i386
-```  
-Download the WineHQ repository key:  
-```bash
-wget -nc https://dl.winehq.org/wine-builds/winehq.key
-```  
-Now add the WineHQ repository key:  
-```bash
-sudo apt-key add winehq.key
-```  
-Add the repository:  
-
-```bash
-sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
-```
-!!! info "Other Ubuntu Versions"
-	If you use a different version of Ubuntu you must do this instead. Replace `groovy` with the codename of the Ubuntu version you use. This one is for 20.10:
 	```bash
-	sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y
-	``` 
-!!! info "Linux Mint"  
-	If you are on Linux Mint you must do this instead. Replace `bionic` with the codename of the Linux Mint version you use. This one is for 19.x:
-	```bash
-	sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
-	```
-!!! info "Debian"
-	If you are on Debian you must do this instead. Replace `buster` with the codename of the Debian version you use. This one is for Buster:
-	```bash
-	deb https://dl.winehq.org/wine-builds/debian/ buster main
+	sudo pacman -S wine-staging winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
 	```
 
-Add PPA's for Lutris:  
-```bash
-sudo add-apt-repository ppa:lutris-team/lutris -y
-```
-Add PPA's for CDEmu:  
-```bash
-sudo add-apt-repository ppa:cdemu/ppa -y
-```
-Update packages:  
-```bash
-sudo apt update
-```
-Now install the stable version of Wine:  
-```bash
-sudo apt-get install --install-recommends winehq-stable -y
-```
-Now install Lutris, CDEmu and some needed libraries:  
-```bash
-sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:i386 ocl-icd-dev:i386 -y
-```
-Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
-First, wget the binary:  
-```bash
-wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
-```
-Use `chmod` to make it into an executable:  
-```bash
-chmod +x winetricks
-```
-Now copy it to your `/usr/bin` so it can be used in a command line.  
-```bash
-sudo cp winetricks /usr/bin
-```  
-Now we need to install the VHBA module if you don't already have it.  
-```bash
-sudo apt-get install vhba-module -y
-```
-!!! info "Custom and LTS Kernels"
-	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.   
+	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
 
-### Fedora  
+	We also need to install the VHBA module.  
+	```bash
+	sudo pacman -S vhba-module
+	```
 
-First add the Wine repository.  
+	!!! info "Custom and LTS Kernels"
+		If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
 
-Fedora 33:  
-```bash
-sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/33/winehq.repo
-```
-Fedora 32:
-```bash
-sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/32/winehq.repo
-```  
+	You can then enable the CDEmu daemon by running:
 
-Now lets install ALL the build dependencies.  
+	```bash
+	sudo systemctl enable --now cdemu-daemon
+	```  
 
-```bash
-sudo dnf install alsa-plugins-pulseaudio.i686 glibc-devel.i686 glibc-devel libgcc.i686 libX11-devel.i686 freetype-devel.i686 libXcursor-devel.i686 libXi-devel.i686 libXext-devel.i686 libXxf86vm-devel.i686 libXrandr-devel.i686 libXinerama-devel.i686 mesa-libGLU-devel.i686 mesa-libOSMesa-devel.i686 libXrender-devel.i686 libpcap-devel.i686 ncurses-devel.i686 libzip-devel.i686 lcms2-devel.i686 zlib-devel.i686 libv4l-devel.i686 libgphoto2-devel.i686 cups-devel.i686 libxml2-devel.i686 openldap-devel.i686 libxslt-devel.i686 gnutls-devel.i686 libpng-devel.i686 flac-libs.i686 json-c.i686 libICE.i686 libSM.i686 libXtst.i686 libasyncns.i686 liberation-narrow-fonts.noarch libieee1284.i686 libogg.i686 libsndfile.i686 libuuid.i686 libva.i686 libvorbis.i686 libwayland-client.i686 libwayland-server.i686 llvm-libs.i686 mesa-dri-drivers.i686 mesa-filesystem.i686 mesa-libEGL.i686 mesa-libgbm.i686 nss-mdns.i686 ocl-icd.i686 pulseaudio-libs.i686 sane-backends-libs.i686 tcp_wrappers-libs.i686 unixODBC.i686 samba-common-tools.x86_64 samba-libs.x86_64 samba-winbind.x86_64 samba-winbind-clients.x86_64 samba-winbind-modules.x86_64 mesa-libGL-devel.i686 fontconfig-devel.i686 libXcomposite-devel.i686 libtiff-devel.i686 openal-soft-devel.i686 mesa-libOpenCL-devel.i686 opencl-utils-devel.i686 alsa-lib-devel.i686 gsm-devel.i686 libjpeg-turbo-devel.i686 pulseaudio-libs-devel.i686 pulseaudio-libs-devel gtk3-devel.i686 libattr-devel.i686 libva-devel.i686 libexif-devel.i686 libexif.i686 glib2-devel.i686 mpg123-devel.i686 mpg123-devel.x86_64 libcom_err-devel.i686 libcom_err-devel.x86_64 libFAudio-devel.i686 libFAudio-devel.x86_64
-```  
+	If drivers for CD/DVD drives are not automatically loaded, you can load it manually.  
+	```bash
+	sudo modprobe -a sg sr_mod vhba
+	```  
 
-```bash
-sudo dnf groupinstall "C Development Tools and Libraries"
-sudo dnf groupinstall "Development Tools"
-```
-You also need some packages from [rpmfusion](https://rpmfusion.org)  
-```
-sudo dnf install gstreamer-plugins-base-devel gstreamer-devel.i686 gstreamer.i686 gstreamer-plugins-base.i686 gstreamer-devel gstreamer1.i686 gstreamer1-devel gstreamer1-plugins-base-devel.i686 gstreamer-plugins-base.x86_64 gstreamer.x86_64 gstreamer1-devel.i686 gstreamer1-plugins-base-devel gstreamer-plugins-base-devel.i686 gstreamer-ffmpeg.i686 gstreamer1-plugins-bad-free-devel.i686 gstreamer1-plugins-bad-free-extras.i686 gstreamer1-plugins-good-extras.i686 gstreamer1-libav.i686 gstreamer1-plugins-bad-freeworld.i686
-```  
+=== "Debian/Ubuntu"
 
-Now install Wine:  
+	First you will need to enable 32-bit architecture.  
+	```bash
+	sudo dpkg --add-architecture i386
+	```  
+	Download the WineHQ repository key:  
+	```bash
+	wget -nc https://dl.winehq.org/wine-builds/winehq.key
+	```  
+	Now add the WineHQ repository key:  
+	```bash
+	sudo apt-key add winehq.key
+	```  
+	Add the repository:  
 
-```bash
-sudo dnf install wine
-```
+	```bash
+	sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
+	```
+	!!! info "Other Ubuntu Versions"
+		If you use a different version of Ubuntu you must do this instead. Replace `groovy` with the codename of the Ubuntu version you use. This one is for 20.10:
+		```bash
+		sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y
+		``` 
+	!!! info "Linux Mint"  
+		If you are on Linux Mint you must do this instead. Replace `bionic` with the codename of the Linux Mint version you use. This one is for 19.x:
+		```bash
+		sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
+		```
+	!!! info "Debian"
+		If you are on Debian you must do this instead. Replace `buster` with the codename of the Debian version you use. This one is for Buster:
+		```bash
+		deb https://dl.winehq.org/wine-builds/debian/ buster main
+		```
 
-And then Winetricks:  
+	Add PPA's for Lutris:  
+	```bash
+	sudo add-apt-repository ppa:lutris-team/lutris -y
+	```
+	Add PPA's for CDEmu:  
+	```bash
+	sudo add-apt-repository ppa:cdemu/ppa -y
+	```
+	Update packages:  
+	```bash
+	sudo apt update
+	```
+	Now install the stable version of Wine:  
+	```bash
+	sudo apt-get install --install-recommends winehq-stable -y
+	```
+	Now install Lutris, CDEmu and some needed libraries:  
+	```bash
+	sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:i386 ocl-icd-dev:i386 -y
+	```
+	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
+	First, wget the binary:  
+	```bash
+	wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+	```
+	Use `chmod` to make it into an executable:  
+	```bash
+	chmod +x winetricks
+	```
+	Now copy it to your `/usr/bin` so it can be used in a command line.  
+	```bash
+	sudo cp winetricks /usr/bin
+	```  
+	Now we need to install the VHBA module if you don't already have it.  
+	```bash
+	sudo apt-get install vhba-module -y
+	```
+	!!! info "Custom and LTS Kernels"
+	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`. 
 
-First, wget the binary:  
-```bash
-wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
-```
-Use `chmod` to make it into an executable:  
-```bash
-chmod +x winetricks
-```
-Now copy it to your `/usr/bin` so it can be used in a command line.  
-```bash
-sudo cp winetricks /usr/bin
-```  
 
-And now CDEmu, first enable the rok/cdemu COPR repository:  
+=== "Fedora"  
 
-```bash
-sudo dnf copr enable rok/cdemu
-```
-Now install CDEmu daemon and clients:  
+	First add the Wine repository.  
 
-```bash
-sudo dnf install cdemu-daemon cdemu-client gcdemu
-```
+	Fedora 33:  
+	```bash
+	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/33/winehq.repo
+	```
+	Fedora 32:
+	```bash
+	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/32/winehq.repo
+	```  
 
-Now load the VHBA kernel module:  
-```bash
-sudo akmods
-sudo systemctl restart systemd-modules-load.service
-```  
+	Now lets install ALL the build dependencies.  
 
-### openSUSE  
+	```bash
+	sudo dnf install alsa-plugins-pulseaudio.i686 glibc-devel.i686 glibc-devel libgcc.i686 libX11-devel.i686 freetype-devel.i686 libXcursor-devel.i686 libXi-devel.i686 libXext-devel.i686 libXxf86vm-devel.i686 libXrandr-devel.i686 libXinerama-devel.i686 mesa-libGLU-devel.i686 mesa-libOSMesa-devel.i686 libXrender-devel.i686 libpcap-devel.i686 ncurses-devel.i686 libzip-devel.i686 lcms2-devel.i686 zlib-devel.i686 libv4l-devel.i686 libgphoto2-devel.i686 cups-devel.i686 libxml2-devel.i686 openldap-devel.i686 libxslt-devel.i686 gnutls-devel.i686 libpng-devel.i686 flac-libs.i686 json-c.i686 libICE.i686 libSM.i686 libXtst.i686 libasyncns.i686 liberation-narrow-fonts.noarch libieee1284.i686 libogg.i686 libsndfile.i686 libuuid.i686 libva.i686 libvorbis.i686 libwayland-client.i686 libwayland-server.i686 llvm-libs.i686 mesa-dri-drivers.i686 mesa-filesystem.i686 mesa-libEGL.i686 mesa-libgbm.i686 nss-mdns.i686 ocl-icd.i686 pulseaudio-libs.i686 sane-backends-libs.i686 tcp_wrappers-libs.i686 unixODBC.i686 samba-common-tools.x86_64 samba-libs.x86_64 samba-winbind.x86_64 samba-winbind-clients.x86_64 samba-winbind-modules.x86_64 mesa-libGL-devel.i686 fontconfig-devel.i686 libXcomposite-devel.i686 libtiff-devel.i686 openal-soft-devel.i686 mesa-libOpenCL-devel.i686 opencl-utils-devel.i686 alsa-lib-devel.i686 gsm-devel.i686 libjpeg-turbo-devel.i686 pulseaudio-libs-devel.i686 pulseaudio-libs-devel gtk3-devel.i686 libattr-devel.i686 libva-devel.i686 libexif-devel.i686 libexif.i686 glib2-devel.i686 mpg123-devel.i686 mpg123-devel.x86_64 libcom_err-devel.i686 libcom_err-devel.x86_64 libFAudio-devel.i686 libFAudio-devel.x86_64
+	```  
 
-:white_check_mark: Tested on openSUSE Tumbleweed 20210408 
+	```bash
+	sudo dnf groupinstall "C Development Tools and Libraries"
+	sudo dnf groupinstall "Development Tools"
+	```
+	You also need some packages from [rpmfusion](https://rpmfusion.org)  
 
-```bash
-sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit libSDL2-2_0-0 libjpeg-turbo
-```  
-Now load the VHBA module into your kernel.  
+	```bash
+	sudo dnf install gstreamer-plugins-base-devel gstreamer-devel.i686 gstreamer.i686 gstreamer-plugins-base.i686 gstreamer-devel gstreamer1.i686 gstreamer1-devel gstreamer1-plugins-base-devel.i686 gstreamer-plugins-base.x86_64 gstreamer.x86_64 gstreamer1-devel.i686 gstreamer1-plugins-base-devel gstreamer-plugins-base-devel.i686 gstreamer-ffmpeg.i686 gstreamer1-plugins-bad-free-devel.i686 gstreamer1-plugins-bad-free-extras.i686 gstreamer1-plugins-good-extras.i686 gstreamer1-libav.i686 gstreamer1-plugins-bad-freeworld.i686
+	```  
 
-```bash
-sudo modprobe -a sg sr_mod vhba
-```  
+	Now install Wine:  
 
-### Gentoo
+	```bash
+	sudo dnf install wine
+	```
 
-Make sure your kernel is compiled with the following options enabled:
+	And then Winetricks:  
 
-1. `CONFIG_BLK_DEV_SR`
-2. `CONFIG_ISO9660_FS`
-3. `CONFIG_UDF_FS`
+	First, wget the binary:  
+	```bash
+	wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+	```
+	Use `chmod` to make it into an executable:  
+	```bash
+	chmod +x winetricks
+	```
+	Now copy it to your `/usr/bin` so it can be used in a command line.  
+	```bash
+	sudo cp winetricks /usr/bin
+	```  
 
-It is recommended to have the following global use flags in your `make.conf`:
+	And now CDEmu, first enable the rok/cdemu COPR repository:  
 
-1. `X`
-2. `pulseaudio`
-3. `jpeg`
-4. `png`
+	```bash
+	sudo dnf copr enable rok/cdemu
+	```
+	Now install CDEmu daemon and clients:  
 
-```bash
-sudo emerge -av virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
-sudo modprobe vhba
-```
+	```bash
+	sudo dnf install cdemu-daemon cdemu-client gcdemu
+	```
 
-Edit your `/etc/conf.d/modules` file and add this:
+	Now load the VHBA kernel module:  
+	```bash
+	sudo akmods
+	sudo systemctl restart systemd-modules-load.service
+	```  
 
-```toml
-modules="vhba"
-```
+=== "openSUSE"  
 
-In order for the CDEmu daemon to be started automatically on boot, you will need to have dbus enabled. You can enable it by running:
+	:white_check_mark: Tested on openSUSE Tumbleweed 20210408 
 
-```bash
-sudo rc-update add dbus default
-```
+	```bash
+	sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit libSDL2-2_0-0 libjpeg-turbo
+	```  
+	Now load the VHBA module into your kernel.  
+
+	```bash
+	sudo modprobe -a sg sr_mod vhba
+	```  
+
+=== "Gentoo"
+
+	Make sure your kernel is compiled with the following options enabled:
+
+	* `CONFIG_BLK_DEV_SR`
+	* `CONFIG_ISO9660_FS`
+	* `CONFIG_UDF_FS`
+
+	It is recommended to have the following global use flags in your `make.conf`:
+
+	* `X`
+	* `pulseaudio`
+	* `jpeg`
+	* `png`
+
+	```bash
+	sudo emerge -av virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
+	sudo modprobe vhba
+	```
+
+	Edit your `/etc/conf.d/modules` file and add this:
+
+	```toml
+	modules="vhba"
+	```
+
+	In order for the CDEmu daemon to be started automatically on boot, you will need to have dbus enabled. You can enable it by running:
+
+	```bash
+	sudo rc-update add dbus default
+	```
 
 ## Configure Wine and install runtimes
 

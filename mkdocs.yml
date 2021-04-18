@@ -25,13 +25,16 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
   name: material
   custom_dir: overrides
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
+      primary: purple
       accent: blue
       toggle:
         icon: material/weather-sunny
@@ -62,6 +65,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.keys
+  - pymdownx.tabbed
 extra_css:
   - stylesheets/extra.css
   - javascripts/extra.js
