@@ -209,7 +209,7 @@ You need to have a lot of dictionaries and have every one of them enabled becaus
 
 [Sakura-Paris Kojien Free Search](https://sakura-paris.org/dict/)
 
-This site has **all** the major dictionaries, for free and online. You can’t view all the definitions at the same time though. But there is support for images. Compare definition of 簡体字 in the 大辞泉 in Yomichan and Sakura-Paris. Some non-JIS characters seem to not show up in Yomichan. (This is just an error in converting the EPWINGs to Yomichan format)
+This site has **all** the major dictionaries, for free and online. You can’t view all the definitions at the same time though.  
 
 Weblio: <https://www.weblio.jp/> (Uses 大辞林 第三版, 実用日本語表現辞典)
 
