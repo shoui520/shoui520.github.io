@@ -105,7 +105,7 @@ I will touch on dictionaries in the next section.
 ### Getting and using monolingual dictionaries
 
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
-Download [shoui Yomichan Dictionaries pack v5]https://drive.google.com/file/d/1Y6CndxGeSEt6Mp9YdTUxxHkZazk6QabQ/view?usp=sharing)
+Download [shoui Yomichan Dictionaries pack v5](https://drive.google.com/file/d/1Y6CndxGeSEt6Mp9YdTUxxHkZazk6QabQ/view?usp=sharing)
 
 Extract the .7z file (You can use [7-Zip](https://www.7-zip.org/) for this), and you will be greeted with some .zip files. 
 **Do not tamper with these.**
