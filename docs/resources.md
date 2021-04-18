@@ -49,7 +49,6 @@ Resource descriptions will be added soon, for now, just links.
 - [Anime-Raws - raw anime (Stream or Download)](https://sites.google.com/view/animerawsmasterlist/home#)
 - [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html)
 - [Animelon - watch anime with Japanese subtitles (doesn’t work 99% of the time)](https://animelon.com/)
-- [AnJSub - watch anime with Japanese subtitles (with an AdBlocker, use uBlock Origin)](https://anjsub.com/)
 - [Crunchyroll - watch anime, (free but with ads)](https://www.crunchyroll.com)
 
 ### J-Drama & TV Shows
