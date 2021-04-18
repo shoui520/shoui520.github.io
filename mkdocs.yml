@@ -28,22 +28,20 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep purple
-      accent: blue
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
     # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: deep purple
       accent: blue
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+    # Light mode
+    - scheme: default
+      primary: deep purple
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
   favicon: img/favicon.png
   logo: img/moe.svg
 markdown_extensions:
