@@ -158,7 +158,7 @@ KireiCake
 
 **岩波国語辞典** - 6th edition of Iwanami dictionary. This is the dictionary Google uses when you search "〇〇 定義"、"〇〇 定義"とは、 and/or "〇〇 意味". The definitions "[feel like the Meikyou](/img/iwakoku.jpg)".  
 
-**ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. My version of this dictionary has an error where some words with multiple kanji in the same entry get combined in the headword.  
+**ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. 
 
 **国語大辞典** - "Kokugodaijiten" - A certain version of the 日本国語大辞典, the biggest Japanese dictionary in the world. But this is only about 1/10 of that dictionary but still bigger than the Daijirin. Has the same error as Shinjirin. Example:かえって It is optional and probably pointless. Superseded by 精選版.
 
