@@ -65,11 +65,11 @@ Hey shoui, are you also going to say that 体言 and 終止形 are also “commo
 ### Using Morphman to assist the monolingual transition
 No.
 
-Morphman is an Anki addon (?) which automatically decides what words to add to Anki for you. And for that reason it is a failure. Don’t leave it up to a silly computer program to help you decide what to add to Anki. Also most of what Morphman decides what to add for you is like “フゥ...”, “(♪～)”, “あっ...” so unless you’re into that I advise you to avoid using Morphman.
-If you want guidelines on what to mine, then mine every word that comes up in your immersion after you’ve read/watched it. You may think, “I probably don’t need those words though”. Wrong. Yes you do. You need every word. I am listening to a Love Live! podcast as I write this and I have heard a word I have mined half a year ago but didn’t hear anywhere else until now. So don't try to trust your intuition when it comes to mining.
-This went a little off-topic, sorry about that.
+Morphman is an Anki addon (?) which automatically decides what words to add to Anki for you. And for that reason it is a failure. Don’t leave it up to a silly computer program to help you decide what to add to Anki. Also most of what Morphman decides what to add for you is like “フゥ...”, “(♪～)”, “あっ...” so unless you’re into that I advise you to avoid using Morphman.  
+If you want guidelines on what to mine, then just mine every single word after you have read/watched it. The idea here is, when you are looking up stuff, it is inevitable you are going to remember some things but forget others, so when you go back and read/watch it again, you mine all the words you failed to remember the first time. You may think, “I probably don’t need those words though”. Wrong. Yes you do. You need every word that comes up in your immersion.
 
-## Yomichan - the better way to go monolingual.
+## Yomichan - the better way to go monolingual.  
+
 **I recommend doing the monolingual transition with Yomichan.**  
 
 ![Image](img/monodemo1.jpg)
@@ -174,8 +174,6 @@ KireiCake
 
 **学研国語大辞典古語辞典故事ことわざ辞典学研漢和大字典** - the WORST dictionary ever. Do not import. Don't believe me? Import it then.  
 
-Anything else like 大辞林 第二版 and 大辞泉 are just older versions. I would not import them. Kept in pack for autism purposes.  
-
 ####Bilingual
 
 **JMDict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. Pretty much every Japanese-English dictionary project uses JMDict, apps like Shirabe Jisho on iOS, Akebi and Takoboto on Android all use JMDict. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
@@ -186,7 +184,7 @@ Anything else like 大辞林 第二版 and 大辞泉 are just older versions. I 
 
 **新和英** - Version of 研究社 新和英大辞典 第５版 without example sentences. Not recommended.  
 
-**研究社露和辞典 (Russian)** - Kenkyuusha Russian-Japanese Dictionary. Self explanatory. Only included this because why not. Do not import if you are not a speaker of Russian.  
+**研究社露和辞典** - Kenkyuusha Russian-Japanese Dictionary. Self explanatory. Only included this because why not. Do not import if you are not a speaker of Russian.  
 
 **大修館書店中日大辞典　第二版** - Taishuukan Chinese-Japanese Dictionary, 2nd edition. A simplified Chinese dictionary for speakers of Japanese. If you are ever going to learn simplified Chinese, I recommend this. Do not import if not a learner of Chinese.  
 
