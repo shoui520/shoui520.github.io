@@ -1,5 +1,7 @@
 site_name: TheMoeWay
-site_description: Learn Japanese for free, on your own, with the things you love. Acquire with anime, TheMoeWay.  
+site_description: Learn Japanese for free, on your own, with the things you love. Acquire with anime, TheMoeWay.
+site_url: https://learnjapanese.moe
+site_author: shoui  
 nav:
   - Home: 'index.md'
   - 'Guides':
@@ -32,21 +34,19 @@ theme:
   custom_dir: overrides
   palette:
     # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      accent: blue
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+      - scheme: slate
+        primary: deep purple
+        accent: blue
+        toggle:
+          icon: material/weather-night
+          name: Switch to light mode
     # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: purple
-      accent: blue
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
+      - scheme: default
+        primary: purple
+        accent: blue
+        toggle:
+          icon: material/weather-sunny
+          name: Switch to dark mode
   favicon: img/favicon.png
   logo: img/moe.svg
 markdown_extensions:

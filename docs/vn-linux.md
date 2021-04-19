@@ -207,7 +207,7 @@ Follow the steps below to run VNs on Linux.
 	* `png`
 
 	```bash
-	sudo emerge -av virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
+	sudo emerge -av "=app-emulation/wine-vanilla-6.4" virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
 	sudo modprobe vhba
 	```
 
