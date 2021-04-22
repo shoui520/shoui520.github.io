@@ -308,7 +308,8 @@ You can search for “ExpressVPN crack apk” if you’re an Android user.
 
 ### "Other"
 
-- [Immersion Wiki - resources for immersion](http://immersion.wiki/)
+- [JPDB.IO](https://jpdb.io/) - LN and VN word count and difficulty rating  
+- [Immersion Wiki - resources for immersion](http://immersion.wiki/)  
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us)
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P)
 - [Useful Anki add-ons for Japanese](https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html)
