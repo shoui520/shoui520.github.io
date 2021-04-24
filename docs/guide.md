@@ -306,7 +306,7 @@ For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomic
 
 
 #### Android tools  
-If you have an Android device, you can use Yomichan on [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=ja&gl=US).  
+If you have an Android device, you can use Yomichan on Kiwi Browser  
 You can get the app [JP-Dictionary](https://github.com/kamui-7/JP-Dictionary) which adds the iOS “Look Up” feature to your select menu.
 There is also [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) which works a little like KanjiTomo.   
 
