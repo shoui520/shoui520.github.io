@@ -13,6 +13,7 @@
 {% endblock %}
 
 {% block site_nav %}
+
 {% if nav %}
 {% if page and page.meta and page.meta.hide %}
 {% set hidden = "hidden" if "navigation" in page.meta.hide %}
@@ -25,11 +26,12 @@
     </div>
 </div>
 {% endif %}
+
 {% if page.toc and not "toc.integrate" in features %}
 {% if page and page.meta and page.meta.hide %}
 {% set hidden = "hidden" if "toc" in page.meta.hide %}
 {% endif %}
-<div class="md-sidebar md-sidebar--secondary" data-md-component="toc" {{ hidden }}>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" {{ hidden }}>
     <div class="md-sidebar__scrollwrap">
         <a href="/join"><img width="100%" src="/img/discord.png"></a>
         <a href="https://www.patreon.com/shoui"><img width="100%" src="/img/patreon.png"></a>
@@ -40,4 +42,5 @@
     </div>
 </div>
 {% endif %}
+
 {% endblock %}
