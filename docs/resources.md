@@ -188,7 +188,7 @@ See Applications section for an MDict (MDX) reader.
 See Applications section for an EPWING reader.  
 
 #### E-Reader Dictionaries  
-- [Kindle Dictionaries Pack](https://drive.google.com/drive/folders/1jCrT99ymPHx2i2BbMRJERHgbTZ_Iv5Q3?usp=sharing)  
+- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/folder/nJxESL5T)  
 
 ### Applications (Desktop)
 - [Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)  

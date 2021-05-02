@@ -7,7 +7,7 @@ Visual Novels (often abbreviated as **VN**) can be described as sort of a mix of
 ![Image](img/vn1.jpg)
 
 ### Why Visual Novels?
-Reading Japanese is extremely important, but not everyone loves reading books, I am definitely one of them. I hate reading books, it’s way too often I get bored when reading a regular, text-only novel. I’m not much of a reader in English either. Oddly enough, I can read visual novels for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it’s perfect for reading immersion.
+Reading Japanese is extremely important, but not everyone loves reading books, you may feel fatigued after a while reading a standard, text-only novel but oddly enough you may be able to read VNs for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it’s perfect for reading immersion.
 For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
 ![Image](img/vn2.jpg)
 
