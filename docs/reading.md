@@ -10,7 +10,7 @@ Before you start reading for real, it is important you have already worked throu
 
 1. Learning to read will always be painful in the start. You shouldn't wait "until you're ready" because you will never be ready until you start reading.  
 2. It is not recommended you start reading without prior listening experience.  
-3. Don't worry about not comprehending a sentence no matter how much times you read it, in other words, learn to **tolerate ambiguity**. Things will become clearer as you read more. 
+3. Don't worry about not comprehending a sentence no matter how many times you read it, in other words, learn to **tolerate ambiguity**. Things will become clearer as you read more. 
 4. If you hate reading books in general, you can always play visual novels or read manga, both of which are very good for reading. 
 6. Your first light novel/book whatever will always be the most painful. Get through it no matter how painful it is or how long is takes you. 
 7. Don't rush yourself. Take your time. Go at your own pace. You wouldn't want to burnout and end up never reading again or anything.
