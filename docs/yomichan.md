@@ -47,7 +47,7 @@ A full dark mode can be enabled in the settings too.
 
 **研究社　新和英大辞典　第５版** (Kenkyuusha New Japanese-English Dictionary, 5th Edition) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with example sentences stripped called is `[Bilingual] 新和英.zip` can also be found in my dictionary pack (not recommended).  
 
-KANJIDIC is a kanji dictionary, it allows you to view information of individual kanji.
+**KANJIDIC** is a kanji dictionary, it allows you to view information of individual kanji.
 
 You can use the ![search icon](img/yomichan-search.png) icon to access Yomichan Search. Where you can use Yomichan as a standalone Japanese to English dictionary, however, Yomichan does not support any advanced dictionary features.
 
