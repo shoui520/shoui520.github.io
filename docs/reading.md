@@ -39,11 +39,11 @@ Expect manga to be pretty hard for you at first, but over time it will smoothen 
 Even if you read like 100 manga, you still need to read light novels since you need to learn literary Japanese.
 Literary Japanese is not that hard as it sounds, it's only slightly different from spoken Japanese and will be easy to get used to.
 For reading light novels, I recommend using *Yomichan*, you can find a detailed Yomichan setup tutorial [[here]](/yomichan)  
-I seriously recommend you read novels on this site: [Itazuraneko Old Library](https://itazuraneko.neocities.org/shousetu/index.html), sort by kanji count, usually 1,000-1,600 kanji count is a good, this just means how long the book is if you actually look at it.
+I seriously recommend you read novels on this site: [Itazuraneko Old Library](https://itazuraneko.neocities.org/shousetu/index.html), sort by kanji count, usually 1,000-1,600 kanji count is a good, this just means how long the book is if you actually look at it. If you have an Android you should use [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja) or [Typhon改](https://github.com/dajimenezja/typhon/releases) if the other one does not work with your phone. There are little buttons you can click on the itazuraneko old library to download epubs to load into it. You can also visit the [full epub list](https://yonde.itazuraneko.org/other/kensaku.html) but warning: you need a good phone to load that page because there are a LOT of books! If you cannot find the book you want on Itazuraneko you can try looking on [Boroboro](https://boroboro.neocities.org/listfullepub.html). iOS users can just use the Books app with epub files.
 
-Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a month or so to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in a week, a day if all I did was read). Just read more, read a lot.  
+Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a month or so to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in around 10 hours). Just read more, read a lot.  
 Reading scans or physicals like these is not recommended.  
-Note: I am not speaking against 縦書き, (vertical), the image below is an example of a *scan*.  
+Note: I am not against 縦書き, (vertical), the image below is an example of a *scan*.  
 ![LN 1](img/ln1.jpg)
 *Novel: Hibike! Euphonium*
 
