@@ -33,6 +33,8 @@ But how about looking up words? That's literally a scan isn't it?
 Use the tool [KanjiTomo](http://www.kanjitomo.net/) and hover over the text, and it will automatically look it up, but it's a bit quirky and doesn't always work, in that case, you can use [Capture2text](http://capture2text.sourceforge.net/), set the OCR language to Japanese and highlight the text you want and it will copy it onto your clipboard, after that you can paste it into [Jisho](https://jisho.org/). It's actually quicker than it sounds. 
 
 If Capture2Text fails, then use the Google Translate handwriting feature. No matter how badly you write the kanji, it will detect it. After that you can copy and paste it into Jisho.
+For Android users you can use [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/). For iOS users you can use [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365)  
+
 Expect manga to be pretty hard for you at first, but over time it will smoothen out and get easier. You just need to read more. You just need to read a lot.
 
 ### Light Novels
