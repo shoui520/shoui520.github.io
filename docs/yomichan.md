@@ -66,9 +66,25 @@ Chromium:
 Firefox:  
 	- Enabled by default.  
 
-## Anki Setup
+## Bonus: Adding Forvo extra audio source  
 
-Due to there being an already wonderful Anki guide with Yomichan written on the internet. I will not write about that here.
+You may encounter missing audio with the default Yomichan audio sources, adding [Forvo](https://ja.forvo.com/) will help fill in the gaps.  
+
+Thanks to [jamesnicholas](https://github.com/jamesnicolas/yomichan-forvo-server) for this wonderful add-on!
+
+This requires you to have Anki (2.1 and newer) installed and open on your computer to work.  
+
+1. Copy this code `580654285`
+2. In Anki, in the menu at the top, click on **Tools**, then **Add-ons**.
+3. In the new window, click **Get Add-ons...** and paste the code `580654285` into the text box and click **OK**
+4. Restart Anki by closing it and opening it back up again.
+5. In the Yomichan settings page ![cog](img/yomichan-cog.png), click **Audio** on the left, and then click on **Configure audio playback sources...**
+6. Click **Add** and then select **Custom** from the drop down menu. 
+7. Now where it says **Custom audio source (?)**, select the type **JSON** from the drop down menu.
+8. In the URL text box, enter this `http://localhost:8770/?expression={expression}&reading={reading}`
+
+
+## Anki Setup
 
 See [AnimeCards Site](https://animecards.site/)
 
