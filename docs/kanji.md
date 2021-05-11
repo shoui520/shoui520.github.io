@@ -12,7 +12,7 @@ Furthermore, learning the meanings for kanji **can be useful** for words like [�
 In addition to that, Japanese people would describe 連 as "[連勝](https://jisho.org/word/%E9%80%A3%E5%8B%9D)の連" or "[連射](https://jisho.org/word/%E9%80%A3%E5%B0%84)の連" etc; not the keyword you learned.  
 Summary: Kind of useful when you're a beginner, but not needed at all.
 
-### Learning the Readings - A big NO.
+### Learning the Readings (by themselves) - A big NO.
 I'm not talking about learning words, like having [夢中](https://jisho.org/word/%E5%A4%A2%E4%B8%AD) along with a handy example sentence :slight_smile:  
 I mean this:
 >	Kanji: 涯  
