@@ -27,49 +27,53 @@ Japanese visual novels will not run without Japanese locale. Some may run, but h
 
 ## Step 2. Mounting the setup files  
 
-If you have bought your game on an optical disc, please insert the disc into your DVD drive. A new volume will appear on the Explorer sidebar, click on it and run the setup to proceed.  
+=== "Non-pirated"
 
-![Image](img/vnwin-nopiracy1.png)
+	If you have bought your game on an optical disc, please insert the disc into your DVD drive. A new volume will appear on the Explorer sidebar, click on it and run the setup to proceed.  
 
-If you bought your game as digital download, it will come in a `.zip` file, extract it with [7-Zip](https://www.7-zip.org/)  
-In some cases there will be no need for installation, in other cases you may need to install the game by running the setup and register with the DRM.  
+	![Image](img/vnwin-nopiracy1.png)
 
-![Image](img/vnwin-nopiracy2.png)  
+	If you bought your game as digital download, it will come in a `.zip` file, extract it with [7-Zip](https://www.7-zip.org/)  
+	In some cases there will be no need for installation, in other cases you may need to install the game by running the setup and register with the DRM.  
 
-However, if you have not bought the game, it will likely become archived in a `.rar`, `.7z` or `.zip` format, and within it may be disc image files. Follow the instructions below to extract and mount the setup files.
+	![Image](img/vnwin-nopiracy2.png)  
 
-Requirements:  
-[Get 7-Zip](https://www.7-zip.org/)  
-[Get WinCDEmu](https://wincdemu.sysprogs.org/download/)  
+=== "Pirated"
 
-We will be using 2 pieces of software today, *7-Zip* which is a tool for making and extracting archives such as `.zip` , `.tar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
+	If you have not bought the game, it will likely become archived in a `.rar`, `.7z` or `.zip` format, and within it may be disc image files. Follow the instructions below to extract and mount the setup files.
+
+	Requirements:  
+	[Get 7-Zip](https://www.7-zip.org/)  
+	[Get WinCDEmu](https://wincdemu.sysprogs.org/download/)  
+
+	We will be using 2 pieces of software today, *7-Zip* which is a tool for making and extracting archives such as `.zip` , `.tar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
 	
-If you have downloaded a visual novel, and it came in a .rar/.zip/.7z archive, you must extract it before you can mount the installation files. You can use 7-Zip for this. 
+	If you have downloaded a visual novel, and it came in a .rar/.zip/.7z archive, you must extract it before you can mount the installation files. You can use 7-Zip for this. 
 
-> Right click the archive > 7-Zip > Extract to %folder%
+	> Right click the archive > 7-Zip > Extract to %folder%
 
-![Image](img/vnwin1.jpg)
+	![Image](img/vnwin1.jpg)
 
-Above is an example of extracting the archive using 7-Zip.  
+	Above is an example of extracting the archive using 7-Zip.  
 
-After the archive has been extracted, we will now use WinCDEmu to mount the image that has been extracted from it.  
+	After the archive has been extracted, we will now use WinCDEmu to mount the image that has been extracted from it.  
 
-> Right click the image > Select drive letter & mount > OK
+	> Right click the image > Select drive letter & mount > OK
 
-![Image](img/vnwin2.jpg)  
+	![Image](img/vnwin2.jpg)  
 
-After that,
+	After that,
 
-![Image](img/vnwin3.jpg)  
+	![Image](img/vnwin3.jpg)  
 
-The disc image is now mounted. You should see a new volume appear on your Explorer sidebar.
+	The disc image is now mounted. You should see a new volume appear on your Explorer sidebar.
 
-![Image](img/vnwin4.jpg)  
+	![Image](img/vnwin4.jpg)  
 
-!!! info ".MDS/.MDF files"
+	!!! info ".MDS/.MDF files"
 	It is a little different if you have .MDS/.MDF files, see below.  
 
-![Image](img/vnwin5.jpg)
+	![Image](img/vnwin5.jpg)
 
 ## Step 3. Installing the VN and applying patch
 
