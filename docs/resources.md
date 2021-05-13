@@ -216,12 +216,11 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [MDict, an MDX reader](https://www.mdict.cn/wp/?page_id=5325&lang=en)   
 - [EBPocket Professional APK](https://drive.google.com/file/d/1WAE2WRyCET_sOQ8Qze9tt2X-dEEdTuz1/view?usp=sharing)  
 - [Typhon Reader (ebook reader with one tap Rikai (like Yomichan) lookup feature, EPWING support.)](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)  
-- [Reasily (ebook reader no special features, but supports vertical text (縦書き))](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily)  
+- [Reasily (ebook reader no special features, but supports vertical text (縦書き))](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) You can use Yomichan on this.  
 - [OCR Manga Reader (EPWING support)](https://sourceforge.net/projects/ocrmangareaderforandroid/)  
 - [Tachiyomi Manga Reader (Get the Japanese sources)](https://tachiyomi.org/)  
 - [JP-Dictionary (adds iOS “Look Up” feature)](https://github.com/kamui-7/JP-Dictionary)  
-- [Kaku (System-wide OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku)  
-- [Rikaichan for Android](https://github.com/ispedals/Rikachan-Android)  
+- [Kaku (System-wide OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku)   
 - [Tae Kim App](https://play.google.com/store/apps/details?id=com.alexisblaze.japanese_grammar&hl=en)  
 - [Google Japanese Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese)  
 
