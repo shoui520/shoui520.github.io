@@ -81,6 +81,7 @@ Have a look at visual novel lists below
 [jamal's list](https://anacreondjt.gitlab.io/vn-chart/)  
 [This infamous list](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)  
 [Dinuz's list](/dinuzlist)  
+[Chronopolize's list](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw)  
 
 Have fun reading!
 
