@@ -104,6 +104,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [Boroboro](https://boroboro.neocities.org/)  
 - [Syosetsu Web Novels](https://yomou.syosetu.com/)  
 - [Aozora Bunko](https://www.aozora.gr.jp/)  
+- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Supports EPUB and HTMLZ. 縦書き by default.
 
 ### Visual Novels & Games
 
@@ -313,4 +314,4 @@ You can search for “ExpressVPN crack apk” if you’re an Android user.
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P)
 - [Useful Anki add-ons for Japanese](https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html)
 - [VN Scripts](https://vnscripts.neocities.org/old.html)
-- [Read epubs with Yomichan](https://bibi.epub.link/)  
+**[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Read EPUBs with Yomichan. 縦書き by default.
