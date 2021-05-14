@@ -2,254 +2,263 @@
 
 Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" Japanese and "Acquiring" Japanese.   
 
-Resource descriptions will be added soon, for now, just links.
+~~Resource descriptions will be added soon, for now, just links.~~ Resource descriptions added!  
+
 ## Learning Japanese 
 
-### Kana
-- [Kakugo Android App](https://play.google.com/store/apps/details?id=org.kaqui)
-- [DJT Kana, enable all kana in show/hide](https://djtguide.neocities.org/kana/index.html)
-- [Kana Anki Deck](https://ankiweb.net/shared/info/66384999)
-- [Remembering the Kana](https://mega.nz/folder/Wk8VjJ6K#icqt2OiW4Vhle7q4cGUf_Q)
-- [Tae Kim - The Writing System](http://www.guidetojapanese.org/learn/grammar/writing)
+### Kana  
+
+- [Tae Kim - The Writing System](http://www.guidetojapanese.org/learn/grammar/writing) - An explanation of the kana and a chart.  
+- [DJT Kana, enable all kana in show/hide](https://djtguide.neocities.org/kana/index.html) - Test your kana skills!  
+- [Kana Anki Deck](https://ankiweb.net/shared/info/66384999) - Anki deck to drill kana.  
+- [Kakugo Android App](https://play.google.com/store/apps/details?id=org.kaqui) - Saw this being recommended and it looks like it'd work fine so.  
+- [Remembering the Kana](https://mega.nz/folder/Wk8VjJ6K#icqt2OiW4Vhle7q4cGUf_Q) - Remembering the Kana by James Heisig, only use when you are struggling immensely.  
 
 ### Kanji
 *Note: Reading a lot is the best way to learn kanji. You can seek alternatives below if you keep forgetting how to read words you come across. Or if you want to learn how to write.*  
 
 - [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)  
-- [(Uses RTK) Learn the Kanji](https://www.learnkanji.guide/)  
-- [Recognition Remembering The Kanji with less than 450 cards (RRTK)](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
+- [(Uses RTK) Learn the Kanji](https://www.learnkanji.guide/) - Guide on how to use RTK.  
+- [Recognition Remembering The Kanji with less than 450 cards (RRTK)](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - Shortened version of RTK.   
 - [Kodansha's Kanji Learner's Course (KKLC)](https://mega.nz/#!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ)  
-- [(Uses KKLC) Studying with KLC](https://keystojapanese.com/how-to-study-with-the-klc/)  
-- [KanjiDamage](http://www.kanjidamage.com/)  
+- [(Uses KKLC) Studying with KLC](https://keystojapanese.com/how-to-study-with-the-klc/) - Guide on how to use KKLC  
+- [KanjiDamage](http://www.kanjidamage.com/) - Learn kanji composition with yo mama jokes. 
 
 ### Vocabulary
-- [MIA Tango N5 Deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing)  
-- [MIA Tango N4 Deck](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing)  
+- [MIA Tango N5 Deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing) - The first starter Anki deck you should use when starting out.  
+- [MIA Tango N4 Deck](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing) - The second starter Anki deck you use after N5.  
 
 !!! info "Tango Decks"
 	It is recommended you do Tango over Core solely because Tango is easier.      
 	You should get on to making your own mining deck after you finish N4.   
   
-- [Core2.3K VN Order Deck](https://mega.nz/file/21kV2IyT#hrHlRSx_f7DJ9q6xj52hIWtcJ62dMhPG6MlWNwm34ak)
+- [Core2.3K VN Order Deck](https://mega.nz/file/21kV2IyT#hrHlRSx_f7DJ9q6xj52hIWtcJ62dMhPG6MlWNwm34ak) - the Core deck but ordered in terms of visual novel frequency.  
 
 ### Grammar
-- [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
-- [Cure Dolly Complete Transcript by dinuz](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc)  
-- [Tae Kim’s Guide to Japanese, a guide for grammar](https://itazuraneko.neocities.org/grammar/taekim.html)
-- [Dictionary of Grammar (DoJG) Reference](https://core6000.neocities.org/dojg/)
-- ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://mega.nz/#!TpESFQoD!vfTQgn_kBXSE_vBeieTe5wvlzL07qbzVkWx1PYfpMFQ)
+- [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - explains Japanese in the best way possible. What she says is basically how Japanese grammar is thought of in Japanese, and then explained in English. As opposed to "traditional" way of Japanese grammar study, which distorts Japanese grammar to make it "easier" for Europeans.  
+- [Cure Dolly Complete Transcript by dinuz](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc) - Because the audio quality is awful, and the image is unpleasant but the information is very valuable.  
+- [Tae Kim’s Guide to Japanese, a guide for grammar](https://itazuraneko.neocities.org/grammar/taekim.html) - The one grammar guide everyone recommends.  
+- [Dictionary of Grammar (DoJG) Reference](https://core6000.neocities.org/dojg/) - Table of all the grammar points in DoJG, helpful when you need quickly refer to a grammar point.  
+- ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://mega.nz/#!TpESFQoD!vfTQgn_kBXSE_vBeieTe5wvlzL07qbzVkWx1PYfpMFQ) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the tradional way.
 
 ## Acquiring Japanese
 
 ### Anime
 
-- [Nyaa.si - raw anime (torrent client required, recommended: qBittorrent)](https://nyaa.si/?q=&f=0&c=1_4)
-- [AnimeFever - beautiful, elegant anime streaming site](https://www.animefever.tv/) - You can turn off the subs!  
-- [B9GOOD - watch raw anime](http://b9good.com/)
-- [Anime-Raws - raw anime (Stream or Download)](https://sites.google.com/view/animerawsmasterlist/home#)
-- [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html)
-- [Animelon - watch anime with Japanese subtitles (doesn’t work 99% of the time)](https://animelon.com/)
-- [Crunchyroll - watch anime, (free but with ads)](https://www.crunchyroll.com)
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker with raw anime. I recommend you use **qBittorrent**! 
+- [AnimeFever](https://www.animefever.tv/) - elegant anime streaming site, you can turn off the subs!  
+- [B9GOOD](http://b9good.com/) - you can stream raw anime here.  
+- [Anime-Raws](https://sites.google.com/view/animerawsmasterlist/home#) - you can stream or download raw anime here. They are all MEGA links, and MEGA supports streaming video.  
+- [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime, itazuraneko.  
+- [Animelon](https://animelon.com/) - watch anime with Japanese subtitles. It doesn't work 99% of the time though... Check the next thing out instead.  
+- **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video.   
+- [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 
-### J-Drama & TV Shows
-- [Google Drive folder full of J-Drama - (password for .zip/.rar archives: `bagikuy`)](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE)
-- [Bagikuy](https://bagikuy.com/)
-- [J-addicts](https://j-addicts.blogspot.com/)
-- [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4)
-- [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time)
-- [MyFlixer Japan](https://myflixer.to/country/JP?page=1)
-- [Muryougei Drama](https://muryoueigadrama.com/)
-- [Minidrama](https://minidrama.net/j-drama/)
-- [Raredoramas](https://raredoramas.info/)
+### Movies & TV Shows (J-drama)
+- [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE) - (password for .zip/.rar archives: `bagikuy`)
+- [Bagikuy](https://bagikuy.com/) - j-drama download links.  
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
+- [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - stream some J-drama.  
+- [MyFlixer Japan](https://myflixer.to/country/JP?page=1) - stream Japanese TV shows, lots of anime here though.  
+- [Minidrama](https://minidrama.net/j-drama/) - MKV downloads for J-drama.  
+- [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama 
 - [Japanese Live TV Streams](http://japanorama39.ru/bez-rubriki/smotret-onlayn-7-yaponskih-telekanalov-na-1-sayte/)
 - [Japanese Live TV Streams 2](https://aqstream.com/jp)  
 - [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).  
-- [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177)
-- [ABEMA](https://abema.tv/)
+- [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND  
+- [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.  
 - [Some Japanese TV Shows on BiliBili](https://space.bilibili.com/60958832/#/video?tid=0&page=1&keyword=&order=pubdate)
-- [Crunchyroll (free with ads)](https://www.crunchyroll.com/)
+- [Crunchyroll (free with ads)](https://www.crunchyroll.com/) - some j-drama on here. 
 
 ### Manga
-- [Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html)  
-- [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack)  
+- [Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.  
+- [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
 - [BilingualManga](https://bilingualmanga.com/) - Yomichan compatible & one-click translation.
-- [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA)  
-- [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3)  
-- [Manga1000](https://manga1000.com/)  
-- [Rawdevart](https://rawdevart.com/)  
-- [LoveHug](https://lovehug.net/)  
-- [Kissaway](https://kissaway.net/)  
-- [Komiraw](https://komiraw.com/)  
-- [MangaToshokanZ](https://www.mangaz.com/)  
-- [Tonari no Young Jump](https://tonarinoyj.jp/)  
-- [Sousenkyo](https://webmanga-sousenkyo.com/)  
-- [Osoroshiya](https://osoroshiya.com/)  
-- [Kodansha Comics](https://news.kodansha.co.jp/comics)  
-- [S-manga](https://www.s-manga.net/)  
-- [Sai-zen-sen](https://sai-zen-sen.jp/)  
+- [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
+- [LoveHug](https://lovehug.net/) - Read manga online 1  
+- [Manga1000](https://manga1000.com/) - Read manga online 2  
+- [Rawdevart](https://rawdevart.com/) - Read manga online 3  
+- [Kissaway](https://kissaway.net/) - Read manga online 4  
+- [Komiraw](https://komiraw.com/) - Read manga online 5   
+- [MangaToshokanZ](https://www.mangaz.com/) - Read manga online 6  
+- [Tonari no Young Jump](https://tonarinoyj.jp/) - Read manga online 7  
+- [Sousenkyo](https://webmanga-sousenkyo.com/) - Read manga online 8  
+- [Osoroshiya](https://osoroshiya.com/) - Read manga online 9    
+- [Kodansha Comics](https://news.kodansha.co.jp/comics) - Read manga online 10  
+- [S-manga](https://www.s-manga.net/) - Read manga online 11  
+- [Sai-zen-sen](https://sai-zen-sen.jp/) - Read manga online 12  
 
 Scan websites usually have the best collection but can be a pain to download from, I have listed them below.    
-**Use maxi-debrid.com to generate premium full speed download links!**   
+**Use a debrid service to generate premium full speed download links!**   
 
-- [A-zmanga](http://www.a-zmanga.net/)    
-- [DLRaw](https://dlraw.net/)    
-- [JPDDL](https://jpddl.com/manga)    
-- [Manga314](https://manga314.com/)    
-- [CMCZIP](https://cmczip.com/)    
+- [A-zmanga](http://www.a-zmanga.net/) - Has the most stuff. You need a debrid service though.  
+- [DLRaw](https://dlraw.net/) - Is starting to catch up to A-zmanga. You may need a debrid service though.
+- [JPDDL](https://jpddl.com/manga) - A-zmanga clone  
+- [Manga314](https://manga314.com/) - A-zmanga clone  
+- [CMCZIP](https://cmczip.com/) - A-zmanga clone  
 
 ### Light Novels and Literary Texts
-- [Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html)  
-- [Itazuraneko New Novel Library](https://itazuraneko.neocities.org/library/shousetu.html)  
-- [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/)  
-- [Boroboro](https://boroboro.neocities.org/)  
-- [Syosetsu Web Novels](https://yomou.syosetu.com/)  
-- [Aozora Bunko](https://www.aozora.gr.jp/)  
-- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Supports EPUB and HTMLZ. 縦書き by default.
+- [Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - Used to be called "DJT Library" - I like this page because you can sort by genre, kanji count etc and you can easily get download links and read it online. Around 2000 books.  
+- [Itazuraneko New Novel Library](https://itazuraneko.neocities.org/library/shousetu.html) - The new DJT library, but no sorting and many NSFW works. Around 8000 books.  
+- [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - epubs only. 10000+ books.  
+- [Boroboro](https://boroboro.neocities.org/listfullepub.html) - EPUBs of series not on itazuraneko.   
+- [Syosetsu Web Novels](https://yomou.syosetu.com/) - Web novels. In contrast to itazuraneko and boroboro, which has retail books, this has only web novels / 二次創作 (fanfiction)   
+- [Aozora Bunko](https://www.aozora.gr.jp/) - read Japanese classics. Books go on here if the author has died more than 50 years ago.  
+- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Supports EPUB and HTMLZ. 縦書き by default. I love this reader.  
 
 ### Visual Novels & Games
 
-**Console/Emulator**  
-
-- [Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive](https://itazuraneko.neocities.org/library/game.html)  
-- [CDRomance Japanese PSP Games](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan)  
-- [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan)  
-- [Softcobra Nintendo Switch Games](https://www.softcobra.com/)  
-- [RoyalRoms (GB, GBA, GBC, N64, NDS, Sega | Sort region by "Japan")](https://www.royalroms.com/roms/)  
-- [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround)    
-
 **PC (Windows)**  
 
-- [Nyaa.si](https://nyaa.si/?f=0&c=6_2&q=_) ← Has no H scene 18+ vn, use sukebei
-- [Itazuraneko Visual Novel Archive](https://itazuraneko.neocities.org/library/vn.html)
-- [RyuuGames](https://www.ryuugames.com/tag/japanese/)
-- [RyuuBlogger](https://ryuubloggerv2.blogspot.com/)
-- [Anime-sharing](http://www.anime-sharing.com/forum/) ← Has the most
-- [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#)
-- [Sukebei Nyaa.si](https://sukebei.nyaa.si/)
+- [Nyaa.si](https://nyaa.si/?f=0&c=6_2&q=_) - Nyaa.si has some visual novels, but you best use Sukebei.nyaa.si (18+)  
+- [Itazuraneko Visual Novel Archive](https://itazuraneko.neocities.org/library/vn.html) - Visual novel direct links  
+- [RyuuGames](https://www.ryuugames.com/tag/japanese/) - Has a ton of visual novels.  
+- [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Also has a ton of visual novels.  
+- [Anime-sharing](http://www.anime-sharing.com/forum/) - Has the most visual novels out of everything here. But you need an account and also a debrid service, and you need to search across duplicate threads to download anything from here.  
+- [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Direct links to visual novels  
+- [Sukebei Nyaa.si](https://sukebei.nyaa.si/) - 18+ version of nyaa.si which should have a few visual novels.  
 
 - [Visual Novel Recommendation Lists](https://learnjapanese.moe/vn/#unsure-what-to-play)
+
+**Console/Emulator**  
+
+- [Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive](https://itazuraneko.neocities.org/library/game.html) - Nint#ndo NES, SNES, N64, Gamecube, GB, GBC, GBA, NDS, Sony PS1, PS2, PSP, Sega Master System, Genesis, Dreamcast, Saturn and NEC PC-98 games.  
+- [CDRomance Japanese PSP Games](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan) - PSP games 
+- [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan) - PS2 games
+- [Softcobra Nint#ndo Sw!tch Games](https://www.softcobra.com/) - Nint#ndo Sw!tch R#Ms  
+- [RoyalRoms (GB, GBA, GBC, N64, NDS, Sega | Sort region by "Japan")](https://www.royalroms.com/roms/)    
+- [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround) - You can still download from emuparadise!    
+
 
 #### Hook VNs with Textractor!
 - [VN Guide](https://learnjapanese.moe/vn/)
 
 ### Audiobooks
-- [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html)
-- [Audiobook Collection #1](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28)
-- [Audiobook Collection #2](https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a)
+- [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - The 0 yen audiobooks from Audible.  
+- [Audiobook Collection #1](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
+- [Audiobook Collection #2](https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a) - Some more audiobooks  
 
 ### Subtitles
-- [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F)
-- [Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)
-- [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)
-- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)
-- [Nekomoe Kissaten](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs)
-- [動漫花園](https://share.dmhy.org/)
-- **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**
+- [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Avoid kamigami, they don't know Japanese and their subtitles are wrong.  
+- [Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)  
+- [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
+- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
+- [Nekomoe Kissaten](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs)   
+- [動漫花園](https://share.dmhy.org/)  
+- **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**    
 
 ### Sentence Search
-- [Yourei.jp, The World's Largest Japanese Sentence Search Engine](http://yourei.jp/)
-- [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)
-- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) (Use the Repository search feature)
-- [SentenceSearch](https://sentencesearch.neocities.org/)
-- [Jisho.org](https://jisho.org/search/%20%23sentences)
+- [Yourei.jp](http://yourei.jp/) The World's Largest Japanese Sentence Search Engine
+- [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)  
+- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)- Use the Repository search feature)
+- [SentenceSearch](https://sentencesearch.neocities.org/) - You can also grab audio for the sentences here!  
+- [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.  
+
 ### Japanese Fonts
 - [Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)  
 
 ### Dictionaries
+
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese words easily. 
 
-- [Yomichan (Chromium and Firefox based browsers only)](https://foosoft.net/projects/yomichan/)   
-- [Tutorial](https://learnjapanese.moe/yomichan)  
+- [Yomichan (Chromium and Firefox browsers)](https://foosoft.net/projects/yomichan/) - You MUST have this, or else what are you even doing?  
+- Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Pack v5](https://drive.google.com/file/d/1t_y_MbyjEDkAkcvJlHZxlSJ5rAM6kvVu/view?usp=sharing)  
-Every dictionary explained. [[Click here]](https://learnjapanese.moe/monolingual/#every-dictionary-explained)  
+- Every dictionary explained. [[Click here]](https://learnjapanese.moe/monolingual/#every-dictionary-explained)  
 
 #### Online
-- [Jisho (bilingual)](https://jisho.org/) <---- Beginners use this    
-- [Weblio EJJE (bilingual)](https://ejje.weblio.jp/) <---- Beginners use this    
-- [Eijirou on the WEB (bilingual)](https://eow.alc.co.jp/) <---- Beginners use this       
-- [Sakura-Paris Free Kōjien Search (Has nearly every major dictionary, monolingual+bilingual)](https://sakura-paris.org/dict/)  
-- [Weblio (monolingual)](https://www.weblio.jp/)   
-- [Goo (monolingual)](https://dictionary.goo.ne.jp/)  
-- [日本語俗語辞書 (monolingual slang dict)](http://zokugo-dict.com/)  
-- [Forvo Japanese Pronunciation Dictionary](https://forvo.com/languages/ja/)  
-- [OJAD Pitch Accent Dictionary](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)  
+- [Jisho (bilingual)](https://jisho.org/) - Beginners use this. Bog standard Japanese to English dictionary search based on the JMdict project.     
+- [Weblio EJJE (bilingual)](https://ejje.weblio.jp/) - Beginners use this, Japanese to English dictionary made for Japanese people.      
+- [Eijirou on the WEB (bilingual)](https://eow.alc.co.jp/) - Beginners use this, Japanese to English dictionary made for Japanese people. Useful for example sentences.         
+- [Sakura-Paris Free Kōjien Search](https://sakura-paris.org/dict/) - Says koujien but it has every major epwing dictionary. Possibly using EBWeb or something. My top pick.  
+- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomichan and MDX dictionary pack.      
+- [Goo (monolingual)](https://dictionary.goo.ne.jp/) - Uses デジタル大辞泉. The dictionary this site uses is usable in my Yomichan and MDX dictionary pack.  
+- [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary.   
+- [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
+- [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/search) - pitch accent dictionary.  
+
 See Applications (Mobile) section for mobile apps.  
 
 #### MDict (MDX)
-Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition)  
+Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition) and 大辞林 第三版 (Daijirin 3rd edition)   
 
 - [shoui MDX Collection (Japanese)](https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing)    
 See Applications section for an MDict (MDX) reader.   
 
-#### EPWING
+#### EPWING  
+Contains older but better known dictionaries such as 新明解国語辞典 第五版 (Shinmeikai 5th edition) and 大辞林 第二版 (Daijirin 2nd edition)   
+
 - [shoui EPWINGs Pack (Compact Edition) - best for mobile users](https://drive.google.com/file/d/15n-l-IxZLtF0tjnIBexizR1fm5TATBks/view?usp=sharing)  
 - [shoui EPWINGs Pack (Standard Edition) - best for computer users](https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing)  
 - [shoui EPWINGs Pack (Full Edition) - for those that want it all](https://drive.google.com/file/d/1V323XJvasxc2CNb2Ia1gBEeD247g6yRb/view?usp=sharing)  
 See Applications section for an EPWING reader.  
 
 #### E-Reader Dictionaries  
-- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/folder/nJxESL5T)  
+- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/folder/nJxESL5T) - Made by epistularum(エピス)#9370    
 
 ### Applications (Desktop)
-- [Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)  
+- **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
 If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it will make your life easier. [https://apps.ankiweb.net/docs/manual.html](https://apps.ankiweb.net/docs/manual.html)  
-- [EB - An EPWING Reader (Windows, Mac)](http://ebstudio.info/)   
-- [Qolibri, an EPWING reader, (for Linux)](https://github.com/ludios/qolibri) I KNOW IT HAS A WINDOWS VERSION TOO!!!!:   
+- [EB - An EPWING Reader (Windows, Mac)](http://ebstudio.info/) - My favourite EPWING reader.     
+- [Qolibri, an EPWING reader, (for Linux)](https://github.com/ludios/qolibri) - I know it has a Windows version too, but EBWin is just nicer.    
 - [MDict, an MDX reader (Windows, Mac)](https://www.mdict.cn/wp/?page_id=5325&lang=en)  
-- [Textractor](https://github.com/Artikash/Textractor/releases)  
-- [KanjiTomo OCR for Manga/LN Scans](http://www.kanjitomo.net/)  
-- [Capture2Text (Windows)](http://capture2text.sourceforge.net/) recommend download better tessdata  
-- [Gazou OCR (Linux)](https://github.com/kamui-7/Gazou-OCR)  
-- [mpv](https://mpv.io/) - a free, open source, and cross-platform media player  
+- [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels.   
+- [KanjiTomo OCR for Manga/LN Scans](http://www.kanjitomo.net/)  - Requires Java (Oracle, not OpenJDK)  
+- [Capture2Text (Windows)](http://capture2text.sourceforge.net/) - recommend download better tessdata from the tesseract github for more accurate results.  
+- [Gazou OCR (Linux)](https://github.com/kamui-7/Gazou-OCR)   
+- **[※ mpv](https://mpv.io/) - a free, open source, and cross-platform media player**   
 - **[※ mpv: The Best Video Player for Language Learning](https://youtu.be/bbg6ztWecbU)**  
-- [CDisplayEx - most popular comic reader](https://www.cdisplayex.com/)  
-- [foobar2000 - advanced freeware audio player (Windows)](https://www.foobar2000.org/)  
+- [CDisplayEx](https://www.cdisplayex.com/) - most popular comic reader
+- [foobar2000](https://www.foobar2000.org/) - advanced freeware audio player (Windows). Has some cool immersion-helping features like continuing where you left off.  
 
 
 ### Applications (Mobile)
  
 #### Android
-- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en)  
-- [Akebi (Bilingual Dictionary with advanced lookups)](https://play.google.com/store/apps/details?id=com.craxic.akebifree)  
-- [Takoboto (Bilingual Dictionary with simple lookups)](https://play.google.com/store/apps/details?id=jp.takoboto)  
-- [EBPocket Basic (EPWING Reader, load EPWINGs into this)](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree)  
-- [MDict, an MDX reader](https://www.mdict.cn/wp/?page_id=5325&lang=en)   
-- [EBPocket Professional APK](https://drive.google.com/file/d/1WAE2WRyCET_sOQ8Qze9tt2X-dEEdTuz1/view?usp=sharing)  
-- [Typhon Reader (ebook reader with one tap Rikai (like Yomichan) lookup feature, EPWING support.)](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)  
-- [Reasily (ebook reader no special features, but supports vertical text (縦書き))](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) You can use Yomichan on this.  
-- [OCR Manga Reader (EPWING support)](https://sourceforge.net/projects/ocrmangareaderforandroid/)  
-- [Tachiyomi Manga Reader (Get the Japanese sources)](https://tachiyomi.org/)  
-- [JP-Dictionary (adds iOS “Look Up” feature)](https://github.com/kamui-7/JP-Dictionary)  
-- [Kaku (System-wide OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku)   
-- [Tae Kim App](https://play.google.com/store/apps/details?id=com.alexisblaze.japanese_grammar&hl=en)  
-- [Google Japanese Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese)  
+- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.  
+- [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Bilingual dictionary for Android based on the JMdict project, has cool features such as auto-correction and AnkiDroid integration.  
+- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project, simple, no special features.  
+- [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - Port of EBWin for Android devices, this is an EPWING dictionary reader, useful for monolingual dictionaries.  
+- [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/842813993696886828/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.  
+- [MDict, an MDX reader](https://www.mdict.cn/wp/?page_id=5325&lang=en) - MDX reader for Android, useful for newer monolingual dictionaries.  
+- **[※ Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)** - An EPUB reader for Android that lets you look up a word with one tap. Also supports EPWING monolingual dictionaries.  
+- [Typhon改](https://github.com/dajimenezja/typhon/releases) - Fork of Typhon Reader made to work with newer devices.  
+- [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) - EPUB reader. No special features but it supports 縦書き (vertical text)!  
+- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.  
+- [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) - Manga scans reader with an OCR to look up words. Supports EPWING monolingual dictionaries.  
+- [Tachiyomi Manga Reader (Get the Japanese sources)](https://tachiyomi.org/) - Manga downloader/reader. Get the Japanese sources.  
+- [JP-Dictionary](https://github.com/kamui-7/JP-Dictionary) - Adds the iOS "Look Up" feature to Android.  
+- [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku) - System-wide OCR.  
+- [Google Japanese Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese) - Japanese input for Android. 
+- [Tae Kim App](https://play.google.com/store/apps/details?id=com.alexisblaze.japanese_grammar&hl=en) - Tae Kim's Guide to Japanese app.  
+ 
 
 #### iOS
-- [AnkiMobile ($24.99)](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)  
-- [Shirabe Jisho, the best mobile bilingual Japanese dictionary, Period.](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)  
-- [Tae Kim App](https://apps.apple.com/us/app/learning-japanese-with-tae-kim/id1366698942)  
-- [Books (formerly iBooks), the best mobile ebook reader on any platform. Period.](https://apps.apple.com/us/app/apple-books/id364709193)  
+- [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) - $24.99 official port of Anki for iOS.   
+- [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary based on the JMdict project, ever.
+- [Tae Kim App](https://apps.apple.com/us/app/learning-japanese-with-tae-kim/id1366698942) - Tae Kim's guide to Japanese app.  
+- [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - the best mobile ebook reader on any platform. Period. 
 - [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga, Yomichan dictionary and EPWING support!  
-- [EBPocket Basic (transfer EPWINGs using iTunes)](https://apps.apple.com/us/app/ebpocket-basic/id314082593)  
-- [MDict, an MDX reader](https://www.mdict.cn/wp/?page_id=5325&lang=en)  
+- [EBPocket Basic](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Port of EBMac for iOS devices, it is an EPWING reader, useful for monolingual dictionaries. Transfer EPWINGs to the app using iTunes.  
+- [MDict](https://www.mdict.cn/wp/?page_id=5325&lang=en) - MDX reader, useful for newer monolingual dictionaries.  
   
 ### Browser Extensions
-- [Yomichan](https://foosoft.net/projects/yomichan/)    
+- [Yomichan](https://foosoft.net/projects/yomichan/) - Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
 *Android users can use this on Kiwi Browser.*    
-- [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)    
-- [Language Learning with Netflix](https://languagelearningwithnetflix.com/)    
+- [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) - Used for the texthooking page (MPV and visual novels)      
+- [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Enhance Netflix for language learning.     
 *Not Japanese related but still a must:*  
-- [uBlock Origin - Best ad blocker.](https://github.com/gorhill/uBlock)  
-- [Universal Bypass - Skip annoying short links.](https://universal-bypass.org/install)  
+- [uBlock Origin](https://github.com/gorhill/uBlock) - best ad-blocker. Stop using ABP.     
+- [Universal Bypass](https://universal-bypass.org/install) - Skip annoying short links.  
 
 ### Downloading Tools
-- [qBittorrent for torrents](https://www.qbittorrent.org/)
-- [Jdownloader2 for direct downloading](https://jdownloader.org/jdownloader2)
-- [Maxi-debrid.com - free debrid service, best with Katfile](https://maxi-debrid.com/)
-- [Real Debrid - paid debrid service, best all around](https://real-debrid.com/)
-- [youtube-dl - download YouTube videos, playlists, channels, etc.](https://ytdl-org.github.io/youtube-dl/index.html)
-- [Tartube - GUI for youtube-dl](https://tartube.sourceforge.io/)
+- [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean, open source. Stop using μTorrent.  
+- [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. Highly recommend. 
+- [Real Debrid](https://real-debrid.com/) - paid debrid service. You need this to download from scan sites/anime-sharing forum that uses terrible filehosts such as Rapidgator and Katfile.
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - download YouTube videos, playlists, channels, etc.
+- [Tartube](https://tartube.sourceforge.io/) - GUI for youtube-dl
 - [Hakuneko Manga Downloader](https://github.com/manga-download/hakuneko)
 
 ### Private Trackers
@@ -257,31 +266,34 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 You can find hard to find things on private trackers. You can only get in by knowing someone that is already a member of these private trackers.
 
 - **AvistaZ**, for J-drama and such (I have **0** invites)   
-- **AnimeBytes**, for anime, manga, VNs and such (ONLY close friends shall be invited)  
+- **AnimeBytes**, for anime, manga, VNs and such (I will not invite you.)  
 - **Jpopsuki**, for Japanese music (I have **0** invites)  
 
 ### Other Software
-- [7zip - Better than WinRAR](https://www.7-zip.org/)
-- [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISO/MDF/MDS files as a virtual drive on your computer: 
-- [WinRAR - 7zip alternative](https://www.win-rar.com/)
-- [DAEMON Tools - WinCDEmu alternative](https://www.daemon-tools.cc/)
+- [7-Zip](https://www.7-zip.org/)- Archiver/Compresor. Better than WinRAR. 
+- [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISO/MDF/MDS files as a virtual drive on your computer
+- [WinRAR](https://www.win-rar.com/) - 7-Zip alternative
+- [DAEMON Tools](https://www.daemon-tools.cc/)- WinCDEmu alternative. Fares better with UDF volumes. 
 
-### VPNs (Japan location specific)
+### VPNs (Japan location specific)  
+
 #### Free
-- [(Windows) SoftEther](https://www.softether.org/5-download)
-- [(Android) VPN Japan](https://play.google.com/store/apps/details?id=vpn.japan)
-- [(iOS) Neko VPN](https://learnjapanese.link/vpnneko)
+- [(Windows) SoftEther](https://www.softether.org/5-download) - Make sure you read the manual of this. 
+- [(Android) VPN Japan](https://play.google.com/store/apps/details?id=vpn.japan) - I wouldn't trust my privacy with this, but it works well to get a Japanese IP I guess.  
+- [(iOS) Neko VPN](https://learnjapanese.link/vpnneko) - Seems to work fine. 
 
 #### Paid
 I only recommend Private Internet Access.  
 
-- [Private Internet Access](https://www.privateinternetaccess.com/)  
+- [Private Internet Access](https://www.privateinternetaccess.com/) - Not sponsored, I just trust this the most.   
 
-#### Premium Cracks/Cheats/Accounts
+#### Premium Cracks/Cheats/Accounts  
+
 I usually find working premium VPN cheats/cracks over at [TeamOS](https://teamos-hkrg.com/forums/web-tools.74)
 
-- [VPN Accounts Dump](https://leak.sx/dispenser_vpn.php)   
-You can search for “ExpressVPN crack apk” if you’re an Android user.  
+- [VPN Accounts Dump](https://leak.sx/dispenser_vpn.php) - Dump of VPN accounts. Kind of fishy though.  
+
+You can search for “ExpressVPN crack apk” if you’re an Android user. Works sometimes.   
 
 ### Condensed Audio
 - [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)  
@@ -293,25 +305,25 @@ You can search for “ExpressVPN crack apk” if you’re an Android user.
 - [Condense your own audio](https://ercanserteli.com/condenser/)  
 
 ### Mining
-- [AnimeCards - the definitive.](https://animecards.site/)
-- [Audio cards on Mac](https://sites.google.com/view/mac-audiocards)
+- [AnimeCards](https://animecards.site/) - the definitive. Use this.  
+- [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
 - **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**
 
 ### Guides/Methods/Motivation
 - [TheMoeWay](https://learnjapanese.moe/)
-- [All Japanese All The Time](https://learnjapanese.link/ajatt)
-- [Refold Languages](https://refold.la/)
-- [AntiMoon](http://www.antimoon.com/)
-- [Itazuraneko Guide](https://itazuraneko.neocities.org/learn/guide.html)
-- [DJT Guide](https://djtguide.neocities.org/guide.html)
-- [Matt vs. Japan playlist](https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm)
+- [All Japanese All The Time](https://learnjapanese.link/ajatt) - You should read this, it will motivate you even in the darkest of times.  
+- [Refold Languages](https://refold.la/) - 
+- [AntiMoon](http://www.antimoon.com/) - 
+- [Itazuraneko Guide](https://itazuraneko.neocities.org/learn/guide.html) - 
+- [Old DJT Guide](https://djtguide.neocities.org/guide.html) - This guide has a place in my heart for eternity.  
+- [Matt vs. Japan playlist](https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm) - Watch this guy's YouTube channel, it's really good.  
 
 ### "Other"
 
-- [JPDB.IO](https://jpdb.io/) - LN and VN word count and difficulty rating  
-- [Immersion Wiki - resources for immersion](http://immersion.wiki/)  
-- [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us)
-- [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P)
-- [Useful Anki add-ons for Japanese](https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html)
-- [VN Scripts](https://vnscripts.neocities.org/old.html)
 **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Read EPUBs with Yomichan. 縦書き by default.
+- [JPDB.IO](https://jpdb.io/) - LN and VN word count and difficulty rating  
+- [Immersion Wiki](http://immersion.wiki/) - resources for immersion. Lacklustre at best.  
+- [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Good video, highly recommend.  
+- [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.  
+- [Useful Anki add-ons for Japanese](https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html) - It's useful and makes you look cool on the internet.  
+- [VN Scripts](https://vnscripts.neocities.org/old.html) - wareya's vn scripts.  
