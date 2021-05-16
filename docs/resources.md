@@ -221,7 +221,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Bilingual dictionary for Android based on the JMdict project, has cool features such as auto-correction and AnkiDroid integration.  
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project, simple, no special features.  
 - [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - Port of EBWin for Android devices, this is an EPWING dictionary reader, useful for monolingual dictionaries.  
-- [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/842813993696886828/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.  
+- [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/843591036831793172/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.  
 - [MDict, an MDX reader](https://www.mdict.cn/wp/?page_id=5325&lang=en) - MDX reader for Android, useful for newer monolingual dictionaries.  
 - **[※ Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)** - An EPUB reader for Android that lets you look up a word with one tap. Also supports EPWING monolingual dictionaries.  
 - [Typhon改](https://github.com/dajimenezja/typhon/releases) - Fork of Typhon Reader made to work with newer devices.  
