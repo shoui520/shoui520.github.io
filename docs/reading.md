@@ -2,7 +2,7 @@
 
 Reading Japanese is ***CRUCIAL***. It is important you learn how to read Japanese. Often you get people asking "Well can I learn Japanese without learning how to read it?". You can, provided you don't want to understand basic grammar and have a tiny vocabulary size after years of study.  
 
-With that said, it may seem difficult to learn how to read, after all there are like 3000 unique kanji on the page! Well yes, reading for the first time will always be painful, you just have to get through it and over time you will become more confident and better at reading. And if anyone is curious on how on earth you're supposed to look up Japanese words in a dictionary, just read on, there are certain tools that let you do this easily.  
+With that said, it may seem difficult to learn how to read, after all there are like so much unique kanji on the page! Well yes, reading for the first time will always be painful, you just have to get through it and over time you will become more confident and better at reading. And if anyone is curious on how on earth you're supposed to look up Japanese words in a dictionary, just read on, there are certain tools that let you do this easily.  
 
 Before you start reading for real, it is important you have already worked through a pre-made Anki deck, such as Tango N5+N4 *or* Core3k and also a grammar guide such as Tae Kim or Cure Dolly, this is to make the process less painful as there will be more words you know. Second, I recommend also having prior listening immersion experience because 1. it prevents you from developing a bad accent and 2. it helps you parse sentences better when reading.   
 
