@@ -190,9 +190,9 @@ See Applications section for an MDict (MDX) reader.
 #### EPWING  
 Contains older but better known dictionaries such as 新明解国語辞典 第五版 (Shinmeikai 5th edition) and 大辞林 第二版 (Daijirin 2nd edition)   
 
-- [shoui EPWINGs Pack (Compact Edition) - best for mobile users](https://drive.google.com/file/d/15n-l-IxZLtF0tjnIBexizR1fm5TATBks/view?usp=sharing)  
-- [shoui EPWINGs Pack (Standard Edition) - best for computer users](https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing)  
-- [shoui EPWINGs Pack (Full Edition) - for those that want it all](https://drive.google.com/file/d/1V323XJvasxc2CNb2Ia1gBEeD247g6yRb/view?usp=sharing)  
+- [shoui EPWINGs Pack (Compact Edition) - best for mobile users - 117MB](https://drive.google.com/file/d/1ahs4dUy3kr5vXLBS-eRzq-7aljrGicl-/view?usp=sharing)  
+- [shoui EPWINGs Pack (Standard Edition) - best for computer users - 2GB](https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing)  
+- [shoui EPWINGs Pack (Full Edition) - for those that want it all - 9GB](https://drive.google.com/file/d/1V323XJvasxc2CNb2Ia1gBEeD247g6yRb/view?usp=sharing)  
 See Applications section for an EPWING reader.  
 
 #### E-Reader Dictionaries  
@@ -201,9 +201,8 @@ See Applications section for an EPWING reader.
 ### Applications (Desktop)
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
 If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it will make your life easier. [https://apps.ankiweb.net/docs/manual.html](https://apps.ankiweb.net/docs/manual.html)  
-- [EB - An EPWING Reader (Windows, Mac)](http://ebstudio.info/) - My favourite EPWING reader.     
-- [Qolibri, an EPWING reader, (for Linux)](https://github.com/ludios/qolibri) - I know it has a Windows version too, but EBWin is just nicer.    
-- [MDict, an MDX reader (Windows, Mac)](https://www.mdict.cn/wp/?page_id=5325&lang=en)  
+- [EB - An EPWING and MDX Reader (Windows, Mac)](http://ebstudio.info/) - My favourite EPWING and MDX reader.      
+- [Qolibri, an EPWING reader, (for Linux)](https://github.com/ludios/qolibri) - I know it has a Windows version too, but EB is just nicer.    
 - [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels.   
 - [KanjiTomo OCR for Manga/LN Scans](http://www.kanjitomo.net/)  - Requires Java (Oracle, not OpenJDK)  
 - [Capture2Text (Windows)](http://capture2text.sourceforge.net/) - recommend download better tessdata from the tesseract github for more accurate results.  
@@ -236,12 +235,11 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 
 #### iOS
 - [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) - $24.99 official port of Anki for iOS.   
-- [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary based on the JMdict project, ever.
+- [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary... based on the JMdict project, ever.
 - [Tae Kim App](https://apps.apple.com/us/app/learning-japanese-with-tae-kim/id1366698942) - Tae Kim's guide to Japanese app.  
 - [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - the best mobile ebook reader on any platform. Period. 
 - [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga, Yomichan dictionary and EPWING support!  
-- [EBPocket Basic](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Port of EBMac for iOS devices, it is an EPWING reader, useful for monolingual dictionaries. Transfer EPWINGs to the app using iTunes.  
-- [MDict](https://www.mdict.cn/wp/?page_id=5325&lang=en) - MDX reader, useful for newer monolingual dictionaries.  
+- [EBPocket Basic](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Port of EBMac for iOS devices, it is an EPWING and MDX reader, useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes.  
   
 ### Browser Extensions
 - [Yomichan](https://foosoft.net/projects/yomichan/) - Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
@@ -255,7 +253,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 ### Downloading Tools
 - [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean, open source. Stop using μTorrent.  
 - [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. Highly recommend. 
-- [Real Debrid](https://real-debrid.com/) - paid debrid service. You need this to download from scan sites/anime-sharing forum that uses terrible filehosts such as Rapidgator and Katfile.
+- [Real Debrid](https://real-debrid.com/) - paid debrid service. You need this to download from scan sites/anime-sharing forum that use terrible filehosts such as Rapidgator and Katfile.
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - download YouTube videos, playlists, channels, etc.
 - [Tartube](https://tartube.sourceforge.io/) - GUI for youtube-dl
 - [Hakuneko Manga Downloader](https://github.com/manga-download/hakuneko)
@@ -264,9 +262,10 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 *Info: [https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers](https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers)*  
 You can find hard to find things on private trackers. You can only get in by knowing someone that is already a member of these private trackers.
 
-- **AvistaZ**, for J-drama and such (I have **0** invites)   
+- **AvistaZ**, for Japanese drama and movies (I have **0** invites)   
 - **AnimeBytes**, for anime, manga, VNs and such (I will not invite you.)  
 - **Jpopsuki**, for Japanese music (I have **0** invites)  
+- **jptv.club**, for Japanese TV with full Japanese subtitles. (I have **0** invites)  
 
 ### Other Software
 - [7-Zip](https://www.7-zip.org/)- Archiver/Compresor. Better than WinRAR. 
@@ -319,7 +318,7 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 
 ### "Other"
 
-**[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Read EPUBs with Yomichan. 縦書き by default.
+**[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Read EPUBs with Yomichan. 縦書き by default.  
 - [JPDB.IO](https://jpdb.io/) - LN and VN word count and difficulty rating  
 - [Immersion Wiki](http://immersion.wiki/) - resources for immersion. Lacklustre at best.  
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Good video, highly recommend.  

@@ -29,11 +29,11 @@ You may think, “what’s wrong with it?” I’ll tell you what’s wrong with
 
 > 失敗や恥辱を経験して，あきらめたり忘れたりできないさま。
 
-My amazing translation of the definition:
+My translation of the definition:
 
 > Go through failure and dishonour and not being able to give up nor forget (about it).
 
-*And this gets less accurate when you put it into English lmao.*
+*And this gets less accurate when you put it into English.*
 
 Did you get that from “vexing, annoying”? No. Probably not.
 
@@ -52,7 +52,7 @@ Monolingual dictionaries are very powerful, and you will only realise this once 
 Two reasons:  
 
 - They don’t know the words.  
-- Nihonjin way of thinking (only applies to very few dictionary definitions such as 呆れる)  
+- Are not used to  
 
 ### Monolingual transition myths
 
@@ -60,7 +60,8 @@ Two reasons:
   
 **The truth:** “Dictionary vocabulary” = words you don’t know because you don’t read enough.
 
-Hey shoui, are you also going to say that 体言 and 終止形 are also “common words”? Yes. You are only asking me this because you looked up “を” and other particles in the monolingual dictionary. They appeared because you asked them to. They are linguistic words so they need to be used to explain grammar, that’s it. Where else do you hear stuff like “passive form” and “nominalization” outside of language learning websites? Exactly. 99% of dictionary definitions don’t use that linguistic jargon, except for maybe 打ち消し (I’ve heard this in anime by the way so you need to know it). I’ve seen 終止形 used in a Twitter account that posts about Japanese grammar/linguistics by the way, so it is common when you look at Japanese grammar in Japanese :wink:
+Hey shoui, are you also going to say that 体言 and 終止形 are also “common words”? Yes. You are only asking me this because you looked up “を” and other particles in the monolingual dictionary. They appeared because you asked them to. They are linguistic words so they need to be used to explain grammar, that’s it. Where else do you hear stuff like “passive form” and “nominalization” outside of language learning websites? Exactly. 99% of dictionary definitions don’t use that linguistic jargon, except for maybe 打ち消し (I’ve heard this in anime by the way so you need to know it). I’ve seen 終止形 used in a Twitter account that posts about Japanese grammar/linguistics by the way, so it is common when you look at Japanese grammar in Japanese :wink:  
+There is no such thing as dictionary vocabulary, you are only seeing words such as 山岳, 器量 etc. because you asked them to. どうせ these are common words anyway.  
 
 ### Using Morphman to assist the monolingual transition
 No.
@@ -86,7 +87,6 @@ Second, we want to remove any and all scan delays because we will be making heav
 ![Image](img/mono2.jpg)
 
 Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
-
 ![Image](img/mono3.jpg)  
 
 You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
@@ -96,7 +96,9 @@ You may want to increase the size of your Yomichan pop up window because by defa
 Here's how our pop up looks now:  
 ![Image](img/mono5.jpg) 
 
-Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!
+Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
+
+**Update 2021:** You can now add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
 
 ![Image](img/mono6.jpg)  
 
@@ -140,43 +142,41 @@ KireiCake
 精選版 日本国語大辞典  
 岩波国語辞典  
 広辞苑 第六版  
+故事ことわざの辞典  
 漢字源  
   
 ### Every Dictionary Explained.
 
 #### Monolingual
 
-**三省堂 新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. This is the smallest dictionary. 7th edition has weird formatting so I kept the 5th edition in the pack, I recommend you use the 5th edition instead to not clutter your Yomichan. Will be fixed soon. 	
 
-**大修館書店 明鏡国語辞典** - 1st edition of Meikyou. Very concise and compact, has expressions, always uses easy language. #1 recommended for first time monolingual users. Best for definitions on Anki cards. Second smallest. However, the current version we have has 未収録語 but I have the source for the full version, will get it converted soon.  
+**大修館書店 明鏡国語辞典** - 1st edition of Meikyou. Concise and compact. Has expressions and always uses easy language. #1 recommended for first time monolingual users. Best for definitions on Anki cards. Second smallest. However, the current version we have has around 140 未収録語 but I have the source for the full version, will get it converted soon.  
 
-**三省堂 大辞林 第三版** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder, has names such as place names, common names and famous people too. I would put this next to Daijisen.  
+**三省堂 新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. However the definitions can get convoluted and confusing for most people. This is the smallest dictionary. 7th edition has weird formatting so I kept the 5th edition in the pack, I recommend you use the 5th edition instead to not clutter your Yomichan. Will be fixed soon. 	
 
-**小学館 デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. Highly recommend. If you are using animecards.site's handlebars.js, I recommend you do not put this as your topmost dictionary as the first definition will get cut out when sent to the Anki card. Working on a fix.  
+**三省堂 ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. 
+
+**三省堂 大辞林 第三版** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder and my personal top dictionary.  Has names such as place names, common names and famous people too. The only thing I don't like it about it is that it can get unnecessarily scientific. I would put this next to Daijisen.  
+
+**小学館 デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. I highly recommend this. If you are using animecards.site's handlebars.js, I recommend you do not put this as your topmost dictionary as the first definition will get cut out when sent to the Anki card. Working on a fix.  
 
 **岩波書店 広辞苑 第六版** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.   
 
 **岩波書店 岩波国語辞典** - 6th edition of Iwanami dictionary. This is the dictionary Google uses when you search "〇〇 定義"、"〇〇 定義"とは、 and/or "〇〇 意味". The definitions "[feel like the Meikyou](/img/iwakoku.jpg)".  
 
-**三省堂 ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. 
-
-**小学館 国語大辞典** - "Kokugodaijiten" - A certain version of the 日本国語大辞典, the biggest Japanese dictionary in the world. But this is only about 1/10 of that dictionary but still bigger than the Daijirin. Has the same error as Shinjirin. Example:かえって It is optional and probably pointless. Superseded by 精選版.
-
-**精選版 日本国語大辞典** - "Seisenban" - Another version of the 日本国語大辞典, but this is about 5/10 of that dictionary, but still the biggest digital dictionary to date. It has a heavy emphasis on classical Japanese, example sentences are like 500 years old and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
+**精選版 日本国語大辞典** - "Seisenban" - The biggest digital Japanese dictionary to date. It has a heavy emphasis on classical Japanese, example sentences are like 500 years old and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
 
 **実用日本語表現辞典** - Lets call this Jitsuyou. This is one of the dictionaries Weblio uses, and whatever gap was still left after all the dictionaries above, will be filled in with this dictionary. Very useful, it's at the bottom of my order because it's only needed when the other dictionaries don't have a word.  
 
-**故事ことわざ辞典** - a proverbs dictionary. Optional.   
+**故事ことわざ辞典** - a proverbs dictionary. Optional. But came in handy, I like it!   
 
 **Weblio古語辞典** - archaism dictionary Weblio uses. Very optional.  
 
-**漢字源** - monolingual kanji dictionary with some very rare words too. Keep if you want to mine individual kanji.  
+**漢字源** - monolingual kanji dictionary with some very rare words too. Keep if you want to mine individual kanji. 熟語 listings can not be found in the Yomichan version but the 熟語 themselves are still present if you look them up. There is a 1% chance this dictionary will be useful to you.  
+ 
+#### Bilingual
 
-**学研国語大辞典古語辞典故事ことわざ辞典学研漢和大字典** - the WORST dictionary ever. Do not import. Don't believe me? Import it then.  
-
-####Bilingual
-
-**JMDict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. Pretty much every Japanese-English dictionary project uses JMDict, apps like Shirabe Jisho on iOS, Akebi and Takoboto on Android all use JMDict. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
+**JMdict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. Pretty much every Japanese-English dictionary project uses JMDict, apps like Shirabe Jisho on iOS, Akebi and Takoboto on Android all use JMDict. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
 
 **KireiCake** - Based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.  
 
@@ -188,20 +188,36 @@ KireiCake
 
 **大修館書店 中日大辞典　第二版** - Taishuukan Chinese-Japanese Dictionary, 2nd edition. A simplified Chinese dictionary for speakers of Japanese. If you are ever going to learn simplified Chinese, I recommend this. Do not import if not a learner of Chinese.  
 
-**超級クラウン日中大辞典** - Choukyuu Crown Chinese-Japanese Dictionary. Something Matt gave me, but it is broken, this is also a Chinese-Japanese dictionary that supports both traditional and simplified. Do not import if not a learner of Chinese.    
+#### Frequency Lists
+
+**Anime & Jdrama Freq** - Frequency list from Anime & Jdrama. Goes up to 99,999.  
+
+**BCCJW** - Balanced Corpus of Contemporary Written Japanese. The kotonoha corpus. The biggest frequency list. Goes up to like 500,000.  
+
+**Narou Freq** - Frequency list made from web novels from the 小説家になろう website. Goes up to 50,000 or so.  
+
+**VN Freq v2** - Frequency list from visual novels. Goes up to 30,000.  
+
+**Netflix** - Frequency list from Netflix subtitles. Goes up to 120,000  
+
+**Wikipedia** - Borked supposed wikipedia frequency list. Whoever made this did not realize that there is more data than just 20,000.   
+
+#### To be added  
+
+**[Freq] InnocentRanked** - Ranked version of Innocent Corpus that behaves like a frequency list.  
 
 ### Continuation: Getting and using monolingual dictionaries  
 
 Let's continue. 
 Import the set of dictionaries that best suits you in [Recommended Dictionaries](#recommended-dictionaries).  
 
-You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
+※ You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
 
 ![Image](img/mono8.jpg)  
 
 ### Why do you say use a lot of dictionaries?
 
-You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here.
+You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here. Another reason is that different dictionaries will describe a word in a different way, and in many cases you may not understand one dictionary's definition, but understand another.  
 
 ## Alternatives
 
@@ -241,6 +257,12 @@ You can see:
 [Japanese EPWING Dictionaries](https://learnjapanese.moe/resources/#epwing) - old, extremely esoteric but popular in 電子辞書's from the 90's. Some are 
 extremely bloated in file size. Encoded in EUC-JP which is a big spit in the face for anyone wanting to do any conversion with them.  
 
+### Mobile  
+
+If you are using Android, you can download [EBPocket](https://learnjapanese.moe/resources/#android), and load [EPWING](https://learnjapanese.moe/resources/#epwing) or [MDict](https://learnjapanese.moe/resources/#mdict-mdx) dictionaries into the app.  
+[Typhon Reader](https://learnjapanese.moe/resources/#android) is a great ebook reader for Japanese learners that supports [EPWING](https://learnjapanese.moe/resources/#epwing) dictionaries.  
+
+If you are using iOS, you can download [EBPocket](https://learnjapanese.moe/resources/ios), and load [EPWING](https://learnjapanese.moe/resources/#epwing) or [MDict](https://learnjapanese.moe/resources/#mdict-mdx) dictionaries into the app using iTunes.  
 
 ## Approaching Monolingual Dictionaries
 
@@ -248,7 +270,8 @@ There’s a few ways to approach getting used to monolingual dictionaries. I’l
 
 Primarily in the AJATT community, there’s this one piece of advice:
 
-### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach
+### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach  
+
 This is something Khatzumoto of AJATT proposed.  
 
 I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out, Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
@@ -273,13 +296,23 @@ Read more books. You will get comfortable with the monolingual dictionary if you
 
 ### >Soo… what’s the best way to approach monolingual?
 
-Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.
+Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.  
+
+### >What if I don't like reading novels? I hate reading novels!  
+
+Find something you like. It can be a light novel or visual novel too you know. I "hate" novels in English, I have never tried to read more than 1 page of them, why do I "hate" them? Because I haven't experienced how good they actually might be, and I don't care really. But in Japanese, not only am I better at reading novels in Japanese, I also really enjoy reading novels in this language, I can't say the same for English. So even though you may despise novels in whatever your native language is, if you give it a shot (it will be difficult at first, as is everything), you may find yourself actually enjoying reading novels.  
+
+### >shoui have you completely 卒業'd the bilingual dictionary?
+
+Yes indeed. I haven't used the JMdict or anything since last year. 
 
 ### >But wouldn’t I be reading the dictionary more than the actual novel?
 
-So what? It’s good that you are reading the dictionary more.
+So what? It’s good that you are reading the dictionary more. Think of the dictionary as something FUN. 
+It's fascinating in its own right.  
 
 ![Image](img/mono10.jpg)  
+
 
 #### 10 Important Tips and Tricks
 
@@ -287,9 +320,9 @@ So what? It’s good that you are reading the dictionary more.
 
 (弐). Try to experiment with what dictionary order is the best for you.
 
-(参). If the word you look up with Yomichan is only in bilingual, try doing a kana search for it
+(参). If the word you look up with Yomichan is only in a bilingual dictionary, try doing a kana search for it, or a full kanji search (Alt+Insert to get to the Yomichan search page)  
 
-(肆). If you don’t understand the definition even if you looked up all the words, just look at/use  the bilingual definition (last resort). You will get better at understanding when you use it more.
+(肆). If you don’t understand the definition even if you looked up all the words, just look at/use the bilingual definition (last resort). You will get better at understanding when you use it more.
 
 (伍). It is okay to check the bilingual definition to check that you’re getting the right basic idea.
 
