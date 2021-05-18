@@ -336,10 +336,12 @@ It's fascinating in its own right.
 
 (拾). Don’t overdo yourself! If it's too hard, try to use the bilingual dictionary until you feel confident again!
 
-#### Other Guides
-
-[Matt’s monolingual walkthrough](https://youtu.be/D-AfT8XW63w)
-
-[Cure Dolly’s view on monolingual](https://youtu.be/AW-pw-EAMkY)
-
 Have fun immersing!
+
+#### Walkthrough  
+
+Need help with monolingual definitions? Not sure what all the symbols mean? I have written a guide for my Patreon. (Basic tier and over)  
+
+[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
+
+
