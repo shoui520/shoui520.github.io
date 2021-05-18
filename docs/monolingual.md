@@ -52,7 +52,7 @@ Monolingual dictionaries are very powerful, and you will only realise this once 
 Two reasons:  
 
 - They don’t know the words.  
-- Are not used to  
+- Are not used to the written Japanese.
 
 ### Monolingual transition myths
 
