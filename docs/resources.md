@@ -151,6 +151,8 @@ Scan websites usually have the best collection but can be a pain to download fro
 ### Sentence Search
 - [Yourei.jp](http://yourei.jp/) The World's Largest Japanese Sentence Search Engine
 - [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)  
+- [BCCWJ Search](https://bonten.ninjal.ac.jp/bccwj/string_search)  
+- [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)  
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)- Use the Repository search feature)
 - [SentenceSearch](https://sentencesearch.neocities.org/) - You can also grab audio for the sentences here!  
 - [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.  
