@@ -115,7 +115,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [Itazuraneko Visual Novel Archive](https://itazuraneko.neocities.org/library/vn.html) - Visual novel direct links  
 - [RyuuGames](https://www.ryuugames.com/tag/japanese/) - Has a ton of visual novels.  
 - [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Also has a ton of visual novels.  
-- [Anime-sharing](http://www.anime-sharing.com/forum/) - Has the most visual novels out of everything here. But you need an account and also a debrid service, and you need to search across duplicate threads to download anything from here.  
+- [Anime-sharing](http://www.anime-sharing.com/forum/) - Has the most visual novels out of everything here. But you need an account and also a debrid service, and you need to search across duplicate threads to download anything from here. See [here](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) for premium leeches.   
 - [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Direct links to visual novels  
 - [Sukebei Nyaa.si](https://sukebei.nyaa.si/) - 18+ version of nyaa.si which should have a few visual novels.  
 
