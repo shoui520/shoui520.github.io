@@ -157,6 +157,13 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [SentenceSearch](https://sentencesearch.neocities.org/) - You can also grab audio for the sentences here!  
 - [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.  
 
+### Mining
+- **[※ AnimeCards](https://animecards.site/)** - the definitive. Use this.  
+- [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
+- **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**  
+- [stegatxins0's super fast mining guide](https://rentry.co/mining)  
+- [...and video](https://youtu.be/hQGKQ8D9Pms)  
+
 ### Japanese Fonts
 - [Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)  
 
@@ -304,10 +311,6 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 - [Condensed Audio 6](https://drive.google.com/drive/folders/1geNHj_nqdSHRBFi0tYaxjIL57s0sCB-y)  
 - [Condense your own audio](https://ercanserteli.com/condenser/)  
 
-### Mining
-- [AnimeCards](https://animecards.site/) - the definitive. Use this.  
-- [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
-- **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**
 
 ### Guides/Methods/Motivation
 - [TheMoeWay](https://learnjapanese.moe/)
