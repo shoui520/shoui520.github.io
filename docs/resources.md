@@ -320,6 +320,7 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 - [Itazuraneko Guide](https://itazuraneko.neocities.org/learn/guide.html) - 
 - [Old DJT Guide](https://djtguide.neocities.org/guide.html) - This guide has a place in my heart for eternity.  
 - [Matt vs. Japan playlist](https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm) - Watch this guy's YouTube channel, it's really good.  
+- [Assorted JP Guides (Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
 
 ### "Other"
 
