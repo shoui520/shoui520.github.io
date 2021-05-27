@@ -50,10 +50,9 @@ Yomichan. You can find it on the Chrome Web Store or whatever Firefox uses. Load
 ### How do I look up words easier in manga?
 KanjiTomo. Just hover your mouse over the word. Works 90% of the time. If not then just write the word in Google Translate, there’s a handwriting feature for Japanese. It will recognise what you wrote no matter how sloppy you wrote it, it’s honestly great. - the detection, not the translation! After that look up the word in a dictionary.
 ### How do I look up words?
-By using a dictionary. Use <https://jisho.org/>, <https://eow.alc.co.jp/> and <https://ejje.weblio.jp/>. Do not use Google Translate. If you’re German, then use the Wadoku. If you want to use monolingual dictionaries, then just use this site <https://sakura-paris.org/dict/>
+Using yomichan.  
 ### How to learn Japanese slang monolingually? Most J-J dictionaries don’t have slang
-Use Kotobank:<https://kotobank.jp/>
-This is a pretty good dictionary, you can access updated versions of the Daijsen, Daijirin and Seisenban.
+Using my yomichan dictionaries.  
 ### Is it useful learning kanji radicals?
 You don’t need them but if kanji still look like scribbles to you after months of reading, then you might want to search “KangXi Radicals” on Google and just look at them, hopefully that will help.
 ### I have extreme difficulty remembering a certain word/kanji (outside of SRS)
@@ -279,7 +278,8 @@ Don’t even bother LMAO. Follow my guide for some real Japanese gains [Link](/g
 They have the same English meaning. English is not the best language to express Japanese. Japanese is the best language to express Japanese. You need to use a J-J dictionary such as the 大辞林 to find out the difference. If you’re not good enough to read a J-J definition yet then don’t worry about it because you can also find out the difference through immersion.
 ### Grading monolingual cards
 Ah, this one is a classic. You just need to remember the gist of the definition. It is hard at first but you get better at it. If I put this in my SRS: `きょうかつ [0]【恐喝】 ―する 相手の弱みなどにつけ込んでおどしつけ、お金や品物を出させようとすること。 「―罪[4]」` the gist I remember would be  `弱い相手 おどしつける お金など 出させる`, or something along those lines. If I put this in my SRS: `そう-だつ サウ― [0] 【争奪】 （名）スル 自分のものにしようとして奪い合い争うこと。「天皇杯の―戦」` the gist I remember would be `自分のものにする 奪い合い`, that would be enough to get the word. 
-You’re probably confused but trust me it is tricky at the beginning but overtime you get good at it. 
+You’re probably confused but trust me it is tricky at the beginning but overtime you get good at it.  
+### Grading sentence cards  
 If you’re doing sentence cards then I’ll talk you through the review process.
 Let's think back to bilingual cards, how do you grade them? You should already know that the sentence that goes on the front is the thing you need to understand, and the on the back is the word along with its reading and definition is needed to understand the sentence. 
 The process of reviewing sentence cards goes as follows: You read the sentence, reveal the backside of the card, read the definition that is on the back of the card, if the definition on the back made you understand the sentence better, then grade it as a Fail. If not, grade it as a Pass. In other words, you grade the card as a Pass if the extra information (the definition) on the card was not needed to comprehend the sentence. It’s basically the same for monolingual cards.
