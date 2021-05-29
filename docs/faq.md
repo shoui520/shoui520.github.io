@@ -84,7 +84,7 @@ Yes.
 ### I want to be able to speak with natives naturally, will your guide work?
 Yes.
 ### Will reading the AJATT, MIA and AntiMoon site be useful?
-Kinda. 80% of the stuff on AJATT is trash, a lot of what's on MIA is about its Anki addons, but there are some helpful things on there. And honestly I don't even know about AntiMoon. The *Must Read* category in this server is enough for most people.
+Kinda. 80% of the stuff on AJATT is trash, a lot of what's on MIA is about its Anki addons, but there are some helpful things on there. And honestly I don't even know about AntiMoon. The site is enough for most people.
 ### How long should I immerse per day?
 As much as you can. The more Japanese you do, the more gains you get.
 ### This method seems too hardcore for me…

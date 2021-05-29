@@ -185,6 +185,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomichan and MDX dictionary pack.      
 - [Goo (monolingual)](https://dictionary.goo.ne.jp/) - Uses デジタル大辞泉. The dictionary this site uses is usable in my Yomichan and MDX dictionary pack.  
 - [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary.   
+- [Fuseji - uncensor 伏せ字 (i.e. words with 〇)](http://fuseji.net/)  
 - [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
 - [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/search) - pitch accent dictionary.  
 
