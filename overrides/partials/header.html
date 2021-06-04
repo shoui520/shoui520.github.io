@@ -20,7 +20,7 @@
 <!-- Header -->
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header.title') }}">
-
+    
     <!-- Link to home -->
     <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}"
       class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
@@ -119,4 +119,6 @@
     </div>
     {% endif %}
   </nav>
+
+
 </header>
