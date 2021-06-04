@@ -341,6 +341,10 @@ It's fascinating in its own right.
 
 Have fun immersing!
 
+<h3>Found this useful? Consider supporting me on Patreon!</h3>   
+
+[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button } 
+
 #### Walkthrough  
 
 Need help with monolingual definitions? Not sure what all the symbols mean? I have written a guide for my Patreon. (Basic tier and over)  

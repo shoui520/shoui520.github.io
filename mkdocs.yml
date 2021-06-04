@@ -21,7 +21,6 @@ nav:
     - 'Resources': 'resources.md' 
   - 'About':
     - 'Contact & Support': 'contact.md'
-    - 'Sitemap': 'sitemap.md'
 theme:
   features:
     - navigation.instant

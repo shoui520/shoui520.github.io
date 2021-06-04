@@ -108,3 +108,6 @@ Tap on a word to look it up. In the case that it is not working, you may need to
 See [AnimeCards Site](https://animecards.site/)
 
 
+<h3>Found this useful? Consider supporting me on Patreon!</h3>   
+
+[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }

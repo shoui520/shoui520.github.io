@@ -258,6 +258,9 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 [AntiMoon](http://www.antimoon.com/)  
 [Itazuraneko](https://itazuraneko.neocities.org/)  
 
+<h3>Found this useful? Consider supporting me on Patreon!</h3>   
+
+[:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button } 
 
 ### Additional Tools (optional read)  
 Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)  
