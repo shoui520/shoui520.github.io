@@ -73,7 +73,7 @@ If you want guidelines on what to mine, then just mine every single word after y
 
 **I recommend doing the monolingual transition with Yomichan.**  
 
-![Image](img/monodemo1.jpg)
+![Image](img/monodemo1.png)
 
 Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
 
@@ -124,22 +124,22 @@ Before we continue, have a read on recommended dictionaries and what they are ex
 
 明鏡国語辞典  
 ハイブリッド新辞林  
-新明解国語辞典 第五版  
 実用日本語表現辞典  
+新明解国語辞典 第五版    
 JMdict (English)  
 研究社 新和英大辞典 第５版  
-デジタル大辞泉    
-KireiCake      
+デジタル大辞泉      
+KireiCake        
 
-#### For general, 100% monolingual coverage:
+#### For general, 100% monolingual coverage:  
 
-大辞林 第三版   
+大辞林 第三版  
+実用日本語表現辞典  
 デジタル大辞泉  
 新明解国語辞典 第五版  
 新明解国語辞典 第七版   
 明鏡国語辞典  
-実用日本語表現辞典  
-精選版 日本国語大辞典  
+精選版 日本国語大辞典    
 岩波国語辞典  
 広辞苑 第六版  
 故事ことわざの辞典  
@@ -154,7 +154,7 @@ KireiCake
 
 **三省堂 新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. However the definitions can get convoluted and confusing for most people. This is the smallest dictionary. 7th edition has weird formatting so I kept the 5th edition in the pack, I recommend you use the 5th edition instead to not clutter your Yomichan. Will be fixed soon. 	
 
-**三省堂 ハイブリッド新辞林** - Daijirin's little brother, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. 
+**三省堂 ハイブリッド新辞林** - Daijirin's little sister, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. 
 
 **三省堂 大辞林 第三版** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder and my personal top dictionary.  Has names such as place names, common names and famous people too. The only thing I don't like it about it is that it can get unnecessarily scientific. I would put this next to Daijisen.  
 

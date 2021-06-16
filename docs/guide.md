@@ -90,7 +90,7 @@ After a week or so, you should have all the kana nailed down.
 ### Kanji  
 
 <figure>
-  <img src="https://learnjapanese.moe/img/kanji2.jpg" />
+  <img src="/img/kanji2.jpg" />
   <figcaption>Kanji taught to Japanese 1st graders.</figcaption>
 </figure> 
 
@@ -266,7 +266,6 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)  
 
 For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomichan but for situations where you can’t select the text, e.g. in manga. It uses an OCR, so a little less reliable than Yomichan. To use, hover your mouse over whatever you want to look up.    
-
 
 #### Android tools  
 If you have an Android device, you can use Yomichan on Kiwi Browser.  
