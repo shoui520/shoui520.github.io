@@ -45,7 +45,7 @@ Sans-serif font: Hiragino Kaku Gothic Pro
 
 Install `noto-fonts-cjk` package then
 
-:material_dots_vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**
+:material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**
 
 Standard font: Noto Sans CJK JP Regular  
 Serif font: Noto Serif CJK JP Regular  
@@ -102,7 +102,8 @@ Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your
 .card {
  font-family: CustomFont; /* here is where you set font */
 
- @font-face { font-family: CustomFont; src: url('ipaexg.ttf'); } /* here is where you define the font */
+ @font-face { 
+ 	font-family: CustomFont; src: url('ipaexg.ttf'); } /* here is where you define the font */
 
 }  
 ```

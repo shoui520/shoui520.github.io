@@ -262,6 +262,12 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 
 [:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button } 
 
+### Are you using the right font?
+
+![Image](img/font8.png)  
+How does 直 display for you? [Fix it here.](/font)  
+
+
 ### Additional Tools (optional read)  
 Get [Yomichan](https://foosoft.net/projects/yomichan/). It is a browser extension that allows you to look up Japanese words on a page. You can read how to set it up [here](/yomichan)  
 
