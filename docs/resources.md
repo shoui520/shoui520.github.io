@@ -25,8 +25,8 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 - [KanjiDamage](http://www.kanjidamage.com/) - Learn kanji composition with yo mama jokes. 
 
 ### Vocabulary
-- [MIA Tango N5 Deck](https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing) - The first starter Anki deck you should use when starting out.  
-- [MIA Tango N4 Deck](https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfjqnYC/view?usp=sharing) - The second starter Anki deck you use after N5.  
+- [TheMoeWay Tango N5 Deck](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) - The first starter Anki deck you should use when starting out.  
+- [TheMoeWay Tango N4 Deck](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - The second starter Anki deck you use after N5.  
 
 !!! info "Tango Decks"
 	It is recommended you do Tango over Core solely because Tango is easier.      

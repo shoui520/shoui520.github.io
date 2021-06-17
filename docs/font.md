@@ -120,7 +120,7 @@ Preview:
   <figcaption>With a bilingual definition.</figcaption>
 </figure>
 
-Now also change your font for the Anki *editor*. Click on "Add" then "Fields" and change the Editing font to any one of these (or any other font you know is a Japanese font)
+Now also change your font for the Anki *editor*. Click on "Add" then "Fields" and change the Editing font of each field to any one of these (or any other font you know is a Japanese font)
 
 IPAexGothic  
 Meiryo  
