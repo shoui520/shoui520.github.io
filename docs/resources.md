@@ -134,10 +134,11 @@ Scan websites usually have the best collection but can be a pain to download fro
 #### Hook VNs with Textractor!
 - [VN Guide](https://learnjapanese.moe/vn/)
 
-### Audiobooks
+### Audiobooks & Podcasts
 - [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - The 0 yen audiobooks from Audible.  
 - [Audiobook Collection #1](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
 - [Audiobook Collection #2](https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a) - Some more audiobooks  
+- [AuDee Podcasts](https://audee.jp/)  
 
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Avoid kamigami, they don't know Japanese and their subtitles are wrong.  
