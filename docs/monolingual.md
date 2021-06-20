@@ -116,7 +116,7 @@ Before we continue, have a read on recommended dictionaries and what they are ex
 
 #### Here’s what I recommend for first time monolingual users:
 
-旺文社国語辞典 第十一版
+旺文社国語辞典 第十一版  
 明鏡国語辞典  
 ハイブリッド新辞林  
 実用日本語表現辞典  
