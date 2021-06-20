@@ -107,14 +107,8 @@ I will touch on dictionaries in the next section.
 ### Getting and using monolingual dictionaries
 
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
-Download [shoui Yomichan Dictionaries pack v5](https://drive.google.com/file/d/1t_y_MbyjEDkAkcvJlHZxlSJ5rAM6kvVu/view?usp=sharing)
 
-Extract the .7z file (You can use [7-Zip](https://www.7-zip.org/) for this), and you will be greeted with some .zip files. 
-**Do not tamper with these.**
-
-![Image](img/mono7.jpg)    
- 
-These are our Yomichan dictionaries. No you don't need to import all of them.
+You can find my dictionaries collection here: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  s
  
 Before we continue, have a read on recommended dictionaries and what they are exactly. 
 
@@ -122,90 +116,68 @@ Before we continue, have a read on recommended dictionaries and what they are ex
 
 #### Here’s what I recommend for first time monolingual users:
 
+旺文社国語辞典 第十一版
 明鏡国語辞典  
 ハイブリッド新辞林  
 実用日本語表現辞典  
 新明解国語辞典 第五版    
 JMdict (English)  
 研究社 新和英大辞典 第５版  
-デジタル大辞泉      
-KireiCake        
+デジタル大辞泉             
 
-#### For general, 100% monolingual coverage:  
+#### My personal order, for 100% monolingual coverage:  
 
-大辞林 第三版  
 実用日本語表現辞典  
+大辞林 第三版  
+旺文社国語辞典 第十一版  
 デジタル大辞泉  
-新明解国語辞典 第五版  
-新明解国語辞典 第七版   
 明鏡国語辞典  
-精選版 日本国語大辞典    
+新明解国語辞典 第五版  
+新明解国語辞典 第七版  
+精選版 日本国語大辞典      
 岩波国語辞典  
 広辞苑 第六版  
+ハイブリッド新辞林  
 故事ことわざの辞典  
 漢字源  
+新明解四字熟語辞典  
+学研 四字熟語辞典  
+漢字遣い参考  
   
 ### Every Dictionary Explained.
 
-#### Monolingual
+**広辞苑 第六版** - 6th edition of Koujien, 2008. It is quite an authoritative dictionary in Japan, however it is not the most popular. This dictionary sorts its definitions from oldest to newest, which is not useful to learners of modern Japanese. Nevertheless, this dictionary has its own charm that I like.  
 
+**大辞林 第三版** - an extension of the 3rd edition of the Daijirin, 2015. It has a wide assortment of words, expressions, proper nouns, grammar and connectives (actually more important than you think!). It is a a great all-rounder and personally my most used dictionary.  
 
-**大修館書店 明鏡国語辞典** - 1st edition of Meikyou. Concise and compact. Has expressions and always uses easy language. #1 recommended for first time monolingual users. Best for definitions on Anki cards. Second smallest. However, the current version we have has around 140 未収録語 but I have the source for the full version, will get it converted soon.  
+**デジタル大辞泉** - Digital Daijisen, May 2021. The QUEEN of online dictionaries. This is the dictionary hosted on the [Goo Dictionary](https://dictionary.goo.ne.jp), it has a lot of new words, expressions, images and kanji entries. The previous issue where the headword was missing has been fixed. If you are going to use this dictionary, please use this CSS in your "Popup CSS": [https://learnjapanese.link/digital_daijisen](https://learnjapanese.link/digital_daijisen). Also, currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741))  
 
-**三省堂 新明解国語辞典 第七版** - 7th edition of Shinmeikai. Very verbose and precise with their definitions, always uses easy language, written from the ground up, instead of being based on old Meiji era dictionaries like the rest. However the definitions can get convoluted and confusing for most people. This is the smallest dictionary. 7th edition has weird formatting so I kept the 5th edition in the pack, I recommend you use the 5th edition instead to not clutter your Yomichan. Will be fixed soon. 	
+**旺文社国語辞典 第十一版** - Oubunsha Kokugo Dictionary 11th Editon. Short name: Oukoku (旺国) is a monolingual dictionary published by Oubunsha in 2013. This dictionary's main selling point is how precise and easy to understand it is. And rightfully so; comparitively this dictionary has the most easiest to understand definitions. It explains the difference between kanji usages, 逢う, 会う etc. and is also really nice for grammar definitions. It is my #1 recommendation for people new to monolingual dictionaries. This version has images.  If you are going to use this dictionary, please use this CSS in your "Popup CSS": [https://learnjapanese.link/oukoku11](https://learnjapanese.link/oukoku1). Also, currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741))  
 
-**三省堂 ハイブリッド新辞林** - Daijirin's little sister, Shinjirin. The best thing about it is its concise definitions and how it has separate entries for different kanji variants like 撃つ vs 打つ. Highly recommended for beginners. 
+**旺文社国語辞典 第十一版 画像無し** - No-image version of the above.
 
-**三省堂 大辞林 第三版** - 3rd edition of Daijirin. One of the bigger dictionaries, a great all rounder and my personal top dictionary.  Has names such as place names, common names and famous people too. The only thing I don't like it about it is that it can get unnecessarily scientific. I would put this next to Daijisen.  
+**ハイブリッド新辞林** - Hybrid Shinjirin, 1998. This is based on the second edition of the Daijirin, but simplified. (actually was based on the 辞林21, which was also based on the Daijirin 2nd edition). It explains the difference between different kanji usages which is nice. My #3 recommendation for beginners. 
 
-**小学館 デジタル大辞泉** - "Digital Daijisen" - The KING of online dictionaries, now in Yomichan. It has an extra 120,000 entries over the original Dajisen. If you are using animecards.site's handlebars.js, I recommend you do not put this as your topmost dictionary as the first definition will get cut out when sent to the Anki card. Working on a fix.  
+**精選版 日本国語大辞典** - Seisenban Nihonkokugodaijiten, 2016(?). Short name: Nikkoku (日国) is the biggest Japanese monolingual dictionary ever published, the physical version has multiple fascicles. This dictionary is the great for how much 漢語 it has, expressions, proper nouns, and specializes in classical Japanese. The example sentences look quite archaic because they are, they show the first known use of the word. This is the dictionary found on [Kotobank](https://kotobank.jp) . Not recommended at all for beginners but you'll love this when you're advanced.  
 
-**岩波書店 広辞苑 第六版** - 6th edition of Koujien, the most authoritative dictionary in Japan. Language is a bit on the trickier side for beginners. It is one of the bigger dictionaries, but not in a way useful to most people, as it is best suited for 和語・漢語 and 固有名詞. Definitions are ordered by oldest to newest and are usually boring. This dictionary has a certain charm I like though.   
+**明鏡国語辞典** - Meikyou Kokugo Dictionary is a Japanese monolingual dictionary published in 2002 and this is the first edition. What I like about the Meikyou is how it is easier to understand than dictionaries like the Daijirin and Daijsen, and also talks about the difference between kanji usage etc. 撃つ 打つ. It is also really nice for basic grammar definitions. This is my #2 recommendation for people new to monolingual dictionaries.   
 
-**岩波書店 岩波国語辞典** - 6th edition of Iwanami dictionary. This is the dictionary Google uses when you search "〇〇 定義"、"〇〇 定義"とは、 and/or "〇〇 意味". The definitions "[feel like the Meikyou](/img/iwakoku.jpg)".  
+**岩波国語辞典** - Iwanami Kokugo Dictionary, 6th edition, 2000. I have not used this dictionary enough to know it's strong points but it has a similar feeling to the Meikyou.  
 
-**精選版 日本国語大辞典** - "Seisenban" - The biggest digital Japanese dictionary to date. It has a heavy emphasis on classical Japanese, example sentences are like 500 years old and can appear to look crazy difficult, but it really comes through when you look up a word that's only in this dictionary. Keep it enabled to fill in gaps.  
+**新明解国語辞典 第五版** - Shinmeikai Kokugo Dictionary, 5th edition, 1999. This dictionary is widely known for it's unique style of defining words. It also uses simple-er language for definitions, but the explanations can get まわりくどい, and thus hard to understand for learners.  #4 recommendation for beginners.  
 
-**実用日本語表現辞典** - Lets call this Jitsuyou. This is one of the dictionaries Weblio uses, and whatever gap was still left after all the dictionaries above, will be filled in with this dictionary. Very useful, it's at the bottom of my order because it's only needed when the other dictionaries don't have a word.  
+**新明解国語辞典 第七版** - Shinmeikai Kokugo Dictionary, 7th edition, 2017. Newer version of the above but can have troublesome formatting so I left the old version in the pack. This is the most popular dictionary in Japan. 
 
-**故事ことわざ辞典** - a proverbs dictionary. Optional. But came in handy, I like it!   
+**実用日本語表現辞典** - Jitsuyou Nihongo Hyougen Jiten. This dictionary absolutely rocks! You need this! It will save your life! 
 
-**Weblio古語辞典** - archaism dictionary Weblio uses. Very optional.  
+**新明解四字熟語辞典** - A yojijukugo dictionary from the Shinmeikai line of dictionaries.  
 
-**漢字源** - monolingual kanji dictionary with some very rare words too. Keep if you want to mine individual kanji. 熟語 listings can not be found in the Yomichan version but the 熟語 themselves are still present if you look them up. There is a 1% chance this dictionary will be useful to you.  
+**学研 四字熟語辞典** - A yojijukugo dictionary published by Gakken.  
+
+**故事ことわざの辞典** - A proverbs/idioms dictionary.
+
+**Weblio古語辞典** - A classical Japanese dictionary.  
  
-#### Bilingual
-
-**JMdict (English)** - The dictionary Jisho.org uses. This is the most popular bilingual dictionary and you have already probably used it. Pretty much every Japanese-English dictionary project uses JMDict, apps like Shirabe Jisho on iOS, Akebi and Takoboto on Android all use JMDict. The biggest flaw of this dictionary (apart from it being bilingual) is how it has no example sentences.
-
-**KireiCake** - Based on an older version of JMDict but includes extra entries for slang. You may often see duplicate entries when used in tandem with JMDict, but for the entries that are exclusive to KireiCake, you should keep it.  
-
-**研究社 新和英大辞典 第５版** - Kenkyuusha New Japanese-English Dictionary, 5th Edition, a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. Better than JMDict.  
-
-**新和英** - Version of 研究社 新和英大辞典 第５版 without example sentences. Not recommended.  
-
-**研究社露和辞典** - Kenkyuusha Russian-Japanese Dictionary. Self explanatory. Only included this because why not. Do not import if you are not a speaker of Russian.  
-
-**大修館書店 中日大辞典　第二版** - Taishuukan Chinese-Japanese Dictionary, 2nd edition. A simplified Chinese dictionary for speakers of Japanese. If you are ever going to learn simplified Chinese, I recommend this. Do not import if not a learner of Chinese.  
-
-#### Frequency Lists
-
-**Anime & Jdrama Freq** - Frequency list from Anime & Jdrama. Goes up to 99,999.  
-
-**BCCJW** - Balanced Corpus of Contemporary Written Japanese. The kotonoha corpus. The biggest frequency list. Goes up to like 500,000.  
-
-**Narou Freq** - Frequency list made from web novels from the 小説家になろう website. Goes up to 50,000 or so.  
-
-**VN Freq v2** - Frequency list from visual novels. Goes up to 30,000.  
-
-**Netflix** - Frequency list from Netflix subtitles. Goes up to 120,000  
-
-**Wikipedia** - Borked supposed wikipedia frequency list. Whoever made this did not realize that there is more data than just 20,000.   
-
-#### To be added  
-
-**[Freq] InnocentRanked** - Ranked version of Innocent Corpus that behaves like a frequency list.  
-
 ### Continuation: Getting and using monolingual dictionaries  
 
 Let's continue. 

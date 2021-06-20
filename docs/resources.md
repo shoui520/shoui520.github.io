@@ -174,7 +174,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 
 - [Yomichan (Chromium and Firefox browsers)](https://foosoft.net/projects/yomichan/) - You MUST have this, or else what are you even doing?  
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
-- [shoui Yomichan Dictionaries Pack v5](https://drive.google.com/file/d/1t_y_MbyjEDkAkcvJlHZxlSJ5rAM6kvVu/view?usp=sharing)  
+- UPDATE JUNE 2021: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
 - Every dictionary explained. [[Click here]](https://learnjapanese.moe/monolingual/#every-dictionary-explained)  
 
 #### Online

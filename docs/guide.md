@@ -172,7 +172,9 @@ Mining is something you will be doing for a long time, so this is pretty importa
 There’s a lot of disagreement when it comes to “formats” of mining, but I think the "Anime cards" format is very good, and has served me really well.   
 
 **Animecards Vocab Cards**  
-Animecards are *High Quality* vocab cards which are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back, making them much more superior to standard vocab cards.  
+Animecards are *High Quality* vocab cards which are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back, making them much more superior to standard vocab cards. 
+
+I think it is good to graduate *sentence* cards after you finish Tango N5 and N4 (Tango decks are sentence cards by the way), as vocab cards are easier because understanding one word is easier than understanding a full sentence, and you are likely to misinterpret what a sentence means in the wild.  
 
 ![Anime Cards](img/cardexample1.jpg)  
 

@@ -1,9 +1,22 @@
 <html>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"> 
 <head>
   <meta charset="utf-8" />
   <title>Texthooker</title>
   <style type="text/css">
+    /* noto-sans-jp-regular - latin_japanese */
+    @font-face {
+      font-family: 'Noto Sans JP';
+      font-style: normal;
+      font-weight: 400;
+      src: url('./fonts/noto-sans-jp-v28-latin_japanese-regular.eot'); /* IE9 Compat Modes */
+      src: local(''),
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.woff2') format('woff2'), /* Super Modern Browsers */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.woff') format('woff'), /* Modern Browsers */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.svg#NotoSansJP') format('svg'); /* Legacy iOS */
+    }
+
     body {
       background-color: #202020;
       color: #bdbdbd;
@@ -323,7 +336,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
                 text: [ ...pr.text, ptag.textContent ],
                 dates: (pr.dates[pr.dates.length - 1]?.date === curDate) ?
                   pr.dates :
-                  [ ...pr.dates, { date: curDate, index: pr.text.length } ]
+                  [ ...pr.dates, { date: curDate, index: [...pr.text].length } ]
               }));
             }
 
@@ -354,7 +367,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
             line = line.split(CHARS_TO_IGNORE[i]).join('')
           }
 
-          let lineLen = line.length
+          let lineLen = [...line].length
           updateCounter(lineLen, 1, mutation.date || formatDate());
         }
       })
@@ -379,7 +392,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
         filteredLine = filteredLine.split(CHARS_TO_IGNORE[i]).join('')
       }
 
-      let lineLen = filteredLine.length
+      let lineLen = [...filteredLine].length
 
       // Remove line from localStorage
       const lines = Array.from(document.querySelectorAll('.remove_button'));
@@ -487,9 +500,18 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
           const text = JSON.parse(localStorage.getItem('text'));
           const reverseDates = text.dates.reverse();
 
-          document.body.innerHTML += text.text.map((a) =>
-            `<div class='line_box'><span>${a}</span><div class="remove_button" onclick="delet(this)">x</div></div>`
-          ).join('\n');
+          let fragment = document.createDocumentFragment();
+
+          for(let i = 0; i < text.text.length; i ++) {
+            let div = document.createElement('div')
+            div.classList.add('line_box')
+            //div.style.fontFamily = "Noto Sans JP"
+            div.innerHTML = '<span></span><div class="remove_button" onclick="delet(this)">x</div>'
+            div.getElementsByTagName('span')[0].textContent = text.text[i];
+
+            fragment.appendChild(div);
+          };
+          document.body.appendChild(fragment)
 
           text.text.forEach((a, i) => {
             a = a.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
@@ -497,7 +519,7 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
               a = a.split(CHARS_TO_IGNORE[j]).join('')
             }
 
-            let lineLen = a.length
+            let lineLen = [...a].length
             updateCounter(
               lineLen,
               1,
