@@ -20,7 +20,7 @@ nav:
     - 'Yomichan Setup Tutorial': 'yomichan.md'      
   - 'Resources':
     - 'Resources': 'resources.md' 
-  - 'About':
+  - 'Other':
     - 'Contact & Support': 'contact.md'
 theme:
   features:

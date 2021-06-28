@@ -22,7 +22,7 @@ Raw anime, untranslated manga, light novels and visual novels. Unsubbed J-drama,
 ### Hey shoui, so I know the method you describe is better than what I’m doing right now but can you please give me permission to carry on doing my own method?
 Don’t care. It’s your Japanese, not mine. 
 ### Best anki settings???
-I don’t know. But I use Mary's with 10 cards per day.
+I don’t know. But I use QM's with 10 cards per day.
 [[Link]](https://animecards.site/ankisetup/)
 ### When should I start using Anki?
 You can start to use Anki whenever you want actually, you can even learn the kana with it. However I recommend you start using Anki when you already have a grasp of the kana and basic grammar, after that you can download and start working on the Tango Anki decks. (Mining comes after)
@@ -33,10 +33,10 @@ No more than 1 hour per day. Prioritise immersion time, not flashcards. They are
 ### About grammar, should I do Tae Kim or Cure Dolly? Pls answer
 Who cares. Just do whatever. (Cure Dolly is better in my humble opinion ;))
 ### What JLPT are you shoui
-The JLPT is a dumb test and it should never be used to measure Japanese ability. To answer your question: better than you.
-### My JLPT N2 friend told me.... Blah blah blah blah
-Try to be more vigilant when it comes to taking advice from people. N2 is a pretty poor level.
-### My JLPT N2 friend studied with a lot of textbooks and he is good!
+The JLPT is a dumb exam and it should never be used to measure Japanese ability. To answer your question: better than you.
+### My JLPT N3 friend told me.... Blah blah blah blah
+Try to be more vigilant when it comes to taking advice from people. N3 is a pretty poor level.
+### My JLPT N3 friend studied with a lot of textbooks and he is good!
 You don’t know Japanese so you wouldn’t know if he’s good or not. He might as well be saying BS and due to your lack of Japanese knowledge you just take it as “wow he’s a genius”, “wow u know so much”. This is known as the fluency illusion.
 ### Easiest anime/manga/light novel/visual novel?
 Mitsuboshi Colors/Yotsubato!/GJ bu/Hanahira  
@@ -129,7 +129,7 @@ You may have more time than you think you do to learn Japanese. Stop playing vid
 It is bad. Please don’t immerse when you’re supposed to be sleeping, you’re only reducing your immersion quality.
 ### This sentence in the Tango N5 deck…
 Uhh this sentence in the TanGo N5 AnKi Deck says Blah Blah BlaBla but this word means BlahBlaBlah Blah so wouldn’t it mean BlaBlah Blah Blahh???? WHAT???? No. I know exactly what’s happening to you. You’re taking Tango’s translation as literal. Tango’s translations are not literal, you don’t even need the translation, they do nothing but confuse you into thinking BlahBlah Bla hhBlah means BlahhBlahhBlaBla!!? Maybe you did Tango N5 before you followed a grammar guide? Maybe Tango N5 sucks? I don’t know. Here’s my advice to you→ 1. Follow a grammar guide (Cure Dolly, Tae Kim) - I’m not sure what drugs Nukemarine is on but I don’t know why he thinks the Tango decks are a suitable replacement for a grammar guide. 2. The translations are not literal, they are pretty bad from a learning perspective, I have no idea why such a decision was made. It is best if you use no translation or a literal translation at best. You’re not learning English, also who says “The class is from 7 am” in real life??  
-### UMM... I  HEAR G SOUND BUT SOUND LIKE N OR GNNGNGGNGGN WHY???  
+### UMM... I  HEAR G SOUND BUT SOUND LIKE N OR NG WHY???  
 [鼻濁音](https://youtu.be/xpzpbuFHVVU)  
 ### I am actively immersing, you say just pay attention to what they’re saying, can you go into more detail?
 It depends on your comprehension I guess. If you’re below 40%, just listen out for what words you can pickout, try to guess the meaning of phrases, try to like, listen to the sounds. When you’re at like 80% comprehension, pay attention to the plot of the anime and try to just get the meaning of sentences but not necessarily how it was said specifically e.g. what form a verb was in. For example if you came across the sentence 俺を誰だと思っている, you would know the message the sentence is trying to send but you wouldn’t pay attention to the particle を being used because you don’t need to to understand the overall meaning of the sentence. When you get about 90%+ comprehension, pay attention to the form; how the sentence is expressed, before you may not have payed attention to the には in あなたには関係ありません but now you should. Also pay attention to what specific words are used to express specific ideas in specific situations.
@@ -144,11 +144,11 @@ If you find kanji to be scribbles after months of reading then sure.
 ### Can you tell me what this kanji is?
 Just write it in Google Translate handwriting feature, it will detect it no matter how sloppy you wrote it. Then copy it into a dictionary such as jisho.org and then you’ll get your answer.
 ### I can’t read kanji yet…
-I absolutely hate it when people say “I can’t read kanji”. People that say this have no idea what they’re talking about. You mean, “words”; you can’t “read the words”? If you mean that then just look up the words then. If you can’t read this sentence “爆発が起こった刹那”, then DON’T say, “I can’t read the kanji”, say “I can’t read the words”. If you can’t “read kanji” then learn how to; by learning how to read. That’s just it, just learn how to read.
+I absolutely hate it when people say “I can’t read kanji”. People that say this have no idea what they’re talking about. You mean, “words”; you can’t “read the words”? If you mean that then just look up the words then. If you can’t read this sentence “爆発が起こった刹那”, then don't say, “I can’t read the kanji”, say “I can’t read the words”. If you can’t “read kanji” then learn how to; by learning how to read. That’s just it, just learn how to read.
 ### How do I learn how to read?
 By looking up the words. Look at the Japanese sentence I gave above. Chances are you don’t know 刹那. Copy it into a dictionary or use Yomichan, it will show you the reading (せつな) and the meaning (きわめて短い時間)(if you are learning it bilingually it might be moment; instant). Congratulations you now know how to read more Japanese.
 ### Hey shoui I found a cool site and it has so much grammar on it it’s called…
-No. I know what you’re talking about. Your site uses a jank JLPT grammar list. Do not follow JLPT grammar lists. They will do nothing but confuse you. There is a reason why I only list 2 grammar guides (Tae Kim, Cure Dolly). JLPT Grammar is literally just words. Not grammar, but words. Like 90% of it is just words. You can learn all that "grammar" from anime. AVOID: japanesetest4you, wasabijpn, jlptsensei, bunpro and other similar sites.
+If it's japanesetest4you, wasabijpn, jlptsensei, bunpro etc, then avoid it. If you have finished Tae Kim/Cure Dolly and are prepping for the JLPT exam or just like grammar, then do not use a site that "teaches" JLPT grammar in English, please learn it in Japanese. This site https://nihongokyoshi-net.com/jlpt-grammars/ is much better and probably the best free way to learn grammar used in the JLPT exam.  
 ### How do you learn how to write Japanese?
 Before you do this, try to think if learning how to write Japanese is even useful or not. For most people, not so much, but if you want to live in Japan you will probably need to depend on writing Japanese. To others it may just be a passion learning how to write kanji. In this day and age you can just type Japanese on a computer or on your phone, so it is not essential.
 Now to learn how to write: Just write a lot. Make sure you have a good setup. Here’s what I recommend: Genkouyoushi Paper (you can also use notebooks that have Genkouyoushi Paper) and Sarasa Clip pen. Just practice writing while looking at the stroke order for characters. Repetition. There’s no hack to get around it. You may have thought, “RTK”, but you are still doing repetition with RTK.
@@ -175,7 +175,8 @@ Memorizing kanji - Just do reading practice, and make cards if you wish.
 ### How many new cards per day?
 Just do 10. If you feel like it is too less, do 15 or 20. Please bear in mind that the more new cards you do, the more reviews you’ll get.
 ### Mining Mentality: When to mine (add to Anki) or just to look up and carry on?
-Hey look, I’m not even gonna go into this because I think if you just do what I do, you won’t worry about things like this. Here’s what I do. The only things I mine are from anime I have already seen, or from books I’ve already read. The point is that if you’re looking up, you will remember about maybe half of what you looked up, I can’t say for sure though. So you go back to the content you just watched/read and mine whatever you didn’t remember. I’ve been doing this for nearly 6 months and it has worked great for me, and I think it will do for you too.
+Hey look, I’m not even gonna go into this because I think if you just do what I do, you won’t worry about things like this. Here’s what I do. The only things I mine are from anime I have already seen, or from books I’ve already read. The point is that if you’re looking up, you will remember about maybe half of what you looked up, I can’t say for sure though. So you go back to the content you just watched/read and mine whatever you didn’t remember. I’ve been doing this for nearly 6 months and it has worked great for me, and I think it will do for you too.  
+EDIT 2021 uhh I just mine everything when i see it now no matter how ridiculous it is  
 ### How many cards do you make per day?
 One anime episode worth of cards per day. I mine anime I have already watched. When I run out of new cards I mine another episode to stock up on more cards to learn. I also mine books I’ve already read. I add 20 cards to review for the next day.
 ### When is Kun-yomi and On-yomi used?
@@ -191,13 +192,13 @@ It largely depends on how many words in the sentence you don’t know. If it has
 ### But can't I learn Japanese by focusing on the audio while using the English subs as a guide?
 No.
 ### What if I can't find anything I enjoy immersing with?
-Keep on looking. Keeeep on looking. Try a lot of anime, hey, maybe it gets more interesting in later episodes? Maybe switch to J-drama? Or Japanese YouTube? For example, I finished Bakemonogatari (the light novel) in 3 days because I was HOOKED onto it. I found it really interesting and thus I wanted to finish it. I haven’t done this with any other book before.
+keep on looking  
 ### Can I use romanji?
 First of all, it’s *romaji* not romanji. And second, no. Don’t use romaji. Learn the kana as quickly as you can.
 ### Kana or Romaji input method (IME)?
 For your PC, definitely romaji input. For your phone, then kana input. No questions asked.
 ### Should I use Japanese subs?
-I might have already answered this but… not always. Only in the beginning. Split your time up between watching raw and in Japanese subs. The reason you need to watch raw is so you get the best accent in the end.
+I might have already answered this but… not always. Only in the beginning. Split your time up between watching raw and in Japanese subs. The reason you need to watch raw is so you get the best accent in the end and also because using subs all the time means you won't really be training your listening ability at all.  
 ### How much should I balance my listening and reading?
 I think, when you’re at the stage where you can go on to reading without messing up your accent, you should read more than you listen. Why is this? Well, reading is probably the best way I currently know of to increase your vocabulary. These new vocabulary you acquired can easily transfer to your listening. Most of my vocabulary is what I learned from reading. There’s about a 90% chance you will hear these new words in the next anime you watch. It happens every time. Learned 滑稽 from reading one day, heard it in the anime I watched the next. I cannot think of any exception. Reading is a powerful tool. But don’t slack on the listening! That’s still very important.
 But, I can admit that reading for long hours is harder than listening for long hours so even if your reading hours are a little shorter than your listening hours (e.g. 4 listening hours 2.5 reading hours), you are still making some serious gains. Don’t see this as an excuse to slack reading though.
@@ -229,8 +230,8 @@ If you have money you can buy visual novels from Steam. If you are lucky enough 
 ### How to text-hook visual novels?
 [vn guide](/vn)
 ### How do I switch from traditional methods to your method?
-You probably have a stupid flashcard deck on some stupid SRS that probably isn’t Anki. Even if you used Anki you were probably using some stupid pre-made deck. You are halfway through your second Genki textbook or whatever. You paid for Memrise Premium. You have a WaniKani subscription. LingoDeer lured you into buying their premium too. What should you do? Screw them. Cancel your premium subscriptions. Learning Japanese is completely FREE and I can guarantee you that. Delete your old stupid decks. You may worry that you may forget everything you’ve learned, but you won’t. You won’t forget everything. Stop using the textbook, return it or something. You may also have HelloTalk friends. Well let me tell you the truth about HelloTalk friends: they don't even care about you. They just want to practice English with you, not Japanese. If you ask them to correct you they will probably block you, so they’re just stopping any chance of you ever improving. So forget about them, why even bother? Speaking practice doesn't really mean much without immersion anyway.
-Now, it may be different what you gotta do depending on how good you are. If you haven’t gotten that far (e.g. can’t understand like 50% of anime yet) then just follow the [New Japanese Guide](/guide)  from the beginning, if you already know kana, you don’t need to re-learn them. Watch the Cure Dolly grammar guide. Setup Anki, import the Tango N4+N5/Core3k decks and work through them. Immerse everyday. 
+You probably have a stupid flashcard deck on some SRS that probably isn’t Anki. Even if you used Anki you were probably using some stupid pre-made deck. You are halfway through your second Genki textbook or whatever. You paid for Memrise Premium. You have a WaniKani subscription. LingoDeer lured you into buying their premium too. What should you do? Screw them. Cancel your premium subscriptions. Learning Japanese is completely FREE and I can guarantee you that. Delete your old stupid decks. You may worry that you may forget everything you’ve learned, but you won’t. You won’t forget everything. Stop using the textbook, return it or something. You may also have HelloTalk friends. Well let me tell you the truth about HelloTalk friends: they don't even care about you. They just want to practice English with you, not Japanese. If you ask them to correct you they will probably block you, so they’re just stopping any chance of you ever improving. So forget about them, why even bother? Speaking practice doesn't really mean much without immersion anyway.
+Now, it may be different what you gotta do depending on how good you are. If you haven’t gotten that far (e.g. can’t understand like 50% of anime yet) then just follow the [Japanese Guide](/guide) from the beginning, if you already know kana, you don’t need to re-learn them. Watch the Cure Dolly grammar guide. Setup Anki, import the Tango N4+N5/Core3k decks and work through them. Immerse everyday. 
 If you’re a so-called “intermediate” then just get to mining with AnimeCards straight away. Immerse everyday. 
 There is no way you got to an “advanced” level or even close using a bad method so I’ll end this here.
 ### How to deal with words with multiple meanings?
@@ -240,14 +241,7 @@ If you come across a usage of a word different to the one you learned, you don�
 If it has furigana on top, learn it with that reading. If it’s from anime, learn it with the reading they pronounce it with. If there is no furigana and audio then try using <https://furigana.info/>, search for the word and it will show you the readings in order of commonness. If you can’t find out, then just learn whatever.
 If you come across a kana usage different to the one you learned, you don’t need to make a card for it, it will be easy to just learn this new usage.
 ### So the JLPT is sh/t, so what “level” are each of the N’s?
-*Word count is words that have appeared in the entire history of these JLPT tests, words that appear in N5 may not appear in N4, for example. Words from N3 may also appear in N2 for example.*
-Lower Beginner - N5 (657 words), N4 (632 words)
-Beginner - N3 (1798 words)
-Upper Beginner - N2 (1803 words)
-Lower Intermediate - N1 (3442 words)
-*Ok,  maybe I'm being a little harsh, but at the same time I think I'm being totally reasonable*
-So how many *unique* words in total? 7702. So yeah, you need 7702 words to pass the JLPT N1. That was much less than I thought it would be. You can cry all you want over me saying N1 is lower intermediate, but once you reach this level like I did, you will realise that it is only the BEGINNING. 
-Please note that common words found in Japanese are not in JLPT lists, so if you have 8000 AnimeCards:tm: lol  you may not know all of the 7702 JLPT words.
+Cant even say because a jlpt cert cannot, will not and does not gauge japanese ability  
 ### Is it bad if I make a mistake when speaking?
 No. As long as you are immersing everyday, don't worry about it! 
 Is it bad? It depends how you see it. If you care what Japanese people may think, then it is not bad at all. Japanese people are very nice and kind and don't really care if you can't speak Japanese good. If you want your Japanese to be natural and "good", then you still don't need to worry about making mistakes, because making mistakes is not a problem as long as you are immersing everyday.
@@ -289,7 +283,8 @@ The process of reviewing sentence cards goes as follows: You read the sentence, 
 ### Why do you do AnimeCards over sentence cards?
 Muh opinion
 ### I want to pass the JLPT N1. How long will that take me with your method?
-Like if you listen for 6 hours every single day and read for 6 hours every single day, and do 40 cards in Anki per day then like nearly a year? JLPT N1 is not that good, you know.
+Cant say as it all depends on how much you immerse  
+Also make sure you study the grammar used in JLPT N1 (it is easy to look over them in immersion)  
 ### I don’t want to use Anki. Is that fine?
 Uh, there is no doubt that your progress will be inevitably slower than someone that does the exact same as you but uses Anki. I don’t think any amount of reading can circumvent using the SRS. If you hate using Anki, then try to use a different format. AnimeCards are quick and simple to make and review. I recommend them. 
 I think you can still get very good without using Anki but think of it like this: the SRS shaves a good year off the amount of time it takes to get fluent ;)

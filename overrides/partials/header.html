@@ -52,12 +52,21 @@
       </div>
     </div>
 
+    <!-- Discord icon that links to discord-->
+    <label class="md-header__button md-icon">
+      <a href="/join">
+        {% include ".icons/material/discord.svg" %}
+      </a>
+    </label>
+
     <!-- Heart emoji that links to patreon -->
     <label class="md-header__button md-icon">
       <a href="https://www.patreon.com/shoui">
         {% include ".icons/material/heart.svg" %}
       </a>
     </label>
+
+
 
     <!-- Color palette -->
     {% if not config.theme.palette is mapping %}
