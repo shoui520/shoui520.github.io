@@ -189,7 +189,7 @@ Import the set of dictionaries that best suits you in [Recommended Dictionaries]
 
 ### Why do you say use a lot of dictionaries?
 
-You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 院試, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here. Another reason is that different dictionaries will describe a word in a different way, and in many cases you may not understand one dictionary's definition, but understand another.  
+You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 夢海鼠, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here. Another reason is that different dictionaries will describe a word in a different way, and in many cases you may not understand one dictionary's definition, but understand another.  
 
 !!! question "But you would have to do a lot of scrolling to get to the next word?" 
 	You should use the keyboard shortcut ++alt+down++  
