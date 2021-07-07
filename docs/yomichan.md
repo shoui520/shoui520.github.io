@@ -24,7 +24,7 @@ You can find my collection of Yomichan dictionaries below. This will have everyt
 4. Click the "Import" button on the bottom.  
 5. Here's where you select the dictionaries to import. Please only import the following. Do not import every dictionary if you don't need to.
 	- `[Bilingual] JMdict (English).zip`
-	- `[Bilingual] 研究社　新和英大辞典　第５版.zip`
+	- `[Bilingual] 新和英.zip`
 	- `[Kanji] KANJIDIC (English).zip`
 6. Please wait for the dictionaries to import. This could take a while if you are using a mechanical hard drive.  
 7. Once complete, you can test Yomichan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
@@ -38,7 +38,7 @@ A full dark mode can be enabled in the settings too.
 
 **JMdict** is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMdict. This is the most common Japanese to English dictionary.  
 
-**研究社　新和英大辞典　第５版** (Kenkyuusha New Japanese-English Dictionary, 5th Edition) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with example sentences truncated called is `[Bilingual] 新和英.zip` can also be found in my dictionaries collection. 
+**新和英** (Shinwaei) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with even more example sentences is called `[Bilingual] 研究社　新和英大辞典　第５版.zip` can also be found in my dictionaries collection. 
 
 **KANJIDIC** is a kanji dictionary, it allows you to view information of individual kanji.
 

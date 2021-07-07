@@ -231,6 +231,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project, simple, no special features.  
 - [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - Port of EBWin for Android devices, this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.  
 - [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/843591036831793172/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.  
+- **[米 jidoujisho](https://github.com/lrorpilla/jidoujisho) - A mobile video player, reader assistant and card creation toolkit tailored for mobile language learners.**  
 - **[※ Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)** - An EPUB reader for Android that lets you look up a word with one tap. Also supports EPWING monolingual dictionaries.  
 - [Typhon改](https://github.com/dajimenezja/typhon/releases) - Fork of Typhon Reader made to work with newer devices.  
 - [Reasily](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) - EPUB reader. No special features but it supports 縦書き (vertical text)!  
@@ -330,5 +331,4 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 - [Immersion Wiki](http://immersion.wiki/) - resources for immersion. Lacklustre at best.  
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Good video, highly recommend.  
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.  
-- [Useful Anki add-ons for Japanese](https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html) - It's useful and makes you look cool on the internet.  
 - [VN Scripts](https://vnscripts.neocities.org/old.html) - wareya's vn scripts.  
