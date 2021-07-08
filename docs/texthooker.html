@@ -21,7 +21,6 @@
     body {
       background-color: #202020;
       color: #bdbdbd;
-      font-size: 1.68em;
       font-weight: 400;
       line-height: 150%;
       margin-top: 1%;
@@ -160,13 +159,24 @@
       margin-right: 5px;
     }
 
-    #local-storage-selection {
+    #settings {
       position: fixed;
       font-size: .5em !important;
       background-color: rgba(25, 25, 25, 0.8);
       padding: 0 5px;
       right: 15;
       bottom: 15;
+    }
+
+    #font-size-input {
+      left-margin: auto;
+      font-size: .6rem;
+      right: 0;
+      color: white;
+      background-color: transparent;
+      width: 2.5rem;
+      margin-left: 1.35rem;
+      border: #686868 1px solid;
     }
 
     select {
@@ -221,16 +231,24 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
   </div>
 
-  <!-- This is the div used for changing between what to save in localStorage -->
-  <div id="local-storage-selection" title="Select what to save in localStorage">
-    <label for="local-storage">In localStorage</label>
-    <select id="local-storage">
-      <option value="text">Text</option>
-      <option value="chars">Characters</option>
-      <option value="nothing">Nothing</option>
-    </select>
+  <div id="settings">
+    <!-- Change font size -->
+    <div id="font-size-container">
+      <label for="font-size-input">Font Size</label>
+      <input id="font-size-input" type="number">
+    </div>
+
+    <!-- This is the div used for changing between what to save in localStorage -->
+    <div id="local-storage-selection" title="Select what to save in localStorage">
+      <label for="local-storage">In localStorage</label>
+      <select id="local-storage">
+        <option value="text">Text</option>
+        <option value="chars">Characters</option>
+        <option value="nothing">Nothing</option>
+      </select>
+    </div>
+    <!-- End localStorage div. -->
   </div>
-  <!-- End localStorage div. -->
 
 
   <script>
@@ -243,6 +261,13 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
     let history = [];
     let expanded = false;
     const selection = document.querySelector('#local-storage');
+    const fontSizeInput = document.querySelector('#font-size-input');
+
+    // Change font size when value changes
+    fontSizeInput.addEventListener('change', (e) => {
+      localStorage.setItem('font-size', e.target.value);
+      document.documentElement.style.fontSize = e.target.value;
+    })
 
     //This function is invoked when a node(line) is inserted.
     let callback = function (mutations) {
@@ -494,6 +519,11 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
     };
 
     function initFromLocalStorage() {
+      // Set font size
+      const fontSize = localStorage.getItem('font-size');
+      document.documentElement.style.fontSize = fontSize;
+      fontSizeInput.value = fontSize;
+
       selection.value = localStorage.getItem('valueInLS');
 
       switch(selection.value) {
@@ -662,6 +692,10 @@ For more font attribute information visit http://www.w3schools.com/css/css_font.
 
     if(!localStorage.getItem('valueInLS')) {
       localStorage.setItem('valueInLS', 'text');
+    }
+
+    if(!localStorage.getItem('font-size')) {
+      localStorage.setItem('font-size', 26);
     }
 
     initFromLocalStorage();
