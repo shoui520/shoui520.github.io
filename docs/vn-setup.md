@@ -35,7 +35,6 @@ Once you have acquired a visual novel, please select your platform below.
 
 [:material-microsoft-windows-classic: Windows XP VM](/vn-winxp){: .md-button } 
 
-[NEC PC-98](/vn-pc98){: .md-button }
 
  
 
