@@ -123,8 +123,7 @@ Look at the manga picture above. Look at the first panel. You see "人数"? That
  
 When approaching kanji as a beginner, they can look like scribbles rather than familiar shapes. Kanji have common shapes and patterns and Isolated Kanji Study helps you see those common shapes and patterns. Instead of "草" looking like a random drawing, you can see that it’s composed from "艹", "日" and "十".
 
-An isolated kanji study method I recommend is **Kodansha kanji learner's course (KKLC)**, you can get the book [here](https://mega.nz/#!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ) and a study guide [here] 
-(https://keystojapanese.com/how-to-study/). Don't learn the vocabulary in the book! Only learn vocabulary as described in the [Vocabulary](#vocabulary) and [Mining](#mining) sections.  
+An isolated kanji study method I recommend is **Kodansha kanji learner's course (KKLC)**, you can get the book [here](https://mega.nz/#!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ) and a study guide [here] (https://keystojapanese.com/how-to-study/). Don't learn the vocabulary in the book! Only learn vocabulary as described in the [Vocabulary](#vocabulary) and [Mining](#mining) sections.  
 
 With that said, by reading and looking up words for hours and hours on end, you will learn how to recognize kanji intuitively, however many people may struggle to read Japanese kanji without prior study, and isolated kanji study might help you in this case, as it gives you a hint of what the kanji means beforehand. However isolated kanji study is a significant time investment that does not contribute to knowing Japanese in any meaningful way, and to truly "learn kanji" you need to do kanji with vocab anyway. You should decide by yourself whether or not you want to do isolated kanji study.  
 
@@ -174,7 +173,7 @@ There’s a lot of disagreement when it comes to “formats” of mining, but I 
 **Animecards Vocab Cards**  
 Animecards are *High Quality* vocab cards which are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back, making them much more superior to standard vocab cards. 
 
-I think it is good to graduate *sentence* cards after you finish Tango N5 and N4 (Tango decks are sentence cards by the way), as vocab cards are easier because understanding one word is easier than understanding a full sentence, and you are likely to misinterpret what a sentence means in the wild.  
+I think it is good to graduate *sentence* cards after you finish Tango N5 and N4 (Tango decks are sentence cards by the way), as vocabulary cards become easy and quick as you have familiarzied yourself with simple Japanese.  
 
 ![Anime Cards](img/cardexample1.jpg)  
 
