@@ -50,7 +50,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 - [B9GOOD](http://b9good.com/) - you can stream raw anime here.  
 - [Anime-Raws](https://sites.google.com/view/animerawsmasterlist/home#) - you can stream or download raw anime here. They are all MEGA links, and MEGA supports streaming video.  
 - [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime, itazuraneko.  
-- [Animelon](https://animelon.com/) - watch anime with Japanese subtitles. It doesn't work 99% of the time though... Check the next thing out instead.  
+- [Animelon](https://animelon.com/) - stream anime with Japanese subtitles. 
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video.   
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 
