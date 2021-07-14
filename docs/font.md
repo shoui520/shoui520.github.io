@@ -2,7 +2,7 @@
 
 ![Chinese vs Japanese font](img/font1.png)
 
-By default, your computer / phone will display kanji in a Chinese font. Japanese kanji look slightly different, and it can look offputting to experienced learners when you are seen with a Chinese font.  
+By default, your computer / phone will display kanji in a Chinese font. Japanese kanji look slightly different, and it can be damaging if you learn the Chinese appearance of kanji rather than the Japanese ones.  
 
 **Verifying if your browser is currently using a Japanese font**
 
@@ -25,6 +25,19 @@ If your 直 looks like the second image, congrats! You are using a Japanese font
 
 ++win+i++ to open **Settings** > **Apps** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** and **Install**  
 
+??? tip "Advanced Users: Powershell"
+	Japanese fonts can also be installed using **Windows Powershell (Administrator)**:
+	```powershell
+	Get-WindowsCapability -Online -Name Language.Fonts.Jpan~~~und-JPAN* | Add-WindowsCapability -Online
+	```  
+	This does not require a restart.
+??? question "Also have Chinese supplemental fonts already installed?"
+	You will need to set your locale to Japanese (Japan).
+	!!! abstract "Setting Japanese locale"
+		1. Open the Run dialog box by pressing ++windows+r++
+		2. Type `intl.cpl` and press ++enter++
+		3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.
+		
 Now if you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.  
 
 Standard font: Meiryo UI  
@@ -36,15 +49,23 @@ If you're using Firefox it is already pre-configured.
 
 ## macOS
 
-If you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.  
-
-Standard font: Hiragino Kaku Gothic Pro  
-Sans-serif font: Hiragino Kaku Gothic Pro  
+You just need to add Japanese as a preferred language in System Preferences.  
+ > System Preferences, then click Language & Region. Click General, then Add a language and choose Japanese 日本語  
 
 ## Linux
 
-Install `noto-fonts-cjk` package then
+You should have `ja_JP.UTF-8` as one of your locales. If not, uncomment the line `#ja_JP.UTF-8 UTF-8` in `/etc/locale.gen` and run:
 
+```bash
+sudo locale-gen
+```
+
+Now install the package [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/). It is available on the official Arch repositories.  
+
+Now create a fontconfig in `~/.config/fontconfig/conf.d` for Japanese text. You can find an excellent example config file by tatsumoto-ren [here](https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/fontconfig/conf.d/99-japanese-fonts.conf). 
+
+If Chinese fonts persist in the browser you can force it. In any Chromium-based browser you can do that by doing:  
+ 
 :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**
 
 Standard font: Noto Sans CJK JP Regular  
@@ -54,6 +75,8 @@ Sans-serif font: Noto Sans CJK JP Regular
 ## Android
 
 Just add Japanese (it looks like this: 日本語) as a secondary language, it won't change your display language unless you move it to the top.  
+
+![Android settings](img/font9.jpg)
 
 ## iOS
 
@@ -79,7 +102,7 @@ Install the font onto your system and reboot.
 
 Windows: Double click and click Install  
 macOS: Drag the font into the Font Book  
-Linux: Google is your friend.  
+Linux: Move the file to `~/.local/share/fonts/` and then run `fc-cache -f -v`  
 
 Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your font family accordingly.  
 
@@ -97,6 +120,9 @@ Linux: `~/.local/share/Anki2/(profile)/collection.media`
 Android: `/storage/emulated/0/AnkiDroid/collection.media`  
 
 Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your font family accordingly.  
+
+!!! warning "Don't copy exactly!"
+	Just add what you don't already have. 
 
 ```css
 .card {
