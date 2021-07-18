@@ -34,11 +34,18 @@ Launch your VN and Textractor and first remove all the unneeded extensions by pr
 Remove the following:
 
 - Bing Translate
+- Any other translate
 - Extra Window
 - Extra Newlines
 - Styler 
 
 ![Image](img/textractor1.jpg)  
+
+!!! warning "Order of extensions" 
+	Your order of extensions is important. Here is what I usually recommend:  
+	- Remove Repeated Characters  
+	- Remove Repeated Phrases  
+	- Copy to Clipboard  
 
 !!! info "Regex Filter"
 	If you want to use Regex Filter, it has to be moved to the top for some reason.  

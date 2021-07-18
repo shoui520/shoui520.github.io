@@ -17,23 +17,23 @@ Once you have acquired a visual novel, please select your platform below.
 
 <h2>Desktop</h2>  
 
-[:fontawesome-brands-windows: Windows](/vn-win){: .md-button .windows}
+[:fontawesome-brands-windows: Windows](/vn-win/){: .md-button .windows}
 
-[:fontawesome-brands-apple: macOS](/vn-mac){: .md-button .mac}	
+[:fontawesome-brands-apple: macOS](/vn-mac/){: .md-button .mac}	
 
-[:fontawesome-brands-linux: Linux](/vn-linux){: .md-button .linux}  
+[:fontawesome-brands-linux: Linux](/vn-linux/){: .md-button .linux}  
 
-[:fontawesome-brands-freebsd: FreeBSD](/vn-bsd){: .md-button .freebsd}
+[:fontawesome-brands-freebsd: FreeBSD](/vn-bsd/){: .md-button .freebsd}
 
 <h2>Mobile</h2>  
 
-[:fontawesome-brands-android: Android](/vn-android){: .md-button } 	
+[:fontawesome-brands-android: Android](/vn-android/){: .md-button } 	
 
-[:material-apple-ios: iOS](/vn-ios){: .md-button }  
+[:material-apple-ios: iOS](/vn-ios/){: .md-button }  
 
 <h2>Legacy</h2>  
 
-[:material-microsoft-windows-classic: Windows XP VM](/vn-winxp){: .md-button } 
+[:material-microsoft-windows-classic: Windows XP VM](/vn-winxp/){: .md-button } 
 
 
  

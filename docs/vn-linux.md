@@ -11,7 +11,7 @@ Follow the steps below to run VNs on Linux.
 	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
 
 	```bash
-	sudo pacman -S wine-staging winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
+	sudo pacman -S wine-staging winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs gst-plugins-good lib32-gst-plugins-good gst-plugins-bad gst-plugins-bad-libs gst-plugins-ugly libgudev vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
 	```
 
 	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
@@ -88,7 +88,7 @@ Follow the steps below to run VNs on Linux.
 	```
 	Now install Lutris, CDEmu and some needed libraries:  
 	```bash
-	sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-good1.0-0:i386 ocl-icd-dev:i386 -y
+	sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad libgudev-1.0-0:i386 1.0-0:i386 ocl-icd-dev:i386 -y
 	```
 	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
 	First, wget the binary:  
@@ -183,7 +183,7 @@ Follow the steps below to run VNs on Linux.
 	:white_check_mark: Tested on openSUSE Tumbleweed 20210408 
 
 	```bash
-	sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit libSDL2-2_0-0 libjpeg-turbo
+	sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit gstreamer-plugins-bad gstreamer-plugins-bad-32bit gstreamer-plugins-ugly gstreamer-plugins-ugly-32bit libgudev-1_0-0 libgudev-1_0-0-32bit libSDL2-2_0-0 libjpeg-turbo
 	```  
 	Now load the VHBA module into your kernel.  
 
@@ -207,7 +207,7 @@ Follow the steps below to run VNs on Linux.
 	* `png`
 
 	```bash
-	sudo emerge -av "=app-emulation/wine-vanilla-6.4" virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
+	sudo emerge -av "=app-emulation/wine-vanilla-6.4" virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks media-libs/gst-plugins-base media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-libs/gst-plugins-bad
 	sudo modprobe vhba
 	```
 
@@ -394,7 +394,7 @@ This means your VN needs to use ja_JP.sjis instead of ja_JP.UTF-8.
 
 You need to download ja_JP.sjis from [here](https://cdn.discordapp.com/attachments/813105334763126814/825472692558889022/ja_JP.sjis.zip) first.  
 
-Unzip it to a memorable location on your computer and `cd` into that directory.  
+Extract it to a memorable location on your computer and `cd` into that directory.  
 
 ```bash
 cd /path/to/ja_JP.sjis
@@ -405,10 +405,10 @@ Now compile the locale using `localedef`:
 localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 ```
 
-Using `sed`, edit your locale.gen to include ja_JP.sjis:
+Using your editor of choice, edit your locale.gen and add `ja_JP.SJIS SHIFT_JIS` after `ja_JP.UTF-8 UTF-8`
 
 ```bash
-sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS' /etc/locale.gen
+vim  /etc/locale.gen
 ```
 Now generate locales:
 
@@ -420,8 +420,32 @@ You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
 
 ### MPEG-1 movie does not play
 
-!!! failure "No fix found yet"
-	I spent 8 hours trying to fix this issue (I use openSUSE) with a Liar-soft VN. If you manage to find a fix, please let me know!  
+!!! failure "No full fix found yet"
+	I spent 20 hours trying to fix this issue (I use Arch btw) with a Liar-soft VN. If you manage to find a fix, please let me know!  
+	??? info "Things I have tried that may work for other VNs"  
+		- Installing every gstreamer plugin, including lib32 versions.  
+		- Using different combinations of gstreamer plugins (e.g. ugly & bad or good & base)  
+		- Launching the VN with the latest version of Proton-GE.  
+		- winetricks=alldlls default will entirely skip the video (already covered in this guide)  
+		- Using LAVFilters  
+		- Enabling MPEG-1 decoder in ffdshow  
+		- installing libgudev (including lib32 version)  
+		- 64-bit Wine prefix  
+		- installing gstreamer for Windows in wine  
+		- installing `allcodecs` in winetricks  
+		- installing wmp9, wmp10 and wmp11 and wmpcodecs  
+		- replacing quartz.dll with quartz.dll 6.5.2600.5512 from Windows XP  
+		- disabling winegstreamer.dll  
+		Despite all of this, something simple as playing back a MPEG-1 video was not possible.  
+		Using `gst-play-1.0` I am able to play the actual .mpg file just fine.  
+		Here is the error related to MPEG-1 video playback I get in the Wine debugger:  
+		```
+		winegstreamer error: decodebin0: GStreamer はプラグインを見つけることができません
+		0100:err:gstreamer:decodebin_parser_init_gst Failed to play stream.
+		winegstreamer error: decodebin0: ../gst-plugins-base/gst/playback/gstdecodebin2.c(4719): gst_decode_bin_expose (): /GstBin:bin0/GstDecodeBin:decodebin0:
+		no suitable plugins found:
+		Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+		```
 
 ### Fuguriya VNs
 

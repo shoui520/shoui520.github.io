@@ -63,17 +63,16 @@ This is important as we will need hardware acceleration. If you haven't already 
 !!! tip "Tip"  
 	If you are having issues with the binary packages, try compiling from the ports.  
 
-Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to run 64-bit applications with Wine and you also must use the `i386-wine` package of Wine if on an amd64 system. Do not be fooled by this name, if you are on a 32-bit system, use the regular `wine` package. However. lack of 64-bit support is not an issue for visual novels, as they are all 32-bit anyway.    
+Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to use WOW64 (64 bit Windows but able to run 32-bit applications) and you also must use the `i386-wine` package of Wine if on an amd64 system. Do not be fooled by this name, if you are on a 32-bit system, use the regular `wine` package. However. lack of WOW64 support is not an issue for visual novels, as they are all 32-bit anyway.    
 First install all the needed dependencies for Wine first, this is to ensure you don't end up in "Wine dependency hell":  
 
 !!! warning "lib32"
 	You need to have lib32 for this to work! Check if `/usr/lib32` exists! If you did not get it when installing FreeBSD, get it now.  
-	On 12.2-RELEASE, get `lib32.txz` from [[here]](https://download.freebsd.org/ftp/releases/amd64/12.2-RELEASE/lib32.txz)  
-	On 13.0-RELEASE, get `lib32.txz` from [[here]](https://download.freebsd.org/ftp/releases/amd64/13.0-RELEASE/lib32.txz)  
+	Get `lib32.txz` for your FreeBSD version [[here]](https://download.freebsd.org/ftp/releases/amd64/)  
 	Then run `sudo tar -C / -xpf lib32.txz` and then run `sudo freebsd-update`  
 
 ```bash
-sudo pkg install p7zip cabextract freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer1-plugins-good alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123
+sudo pkg install p7zip cabextract freetype libosmesa libpcap libjpeg-turbo sane-backends ncurses ocl-icd liberation-fonts-ttf libgphoto2 json-c unixODBC nss_mdns gstreamer1 gstreamer1-plugins-good gstreamer1-plugins-ugly gstreamer-plugins-bad alsa-plugins libx11 libXcursor libXi libXext libXxf86vm libXrandr libXinerama libGLU libXrender libzip lcms2 cups libxml2 libxslt flac libICE libSM libXtst libXcomposite openal-soft gtk3 libva libexif mpg123
 ```  
 
 Now, we need to install Wine:  
@@ -100,7 +99,7 @@ sudo cp winetricks /usr/local/bin
 
 ### Creating the Wineprefix
 
-First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit doesn't even work on FreeBSD anyway.
+First we need to create a 32 bit Wine prefix, this has the best compatibility and all visual novels are 32-bit anyway.
 
 ```bash
 WINEARCH=win32 wineboot
