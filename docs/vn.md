@@ -39,7 +39,7 @@ Remove the following:
 - Extra Newlines
 - Styler 
 
-![Image](img/textractor1.jpg)  
+![Image](img/textractor1.png)  
 
 !!! warning "Order of extensions" 
 	Your order of extensions is important. Here is what I usually recommend:  
@@ -52,19 +52,19 @@ Remove the following:
 
 Now we need to *attach* Textractor to your VN. 
 
-![Image](img/textractor2.jpg)  
+![Image](img/textractor2.png)  
 
 When it is attached, advance the text in the VN then cycle through the hooks to find the hook that matches the text displayed on the VN.  
 
-![Image](img/textractor3.jpg)  
+![Image](img/textractor3.png)  
 
 Now open your browser, head over to my [texthooking page](https://learnjapanese.moe/texthooker.html) make sure **Clipboard Inserter** is installed and enabled and then advance the text in the VN again.  
 
-![Image](img/textractor4.jpg)  
+![Image](img/textractor4.png)  
 
 You can then just press ++shift++ to use Yomichan.  
 
-![Image](img/textractor5.jpg)  
+![Image](img/textractor5.png)  
 
 All done! Enjoy the reading!! :smirk_cat:
 
