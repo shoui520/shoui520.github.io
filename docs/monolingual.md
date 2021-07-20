@@ -202,11 +202,11 @@ You need to have a lot of dictionaries and have every one of them enabled becaus
 
 This site has **all** the major dictionaries, for free and online. You can’t view all the definitions at the same time though.  
 
-Weblio: <https://www.weblio.jp/> (Uses 大辞林 第三版, 実用日本語表現辞典)
+Weblio: <https://www.weblio.jp/> (Uses デジタル大辞泉, 実用日本語表現辞典)
 
 Goo: <https://dictionary.goo.ne.jp/> (Uses デジタル大辞泉)
 
-Kotobank: <https://kotobank.jp/> (Uses デジタル大辞泉、大辞林 第三版 and 精選版 日本国語大辞典) 
+Kotobank: <https://kotobank.jp/> (Uses デジタル大辞泉 and 精選版 日本国語大辞典) 
 
 Google: search “[word] 意味” e.g. “侮る 意味” (Uses 岩波国語辞典)
   
