@@ -288,6 +288,7 @@ You can find hard to find things on private trackers. You can only get in by kno
 ### VPNs (Japan location specific)  
 
 #### Free
+- [(Cross-platform) VPN Gate](https://www.vpngate.net/en/) - free Japanese VPN servers with OpenVPN support.  
 - [(Windows) SoftEther](https://www.softether.org/5-download) - Make sure you read the manual of this. 
 - [(Android) VPN Japan](https://play.google.com/store/apps/details?id=vpn.japan) - I wouldn't trust my privacy with this, but it works well to get a Japanese IP I guess.  
 - [(iOS) Neko VPN](https://learnjapanese.link/vpnneko) - Seems to work fine. 
