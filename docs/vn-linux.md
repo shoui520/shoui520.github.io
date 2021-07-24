@@ -243,6 +243,12 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 !!! tip "Optional: GUI Improvments"
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
+First you need to get the latest patches for Winetricks or else this will not work. 
+
+```bash
+# winetricks --self-update
+```
+Now you can use Winetricks. 
 ```bash
 winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
