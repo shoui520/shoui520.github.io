@@ -151,6 +151,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 
 ### Sentence Search
 - [Yourei.jp](http://yourei.jp/) The World's Largest Japanese Sentence Search Engine
+- [Youglish](https://youglish.com/japanese) - improve your pronunciation
 - [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)  
 - [BCCWJ Search](https://bonten.ninjal.ac.jp/bccwj/string_search)  
 - [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)  
