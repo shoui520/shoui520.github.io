@@ -160,6 +160,8 @@ Follow the steps below to run VNs on Linux.
 	In case you do not have the VHBA kernel module, get it now.  
 	```bash
 	sudo apt install vhba-dkms
+	```
+	
 === "Fedora"  
 
 	First add the Wine repository.  
