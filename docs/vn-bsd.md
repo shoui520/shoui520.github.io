@@ -118,7 +118,7 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 
 First, please update Winetricks, or else it will not work. 
 ```bash
-# winetricks --self-update
+sudo winetricks --self-update
 ```
 Now we can use Winetricks:  
 

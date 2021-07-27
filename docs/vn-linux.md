@@ -35,7 +35,7 @@ Follow the steps below to run VNs on Linux.
 	sudo modprobe -a sg sr_mod vhba
 	```  
 
-=== "Debian/Ubuntu"
+=== "Ubuntu"
 
 	First you will need to enable 32-bit architecture.  
 	```bash
@@ -58,18 +58,7 @@ Follow the steps below to run VNs on Linux.
 		If you use a different version of Ubuntu you must do this instead. Replace `groovy` with the codename of the Ubuntu version you use. This one is for 20.10:
 		```bash
 		sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y
-		``` 
-	!!! info "Linux Mint"  
-		If you are on Linux Mint you must do this instead. Replace `bionic` with the codename of the Linux Mint version you use. This one is for 19.x:
-		```bash
-		sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
-		```
-	!!! info "Debian"
-		If you are on Debian you must do this instead. Replace `buster` with the codename of the Debian version you use. This one is for Buster:
-		```bash
-		deb https://dl.winehq.org/wine-builds/debian/ buster main
-		```
-
+		```  
 	Add PPA's for Lutris:  
 	```bash
 	sudo add-apt-repository ppa:lutris-team/lutris -y
@@ -88,7 +77,7 @@ Follow the steps below to run VNs on Linux.
 	```
 	Now install Lutris, CDEmu and some needed libraries:  
 	```bash
-	sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad libgudev-1.0-0:i386 1.0-0:i386 ocl-icd-dev:i386 -y
+	sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
 	```
 	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
 	First, wget the binary:  
@@ -108,8 +97,54 @@ Follow the steps below to run VNs on Linux.
 	sudo apt-get install vhba-module -y
 	```
 	!!! info "Custom and LTS Kernels"
-	If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`. 
+		If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`. 
 
+=== "Debian"
+	
+	✅ Tested on Debian 11 Bullseye
+	
+	First you will need to enable 32-bit architecture.  
+	```bash
+	sudo dpkg --add-architecture i386
+	```  
+	Download the WineHQ repository key:  
+	```bash
+	wget -nc https://dl.winehq.org/wine-builds/winehq.key
+	```  
+	Now add the WineHQ repository key:  
+	```bash
+	sudo apt-key add winehq.key
+	```  
+	Add the WineHQ repository to your `/etc/apt/sources.list`:  
+	
+	`deb https://dl.winehq.org/wine-builds/debian/ bullseye main`  
+	
+	You will need the **Deb Multimedia** repository for CDEmu, this is used to trick VNs that the disc is inserted if no crack is available.
+	Using `wget`, get its GPG keyring:
+	```bash
+	wget https://www.deb-multimedia.org/pool/main/d/deb-multimedia-keyring/deb-multimedia-keyring_2016.8.1_all.deb
+	```
+	Install the deb file as usual:
+	```bash
+	sudo dpkg -i deb-multimedia-keyring_2016.8.1_all.deb
+	```
+	Now add the repository to your `/etc/apt/sources.list`  
+	
+	`deb http://www.deb-multimedia.org bullseye main`  
+	
+	You also need to append `contrib` and `non-free` to your main repository line in `/etc/apt/sources.list` if you haven't done so already.    
+	Example:  
+	`deb http://deb.debian.org/debian bullseye main contrib non-free`  
+	
+	Now finally update package repositories:
+	```bash
+	sudo apt update
+	```
+	
+	Now install all the needed packages, including Wine, Lutris, CDEmu and other Wine dependencies.
+	```bash
+	sudo apt install --install-recommends winehq-stable lutris gcdemu cdemu-client cdemu-daemon libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 lgstreamer1.0-plugins-good:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
+	```
 
 === "Fedora"  
 
@@ -180,7 +215,7 @@ Follow the steps below to run VNs on Linux.
 
 === "openSUSE"  
 
-	:white_check_mark: Tested on openSUSE Tumbleweed 20210408 
+	✅ Tested on openSUSE Tumbleweed 20210408 
 
 	```bash
 	sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit gstreamer-plugins-bad gstreamer-plugins-bad-32bit gstreamer-plugins-ugly gstreamer-plugins-ugly-32bit libgudev-1_0-0 libgudev-1_0-0-32bit libSDL2-2_0-0 libjpeg-turbo
@@ -246,7 +281,7 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 First you need to get the latest patches for Winetricks or else this will not work. 
 
 ```bash
-# winetricks --self-update
+sudo winetricks --self-update
 ```
 Now you can use Winetricks. 
 ```bash
@@ -279,7 +314,7 @@ winetricks alldlls=default
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/Windows/Fonts`    
+Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/windows/Fonts`    
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.  
