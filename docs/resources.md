@@ -104,6 +104,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - epubs only. 10000+ books.  
 - [Boroboro](https://boroboro.neocities.org/listfullepub.html) - EPUBs of series not on itazuraneko.   
 - [Syosetsu Web Novels](https://yomou.syosetu.com/) - Web novels. In contrast to itazuraneko and boroboro, which has retail books, this has only web novels / 二次創作 (fanfiction)   
+- [Kakuyomu](https://kakuyomu.jp/) - Like syosetu.  
 - [Aozora Bunko](https://www.aozora.gr.jp/) - read Japanese classics. Books go on here if the author has died more than 50 years ago.  
 - **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Supports EPUB and HTMLZ. 縦書き by default. I love this reader.  
 
