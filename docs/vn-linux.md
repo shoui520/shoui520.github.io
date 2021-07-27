@@ -96,8 +96,6 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo apt-get install vhba-module -y
 	```
-	!!! info "Custom and LTS Kernels"
-		If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`. 
 
 === "Debian"
 	
@@ -143,9 +141,25 @@ Follow the steps below to run VNs on Linux.
 	
 	Now install all the needed packages, including Wine, Lutris, CDEmu and other Wine dependencies.
 	```bash
-	sudo apt install --install-recommends winehq-stable lutris gcdemu cdemu-client cdemu-daemon libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 gstreamer1.0-plugins-good:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
+	sudo apt install --install-recommends winehq-stable lutris dbus-x11 libmirage-plugins gcdemu cdemu-client cdemu-daemon libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 gstreamer1.0-plugins-good:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
+	```  
+	
+	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
+	First, wget the binary:  
+	```bash
+	wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
 	```
-
+	Use `chmod` to make it into an executable:  
+	```bash
+	chmod +x winetricks
+	```
+	Now copy it to your `/usr/bin` so it can be used in a command line.  
+	```bash
+	sudo cp winetricks /usr/bin
+	``` 
+	In case you do not have the VHBA kernel module, get it now.  
+	```bash
+	sudo apt install vhba-dkms
 === "Fedora"  
 
 	First add the Wine repository.  
@@ -385,7 +399,7 @@ LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
 !!! info ".msi installer"
 	If the installer executable is an .msi, run with `msiexec` instead of `wine`.  
 
-Proceed with the installation. The game may be installed in `$WINEPREFIX/drive_c/Program Files` or wherever you chose to install it.  
+Proceed with the installation. The game may be installed in `~/.wine/drive_c/Program Files` or wherever you chose to install it.  
 
 ## Adding to Lutris
 
