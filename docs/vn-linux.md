@@ -11,12 +11,17 @@ Follow the steps below to run VNs on Linux.
 	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
 
 	```bash
-	sudo pacman -S wine-staging winetricks lutris cdemu-client cdemu-daemon giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs gst-plugins-good lib32-gst-plugins-good gst-plugins-bad gst-plugins-bad-libs gst-plugins-ugly libgudev vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
+	sudo pacman -S wine-staging winetricks lutris giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs gst-plugins-good lib32-gst-plugins-good gst-plugins-bad gst-plugins-bad-libs gst-plugins-ugly libgudev vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
 	```
 
 	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
 
-	We also need to install the VHBA module.  
+	Now we might want something called *CDemu*, this is to trick some VNs into thinking that the original disc for the VN is inserted, so it'll let you play the game.  
+	```bash
+	sudo pacman -S cdemu-client cdemu-daemon
+	```
+	
+	In order to use CDemu, you need to install the VHBA module.  
 	```bash
 	sudo pacman -S vhba-module
 	```
@@ -63,10 +68,7 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo add-apt-repository ppa:lutris-team/lutris -y
 	```
-	Add PPA's for CDEmu:  
-	```bash
-	sudo add-apt-repository ppa:cdemu/ppa -y
-	```
+
 	Update packages:  
 	```bash
 	sudo apt update
@@ -77,7 +79,7 @@ Follow the steps below to run VNs on Linux.
 	```
 	Now install Lutris, CDEmu and some needed libraries:  
 	```bash
-	sudo apt-get install lutris gcdemu cdemu-client libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
+	sudo apt-get install lutris libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
 	```
 	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
 	First, wget the binary:  
@@ -92,9 +94,23 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo cp winetricks /usr/bin
 	```  
+	
+	Optionally, for some VNs, you might want *CDemu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game.  
+	
+	Add PPA's for CDEmu:  
+	```bash
+	sudo add-apt-repository ppa:cdemu/ppa -y
+	```
+	Update package repositories:  
+	```bash
+	sudo apt update
+	```
+	```bash
+	sudo apt-get install gcdemu cdemu-client
+	```
 	Now we need to install the VHBA module if you don't already have it.  
 	```bash
-	sudo apt-get install vhba-module -y
+	sudo apt-get install vhba-dkms -y
 	```
 
 === "Debian"
