@@ -274,7 +274,7 @@ Follow the steps below to run VNs on Linux.
 	* `png`
 
 	```bash
-	sudo emerge -av "=app-emulation/wine-vanilla-6.4" virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks media-libs/gst-plugins-base media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-libs/gst-plugins-bad
+	sudo emerge -av "=app-emulation/wine-vanilla-6.4" virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks media-libs/gst-plugins-base media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-libs/gst-plugins-bad app-emulation/wine-staging gstreamer mp3 openal vulkan vkd3d gssapi sdl vaapi opencl
 	sudo modprobe vhba
 	```
 
