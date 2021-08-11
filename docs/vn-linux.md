@@ -265,29 +265,41 @@ Follow the steps below to run VNs on Linux.
 	* `CONFIG_BLK_DEV_SR`
 	* `CONFIG_ISO9660_FS`
 	* `CONFIG_UDF_FS`
-
+	* `CONFIG_IA32_EMULATION` (for 32 bit support)
+	
+	and that you have a multilib setup.
+	
 	It is recommended to have the following global use flags in your `make.conf`:
 
 	* `X`
 	* `pulseaudio`
 	* `jpeg`
 	* `png`
-
+	
+	Refer to the gentoo wiki for more information on different verions of wine available on gentoo [here](https://wiki.gentoo.org/wiki/Wine). `wine-vanilla` should be able to run almost everything fine . Be sure that the flag `abi_x86_32` is not turned off FOR wine-vanilla (it's on by default), more info visit the wiki [here](https://wiki.gentoo.org/wiki/Wine#32-bit_vs_64-bit).
+	
+	Install the deps.
 	```bash
-	sudo emerge -av "=app-emulation/wine-vanilla-6.4" virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks media-libs/gst-plugins-base media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-libs/gst-plugins-bad app-emulation/wine-staging gstreamer mp3 openal vulkan vkd3d gssapi sdl vaapi opencl
+	sudo emerge -v app-emulation/wine-vanilla virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
+	```
+	
+	Load the vhba module for cdemu
+	```bash
 	sudo modprobe vhba
 	```
 
-	Edit your `/etc/conf.d/modules` file and add this:
+	To autoload the module on startup, edit your `/etc/conf.d/modules` file and add this line:
 
 	```toml
 	modules="vhba"
 	```
 
-	In order for the CDEmu daemon to be started automatically on boot, you will need to have dbus enabled. You can enable it by running:
+	In order for the CDEmu daemon to be started automatically by the UI, you will need to have dbus enabled. You can enable it by running:
 
 	```bash
 	sudo rc-update add dbus default
+	## or if systemd the default init
+	sudo systemctl enable dbus
 	```
 
 ## Configure Wine and install runtimes
