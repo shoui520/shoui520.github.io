@@ -102,7 +102,7 @@ sudo cp winetricks /usr/local/bin
 First we need to create a 32 bit Wine prefix, this has the best compatibility and all visual novels are 32-bit anyway.
 
 ```bash
-WINEARCH=win32 wineboot
+WINEARCH=~/.winevn WINEARCH=win32 wineboot
 ```  
 
 When Wine is started for the first time, you will need to let it install Gecko and Mono packages.  
@@ -123,14 +123,14 @@ sudo winetricks --self-update
 Now we can use Winetricks:  
 
 ```bash
-winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+WINEARCH=~/.winevn winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 !!! tip "ffdshow"
 	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
 
 For some VNs, such as TYPE-MOON's, LAVFilters may be needed to playback video.  
 ```bash
-winetricks lavfilters
+WINEARCH=~/.winevn winetricks lavfilters
 ```  
 !!! failure "ffdshow and LAVFilters"
 	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
@@ -138,16 +138,14 @@ winetricks lavfilters
 Then, run this command to disable DLL overrides, and use the native DLLs instead:
 
 ```bash
-winetricks alldlls=default
+WINEARCH=~/.winevn winetricks alldlls=default
 ```   
 
 ### Japanese fonts in Wine  
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `$WINEPREFIX/drive_c/windows/Fonts`    
-
-`$WINEPREFIX` is usually in `~/.wine`. You can do `export WINEPREFIX=~/.wine` to use this variable.  
+Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`    
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.
@@ -183,7 +181,7 @@ Now, extract it with `7z`:
 Now we can finally launch the installer with Wine.  
 
 ```bash
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn wine <setup_executable>.exe
 ```  
 !!! info ".msi installer"
 	If the installer executable is an .msi, run with `msiexec` instead of `wine`.  
@@ -196,13 +194,13 @@ I used Kanon Memorial Edition for this guide. I can `cd` into `$WINEPREFIX/drive
 
 ```bash
 cd /path/to/visualnovelfolder
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <vn_executable.exe>
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn wine <vn_executable.exe>
 ```
 
 !!! info "AlphaROMdiE"
 	For AlphaROMdiE, you need to run it with Wine and the VN executable as an argument. It should look like this:  
 	```bash
-	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN_executable.exe>
+	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn wine AlphaROMdiE.exe <VN_executable.exe>
 	``` 
 	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
 	```bash
@@ -244,7 +242,7 @@ Download fjfix [[here]](https://cdn.discordapp.com/attachments/81310533476312681
 Extract the archive.   
 Now in the terminal, run:  
 ```bash
-LC_ALL=ja_JP.UTF-8 wine fjfix.exe -f /path/to/MGD
+LC_ALL=ja_JP.UTF-8 WINEARCH=~/.winevn wine fjfix.exe -f /path/to/MGD
 ```
 
 Now it should just work.  

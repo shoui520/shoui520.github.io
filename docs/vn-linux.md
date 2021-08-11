@@ -297,7 +297,7 @@ Follow the steps below to run VNs on Linux.
 First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit is unnecessary for VNs.
 
 ```bash
-WINEARCH=win32 wineboot
+WINEPREFIX=~/.winevn WINEARCH=win32 wineboot
 ```  
 
 ### Using winetricks  
@@ -317,19 +317,19 @@ sudo winetricks --self-update
 ```
 Now you can use Winetricks. 
 ```bash
-winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+WINEARCH=~/.winevn winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 !!! tip "ffdshow"
 	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
 Installing DXVK slightly improves performance as it is a Vulkan implementation of D3DX9.  
 ```bash
-winetricks dxvk
+WINEARCH=~/.winevn winetricks dxvk
 ```  
 !!! warning "Vulkan Unsupported Systems"  
 	If your system does not support Vulkan, do not install DXVK. If you want to remove DXVK, follow the instructions [here](https://github.com/doitsujin/dxvk)  
 For some VNs, such as TYPE-MOON's, LAVFilters may be needed to playback video.  
 ```bash
-winetricks lavfilters
+WINEARCH=~/.winevn winetricks lavfilters
 ```  
 !!! failure "ffdshow and LAVFilters"
 	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
@@ -337,7 +337,7 @@ winetricks lavfilters
 Then, run this command to disable DLL overrides, and use the native DLLs instead:
 
 ```bash
-winetricks alldlls=default
+WINEARCH=~/.winevn winetricks alldlls=default
 ```  
 !!! question "Having issues?"	
 	You can set it back using `winetricks alldlls=builtin`  
@@ -346,7 +346,7 @@ winetricks alldlls=default
 
 You need to install Japanese fonts to Wine now. Please download the pack below.  
 [[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `~/.wine/drive_c/windows/Fonts`    
+Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`    
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.  
@@ -412,7 +412,7 @@ If all went well, you will be able to see the contents of the image by doing `ls
 Next, we will run the setup file using `wine`:
 
 ```bash
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine <setup_executable>.exe
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn wine <setup_executable>.exe
 ```
 !!! info ".msi installer"
 	If the installer executable is an .msi, run with `msiexec` instead of `wine`.  
@@ -430,7 +430,7 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 !!! tip "AlphaROMdiE"
 	For AlphaROMdiE, you need to add AlphaROMdiE to Lutris as the executable, and the filename .exe of the Visual Novel as an argument. If you are using Wine in a command line it should look something like this: 
 	```bash
-	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" wine AlphaROMdiE.exe <VN_executable.exe>
+	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn  wine AlphaROMdiE.exe <VN_executable.exe>
 	``` 
 	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
 	```bash
@@ -528,7 +528,7 @@ Download fjfix [[here]](https://cdn.discordapp.com/attachments/81310533476312681
 Extract the archive.   
 Now in the terminal, run:  
 ```bash
-LC_ALL=ja_JP.UTF-8 wine fjfix.exe -f /path/to/MGD
+LC_ALL=ja_JP.UTF-8 WINEARCH=~/.winevn wine fjfix.exe -f /path/to/MGD
 ```
 
 Now it should just work.  
