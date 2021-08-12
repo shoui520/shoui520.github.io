@@ -329,19 +329,19 @@ sudo winetricks --self-update
 ```
 Now you can use Winetricks. 
 ```bash
-WINEARCH=~/.winevn winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+WINEPREFIX=~/.winevn winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 !!! tip "ffdshow"
 	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
 Installing DXVK slightly improves performance as it is a Vulkan implementation of D3DX9.  
 ```bash
-WINEARCH=~/.winevn winetricks dxvk
+WINEPREFIX=~/.winevn winetricks dxvk
 ```  
 !!! warning "Vulkan Unsupported Systems"  
 	If your system does not support Vulkan, do not install DXVK. If you want to remove DXVK, follow the instructions [here](https://github.com/doitsujin/dxvk)  
 For some VNs, such as TYPE-MOON's, LAVFilters may be needed to playback video.  
 ```bash
-WINEARCH=~/.winevn winetricks lavfilters
+WINEPREFIX=~/.winevn winetricks lavfilters
 ```  
 !!! failure "ffdshow and LAVFilters"
 	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
@@ -349,7 +349,7 @@ WINEARCH=~/.winevn winetricks lavfilters
 Then, run this command to disable DLL overrides, and use the native DLLs instead:
 
 ```bash
-WINEARCH=~/.winevn winetricks alldlls=default
+WINEPREFIX=~/.winevn winetricks alldlls=default
 ```  
 !!! question "Having issues?"	
 	You can set it back using `winetricks alldlls=builtin`  
@@ -424,12 +424,12 @@ If all went well, you will be able to see the contents of the image by doing `ls
 Next, we will run the setup file using `wine`:
 
 ```bash
-LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn wine <setup_executable>.exe
+LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEPREFIX=~/.winevn wine <setup_executable>.exe
 ```
 !!! info ".msi installer"
 	If the installer executable is an .msi, run with `msiexec` instead of `wine`.  
 
-Proceed with the installation. The game may be installed in `~/.wine/drive_c/Program Files` or wherever you chose to install it.  
+Proceed with the installation. The game may be installed in `~/.winevn/drive_c/Program Files` or wherever you chose to install it.  
 
 ## Adding to Lutris
 
@@ -442,7 +442,7 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 !!! tip "AlphaROMdiE"
 	For AlphaROMdiE, you need to add AlphaROMdiE to Lutris as the executable, and the filename .exe of the Visual Novel as an argument. If you are using Wine in a command line it should look something like this: 
 	```bash
-	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEARCH=~/.winevn  wine AlphaROMdiE.exe <VN_executable.exe>
+	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEPREFIX=~/.winevn  wine AlphaROMdiE.exe <VN_executable.exe>
 	``` 
 	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
 	```bash
@@ -540,7 +540,7 @@ Download fjfix [[here]](https://cdn.discordapp.com/attachments/81310533476312681
 Extract the archive.   
 Now in the terminal, run:  
 ```bash
-LC_ALL=ja_JP.UTF-8 WINEARCH=~/.winevn wine fjfix.exe -f /path/to/MGD
+LC_ALL=ja_JP.UTF-8 WINEPREFIX=~/.winevn wine fjfix.exe -f /path/to/MGD
 ```
 
 Now it should just work.  
