@@ -29,11 +29,7 @@ Follow the steps below to run VNs on Linux.
 	!!! info "Custom and LTS Kernels"
 		If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
 
-	You can then enable the CDEmu daemon by running:
-
-	```bash
-	sudo systemctl enable --now cdemu-daemon
-	```  
+	The CDemu service is loaded with the kernel module.  
 
 	If drivers for CD/DVD drives are not automatically loaded, you can load it manually.  
 	```bash
@@ -105,13 +101,11 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo apt update
 	```
-	```bash
-	sudo apt-get install gcdemu cdemu-client
-	```
 	Now we need to install the VHBA module if you don't already have it.  
 	```bash
 	sudo apt-get install vhba-dkms -y
 	```
+	The CDemu service is loaded with the kernel module.  
 
 === "Debian"
 	
@@ -177,7 +171,8 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo apt install vhba-dkms
 	```
-	
+	The Cdemu service should be loaded with the kernel module.  
+
 === "Fedora"  
 
 	First add the Wine repository.  
