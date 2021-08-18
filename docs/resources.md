@@ -32,7 +32,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 	It is recommended you do Tango over Core solely because Tango is easier.      
 	You should get on to making your own mining deck after you finish N4.   
   
-- [Core2.3K VN Order Deck](https://mega.nz/file/21kV2IyT#hrHlRSx_f7DJ9q6xj52hIWtcJ62dMhPG6MlWNwm34ak) - the Core deck but ordered in terms of visual novel frequency.  
+- [Core2.3K VN Order Deck](https://anacreondjt.gitlab.io/docs/coredeck/) - the Core deck but ordered in terms of visual novel frequency.  
 
 ### Grammar
 - [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - explains Japanese in the best way possible. What she says is basically how Japanese grammar is thought of in Japanese, and then explained in English. As opposed to "traditional" way of Japanese grammar study, which distorts Japanese grammar to make it "easier" for Europeans.  
