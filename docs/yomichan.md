@@ -16,6 +16,11 @@ These come in `.zip` extension and **are not to be extracted by the user.**
 You can find my collection of Yomichan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
 [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)    
 
+I recommend you get the following dictionaries:  
+	- `Bilingual/[Bilingual] JMdict (English).zip`  
+	- `Bilingual/[Bilingual] 新和英.zip`  
+	- `Kanji/[Kanji] KANJIDIC (English).zip`  
+
 ## Installing Dictionaries and basic usage
   
 1. Click on the ![yomichan-icon](img/yomichan-icon.png) icon in the browser toolbar.  
