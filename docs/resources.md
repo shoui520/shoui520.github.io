@@ -241,7 +241,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.  
 - [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) - Manga scans reader with an OCR to look up words. Supports EPWING monolingual dictionaries.  
 - [Tachiyomi Manga Reader (Get the Japanese sources)](https://tachiyomi.org/) - Manga downloader/reader. Get the Japanese sources.  
-- [JP-Dictionary](https://github.com/kamui-7/JP-Dictionary) - Adds the iOS "Look Up" feature to Android.  
+- [Rin](https://github.com/kamui-7/rin) - Adds the iOS "Look Up" feature to Android.  
 - [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku) - System-wide OCR.  
 - [Google Japanese Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese) - Japanese input for Android. 
 - [Tae Kim App](https://play.google.com/store/apps/details?id=com.alexisblaze.japanese_grammar&hl=en) - Tae Kim's Guide to Japanese app.  

@@ -276,7 +276,7 @@ For manga, I recommend [KanjiTomo](http://www.kanjitomo.net/), it’s like Yomic
 
 #### Android tools  
 If you have an Android device, you can use Yomichan on Kiwi Browser.  
-You can get the app [JP-Dictionary](https://github.com/kamui-7/JP-Dictionary) which adds the iOS “Look Up” feature to your select menu.
+You can get the app [Rin](https://github.com/kamui-7/rin) which adds the iOS “Look Up” feature to your select menu.
 There is also [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) which works a little like KanjiTomo.   
 
 You should get [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja), which works more like Yomichan. You can load .epub files into it, so it is the best way to read Japanese novels on your phone. 
