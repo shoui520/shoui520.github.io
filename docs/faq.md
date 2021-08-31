@@ -4,9 +4,9 @@ Welcome to the Japanese FAQ. This is probably the most complete Japanese FAQ you
 Due to the FAQ becoming ridiculously long, it can be hard to quickly find what you want. In that case, use the search bar or ++ctrl+f++. 
 
 
-###Why this FAQ was made
+### Why this FAQ was made
 
-This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, ask it in the [Discord Server](https://discord.gg/nhqjydaR8j)
+This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, I'm willing to answer any question you have if you sub to my Patreon.  
 
 
 ### How do I learn Japanese?
@@ -21,9 +21,6 @@ It heavily depends on your method (*how* you are learning Japanese) and how long
 Raw anime, untranslated manga, light novels and visual novels. Unsubbed J-drama, Unsubbed Japanese Movies. In other words… **NATIVE CONTENT: CONTENT MADE BY NATIVES, FOR NATIVES**
 ### Hey shoui, so I know the method you describe is better than what I’m doing right now but can you please give me permission to carry on doing my own method?
 Don’t care. It’s your Japanese, not mine. 
-### Best anki settings???
-I don’t know. But I use QM's with 10 cards per day.
-[[Link]](https://animecards.site/ankisetup/)
 ### When should I start using Anki?
 You can start to use Anki whenever you want actually, you can even learn the kana with it. However I recommend you start using Anki when you already have a grasp of the kana and basic grammar, after that you can download and start working on the Tango Anki decks. (Mining comes after)
 ### When (what time of day) should I do Anki?

@@ -45,10 +45,8 @@ Remove the following:
 	Your order of extensions is important. Here is what I usually recommend:  
 	- Remove Repeated Characters  
 	- Remove Repeated Phrases  
+	- Regex Filter (optional, but needs to be above clipboard)  
 	- Copy to Clipboard  
-
-!!! info "Regex Filter"
-	If you want to use Regex Filter, it has to be moved to the top for some reason.  
 
 Now we need to *attach* Textractor to your VN. 
 
