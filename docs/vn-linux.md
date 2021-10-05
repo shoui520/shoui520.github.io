@@ -416,6 +416,9 @@ If all went well, you will be able to see the contents of the image by doing `ls
 
 ### Running the installer
 
+!!! info "Localegen"
+	Generate the ja_JP.UTF-8 locale first.
+
 Next, we will run the setup file using `wine`:
 
 ```bash
