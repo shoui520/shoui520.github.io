@@ -21,7 +21,7 @@ nav:
   - 'Resources':
     - 'Resources': 'resources.md' 
   - 'Other':
-    - 'Contact & Support': 'contact.md'
+    - 'Donate': 'contact.md'
 theme:
   features:
     - navigation.instant
