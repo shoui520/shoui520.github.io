@@ -377,6 +377,8 @@ Now go to System options and set the environment variables as shown below and cl
 - Key: `LC_ALL`	Value: `ja_JP.UTF-8`  
 - Key: `TZ`	Value: `Asia/Tokyo`   
 
+!!! tip "Wine prefix in lutris"
+	Forgot to include this so make sure you set the wine prefix in Lutris too.  
 ![Image](img/vnlinux3.jpg)  
 
 ## Installing the visual novel  
