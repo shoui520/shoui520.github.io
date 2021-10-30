@@ -125,6 +125,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 **Console/Emulator**  
 
 - [Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive](https://itazuraneko.neocities.org/library/game.html) - Nint#ndo NES, SNES, N64, Gamecube, GB, GBC, GBA, NDS, Sony PS1, PS2, PSP, Sega Master System, Genesis, Dreamcast, Saturn and NEC PC-98 games.  
+- [r/roms megathread](https://r-roms.github.io/) - has more roms than the other sites
 - [CDRomance Japanese PSP Games](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan) - PSP games 
 - [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan) - PS2 games
 - [Softcobra Nint#ndo Sw!tch Games](https://www.softcobra.com/) - Nint#ndo Sw!tch R#Ms  
@@ -138,7 +139,6 @@ Scan websites usually have the best collection but can be a pain to download fro
 ### Audiobooks & Podcasts
 - [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - The 0 yen audiobooks from Audible.  
 - [Audiobook Collection #1](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
-- [Audiobook Collection #2](https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a) - Some more audiobooks  
 - [AuDee Podcasts](https://audee.jp/)  
 
 ### Subtitles
@@ -151,14 +151,16 @@ Scan websites usually have the best collection but can be a pain to download fro
 - **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**    
 
 ### Sentence Search
-- [Yourei.jp](http://yourei.jp/) The World's Largest Japanese Sentence Search Engine
-- [Youglish](https://youglish.com/japanese) - improve your pronunciation
-- [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)  
-- [BCCWJ Search](https://bonten.ninjal.ac.jp/bccwj/string_search)  
-- [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)  
-- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)- Use the Repository search feature)
-- [SentenceSearch](https://sentencesearch.neocities.org/) - You can also grab audio for the sentences here!  
-- [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.  
+- [Yourei.jp](http://yourei.jp/) The World's Largest Japanese Sentence Search Engine  
+- [Massif](https://massif.la/) - Uses syosetsu novels as its source.  
+- [Immersion Kit](https://www.immersionkit.com/)  
+- [Youglish](https://youglish.com/japanese) - improve your pronunciation  
+- [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)   
+- [BCCWJ Search](https://bonten.ninjal.ac.jp/bccwj/string_search)    
+- [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)   
+- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)- Use the Repository search feature)  
+- [SentenceSearch](https://sentencesearch.neocities.org/) - You can also grab audio for the sentences here!    
+- [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.    
 
 ### Mining
 - **[※ AnimeCards](https://animecards.site/)** - the definitive. Use this.  
@@ -209,7 +211,7 @@ Contains older but better known dictionaries such as 新明解国語辞典 第�
 See Applications section for an EPWING reader.  
 
 #### E-Reader Dictionaries  
-- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/folder/nJxESL5T) - Made by epistularum(エピス)#9370    
+- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/folder/nJxESL5T) - Made by epistularum(エピス)#9370, includes StarDicts too.  
 
 ### Applications (Desktop)
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
@@ -253,6 +255,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [Tae Kim App](https://apps.apple.com/us/app/learning-japanese-with-tae-kim/id1366698942) - Tae Kim's guide to Japanese app.  
 - [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - the best mobile ebook reader on any platform. Period. 
 - [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga, Yomichan dictionary and EPWING support!  
+- [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - like Yomichan for iOS.  
 - [EBPocket Basic](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Port of EBMac for iOS devices, it is an EPWING and MDX reader, useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes.  
   
 ### Browser Extensions
