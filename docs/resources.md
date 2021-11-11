@@ -48,9 +48,8 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker with raw anime, this is the best place to get anime. I recommend you use **qBittorrent**! 
 - [zoro.to](https://zoro.to/) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.
 - [B9GOOD](http://b9good.com/) - you can stream raw anime here.  
-- [Anime-Raws](https://sites.google.com/view/animerawsmasterlist/home#) - you can stream or download raw anime here. They are all MEGA links, and MEGA supports streaming video.  
 - [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime, itazuraneko.  
-- [Animelon](https://animelon.com/) - stream anime with Japanese subtitles. 
+- [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.  
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video.   
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 
