@@ -39,7 +39,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 - [Cure Dolly Complete Transcript by dinuz](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc) - Because the audio quality is awful, and the image is unpleasant but the information is very valuable.  
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://itazuraneko.neocities.org/grammar/taekim.html) - The one grammar guide everyone recommends.  
 - [Dictionary of Grammar (DoJG) Reference](https://core6000.neocities.org/dojg/) - Table of all the grammar points in DoJG, helpful when you need quickly refer to a grammar point.  
-- ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the tradional way.
+- ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the traditional way.
 
 ## Acquiring Japanese
 
