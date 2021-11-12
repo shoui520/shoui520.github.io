@@ -332,8 +332,7 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 ### "Other"
 
 **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Read EPUBs with Yomichan. 縦書き by default.  
-- [JPDB.IO](https://jpdb.io/) - LN and VN word count and difficulty rating  
-- [Immersion Wiki](http://immersion.wiki/) - resources for immersion. Lacklustre at best.  
+- [JPDB.IO](https://jpdb.io/) - LN and VN word count and difficulty rating.  
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Good video, highly recommend.  
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.  
 - [VN Scripts](https://vnscripts.neocities.org/old.html) - wareya's vn scripts.  
