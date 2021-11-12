@@ -40,6 +40,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://itazuraneko.neocities.org/grammar/taekim.html) - The one grammar guide everyone recommends.  
 - [Dictionary of Grammar (DoJG) Reference](https://core6000.neocities.org/dojg/) - Table of all the grammar points in DoJG, helpful when you need quickly refer to a grammar point.  
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the traditional way.
+- [Nihongo NET JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT grammar taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.  
 
 ## Acquiring Japanese
 
