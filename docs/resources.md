@@ -262,12 +262,10 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 *Android users can use this on Kiwi Browser.*    
 - [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) - Used for the texthooking page (MPV and visual novels)      
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Enhance Netflix for language learning.     
-*Not Japanese related but still a must:*  
-- [uBlock Origin](https://github.com/gorhill/uBlock) - best ad-blocker. Stop using ABP.     
-- [Universal Bypass](https://universal-bypass.org/install) - Skip annoying short links.  
+- [Asbplayer](https://github.com/killergerbah/asbplayer) - Load local subtitle files to video streaming sites.  
 
 ### Downloading Tools
-- [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean, open source. Stop using μTorrent.  
+- [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean, open source.    
 - [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. Highly recommend. 
 - [Real Debrid](https://real-debrid.com/) - paid debrid service. You need this to download from scan sites/anime-sharing forum that use terrible filehosts such as Rapidgator and Katfile.
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - download YouTube videos, playlists, channels, etc.
