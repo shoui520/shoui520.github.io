@@ -211,7 +211,7 @@ Contains older but better known dictionaries such as 新明解国語辞典 第�
 See Applications section for an EPWING reader.  
 
 #### E-Reader Dictionaries  
-- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/folder/nJxESL5T) - Made by epistularum(エピス)#9370, includes StarDicts too.  
+- [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/) - Made by epistularum(エピス)#9370, includes StarDicts too.  
 
 ### Applications (Desktop)
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
