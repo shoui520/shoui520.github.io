@@ -327,7 +327,7 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 - [Itazuraneko Guide](https://itazuraneko.neocities.org/learn/guide.html) - 
 - [Old DJT Guide](https://djtguide.neocities.org/guide.html) - This guide has a place in my heart for eternity.  
 - [Matt vs. Japan playlist](https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm) - Watch this guy's YouTube channel, it's really good.  
-- [YouTube & Netflix mining guide](https://bumpy-toothpaste-4fa.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)  
+- [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)  
 - [Assorted JP Guides (Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
 
 ### "Other"
