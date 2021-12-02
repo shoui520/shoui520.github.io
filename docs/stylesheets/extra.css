@@ -42,12 +42,10 @@
     --md-primary-bg-color: #fff;
     --md-typeset-a-color: #00bbff;
     --md-primary-bg-color--light: hsla(0,0%,100%,.7);
-
-
-.md-nav__item .md-nav__link--active {
-
-  --md-typeset-a-color: #09DFFF;
-
 }
 
-:root;
+.md-banner__inner {
+    font-size: .7rem;
+    margin: .1rem auto;
+    padding: 0 .8rem;
+}
