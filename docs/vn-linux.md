@@ -474,7 +474,10 @@ Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual
 
 ### Shift-JIS
 
-When you've done everything correctly but your VN text still looks like this: ????? ?????????? ???????????? 
+Credit: Broken Dragon Translation  
+
+Do this when you've done everything correctly but your VN text still looks like this: ????? ?????????? ???????????? 
+You don't usually need to do this. 
 This means your VN needs to use ja_JP.sjis instead of ja_JP.UTF-8.  
 
 You need to download ja_JP.sjis from [here](https://cdn.discordapp.com/attachments/813105334763126814/825472692558889022/ja_JP.sjis.zip) first.  
@@ -490,15 +493,15 @@ Now compile the locale using `localedef`:
 localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 ```
 
-Using your editor of choice, edit your locale.gen and add `ja_JP.SJIS SHIFT_JIS` after `ja_JP.UTF-8 UTF-8`
+Using `sed`, edit your locale.gen
 
 ```bash
-vim  /etc/locale.gen
+sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/locale.gen
 ```
 Now generate locales:
 
 ```bash
-locale-gen
+locale-gen 
 ```  
 
 You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.  
