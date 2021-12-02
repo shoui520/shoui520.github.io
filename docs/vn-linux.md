@@ -498,7 +498,7 @@ vim  /etc/locale.gen
 Now generate locales:
 
 ```bash
-locale-gen --no-warnings=ascii
+locale-gen
 ```  
 
 You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.  
