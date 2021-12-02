@@ -1,4 +1,4 @@
-![welcome](img/welcome.png){:  style="display: block; margin: 0 auto;" }
+![welcome](img/welcome_wa2.png){:  style="display: block; margin: 0 auto;" }
 
 #Hello :)
 Hi, welcome to my site. :smirk_cat:

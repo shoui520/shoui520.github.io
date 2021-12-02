@@ -34,15 +34,15 @@ theme:
   palette:
     # Light mode
       - scheme: default
-        primary: purple
-        accent: blue
+        primary: blue grey
+        accent: cyan
         toggle:
           icon: material/weather-sunny
           name: Switch to dark mode
     # Dark mode
       - scheme: slate
-        primary: deep purple
-        accent: blue
+        primary: blue grey
+        accent: cyan
         toggle:
           icon: material/weather-night
           name: Switch to light mode
