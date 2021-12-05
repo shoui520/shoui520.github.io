@@ -1,6 +1,5 @@
 site_name: TheMoeWay
 site_description: Moe Moe Moe Moe Moe Moe Moe
-site_url: https://learnjapanese.moe
 site_author: shoui  
 nav:
   - Home: 'index.md'
