@@ -179,7 +179,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 
 - [Yomichan (Chromium and Firefox browsers)](https://foosoft.net/projects/yomichan/) - You MUST have this, or else what are you even doing?  
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
-- UPDATE JUNE 2021: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
+- UPDATE JUNE 2021: [shoui Yomichan Dictionaries Collection](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH?usp=sharing)  
 - Every dictionary explained in the text file.  
 
 #### Online
@@ -294,7 +294,7 @@ You can find hard to find things on private trackers. You can only get in by kno
 - [(Cross-platform) VPN Gate](https://www.vpngate.net/en/) - free Japanese VPN servers with OpenVPN support.  
 - [(Windows) SoftEther](https://www.softether.org/5-download) - Make sure you read the manual of this. 
 - [(Android) VPN Japan](https://play.google.com/store/apps/details?id=vpn.japan) - I wouldn't trust my privacy with this, but it works well to get a Japanese IP I guess.  
-- [(iOS) Neko VPN](https://learnjapanese.link/vpnneko) - Seems to work fine. 
+- [(iOS) Neko VPN](https://itunes.apple.com/jp/app/vpn%E3%83%8D%E3%82%B3-%E6%B0%B8%E4%B9%85%E3%81%AE%E7%84%A1%E6%96%99-%E3%83%88%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E7%84%A1%E5%88%B6%E9%99%90-%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/id1134784923?mt=8) - Seems to work fine. 
 
 #### Paid
 I only recommend Private Internet Access.  
@@ -321,12 +321,10 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 
 ### Guides/Methods/Motivation
 - [TheMoeWay](https://learnjapanese.moe/)
-- [All Japanese All The Time](https://learnjapanese.link/ajatt) - You should read this, it will motivate you even in the darkest of times.  
-- [Refold Languages](https://refold.la/) - 
+- [All Japanese All The Time](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/) - You should read this, it will motivate you even in the darkest of times.  
 - [AntiMoon](http://www.antimoon.com/) - 
 - [Itazuraneko Guide](https://itazuraneko.neocities.org/learn/guide.html) - 
 - [Old DJT Guide](https://djtguide.neocities.org/guide.html) - This guide has a place in my heart for eternity.  
-- [Matt vs. Japan playlist](https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm) - Watch this guy's YouTube channel, it's really good.  
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)  
 - [Assorted JP Guides (Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
 

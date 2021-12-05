@@ -3,6 +3,7 @@ site_description: Moe Moe Moe Moe Moe Moe Moe
 site_author: shoui  
 nav:
   - Home: 'index.md'
+  - learnjapanese.link archive: 'linkarchive.md'
   - 'Guides':
     - 'Japanese Guide': 'guide.md'
     - 'speaking.md'
@@ -20,7 +21,7 @@ nav:
   - 'Resources':
     - 'Resources': 'resources.md' 
   - 'Other':
-    - 'Donate': 'contact.md'
+    - 'Donate': 'donate.md'
 theme:
   features:
     - navigation.instant

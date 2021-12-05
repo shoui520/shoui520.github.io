@@ -254,7 +254,6 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 
 [Input Hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)  
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)  
-[Refoold Languages](https://refold.la/)  
 [All Japanese All The Time](https://learnjapanese.link/ajatt)  
 [AntiMoon](http://www.antimoon.com/)  
 [Itazuraneko](https://itazuraneko.neocities.org/)  
@@ -299,7 +298,6 @@ If you have any questions, you can ask at our Discord.
 ### Sources
 1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)  
 2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)  
-3. [Mass Immersion Approach - Japanese Quickstart Guide](https://massimmersionapproach.com/table-of-contents/stage-1/jp-quickstart-guide)  
-4. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)  
-5. [Itazuraneko - main guide](https://itazuraneko.neocities.org/learn/guide.html)  
-6. [Input Hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis)  
+3. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)  
+4. [Itazuraneko - main guide](https://itazuraneko.neocities.org/learn/guide.html)  
+5. [Input Hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis)  

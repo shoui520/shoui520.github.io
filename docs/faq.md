@@ -79,9 +79,7 @@ it depends on the j-drama though, if it is unrealistic fiction (e.g. Ikebukuro W
 ### I want to be able to understand anime without subtitles, will your guide work?
 Yes.
 ### I want to be able to speak with natives naturally, will your guide work?
-Yes.
-### Will reading the AJATT, MIA and AntiMoon site be useful?
-Kinda. 80% of the stuff on AJATT is trash, a lot of what's on MIA is about its Anki addons, but there are some helpful things on there. And honestly I don't even know about AntiMoon. The site is enough for most people.
+Yes.  
 ### How long should I immerse per day?
 As much as you can. The more Japanese you do, the more gains you get.
 ### This method seems too hardcore for me…
@@ -259,8 +257,7 @@ No, I don't recommend it. You can get by just by reading it in your head.
 ### Should I read out loud the sentence in my sentence cards?
 Nah you don't need to. Absolutely fine if you just read it in your head.
 ### Thoughts on passive immersion?
-It depends. If you can’t understand like 90% of your immersion yet then it won't get you gains. If you understand over 90% then you can make gains when you listen in on it every now and then, but much less efficient than active immersion overall.
-Edit: After talking with Matt vs. Japan, we settled that passive immersion is useful for getting used to spending time with your target language.
+It depends. If you can’t understand like 90% of your immersion yet then it won't get you gains. If you understand over 90% then you can make gains when you listen in on it every now and then, but much less efficient than active immersion overall.  
 ### Thoughts on Duolingo, Busuu, LingoDeer, Memrise, Drops and other similar apps
 Don’t even bother LMAO. Follow my guide for some real Japanese gains [Link](/guide)
 ### These two words have the same meaning!!
