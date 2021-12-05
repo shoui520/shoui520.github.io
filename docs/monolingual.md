@@ -105,7 +105,7 @@ I will touch on dictionaries in the next section.
 
 Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
 
-You can find my dictionaries collection here: [shoui Yomichan Dictionaries Collection](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH?usp=sharing)  
+You can find my dictionaries collection here: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
  
 Before we continue, have a read on recommended dictionaries and what they are exactly. 
 
