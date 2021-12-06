@@ -146,6 +146,7 @@ Scan websites usually have the best collection but can be a pain to download fro
 - [Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)  
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
+- [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)  
 - [Nekomoe Kissaten](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs)   
 - [動漫花園](https://share.dmhy.org/)  
 - **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**    
