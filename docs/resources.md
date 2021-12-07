@@ -55,7 +55,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" 
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 
 ### Movies & TV Shows (J-drama)
-- [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE) - (password for .zip/.rar archives: `bagikuy`)
+- [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
 - [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - stream some J-drama.  
