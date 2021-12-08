@@ -95,9 +95,14 @@ Here's how our pop up looks now:
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
 
-**Update 2021:** You can now add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
+You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
 
 ![Image](img/mono6.jpg)  
+
+**Update December 2021:** You should also add a text replacement rule for words with kanji repetition marks, they usually do not appear in monolingual dictionaries unless you repeat the kanji itself. Example:　囂々 won't appear in most monolingual dictionaries but 囂囂 will.
+Go to Settings -> Translation -> Custom Text Replacement Patterns and add the following rule:  
+Pattern: `(.)々`   
+Replacement: `$1$1`    
 
 I will touch on dictionaries in the next section.  
 
