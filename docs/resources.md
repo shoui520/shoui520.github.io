@@ -315,8 +315,7 @@ You can search for “ExpressVPN crack apk” if you’re an Android user. Works
 - [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)  
 - [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)  
 - [Condensed Audio 4](https://condensedaudiocatalog.com/#)  
-- [Condensed Audio 5](https://www.paliss.com/)  
-- [Condensed Audio 6](https://drive.google.com/drive/folders/1geNHj_nqdSHRBFi0tYaxjIL57s0sCB-y)  
+- [Condensed Audio 5](https://www.paliss.com/)   
 - [Condense your own audio](https://ercanserteli.com/condenser/)  
 
 

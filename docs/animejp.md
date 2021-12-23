@@ -1,6 +1,6 @@
 # Anime Japanese
 
-![LoveLive! Sunshine!!](img/lls1.jpg)
+![LoveLive! Muse](img/muse1_crop.jpg)
 
 In the Japanese learning world, it is common to come across the saying, "Don't/You can't learn Japanese from anime, no one talks that way!". However, this is in fact, false.
 First, let's consider just exactly why this argument exists in the first place.
@@ -38,7 +38,7 @@ Because anime makes use of 役割語, you will get a **broad sense of immersion*
 4. Close to real life speech, depending on what anime you watch. (e.g. Shinkai Makoto movies)
 5. Way better than boring textbooks, in terms of the actual Japanese and how much fun you're having too.
 
-![LoveLive! Sunshine!!](img/lls2.jpg)
+![LoveLive! Muse](img/muse2_crop.jpg)
 PS: Your anime needs to have either **Japanese subtitles** or in **entirely raw.**
 People on Reddit may argue that people have watched anime for so long with English subtitles but still don't know Japanese, they're right. However, we don't use English subtitles, we watch raw or with Japanese subtitles at least.
 
