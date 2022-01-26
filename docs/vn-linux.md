@@ -508,32 +508,7 @@ You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
 
 ### MPEG-1 movie does not play
 
-!!! failure "No full fix found yet"
-	I spent 20 hours trying to fix this issue (I use Arch btw) with a Liar-soft VN. If you manage to find a fix, please let me know!  
-	??? info "Things I have tried that may work for other VNs"  
-		- Installing every gstreamer plugin, including lib32 versions.  
-		- Using different combinations of gstreamer plugins (e.g. ugly & bad or good & base)  
-		- Launching the VN with the latest version of Proton-GE.  
-		- winetricks=alldlls default will entirely skip the video (already covered in this guide)  
-		- Using LAVFilters  
-		- Enabling MPEG-1 decoder in ffdshow  
-		- installing libgudev (including lib32 version)  
-		- 64-bit Wine prefix  
-		- installing gstreamer for Windows in wine  
-		- installing `allcodecs` in winetricks  
-		- installing wmp9, wmp10 and wmp11 and wmpcodecs  
-		- replacing quartz.dll with quartz.dll 6.5.2600.5512 from Windows XP  
-		- disabling winegstreamer.dll  
-		Despite all of this, something simple as playing back a MPEG-1 video was not possible.  
-		Using `gst-play-1.0` I am able to play the actual .mpg file just fine.  
-		Here is the error related to MPEG-1 video playback I get in the Wine debugger:  
-		```
-		winegstreamer error: decodebin0: GStreamer はプラグインを見つけることができません
-		0100:err:gstreamer:decodebin_parser_init_gst Failed to play stream.
-		winegstreamer error: decodebin0: ../gst-plugins-base/gst/playback/gstdecodebin2.c(4719): gst_decode_bin_expose (): /GstBin:bin0/GstDecodeBin:decodebin0:
-		no suitable plugins found:
-		Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
-		```
+See https://bugs.winehq.org/show_bug.cgi?id=52448 for the fix.  
 
 ### Fuguriya VNs
 
