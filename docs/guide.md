@@ -98,7 +98,7 @@ Kanji, literally meaning "Chinese Characters" is the third part of the Japanese 
 
 Around 3000 or more are used in daily life. Kanji are used when they are used. You will eventually understand what this means when you get a little more advanced in Japanese.
 
-![Highlighted Manga](img/highlighted_manga.jpg)
+![Highlighted Manga](img/highlighted_manga.png)
 <!-- https://media.discordapp.net/attachments/732715294459691044/733033853127622696/02.jpg?width=471&height=670 -->
 
 *Above is a page from the Love Live! Sunshine!! manga, showing hiragana, katakana and kanji.*
