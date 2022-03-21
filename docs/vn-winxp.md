@@ -1,10 +1,12 @@
 # Visual novels on a Windows XP Virtual Machine
 
+Some old visual novels will refuse to run on modern versions of Windows. For special cases like these you need to run Windows XP in order to play them.
+
 ## Requirements
 	
 Oracle VM VirtualBox [(Link)](https://www.virtualbox.org/wiki/Downloads)  
 
-Windows XP Professional SP3 Disc Image (.ISO) (Will not be provided here due to copyright, contact me at the Discord)  
+Windows XP Professional SP3 Disc Image (.ISO) 
 
 At least 4GB RAM (Recommended)  
 
