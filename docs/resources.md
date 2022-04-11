@@ -2,8 +2,6 @@
 
 Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning" Japanese and "Acquiring" Japanese.   
 
-~~Resource descriptions will be added soon, for now, just links.~~ Resource descriptions added!  
-
 ## Learning Japanese 
 
 ### Kana  
@@ -220,6 +218,8 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 - [EB - An EPWING and MDX Reader (Windows, Mac)](http://ebstudio.info/) - My favourite EPWING and MDX reader.      
 - [Qolibri, an EPWING reader, (for Linux)](https://github.com/ludios/qolibri) - I know it has a Windows version too, but EB is just nicer.    
 - [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels.   
+- [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
+- [Poricom Manga OCR](https://github.com/kha-white/manga-ocr) - GUI for manga-ocr
 - [KanjiTomo OCR for Manga/LN Scans](http://www.kanjitomo.net/)  - Requires Java (Oracle, not OpenJDK)  
 - [Capture2Text (Windows)](http://capture2text.sourceforge.net/) - recommend download better tessdata from the tesseract github for more accurate results.  
 - [Gazou OCR (Linux)](https://github.com/kamui-7/Gazou-OCR)   
@@ -233,6 +233,7 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
  
 #### Android
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.  
+- [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android.  
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Bilingual dictionary for Android based on the JMdict project, has cool features such as auto-correction and AnkiDroid integration.  
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project, simple, no special features.  
 - [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - Port of EBWin for Android devices, this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.  
