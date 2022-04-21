@@ -34,19 +34,8 @@ theme:
   palette:
     # Light mode
       - scheme: default
-        primary: blue grey
-        accent: cyan
-        toggle:
-          icon: material/weather-sunny
-          name: Switch to dark mode
-    # Dark mode
-      - scheme: slate
-        primary: blue grey
-        accent: cyan
-        toggle:
-          icon: material/weather-night
-          name: Switch to light mode
-          
+        primary: blue
+        accent: cyan      
   favicon: img/favicon.png
   logo: img/moe.svg
 markdown_extensions:
