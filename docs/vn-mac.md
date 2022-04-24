@@ -9,6 +9,9 @@ You should search on Google how to use either one of these to virtualize Windows
 Contact me on Discord if you need help with getting a Windows 7 or 10 ISO image, you will need this to install a Windows virtual machine.  
 
 
+## M1 Macs
+
+![Image](img/vn_mac_disclaimer.png)
 ## Boot Camp Assistant (Intel® based Macs)
 
 Boot Camp allows you to dual boot Windows on your Mac. You will get to keep macOS and also have Windows, and get to choose between them when ++option++ is pressed down at startup.  
