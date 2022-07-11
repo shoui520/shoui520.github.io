@@ -123,7 +123,7 @@ sudo winetricks --self-update
 Now we can use Winetricks:  
 
 ```bash
-WINEPREFIX=~/.winevn winetricks ffdshow quartz wmp9 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+WINEPREFIX=~/.winevn winetricks ffdshow quartz wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 !!! tip "ffdshow"
 	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
