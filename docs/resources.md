@@ -264,26 +264,18 @@ If you’re gonna use Anki, then **R**ead **T**he **F**#cking **M**anual, it wil
 ### Browser Extensions
 - [Yomichan](https://foosoft.net/projects/yomichan/) - Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
 *Android users can use this on Kiwi Browser.*    
-- [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) - Used for the texthooking page (MPV and visual novels)      
+- [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) - Used for the texthooking page (MPV and visual novels)  
+- [exSTATic](https://github.com/KamWithK/exSTATic) - Japanese language immersion progress tracker.        
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Enhance Netflix for language learning.     
 - [Asbplayer](https://github.com/killergerbah/asbplayer) - Load local subtitle files to video streaming sites.  
 
 ### Downloading Tools
 - [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean, open source.    
-- [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. Highly recommend. 
-- [Real Debrid](https://real-debrid.com/) - paid debrid service. You need this to download from scan sites/anime-sharing forum that use terrible filehosts such as Rapidgator and Katfile.
-- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - download YouTube videos, playlists, channels, etc.
-- [Tartube](https://tartube.sourceforge.io/) - GUI for youtube-dl
-- [Hakuneko Manga Downloader](https://github.com/manga-download/hakuneko)
-
-### Private Trackers
-*Info: [https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers](https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers)*  
-You can find hard to find things on private trackers. You can only get in by knowing someone that is already a member of these private trackers.
-
-- **AvistaZ**, for Japanese drama and movies (I have **0** invites)   
-- **AnimeBytes**, for anime, manga, VNs and such (I will not invite you.)  
-- **Jpopsuki**, for Japanese music (I have **0** invites)  
-- **jptv.club**, for Japanese TV with full Japanese subtitles. (I have **0** invites)  
+- [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. Highly recommended.   
+- [Real Debrid](https://real-debrid.com/) - paid debrid service. You need this to download from scan sites/anime-sharing forum that use terrible filehosts such as Rapidgator and Katfile.  
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - download YouTube videos, playlists, channels, etc.  
+- [Tartube](https://tartube.sourceforge.io/) - GUI for youtube-dl  
+- [Hakuneko Manga Downloader](https://github.com/manga-download/hakuneko)  
 
 ### Other Software
 - [7-Zip](https://www.7-zip.org/)- Archiver/Compresor. Better than WinRAR. 
