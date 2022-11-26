@@ -130,7 +130,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 ### Audiobooks & Podcasts
 - [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - Has some of the 0 yen audiobooks from Audible.  
 - [Audiobook Collection #1](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
-- [AuDee Podcasts](https://audee.jp/)  
+- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
 
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always).  
