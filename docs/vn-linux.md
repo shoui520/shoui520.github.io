@@ -338,7 +338,7 @@ sudo winetricks --self-update
 ```  
 Now you can use Winetricks to install some Windows dependencies like Visual Studio redistributables.  
 ```bash
-WINEPREFIX=~/.winevn winetricks -q wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+WINEPREFIX=~/.winevn winetricks -q d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
 For some VNs, such as TYPE-MOON's, LAVFilters may be needed for video playback.  
 ```bash
