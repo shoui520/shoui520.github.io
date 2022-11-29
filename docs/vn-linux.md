@@ -338,14 +338,14 @@ sudo winetricks --self-update
 ```
 Now you can use Winetricks to install some Windows dependencies like Visual Studio redistributables.
 ```bash
-WINEPREFIX=~/.winevn winetricks -q wmp10 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
+WINEPREFIX=~/.winevn winetricks -q wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```
 For some VNs, such as TYPE-MOON's, LAVFilters may be needed for video playback.
 ```bash
 WINEPREFIX=~/.winevn winetricks lavfilters
 ```
 !!! failure "LAVFilters"
-	While this shouldn't happen too often, some VNs may break with LAVFilters installed, so make sure you experiment! You can uninstall it from Wine's control panel.
+	While this shouldn't happen too often, some VNs may break with LAVFilters installed, so make sure you experiment! You can uninstall it from Wine's control panel (`wine control`).
 
 Then, run this command to disable DLL overrides and use Wine's default settings:
 
@@ -357,13 +357,13 @@ WINEPREFIX=~/.winevn winetricks alldlls=default
 	You can set it back using `winetricks alldlls=builtin`
 
 Next, install dxvk, quartz and change the renderer as the default Vulkan one doesn't play nice with videos.
+
 ```bash
 WINEPREFIX=~/.winevn winetricks dxvk quartz renderer=gdi
 ```
+
 !!! warning "Vulkan Unsupported Systems"
 	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove dxvk by following the instructions [here](https://github.com/doitsujin/dxvk).
-
-
 
 ### Japanese fonts in Wine
 
@@ -525,8 +525,15 @@ localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 === "Void"
 
 	Type in:
-	`sudo sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/default/libc-locales`
-	Then run `sudo xbps-reconfigure -f glibc-locales`.
+
+	```bash
+	sudo sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/default/libc-locales
+	```
+
+	Then run:
+
+	```sudo xbps-reconfigure -f glibc-locales
+	```
 
 
 You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
