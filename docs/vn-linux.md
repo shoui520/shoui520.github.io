@@ -1,6 +1,6 @@
 # Visual novels on Linux
 
-Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux.  
+Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux. 
 
 Follow the steps below to run VNs on Linux. 
 
@@ -11,7 +11,7 @@ Follow the steps below to run VNs on Linux.
 	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
 
 	```bash
-	sudo pacman -S wine-staging winetricks lutris giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs gst-plugins-good lib32-gst-plugins-good gst-plugins-bad gst-plugins-bad-libs gst-plugins-ugly libgudev vulkan-icd-loader lib32-vulkan-icd-loader cups samba dosbox
+	sudo pacman -S wine-staging winetricks ffmpeg lib32-ffmpeg alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugins-bad lib32-gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-ugly vulkan-icd-loader lib32-vulkan-icd-loader gst-libav lib32-gst-libav
 	```
 
 	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
@@ -20,7 +20,7 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo pacman -S cdemu-client cdemu-daemon
 	```
-	
+
 	In order to use CDemu, you need to install the VHBA module.  
 	```bash
 	sudo pacman -S vhba-module
@@ -42,11 +42,11 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo dpkg --add-architecture i386
 	```  
-	Download the WineHQ repository key:  
+	Download the WineHQ repository key:
 	```bash
 	wget -nc https://dl.winehq.org/wine-builds/winehq.key
 	```  
-	Now add the WineHQ repository key:  
+	Now add the WineHQ repository key:
 	```bash
 	sudo apt-key add winehq.key
 	```  
@@ -90,27 +90,27 @@ Follow the steps below to run VNs on Linux.
 	```bash
 	sudo cp winetricks /usr/bin
 	```  
-	
+
 	Optionally, for some VNs, you might want *CDemu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game.  
-	
+
 	Add PPA's for CDEmu:  
 	```bash
 	sudo add-apt-repository ppa:cdemu/ppa -y
-	```
+	```  
 	Update package repositories:  
 	```bash
 	sudo apt update
-	```
+	```  
 	Now we need to install the VHBA module if you don't already have it.  
 	```bash
 	sudo apt-get install vhba-dkms -y
-	```
+	```  
 	The CDemu service is loaded with the kernel module.  
 
 === "Debian"
-	
+
 	✅ Tested on Debian 11 Bullseye
-	
+
 	First you will need to enable 32-bit architecture.  
 	```bash
 	sudo dpkg --add-architecture i386
@@ -124,9 +124,9 @@ Follow the steps below to run VNs on Linux.
 	sudo apt-key add winehq.key
 	```  
 	Add the WineHQ repository to your `/etc/apt/sources.list`:  
-	
+
 	`deb https://dl.winehq.org/wine-builds/debian/ bullseye main`  
-	
+
 	You will need the **Deb Multimedia** repository for CDEmu, this is used to trick VNs that the disc is inserted if no crack is available.
 	Using `wget`, get its GPG keyring:
 	```bash
@@ -137,28 +137,28 @@ Follow the steps below to run VNs on Linux.
 	sudo dpkg -i deb-multimedia-keyring_2016.8.1_all.deb
 	```
 	Now add the repository to your `/etc/apt/sources.list`  
-	
+
 	`deb http://www.deb-multimedia.org bullseye main`  
-	
-	You also need to append `contrib` and `non-free` to your main repository line in `/etc/apt/sources.list` if you haven't done so already.    
+
+	You also need to append `contrib` and `non-free` to your main repository line in `/etc/apt/sources.list` if you haven't done so already.  
 	Example:  
 	`deb http://deb.debian.org/debian bullseye main contrib non-free`  
-	
+
 	Now finally update package repositories:
 	```bash
 	sudo apt update
 	```
-	
+
 	Now install all the needed packages, including Wine, Lutris, CDEmu and other Wine dependencies.
 	```bash
 	sudo apt install --install-recommends winehq-stable lutris dbus-x11 libmirage-plugins gcdemu cdemu-client cdemu-daemon libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 gstreamer1.0-plugins-good:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
-	```  
-	
-	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
-	First, wget the binary:  
+	``` 
+
+	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors. 
+	First, wget the binary: 
 	```bash
 	wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
-	```
+	```  
 	Use `chmod` to make it into an executable:  
 	```bash
 	chmod +x winetricks
@@ -166,12 +166,12 @@ Follow the steps below to run VNs on Linux.
 	Now copy it to your `/usr/bin` so it can be used in a command line.  
 	```bash
 	sudo cp winetricks /usr/bin
-	``` 
+	```  
 	In case you do not have the VHBA kernel module, get it now.  
 	```bash
 	sudo apt install vhba-dkms
 	```
-	The Cdemu service should be loaded with the kernel module.  
+	The CDemu service should be loaded with the kernel module.  
 
 === "Fedora"  
 
@@ -186,7 +186,7 @@ Follow the steps below to run VNs on Linux.
 	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/32/winehq.repo
 	```  
 
-	Now lets install ALL the build dependencies.  
+	Now let's install ALL the build dependencies.  
 
 	```bash
 	sudo dnf install alsa-plugins-pulseaudio.i686 glibc-devel.i686 glibc-devel libgcc.i686 libX11-devel.i686 freetype-devel.i686 libXcursor-devel.i686 libXi-devel.i686 libXext-devel.i686 libXxf86vm-devel.i686 libXrandr-devel.i686 libXinerama-devel.i686 mesa-libGLU-devel.i686 mesa-libOSMesa-devel.i686 libXrender-devel.i686 libpcap-devel.i686 ncurses-devel.i686 libzip-devel.i686 lcms2-devel.i686 zlib-devel.i686 libv4l-devel.i686 libgphoto2-devel.i686 cups-devel.i686 libxml2-devel.i686 openldap-devel.i686 libxslt-devel.i686 gnutls-devel.i686 libpng-devel.i686 flac-libs.i686 json-c.i686 libICE.i686 libSM.i686 libXtst.i686 libasyncns.i686 liberation-narrow-fonts.noarch libieee1284.i686 libogg.i686 libsndfile.i686 libuuid.i686 libva.i686 libvorbis.i686 libwayland-client.i686 libwayland-server.i686 llvm-libs.i686 mesa-dri-drivers.i686 mesa-filesystem.i686 mesa-libEGL.i686 mesa-libgbm.i686 nss-mdns.i686 ocl-icd.i686 pulseaudio-libs.i686 sane-backends-libs.i686 tcp_wrappers-libs.i686 unixODBC.i686 samba-common-tools.x86_64 samba-libs.x86_64 samba-winbind.x86_64 samba-winbind-clients.x86_64 samba-winbind-modules.x86_64 mesa-libGL-devel.i686 fontconfig-devel.i686 libXcomposite-devel.i686 libtiff-devel.i686 openal-soft-devel.i686 mesa-libOpenCL-devel.i686 opencl-utils-devel.i686 alsa-lib-devel.i686 gsm-devel.i686 libjpeg-turbo-devel.i686 pulseaudio-libs-devel.i686 pulseaudio-libs-devel gtk3-devel.i686 libattr-devel.i686 libva-devel.i686 libexif-devel.i686 libexif.i686 glib2-devel.i686 mpg123-devel.i686 mpg123-devel.x86_64 libcom_err-devel.i686 libcom_err-devel.x86_64 libFAudio-devel.i686 libFAudio-devel.x86_64
@@ -240,9 +240,9 @@ Follow the steps below to run VNs on Linux.
 	sudo systemctl restart systemd-modules-load.service
 	```  
 
-=== "openSUSE"  
+=== "openSUSE"
 
-	✅ Tested on openSUSE Tumbleweed 20210408 
+	✅ Tested on openSUSE Tumbleweed 20210408
 
 	```bash
 	sudo zypper install wine winetricks lutris cdemu-client cdemu-daemon gstreamer-plugins-good gstreamer-plugins-good-32bit gstreamer-plugins-base gstreamer-plugins-base-32bit gstreamer-plugins-libav gstreamer-plugins-libav-32bit gstreamer-plugins-bad gstreamer-plugins-bad-32bit gstreamer-plugins-ugly gstreamer-plugins-ugly-32bit libgudev-1_0-0 libgudev-1_0-0-32bit libSDL2-2_0-0 libjpeg-turbo
@@ -261,23 +261,23 @@ Follow the steps below to run VNs on Linux.
 	* `CONFIG_ISO9660_FS`
 	* `CONFIG_UDF_FS`
 	* `CONFIG_IA32_EMULATION` (for 32 bit support)
-	
+
 	and that you have a multilib setup.
-	
+
 	It is recommended to have the following global use flags in your `make.conf`:
 
 	* `X`
 	* `pulseaudio`
 	* `jpeg`
 	* `png`
-	
+
 	Refer to the gentoo wiki for more information on different verions of wine available on gentoo [here](https://wiki.gentoo.org/wiki/Wine). `wine-vanilla` should be able to run almost everything fine . Be sure that the flag `abi_x86_32` is not turned off FOR wine-vanilla (it's on by default), more info visit the wiki [here](https://wiki.gentoo.org/wiki/Wine#32-bit_vs_64-bit).
-	
+
 	Install the deps.
 	```bash
 	sudo emerge -v app-emulation/wine-vanilla virtual/wine games-util/lutris app-cdr/cdemu app-emulation/winetricks
 	```
-	
+
 	Load the vhba module for cdemu
 	```bash
 	sudo modprobe vhba
@@ -297,11 +297,25 @@ Follow the steps below to run VNs on Linux.
 	sudo systemctl enable dbus
 	```
 
+=== "Void"
+
+	Enable the multilib and nonfree repositories if you haven't already by running  
+	```bash
+	sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
+	```  
+
+	Next, run
+	```bash
+	sudo xbps-install -S wine wine-32bit winetricks ffmpeg libavcodec-32bit libavfilter-32bit libavformat-32bit libavresample-32bit libavutil-32bit libpostproc-32bit libswresample-32bit libswscale-32bit alsa-lib alsa-lib-32bit alsa-plugins alsa-plugins-32bit alsa-plugins-ffmpeg alsa-plugins-ffmpeg-32bit gst-plugins-base1 gst-plugins-base1-32bit gst-plugins-good1 gst-plugins-good1-32bit gst-plugins-bad1 gst-plugins-bad1-32bit gst-plugins-ugly1 gst-plugins-ugly1-32bit gst-libav gst-libav-32bit Vulkan-Headers Vulkan-ValidationLayers Vulkan-ValidationLayers-32bit vulkan-loader vulkan-loader-32bit lutris
+	```  
+
+	If you need something to mount disc images, run `sudo xbps-install -S cdemu-client`. When you need to use it, launch cdemu-daemon in a terminal before using the commands listed later in the guide.  
+
 ## Configure Wine and install runtimes
 
 ### Creating the Wineprefix  
 
-First we need to create a 32 bit Wine prefix, this has the best compatibility and 64 bit is unnecessary for VNs.
+First off, create a clean 32-bit Wine prefix. While a 64-bit prefix generally runs 32-bit programs well enough, you can run into unexpected problems (e.g. SafeDisc-protected games only work under 32-bit).  
 
 ```bash
 WINEPREFIX=~/.winevn WINEARCH=win32 wineboot
@@ -309,51 +323,53 @@ WINEPREFIX=~/.winevn WINEARCH=win32 wineboot
 
 ### Using winetricks  
 
-Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work. 
+Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work.  
 
 !!! tip "Optional: Font smoothing"
 	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
 
-!!! tip "Optional: GUI Improvments"
+!!! tip "Optional: GUI Improvements"
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
 First you need to get the latest patches for Winetricks or else this will not work. 
 
 ```bash
 sudo winetricks --self-update
-```
-Now you can use Winetricks. 
-```bash
-WINEPREFIX=~/.winevn winetricks ffdshow quartz wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
-!!! tip "ffdshow"
-	When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  
-Installing DXVK slightly improves performance as it is a Vulkan implementation of D3DX9.  
+Now you can use Winetricks to install some Windows dependencies like Visual Studio redistributables.  
 ```bash
-WINEPREFIX=~/.winevn winetricks dxvk
+WINEPREFIX=~/.winevn winetricks -q wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```  
-!!! warning "Vulkan Unsupported Systems"  
-	If your system does not support Vulkan, do not install DXVK. If you want to remove DXVK, follow the instructions [here](https://github.com/doitsujin/dxvk)  
 For some VNs, such as TYPE-MOON's, LAVFilters may be needed for video playback.  
 ```bash
 WINEPREFIX=~/.winevn winetricks lavfilters
 ```  
-!!! failure "ffdshow and LAVFilters"
-	Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  
+!!! failure "LAVFilters"
+	While this shouldn't happen too often, some VNs may break with LAVFilters installed, so make sure you experiment! You can uninstall it from Wine's control panel (`wine control`).
 
-Then, run this command to disable DLL overrides, and use the native DLLs instead:
+Then, run this command to disable DLL overrides and use Wine's default settings:  
 
 ```bash
 WINEPREFIX=~/.winevn winetricks alldlls=default
 ```  
-!!! question "Having issues?"	
+
+!!! question "Having issues?"
 	You can set it back using `winetricks alldlls=builtin`  
 
-### Japanese fonts in Wine  
+Next, install dxvk, quartz and change the renderer as the default Vulkan one doesn't play nice with videos.  
 
-You need to install Japanese fonts to Wine now. Please download the pack below.  
-[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
-Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`    
+```bash
+WINEPREFIX=~/.winevn winetricks dxvk quartz renderer=gdi
+```  
+
+!!! warning "Vulkan Unsupported Systems"
+	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove dxvk by following the instructions [here](https://github.com/doitsujin/dxvk).
+
+### Japanese fonts in Wine
+
+You need to install Japanese fonts to Wine now. Please download the pack below.
+[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)
+Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.  
@@ -378,7 +394,7 @@ Now go to System options and set the environment variables as shown below and cl
 - Key: `TZ`	Value: `Asia/Tokyo`   
 
 !!! tip "Wine prefix in lutris"
-	Forgot to include this so make sure you set the wine prefix in Lutris too.  
+	Forgot to include this so make sure you set the wine prefix in Lutris too.
 ![Image](img/vnlinux3.jpg)  
 
 ## Installing the visual novel  
@@ -401,7 +417,7 @@ cd /path/to/visualnovelfolder
 	```bash
 	cdemu load 0 /path/to/udf_volume
 	```  
-!!! question "CDEmu Mount Point?"  
+!!! question "CDEmu Mount Point?"
 	It should usually be in `/run/media/user/image_name`  
 
 If using a regular ISO9660 ISO file create a mount point for it.
@@ -443,12 +459,12 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 	For AlphaROMdiE, you need to add AlphaROMdiE to Lutris as the executable, and the filename .exe of the Visual Novel as an argument. If you are using Wine in a command line it should look something like this: 
 	```bash
 	LC_ALL="ja_JP.UTF-8" TZ="Asia/Tokyo" WINEPREFIX=~/.winevn wine AlphaROMdiE.exe <VN_executable.exe>
-	``` 
+	```
 	For the 1st option, you must create an empty file `disable_conv` in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file `other_engine` in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
 	```bash
 	touch disable_conv other_engine
 	```
-	
+
 ![Image](img/vnlinux5.jpg)  
 
 !!! warning "Vulkan Unsupported Systems"
@@ -464,7 +480,7 @@ Now you can just launch it in Lutris!
 	cdemu load 0 /path/to/image.ISO
 	```
 
-and viola!  
+and voila!  
 
 ![Image](img/vnlinux7.jpg)
 
@@ -493,29 +509,41 @@ Now compile the locale using `localedef`:
 localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 ```
 
-Using `sed`, edit your locale.gen
+=== "Default"
 
-```bash
-sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/locale.gen
-```
-Now generate locales:
+	Using `sed`, edit your locale.gen
 
-```bash
-locale-gen 
-```  
+	```bash
+	sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/locale.gen
+	```
+	Now generate locales:
 
-You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.  
+	```bash
+	locale-gen
+	```
 
-### MPEG-1 movie does not play
+=== "Void"
 
-See https://bugs.winehq.org/show_bug.cgi?id=52448 for the fix.  
+	Type in:
+
+	```bash
+	sudo sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/default/libc-locales
+	```
+
+	Then run:
+
+	```sudo xbps-reconfigure -f glibc-locales
+	```
+
+
+You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
 
 ### Fuguriya VNs
 
-VNs made by Fuguriya such as *Sono Hanabira ni Kuchizuke o* and *Hanahira*  will not launch with Wine by default. Follow the steps below to fix this.  
+VNs made by Fuguriya such as *Sono Hanabira ni Kuchizuke o* and *Hanahira* may not launch with Wine by default. Follow the steps below to fix this.  
 
-Download fjfix [[here]](https://cdn.discordapp.com/attachments/813105334763126814/832650409167945798/fjfix.tar.gz).   
-Extract the archive.   
+Download fjfix [[here]](https://cdn.discordapp.com/attachments/813105334763126814/832650409167945798/fjfix.tar.gz).  
+Extract the archive.  
 Now in the terminal, run:  
 ```bash
 LC_ALL=ja_JP.UTF-8 WINEPREFIX=~/.winevn wine fjfix.exe -f /path/to/MGD
@@ -524,6 +552,6 @@ LC_ALL=ja_JP.UTF-8 WINEPREFIX=~/.winevn wine fjfix.exe -f /path/to/MGD
 Now it should just work.  
 
 
-<h3>Found this useful? Consider supporting me on Patreon!</h3>   
+<h3>Found this useful? Consider supporting me on Patreon!</h3>  
 
 [:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
