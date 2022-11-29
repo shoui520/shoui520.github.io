@@ -340,10 +340,12 @@ Now you can use Winetricks to install some Windows dependencies like Visual Stud
 ```bash
 WINEPREFIX=~/.winevn winetricks -q wmp10 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```
-For some VNs, such as TYPE-MOON's, LAVFilters may be needed for video playback. Some VNs may break with this, so make sure you experiment!
+For some VNs, such as TYPE-MOON's, LAVFilters may be needed for video playback.
 ```bash
 WINEPREFIX=~/.winevn winetricks lavfilters
 ```
+!!! failure "LAVFilters"
+	While this shouldn't happen too often, some VNs may break with LAVFilters installed, so make sure you experiment! You can uninstall it from Wine's control panel.
 
 Then, run this command to disable DLL overrides and use Wine's default settings:
 
@@ -507,7 +509,8 @@ Now compile the locale using `localedef`:
 localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 ```
 
-=== Default
+=== "Default"
+
 	Using `sed`, edit your locale.gen
 
 	```bash
@@ -519,7 +522,8 @@ localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 	locale-gen
 	```
 
-=== Void
+=== "Void"
+
 	Type in:
 	`sudo sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/default/libc-locales`
 	Then run `sudo xbps-reconfigure -f glibc-locales`.
