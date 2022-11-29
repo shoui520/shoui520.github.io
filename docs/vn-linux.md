@@ -299,9 +299,15 @@ Follow the steps below to run VNs on Linux.
 
 === "Void"
 
-	Enable the multilib and nonfree repositories if you haven't already by running `sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree`.
+	Enable the multilib and nonfree repositories if you haven't already by running
+	```bash
+	sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
+	```
 
-	Next, run `sudo xbps-install -S wine wine-32bit winetricks ffmpeg libavcodec-32bit libavfilter-32bit libavformat-32bit libavresample-32bit libavutil-32bit libpostproc-32bit libswresample-32bit libswscale-32bit alsa-lib alsa-lib-32bit alsa-plugins alsa-plugins-32bit alsa-plugins-ffmpeg alsa-plugins-ffmpeg-32bit gst-plugins-base1 gst-plugins-base1-32bit gst-plugins-good1 gst-plugins-good1-32bit gst-plugins-bad1 gst-plugins-bad1-32bit gst-plugins-ugly1 gst-plugins-ugly1-32bit gst-libav gst-libav-32bit Vulkan-Headers Vulkan-ValidationLayers Vulkan-ValidationLayers-32bit vulkan-loader vulkan-loader-32bit lutris`.
+	Next, run
+	```bash
+	sudo xbps-install -S wine wine-32bit winetricks ffmpeg libavcodec-32bit libavfilter-32bit libavformat-32bit libavresample-32bit libavutil-32bit libpostproc-32bit libswresample-32bit libswscale-32bit alsa-lib alsa-lib-32bit alsa-plugins alsa-plugins-32bit alsa-plugins-ffmpeg alsa-plugins-ffmpeg-32bit gst-plugins-base1 gst-plugins-base1-32bit gst-plugins-good1 gst-plugins-good1-32bit gst-plugins-bad1 gst-plugins-bad1-32bit gst-plugins-ugly1 gst-plugins-ugly1-32bit gst-libav gst-libav-32bit Vulkan-Headers Vulkan-ValidationLayers Vulkan-ValidationLayers-32bit vulkan-loader vulkan-loader-32bit lutris
+	```
 
 	If you need something to mount disc images, run `sudo xbps-install -S cdemu-client`. When you need to use it, launch cdemu-daemon in a terminal before using the commands listed later in the guide.
 
@@ -330,7 +336,7 @@ First you need to get the latest patches for Winetricks or else this will not wo
 ```bash
 sudo winetricks --self-update
 ```
-Now you can use Winetricks.
+Now you can use Winetricks to install some Windows dependencies like Visual Studio redistributables.
 ```bash
 WINEPREFIX=~/.winevn winetricks -q wmp10 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
 ```
@@ -348,7 +354,7 @@ WINEPREFIX=~/.winevn winetricks alldlls=default
 !!! question "Having issues?"
 	You can set it back using `winetricks alldlls=builtin`
 
-Next, install quartz, dxvk and set the renderer to GDI.
+Next, install dxvk, quartz and change the renderer as the default Vulkan one doesn't play nice with videos.
 ```bash
 WINEPREFIX=~/.winevn winetricks dxvk quartz renderer=gdi
 ```
@@ -472,7 +478,7 @@ Now you can just launch it in Lutris!
 	cdemu load 0 /path/to/image.ISO
 	```
 
-and viola!
+and voila!
 
 ![Image](img/vnlinux7.jpg)
 
@@ -501,7 +507,7 @@ Now compile the locale using `localedef`:
 localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 ```
 
-== Default
+=== Default
 	Using `sed`, edit your locale.gen
 
 	```bash
@@ -513,7 +519,7 @@ localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 	locale-gen
 	```
 
-== Void
+=== Void
 	Type in:
 	`sudo sed -i '/ja_JP.UTF-8 UTF-8/a ja_JP.SJIS SHIFT_JIS  ' /etc/default/libc-locales`
 	Then run `sudo xbps-reconfigure -f glibc-locales`.
@@ -521,13 +527,9 @@ localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 
 You can then change the `LC_ALL` environment variable in Lutris to `ja_JP.sjis`.
 
-### MPEG-1 movie does not play
-
-See https://bugs.winehq.org/show_bug.cgi?id=52448 for the fix.
-
 ### Fuguriya VNs
 
-VNs made by Fuguriya such as *Sono Hanabira ni Kuchizuke o* and *Hanahira*  will not launch with Wine by default. Follow the steps below to fix this.
+VNs made by Fuguriya such as *Sono Hanabira ni Kuchizuke o* and *Hanahira* may not launch with Wine by default. Follow the steps below to fix this.
 
 Download fjfix [[here]](https://cdn.discordapp.com/attachments/813105334763126814/832650409167945798/fjfix.tar.gz).
 Extract the archive.
