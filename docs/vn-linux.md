@@ -4,6 +4,9 @@ Visual novels are only Microsoft Windows programs, therefore you must use Wine i
 
 Follow the steps below to run VNs on Linux. 
 
+!!! warning "Linux dependencies"
+	The guide is currently under review. While it hasn't been changed too much, the Linux dependency section has only been updated for Arch and Void thus far. When following another distro's instructions, make sure you install ffmpeg and the listed gstreamer plugins.
+
 ## Install Wine & Dependencies
 
 === "Arch"
