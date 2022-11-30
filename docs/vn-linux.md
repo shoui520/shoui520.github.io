@@ -11,10 +11,12 @@ Follow the steps below to run VNs on Linux.
 
 === "Arch"
 
-	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
+	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.  
+	
+	Next, install [yay](https://github.com/Jguer/yay#installation) then run the following command. 
 
 	```bash
-	sudo pacman -S wine-staging winetricks ffmpeg lib32-ffmpeg alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugins-bad lib32-gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-ugly vulkan-icd-loader lib32-vulkan-icd-loader gst-libav lib32-gst-libav
+	sudo yay -S wine-staging winetricks ffmpeg lib32-ffmpeg alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugins-bad lib32-gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-ugly vulkan-icd-loader lib32-vulkan-icd-loader lib32-openssl gst-libav lib32-gst-libav
 	```
 
 	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
@@ -302,12 +304,12 @@ Follow the steps below to run VNs on Linux.
 
 === "Void"
 
-	Enable the multilib and nonfree repositories if you haven't already by running  
+	Enable the multilib and nonfree repositories if you haven't already.    
 	```bash
 	sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
 	```  
 
-	Next, run
+	Next, install the necessary Linux dependencies.    
 	```bash
 	sudo xbps-install -S wine wine-32bit winetricks ffmpeg libavcodec-32bit libavfilter-32bit libavformat-32bit libavresample-32bit libavutil-32bit libpostproc-32bit libswresample-32bit libswscale-32bit alsa-lib alsa-lib-32bit alsa-plugins alsa-plugins-32bit alsa-plugins-ffmpeg alsa-plugins-ffmpeg-32bit gst-plugins-base1 gst-plugins-base1-32bit gst-plugins-good1 gst-plugins-good1-32bit gst-plugins-bad1 gst-plugins-bad1-32bit gst-plugins-ugly1 gst-plugins-ugly1-32bit gst-libav gst-libav-32bit Vulkan-Headers Vulkan-ValidationLayers Vulkan-ValidationLayers-32bit vulkan-loader vulkan-loader-32bit lutris
 	```  
@@ -535,7 +537,8 @@ localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 
 	Then run:
 
-	```sudo xbps-reconfigure -f glibc-locales
+	```bash
+	sudo xbps-reconfigure -f glibc-locales
 	```
 
 
