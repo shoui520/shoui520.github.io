@@ -1,14 +1,14 @@
 # Visual novels on Linux
 
-Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux. 
+Visual novels are Microsoft Windows-only programs, therefore you must use Wine in order to run them on Linux. This works exceptionally well in most cases.
 
-Follow the steps below to run VNs on Linux. 
+Follow the steps below. 
 
 !!! warning "Linux dependencies"
 	The guide is currently under review. While it hasn't been changed too much, the Linux dependency section has only been updated for Arch and Void thus far.  
 	When following another distro's instructions, make sure you install ffmpeg and the listed gstreamer plugins.
 
-## Install Wine & Dependencies
+## Install Wine & dependencies
 
 === "Arch"
 
@@ -332,13 +332,13 @@ WINEPREFIX=~/.winevn WINEARCH=win32 wineboot
 Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work.  
 
 !!! tip "Optional: Font smoothing"
-	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+	You can do `WINEPREFIX=~/.winevn winetricks fontsmooth=rgb` because without it, the font is simply awful.  
 	
 !!! tip "Optional: Filetype associations"
-	Execute `winetricks mimeassoc=off` to prevent Wine from taking over as the default application for some file formats.  
+	Execute `WINEPREFIX=~/.winevn winetricks mimeassoc=off` to prevent Wine from taking over as the default application for some file formats.  
 
 !!! tip "Optional: GUI Improvements"
-	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
+	You can open the Registry Editor using `WINEPREFIX=~/.winevn wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
 First you need to get the latest patches for Winetricks or else this will not work. 
 
@@ -373,9 +373,9 @@ WINEPREFIX=~/.winevn winetricks renderer=gdi
 
 ### Japanese fonts in Wine
 
-You need to install Japanese fonts to Wine now. Please download the pack below.
-[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)
-Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`
+You need to install Japanese fonts to Wine now. Please download the pack below.  
+[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
+Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`.  
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.  
@@ -384,7 +384,7 @@ Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/driv
 
 ### Environment Variables  
 
-Once thats done, we can setup Lutris.
+Once that's done, we can set up Lutris.
 
 Open Lutris, and click the plus icon in the top left corner, and click Install runners.
 
@@ -400,7 +400,7 @@ Now go to System options and set the environment variables as shown below and cl
 - Key: `TZ`	Value: `Asia/Tokyo`   
 
 !!! tip "Wine prefix in lutris"
-	Forgot to include this so make sure you set the wine prefix in Lutris too.
+	Forgot to include this so make sure you set the Wine prefix in Lutris too.
 ![Image](img/vnlinux3.jpg)  
 
 ## Installing the visual novel  
