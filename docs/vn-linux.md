@@ -333,6 +333,9 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 
 !!! tip "Optional: Font smoothing"
 	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+	
+!!! tip "Optional: Filetype associations"
+	Execute `winetricks mimeassoc=off` to prevent Wine from taking over as the default application for some file formats.  
 
 !!! tip "Optional: GUI Improvements"
 	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
@@ -350,7 +353,9 @@ WINEPREFIX=~/.winevn winetricks -q dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2
 !!! warning "Vulkan Unsupported Systems"
 	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove dxvk by following the instructions [here](https://github.com/doitsujin/dxvk).  
 
-You'd be best off making a backup of your prefix in its current state. After that, run the following command.
+You'll be installing Windows Media Player 10 next. As it's not easy to uninstall, you should make a copy of your prefix in its current state somewhere.  
+
+After that, run the following command.
 
 ```bash
 WINEPREFIX=~/.winevn winetricks -q wmp10
@@ -362,9 +367,9 @@ WINEPREFIX=~/.winevn winetricks renderer=gdi
 ```  
 
 !!! failure "Renderer"
-	The GDI option exists mostly for legacy purposes at this point.  
-	While the other renderers are more efficient, Wine tends to crash or skip videos without alerting you when using them. As there's no silver bullet, the guide opts for using GDI as the baseline.  
-	It's not wise, but a good chunk of VNs should work fine. If you experience any problems like low performance or black screens try running `winetricks renderer=gl` and only falling back to GDI if you can't progress otherwise.  
+	The GDI option exists mostly for legacy purposes.  
+	While the other renderers are more efficient, Wine tends to crash or skip videos without alerting you when using them. As such, the guide opts for using GDI as the baseline.  
+	If you experience any problems like low performance or black screens try running `winetricks renderer=gl` and only falling back to GDI if you can't progress otherwise.  
 
 ### Japanese fonts in Wine
 
