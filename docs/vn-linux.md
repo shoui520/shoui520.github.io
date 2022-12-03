@@ -1,17 +1,23 @@
 # Visual novels on Linux
 
-Visual novels are only Microsoft Windows programs, therefore you must use Wine in order to run them. This works exceptionally well on Linux. 
+Visual novels are Microsoft Windows-only programs, therefore you must use Wine in order to run them on Linux. This works exceptionally well in most cases.
 
-Follow the steps below to run VNs on Linux. 
+Follow the steps below. 
 
-## Install Wine & Dependencies
+!!! warning "Linux dependencies"
+	The guide is currently under review. While it hasn't been changed too much, the Linux dependency section has only been updated for Arch and Void thus far.  
+	When following another distro's instructions, make sure you install ffmpeg and the listed gstreamer plugins.
+
+## Install Wine & dependencies
 
 === "Arch"
 
-	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.
+	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.  
+	
+	Next, install [yay](https://github.com/Jguer/yay#installation) then run the following command. 
 
 	```bash
-	sudo pacman -S wine-staging winetricks ffmpeg lib32-ffmpeg alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugins-bad lib32-gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-ugly vulkan-icd-loader lib32-vulkan-icd-loader gst-libav lib32-gst-libav
+	yay -S wine-staging winetricks ffmpeg lib32-ffmpeg alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gst-plugins-base lib32-gst-plugins-base gst-plugins-good lib32-gst-plugins-good gst-plugins-bad lib32-gst-plugins-bad gst-plugins-ugly lib32-gst-plugins-ugly vulkan-icd-loader lib32-vulkan-icd-loader lib32-openssl gst-libav lib32-gst-libav
 	```
 
 	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
@@ -299,12 +305,12 @@ Follow the steps below to run VNs on Linux.
 
 === "Void"
 
-	Enable the multilib and nonfree repositories if you haven't already by running  
+	Enable the multilib and nonfree repositories if you haven't already.    
 	```bash
 	sudo xbps-install -S void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
 	```  
 
-	Next, run
+	Next, install the necessary Linux dependencies.    
 	```bash
 	sudo xbps-install -S wine wine-32bit winetricks ffmpeg libavcodec-32bit libavfilter-32bit libavformat-32bit libavresample-32bit libavutil-32bit libpostproc-32bit libswresample-32bit libswscale-32bit alsa-lib alsa-lib-32bit alsa-plugins alsa-plugins-32bit alsa-plugins-ffmpeg alsa-plugins-ffmpeg-32bit gst-plugins-base1 gst-plugins-base1-32bit gst-plugins-good1 gst-plugins-good1-32bit gst-plugins-bad1 gst-plugins-bad1-32bit gst-plugins-ugly1 gst-plugins-ugly1-32bit gst-libav gst-libav-32bit Vulkan-Headers Vulkan-ValidationLayers Vulkan-ValidationLayers-32bit vulkan-loader vulkan-loader-32bit lutris
 	```  
@@ -326,50 +332,50 @@ WINEPREFIX=~/.winevn WINEARCH=win32 wineboot
 Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work.  
 
 !!! tip "Optional: Font smoothing"
-	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+	You can do `WINEPREFIX=~/.winevn winetricks fontsmooth=rgb` because without it, the font is simply awful.  
+	
+!!! tip "Optional: Filetype associations"
+	Execute `WINEPREFIX=~/.winevn winetricks mimeassoc=off` to prevent Wine from taking over as the default application for some file formats.  
 
 !!! tip "Optional: GUI Improvements"
-	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
+	You can open the Registry Editor using `WINEPREFIX=~/.winevn wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
 
 First you need to get the latest patches for Winetricks or else this will not work. 
 
 ```bash
 sudo winetricks --self-update
 ```  
-Now you can use Winetricks to install some Windows dependencies like Visual Studio redistributables.  
+Now you can use Winetricks.  
 ```bash
-WINEPREFIX=~/.winevn winetricks -q wmp10 d3dx9 dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015
-```  
-For some VNs, such as TYPE-MOON's, LAVFilters may be needed for video playback.  
-```bash
-WINEPREFIX=~/.winevn winetricks lavfilters
-```  
-!!! failure "LAVFilters"
-	While this shouldn't happen too often, some VNs may break with LAVFilters installed, so make sure you experiment! You can uninstall it from Wine's control panel (`wine control`).
-
-Then, run this command to disable DLL overrides and use Wine's default settings:  
-
-```bash
-WINEPREFIX=~/.winevn winetricks alldlls=default
-```  
-
-!!! question "Having issues?"
-	You can set it back using `winetricks alldlls=builtin`  
-
-Next, install dxvk, quartz and change the renderer as the default Vulkan one doesn't play nice with videos.  
-
-```bash
-WINEPREFIX=~/.winevn winetricks dxvk quartz renderer=gdi
+WINEPREFIX=~/.winevn winetricks -q dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015 lavfilters alldlls=default quartz dxvk
 ```  
 
 !!! warning "Vulkan Unsupported Systems"
-	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove dxvk by following the instructions [here](https://github.com/doitsujin/dxvk).
+	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove dxvk by following the instructions [here](https://github.com/doitsujin/dxvk).  
+
+You'll be installing Windows Media Player 10 next. As it's not easy to uninstall, you should make a copy of your prefix in its current state somewhere.  
+
+After that, run the following command.
+
+```bash
+WINEPREFIX=~/.winevn winetricks -q wmp10
+```  
+
+As the last step, set the renderer to GDI to get around issues with cinematics.
+```bash
+WINEPREFIX=~/.winevn winetricks renderer=gdi
+```  
+
+!!! failure "Renderer"
+	The GDI option exists mostly for legacy purposes.  
+	While the other renderers are more efficient, Wine tends to crash or skip videos without alerting you when using them. As such, the guide opts for using GDI as the baseline.  
+	If you experience any problems like low performance or black screens try running `winetricks renderer=gl` and only falling back to GDI if you can't progress otherwise.  
 
 ### Japanese fonts in Wine
 
-You need to install Japanese fonts to Wine now. Please download the pack below.
-[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)
-Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`
+You need to install Japanese fonts to Wine now. Please download the pack below.  
+[[Google Drive]](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk)  
+Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/drive_c/windows/Fonts`.  
 
 !!! question "Why not install `cjkfonts` in winetricks?"
 	Because it doesn't work properly for VNs.  
@@ -378,7 +384,7 @@ Unzip the file and move the font files to your `Fonts` folder in `~/.winevn/driv
 
 ### Environment Variables  
 
-Once thats done, we can setup Lutris.
+Once that's done, we can set up Lutris.
 
 Open Lutris, and click the plus icon in the top left corner, and click Install runners.
 
@@ -394,7 +400,7 @@ Now go to System options and set the environment variables as shown below and cl
 - Key: `TZ`	Value: `Asia/Tokyo`   
 
 !!! tip "Wine prefix in lutris"
-	Forgot to include this so make sure you set the wine prefix in Lutris too.
+	Forgot to include this so make sure you set the Wine prefix in Lutris too.
 ![Image](img/vnlinux3.jpg)  
 
 ## Installing the visual novel  
@@ -488,6 +494,14 @@ Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual
 
 ## Linux: Troubleshooting
 
+### Glitchy videos
+
+If you experience videos breaking in some way like playing upside-down, try running them in the prefix from before installing wmp10.  
+
+As video support in Wine varies greatly, there's no real silver bullet solution that works for everything. Make sure to experiment - some VNs work fine without Windows Media Player but others won't (e.g. Yuzusoft VNs like *Sanoba Witch* will skip without it).  
+
+Though that's less likely, LAVFilters might also play a factor in some cases - if something goes wrong run `wine control` and try uninstalling it.  
+
 ### Shift-JIS
 
 Credit: Broken Dragon Translation  
@@ -532,7 +546,8 @@ localedef -i ja_JP -f SHIFT_JIS ./ja_JP.sjis --no-warnings=ascii
 
 	Then run:
 
-	```sudo xbps-reconfigure -f glibc-locales
+	```bash
+	sudo xbps-reconfigure -f glibc-locales
 	```
 
 
