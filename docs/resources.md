@@ -1,16 +1,18 @@
 # TheMoeWay Resources Sheet
 
-Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning Japanese" and "Acquiring" Japanese". 
+Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning Japanese" and "Acquiring" Japanese".  
+
+Please suggest additions to this resources page in the `#tmw-resource-page-revamp-contribution` channel of our Discord server.  
 ## Learning Japanese 
 
 ### Kana  
 
-- [**※- Tae Kim - The Writing System**](https://itazuraneko.neocities.org/grammar/taekim.html#0%20The%20Writing%20System) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
-- [Itazuraneko Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you do. 
+- [**※ - Tae Kim - The Writing System**](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
+- [Itazuraneko Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
 
 ### Kanji
 
-*Note: Reading a lot is the best way to learn kanji. With this method you learn kanji through learning to read words. However, you can seek alternatives below if you keep forgetting how to read words you come across, or if you want to learn how to write.*  
+**Important Note:** Reading a lot is the best way to learn kanji. This means you should learn kanji through learning to read words. However, you can seek alternatives below if you keep forgetting how to read words you come across, or if you want to learn how to write.*  
 
 - [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)  
 - [(Uses RTK) Learn the Kanji](https://www.learnkanji.guide/) - Guide on how to use RTK.  
@@ -36,7 +38,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
 - **[※ - NihongoKyoshi Anki Deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
 
-Sorry to overwhelm you with information, but check out my grammar dictionaries for Yomichan (pop up dictionary browser extension). 
+Sorry to overwhelm you with information, but also check out my grammar dictionaries for Yomichan (pop up dictionary browser extension). 
 
 ## Acquiring Japanese
 
@@ -58,8 +60,10 @@ Sorry to overwhelm you with information, but check out my grammar dictionaries f
 - [Crunchyroll (free with ads)](https://www.crunchyroll.com/) - some j-drama on here.     
 - [Minidrama](https://minidrama.net/j-drama/) - MKV downloads for J-drama.  
 - [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama 
-- [Japanese Live TV Streams](http://www.keylabo.com/watch-tv-online-for-free/)
+- [Japanese Live TV Streams](http://www.keylabo.com/watch-tv-online-for-free/) - Not all channels work.  
 - [Japanese Live TV Streams 2](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific). 
+- **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.  
+- [Aqstream Japanese TV Live streams](https://aqstream.com/jp) - Not all channels work.  
 - [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.  
 - [Some Japanese TV Shows on BiliBili](https://space.bilibili.com/60958832/#/video?tid=0&page=1&keyword=&order=pubdate)
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND  
@@ -71,23 +75,21 @@ Refer to the tools section for info on how to make lookups easier for manga.
 
 - [Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
-- [BilingualManga](https://bilingualmanga.com/) - Yomichan compatible & one-click translation.
+- [BilingualManga](https://bilingualmanga.net/) - Yomichan compatible & one-click translation.
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
 - [Rawkuma](https://rawkuma.com/) - Also lets you read manga online. 
 
-
 The websites below have the best collection but can be a pain to download from.  
 **Use a debrid service to generate premium full speed download links!**   
-
 - [A-zmanga](http://www.a-zmanga.net/) - Has the most content. You need a debrid service though.  
 - [DLRaw](https://dlraw.net/) - Starting to catch up to A-zmanga. You may need a debrid service though.
 - [13dl.to](http://13dl.to/) - Similar to a-zmanga. 
 - [JPDDL](https://jpddl.com/manga) - Similar to a-zmanga.  
 
-### Light Novels and Literary Texts
+### Novels and Literary Texts
 - [Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - This page has a lot of books, and you are able to sort by genre, author, kanji count and such. You may want to uncheck "Hide books translated from English", as it is enabled by default.
 - [Itazuraneko New Novel Library](https://itazuraneko.neocities.org/library/shousetu.html) - A more updated version of the above, with more books, but it lacks sorting.
 - [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - Huge list of books, 20000+ books. Takes a while to load when you click on the "検索" page. You can click on the name to read it in a web browser, or you can click on the file size to download it. Please note that the EPUB files that it gives you have highly compressed images. The search function does not work no matter what. Use CTRL+F/Find in page feature in your browser instead. 
@@ -96,7 +98,9 @@ The websites below have the best collection but can be a pain to download from.
 - [Kakuyomu](https://kakuyomu.jp/) - Similar to syosetu.  
 - [Hameln](https://syosetu.org/) - Also similar to syosetsu.
 - [Aozora Bunko](https://www.aozora.gr.jp/) - read Japanese classics. Books go on here if the author has died more than 50 years ago.  
-- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books. 
+- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books.  
+
+Note: Gaining the Student rank or above in our Discord channel grants you access to more books than just these.  
 
 ### Visual Novels and Games
  
@@ -117,20 +121,20 @@ Note: visual novels on consoles do not have any NSFW content.
 - [CDRomance Japanese PSP Games](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan) - PSP games 
 - [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan) - PS2 games
 - [Softcobra Nint#ndo Sw!tch Games](https://www.softcobra.com/) - Nint#ndo Sw!tch R#Ms  
-- [RoyalRoms (Gameboy, SNES, Genesis etc.) | Sort region by "Japan")](https://www.royalroms.com/roms/)    
+- [RoyalRoms (Gameboy, SNES, Genesis etc.) | Sort region by "Japan")](https://www.royalroms.com/roms/)  
 - [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround) - You can still download from emuparadise!   
-
 - [Jo-mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=0)- This has video game and anime difficulty ratings and also video game scripts. This can come in handy when you want to play a retro game and the text may be too pixelated for an OCR.  
 
 Japanese video game immersion tip: The PlayStation Vita is easy to hack and get Japanese games on. It has a huge Japanese game library so it could be useful for your immersion, especially if you want to play console exclusives.   
 
 #### Hook VNs with Textractor!
-- [VN Guide](https://learnjapanese.moe/vn/)
-
+- [VN Guide](https://learnjapanese.moe/vn/)  
 ### Audiobooks & Podcasts
 - [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - Has some of the 0 yen audiobooks from Audible.  
-- [Audiobook Collection #1](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
-- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
+- [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
+- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
+- [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
+- [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)   
 
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always).  
@@ -138,8 +142,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
 - [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)   
-- **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**    
-
+- **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**  
 ### Sentence Search
 - [Immersion Kit](https://www.immersionkit.com/) - Search sentences from anime, games etc. with translation. Made by Game Gengo. 
 - [Youglish](https://youglish.com/japanese) - Sentences sourced from YouTube video subtitles. This is a great tool to improve your pronunciation, as the words will be said by native speakers speaking naturally. 
@@ -149,10 +152,8 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)- (Use the Repository search feature)  
 - [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)   
 - [BCCWJ Search](https://bonten.ninjal.ac.jp/bccwj/string_search)    
-- [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)   
-
-
-- [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.    
+- [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)  
+- [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.  
 
 ### Mining
 - [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion. Other options here are heavily inspired by it. 
@@ -171,9 +172,10 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese words easily. 
 
-- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this, or else what are you even doing? This is an absolute must have. Japanese is the hardest language in the world. You see all these tools and resources made just so you can learn it?  
+- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. Japanese is the hardest language in the world. You see all these tools and resources made just so you can learn it?  
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
+- [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
 - Every dictionary explained in the text file.  
 
 #### Online
@@ -270,7 +272,7 @@ It is tricky to use at first. So please see the Mining section for guides on how
 
 ### Immersion Helpers
 
-[exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker
+[exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker  
 [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.   
  
   
