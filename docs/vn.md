@@ -2,13 +2,13 @@
 
 ### What are Visual Novels?
 
-Visual Novels (often abbreviated as **VN**) can be described as sort of a mix of a novel and a game, they feature a text-based storyline and only little interaction of the player. Most VNs have anime-like sprites and visuals, and are usually accompanied by voice acting, background music and sound effects. Throughout the game, the player may be given choices, which will have an effect on how the story will play out, so if you play it a second time, with different choices, you may get an entirely different plot.
+Visual Novels (often abbreviated as **VN**) can be described as sort of a mix of a novel and a game, they feature a text-based storyline and only little interaction from the player. Most VNs have anime-like visuals, and are usually accompanied by voice acting, background music and sound effects. Throughout the game, the player may be given choices, which will affect how the story will play out, so if you play it a second time, with different choices, you may get an entirely different plot.
 
 ![Image](img/vn1.jpg)
 
 ### Why Visual Novels?
-Reading Japanese is extremely important, but not everyone loves reading books, you may feel fatigued after a while reading a standard, text-only novel but oddly enough you may be able to read VNs for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it’s perfect for reading immersion.
-For the people that hate reading, and even find manga boring, VNs might just be perfect for you.
+Reading Japanese is extremely important, but not everyone loves reading books, you may feel fatigued after a while reading a standard, text-only novel but oddly enough you may be able to read VNs for hours without feeling fatigued. VNs have a mix of literary prose and conversational Japanese, so it is perfect for reading immersion.
+For the people that probably don't enjoy reading, and even find manga boring, VNs might just be perfect for you.
 ![Image](img/vn2.jpg)
 
 ### Playing visual novels to learn Japanese
@@ -17,9 +17,9 @@ This guide will go over how to play visual novels in Japanese and learn Japanese
 
 Requirements:
 
-[Download Textractor](https://github.com/Artikash/Textractor/releases)  
-[Get Yomichan](https://foosoft.net/projects/yomichan/)  
-[Get Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
+[Textractor](https://github.com/Artikash/Textractor/releases)  
+[Yomichan](https://foosoft.net/projects/yomichan/)  
+[Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
 [Texthooking Page](https://learnjapanese.moe/texthooker.html)  
 
 A detailed Yomichan setup tutorial can be found [here](/yomichan)
@@ -72,12 +72,13 @@ The texthooking page has an "accurate character count", meaning it does not coun
 
 !!! info "Can't hook?"
 	Try referring to the [H-Code list @ Visual Novel Texthooking Wiki](https://vn-hooking.fandom.com/wiki/H-Code)  
-	Please note that Little Busters! (REALLIVE.EXE) is impossible to hook. LITBUS_WIN32.EXE (Steam version) works with limited functionality however.
+	Little Busters! players, use the Ecstasy version and see [this](https://cdn.discordapp.com/attachments/813105334763126814/1047252417735036988/little_busters.png)  
 
-### Use a walkthrough!
-Playing a VN with a walkthrough is usually better than playing without one, because we wouldn’t want to get a bad ending.
+### Need a walkthrough?
+If you are not used to visual novels, or games that make you make choices that decide the fate of the story, you may want to use a walkthrough. After all, you wouldn't want to get a bad ending.  
+You can find walkthroughs by searching “[vn name] 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.  
 
-You can find walkthroughs by searching “[vn name] 攻略” e.g. “Angel Beats! -1st Beat- 攻略”.
+If you insist on not using a walkthrough, it is a wise decision to create a save file everytime you are faced with a choice. VN's often have 99+ save data slots, because they assume you'll be populating them with every decision point in the game.  
 
 ### Unsure what to play?
 
