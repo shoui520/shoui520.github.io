@@ -89,7 +89,8 @@ To counteract this, do the following:
 3. Search for `font.cjk_pref_fallback_order`
 4. Move `ja` to the front of the entire value
 
-!!! warning "The commas are important" They are there to separate the language values in that sentence, take care not to carelessly remove one.
+!!! warning "The commas are important"  
+	They are there to separate the language values in that sentence, take care not to carelessly remove one.
 
 Before:
 ![Firefox settings 1](img/font10.png)
@@ -109,7 +110,7 @@ Adding the Japanese keyboard (kana or romaji whatever works) should do the trick
 
 ## Anki
 
-I think Chinese font in Anki cards looks the worst as kana will be sans-serif and kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
+I think Chinese fonts on Anki cards looks the worst because kana will be sans-serif and kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
 
 <figure>
   <img src="/img/font4.png" width="900" />
