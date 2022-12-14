@@ -63,7 +63,7 @@ sudo locale-gen
 Now install the [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/) package. It is available on the official Arch repositories and it's known to set up the necessary fontconfig rules when installed in Arch.  
 
 If _**any**_ part of that does not apply to you (p.e. different distro, different font, different method of installation), fontconfig may or may not have been set up properly.  
-If you don't how to check that, simply create a new file with the necessary fontconfig rules in the `~/.config/fontconfig/conf.d` directory (create if it doesn't exists) for Japanese text. You can use [this](https://wiki.archlinux.org/title/Font_configuration/Examples#Japanese) section of the Arch Wiki or [this](https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/fontconfig/conf.d/99-japanese-fonts.conf) excellent example config file by tatsumoto-ren as references.  
+If you don't know how to check that, simply create a new file with the necessary fontconfig rules in the `~/.config/fontconfig/conf.d` directory (create the directory if it doesn't exist) for Japanese text. You can use [this](https://wiki.archlinux.org/title/Font_configuration/Examples#Japanese) section of the Arch Wiki or [this](https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/fontconfig/conf.d/99-japanese-fonts.conf) excellent example config file by tatsumoto-ren as references.  
 
 #### Caveats
 
@@ -81,7 +81,7 @@ Sans-serif font: Noto Sans CJK JP Regular
 
 ##### Firefox
 
-Unless Firefox has Japanese set as one of its languages or the webpage (or one of its sections) explicitly claims to be in Japanese (`lang="ja"`), it tends to fallback to Chinese characters. This is due to Chinese fonts tending to have a more complete character coverage.  
+Unless Firefox has Japanese set as one of its languages or the webpage (or one of its sections) explicitly claims to be in Japanese (`lang="ja"`), it tends to fallback to Chinese characters. This is because Chinese fonts tend to have a more complete character coverage.  
 To counteract this, do the following:
 
 1. Open a new tab to `about:config`
