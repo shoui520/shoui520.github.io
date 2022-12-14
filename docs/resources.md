@@ -15,6 +15,7 @@ Please suggest additions to this resources page in the `#tmw-resource-page-revam
 **Important Note:** Reading a lot is the best way to learn kanji. This means you should learn kanji through learning to read words. However, you can seek alternatives below if you keep forgetting how to read words you come across, or if you want to learn how to write.*  
 
 - [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)  
+- **[※ - The "Kanken Deck"](https://ankiweb.net/shared/info/759825185) - The best way to learn how to write when you can already read.**
 - [(Uses RTK) Learn the Kanji](https://www.learnkanji.guide/) - Guide on how to use RTK.  
 - [Recognition Remembering The Kanji with less than 450 cards (RRTK)](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - Shortened version of RTK.   
 
