@@ -89,7 +89,7 @@ To counteract this, do the following:
 3. Search for `font.cjk_pref_fallback_order`
 4. Move `ja` to the front of the entire value
 
-!!! warning "The commas are important" They are there to separate the language values in that sentence, take care not to remove or make double commas.
+!!! warning "The commas are important" They are there to separate the language values in that sentence, take care not to carelessly remove one.
 
 Before:
 ![Firefox settings 1](img/font10.png)
