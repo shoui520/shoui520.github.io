@@ -92,10 +92,10 @@ To counteract this, do the following:
 !!! warning "The commas are important" They are there to separate the language values in that sentence, take care not to remove or make double commas.
 
 Before:
-(insert image here)
+![Firefox settings 1](img/font10.png)
 
 After:
-(insert image here)
+![Firefox settings 2](img/font11.png)
 
 ## Android
 
