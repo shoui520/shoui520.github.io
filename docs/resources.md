@@ -148,6 +148,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [Youglish](https://youglish.com/japanese) - Sentences sourced from YouTube video subtitles. This is a great tool to improve your pronunciation, as the words will be said by native speakers speaking naturally. 
 - [Massif](https://massif.la/) - Uses syosetsu novels as its source.  
 - [Yourei.jp](http://yourei.jp/) "The World's Largest Japanese Sentence Search Engine" 
+- [Twitter](https://twitter.com/search?q=%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C&f=top) - You might need to be logged in to use this. 
 - [SentenceSearch](https://sentencesearch.neocities.org/) - Sentences sourced from multiple learning resources. You can also grab audio for the sentences here!    
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles)- (Use the Repository search feature)  
 - [Kotonoha Corpus](http://nlb.ninjal.ac.jp/search/)   
@@ -172,7 +173,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese words easily. 
 
-- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. Japanese has a crazy writing system. You see all these tools and resources made just so you can learn it?  
+- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
 - [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
