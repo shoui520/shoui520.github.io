@@ -172,7 +172,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese words easily. 
 
-- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. Japanese is the hardest language in the world. You see all these tools and resources made just so you can learn it?  
+- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. Japanese has a crazy writing system. You see all these tools and resources made just so you can learn it?  
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
 - [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
