@@ -529,7 +529,7 @@ It might be hard to figure out what subtitle belongs to what audio when reading 
 
 Sentences written in kana make it easier to tell which is which though.  
 
-This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) displays the subtitles in a list. This makes it easier to go back to a line you missed.  
+This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) displays the subtitles in a list. This makes it easier to go back to a line you missed. It only works if you had it open before loading the subtitle.  
 
 **This also enables you to "read" the anime! Which I recommend you do!!!**    
 
