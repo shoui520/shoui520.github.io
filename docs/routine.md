@@ -25,7 +25,7 @@ It has been years since I was a beginner at Japanese, but recently I have tried 
 ### Stage: Starting kana stage  
 
 Read about kana (hiragana and katakana). This is to find out why and how they are used.  
-Click [this link)](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+Click [(this link)](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
 Just read it until you get to "kanji".  
 
 Then copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
