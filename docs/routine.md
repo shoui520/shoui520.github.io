@@ -1,6 +1,6 @@
 # 30 Day Japanese (UsagiSpoon)  
 
-A routine for people that are lost on how to start learning. You don't have to follow this that is why it is not part of the main guide.  
+A routine for people that are lost on how to start learning. 
 
 The routines are split into days. Each day has tasks that you need to do.  
 
@@ -20,15 +20,15 @@ What I expect from you:
 
 It has been years since I was a beginner at Japanese, but recently I have tried learning other languages, so my memories of what it was like being a beginner came back to me. I tried my best to make this study guide as approachable as possible.  
 
-
-
 ## Day 1  
 
 ### Stage: Starting kana stage  
 
-Read about kana(hiragana and katakana). [(here)](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts)  
+Read about kana (hiragana and katakana). This is to find out why and how they are used.  
+Click [this link)](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+Just read it until you get to "kanji".  
 
-Then copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).  
+Then copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
 It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty.  
 You can do it on a paper or a screen, it doesn't matter really.   
 
@@ -42,12 +42,9 @@ Type the correct romaji in the text box. This is how you'll practice your kana.
 Do this for 10 minutes.  
 You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
-
-
 ## Day 2  
 
 ### Stage: Creating your own Japan at home  
-
 
 Practice on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes. Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/). Do not forget that all kana must be enabled.  
 
@@ -84,12 +81,12 @@ See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to 
 
 A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
 
-
+**Your task:**  
 
 I want you to try immersing for the first time with the "subtitle tutor" method.  
 The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier). 
 
-The flowchart process is this:
+The flowchart process:
 
 1. Watch with English subtitles  
 2. Watch without any subtitles  
@@ -108,45 +105,32 @@ A: Some of you might have wondered why I want you to immerse without knowing any
 
 **Q: So I've completed my first episode, what should I do now?**
 
-A: If you have enough time, watch another!!!
+A: You can consider that your immersion done for today but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
 
-**Q: How many?**
-
-A: Let a 4 sided dice decide that. 
-
-[https://www.google.com/search?q=roll+a+4+sided+dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
-
-Roll!  
-
-The number you get is the number of anime episodes you watch for today!  
+[Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
-
-
-
 ## Day 3
 
 ### Stage: Just starting grammar
 
-Do your daily kana practice on this site! [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes.  
+Do your daily kana practice on this site! [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes.    
 Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
-
 
 Now here's where you'll start grammar.  
 
-You don't need to do any drills or anything.   
+You don't need to do any drills or anything.    
 
-You don't need to choose the correct patterns or anything like that.  
+You don't need to choose the correct patterns or anything like that.   
 
-Everything you will be learning is insanely common and will be reinforced with your daily immersion.    
+Everything you will be learning is insanely common and will be reinforced with your daily immersion.     
 
 The grammar guide I want you to use is Cure Dolly's Organic Japanese.  
 
 The playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 
 All I want you to do is **watch the videos** and **take notes** (Google note taking site here: [https://keep.google.com/](https://keep.google.com/))  
-
-Note: I recommend turning on the subtitles for cure dolly's videos.   
+**Note: I recommend turning on the subtitles for Cure Dolly's videos.**  
 
 **Watch 3 videos a day**  
 
@@ -156,8 +140,10 @@ That is a good number, you will be near the end of her guide after 30 days at th
 
 **Q: What should I even put in my notes?**  
 
-A: You should put information that you feel is important. Rely on your instincts. If Cure Dolly says this is that, then you might want to take a note of that.   
-Your notes do not need to be detailed, and you don't need to show them to anyone.  
+A: You should put information that you feel is important.  
+Rely on your instincts.  
+If Cure Dolly says this means that, then you might want to take a note of it.     
+Your notes do not need to be detailed, and you don't need to show them to anyone.   
 Your notes are YOUR notes, make them your notes.  
 
 **Q: Why should I even do notes! I can probably remember everything anyway!**
@@ -180,8 +166,6 @@ Now what I want you to do is immerse.
 You know the drill.  
 
 [Roll a 4 sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
-
-If you get 1, then that is unfortunate. 1 episode is not enough immersion in my opinion. You might want to think of the dice as "how much episodes I'm going to watch before getting up" probably.
 
 **Q: Do I need to do the "subtitle tutor" method?**  
 
@@ -219,17 +203,17 @@ After that, do your daily grammar study.
 
 Remember the routine from the previous day: **3 Cure Dolly videos**!   
 
-After you've done that, let's download Anki.  
+After you've done that, let's set up Anki.  
 
-First i want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
+First I want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
 
-Now let's actually download Anki.  
+Now let's download Anki.  
 
 You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
 
 Download the required deck [here](https://anacreondjt.gitlab.io/docs/coredeck/)  
 
-When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine. 
+When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
 Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
 
@@ -380,7 +364,7 @@ Please make sure you do Anki every day!
 
 Now let's set up a Japanese keyboard. 
 
-See this: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
+Read this article: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
 
 This article is very good. 
 
@@ -403,11 +387,7 @@ I recommend you decide on a set number of anime episodes to use for immersion pe
 
 If you can't decide, then by all means, let a dice decide for you! 
 
-[Roll a dice](https://www.google.com/search?q=roll+a+dice)    
-
-If you have more free time today then use it on Japanese!  
-
-The more listening the better!  
+[Roll a 4 sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 ## Day 5  
 
@@ -415,7 +395,7 @@ At this point you'll be struggling with kana less. So I suggest spending less ti
 
 Go on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) and practice kana for 5 minutes. [https://www.online-stopwatch.com/timer/5minutes/](https://www.online-stopwatch.com/timer/5minutes/).  
 
-Now do your Anki *reps* (reps = repetitions).  
+Now do your daily Anki.  
 
 Anki is tough in the beginning.  
 
@@ -439,6 +419,11 @@ After that, it's just your daily immersion.
 
 A: [Generate 1 number between 4 and 10 here.](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php)  
 
+**Q: What should I be looking out for when listening?**
+
+A: The sounds of it, the speaking patterns, the "words" that pop up a lot, the words that you learned, the grammar that you learned etc.  
+
+Every little bit counts.  
 
 ## Day 6  
 
@@ -626,6 +611,10 @@ The simple answer?
 
 Heads = Listening day  
 Tails = Reading day  
+
+### Important! The raw listening question
+
+
 
 ## Day 8
 
@@ -940,7 +929,7 @@ There are a few "Japanese learning tasks" I'd like to set you.
 
 There is no time limit for these tasks.  
 
-Some you might not even be able to do months or years down the line!  
+Some you might not even be able to do until months or years down the line!  
 
 Nevertheless I highly recommend you do them.  
 
