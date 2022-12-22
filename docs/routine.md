@@ -23,24 +23,41 @@ It has been years since I was a beginner at Japanese, but recently I have tried 
 ## Day 1  
 
 ### Stage: Starting kana stage  
+The absolute first thing you need to do when you learn Japanese is to learn the kana. Kana is short for hiragana and katakana.  
 
-Read about kana (hiragana and katakana). This is to find out why and how they are used.  
-Click [(this link)](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
-Just read it until you get to "kanji".  
+Why and how they are used can get confusing for newcomers to Japanese.  
 
-Then copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
+So, I recommend reading [[this]](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+
+Read it until you get to  "Kanji"  
+
+It is quite a hefty amount of text. It could take some time.  
+
+By the way you aren't memorizing the kana with that link. I will explain how you will do that below.  
+
+
+When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
+
 It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty.  
+
 You can do it on a paper or a screen, it doesn't matter really.   
 
 Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
+
 It is a video by JapanesePod. This should probably be the only Japanese Pod video you should watch though, just sayin'.  
 
-Go on this website. [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html)    
+Now, go on this website. [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html)  
+
 Click "show/hide options"  
-Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.   
+
+Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
+
 Type the correct romaji in the text box. This is how you'll practice your kana.  
+
 Do this for 10 minutes.  
+
 You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
+
 
 ## Day 2  
 
