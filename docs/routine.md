@@ -48,10 +48,12 @@ You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/]
 
 Practice on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes. Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/). Do not forget that all kana must be enabled.  
 
-Making your daily life surrounded by Japanese is the most important part of the immersion method. 
+Making your daily life surrounded by Japanese is the most important part of the immersion method.  
+
 It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit.  
 
 Slice of life is a good place to start.  
+
 There are many, many anime that have simple Japanese.  
 
 Here are some suggestions, (but you can use anything you want):  
@@ -391,9 +393,7 @@ If you can't decide, then by all means, let a dice decide for you!
 
 ## Day 5  
 
-At this point you'll be struggling with kana less. So, I suggest spending less time on practicing it. 
-
-Go on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) and practice kana for 5 minutes. [https://www.online-stopwatch.com/timer/5minutes/](https://www.online-stopwatch.com/timer/5minutes/).  
+Go on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) and practice kana for 10 minutes. [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
 
 Now do your daily Anki.  
 
@@ -417,7 +417,7 @@ After that, it's just your daily immersion.
 
 **Q: How many episodes will it be???**  
 
-A: [Generate 1 number between 4 and 10 here.](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php)  
+A: [Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 **Q: What should I be looking out for when listening?**
 
@@ -437,10 +437,10 @@ But don't worry if you don't understand it!
 
 Every bit counts!  
 
-First, practice kana for 5 minutes.  
+First, practice kana for 10 minutes.  
 
 [Kana Practice Site](https://itazuraneko.neocities.org/learn/kana.html)  
-[5 Minute Timer](https://www.online-stopwatch.com/timer/5minutes/)  
+[10 Minute Timer](https://www.online-stopwatch.com/timer/10minutes/)  
 
 After that, go on to doing your Anki.  
 
@@ -591,7 +591,21 @@ A: After you've watched x number of episodes with Japanese subs. (Decided by a 4
 
 ## Day 7  
 
+**Note about kana practice:**  
+
+Experience differs greatly from person to person. 
+
+Some of you may already be comfortable with the kana after just 6 days.  
+
+Others may need more practice.  
+
+I think you should reduce the time spent on kana practice from **10 minutes** to **5 minutes**.  
+
+You will be exposed to Japanese text a lot more going forward.  
+
 ### Stage: Learning how to balance as a beginner.    
+
+Your tasks for today are as follows.  
 
 Step 1. Do your Anki.  
 Step 2. Cure Dolly routine.  
