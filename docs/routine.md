@@ -63,9 +63,11 @@ You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/]
 
 ### Stage: Creating your own Japan at home  
 
-Practice on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes. Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/). Do not forget that all kana must be enabled.  
+Practice on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes.  
+Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).
+Do not forget that all kana must be enabled.  
 
-Making your daily life surrounded by Japanese is the most important part of the immersion method.  
+Surrounding your daily life with Japanese is the most important part of the immersion method.  
 
 It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit.  
 
