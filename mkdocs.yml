@@ -26,8 +26,7 @@ nav:
 theme:
   features:
     - navigation.instant
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.sections
     - search.suggest
     - search.highlighting
     - search.share
