@@ -223,7 +223,7 @@ When you first open Anki, the first thing you'll see is the "interface language 
 
 Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
 
-In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*" and from the drop down box, choose "*Show new cards before reviews*".  
+In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*" and from the drop down menu, choose "*Show new cards before reviews*".  
 
 And change the **Learn ahead limit** to `900`.  
 
@@ -395,13 +395,9 @@ If you can't decide, then by all means, let a dice decide for you!
 
 [Roll a dice](https://www.google.com/search?q=roll+a+dice)    
 
-I personally recommend at least 3 hours of immersion per day.
+If you have more free time today then use it on Japanese!  
 
-That is around **9 anime episodes**.  
-
-That is a lot of episodes.  
-
-But more listening more better!  
+The more listening the better!  
 
 ## Day 5  
 
@@ -661,7 +657,7 @@ Click the cog icon next to the 日本語 parent deck.
 
 Now click Options.  
 
-There is a drop down box at the top of this window.  
+There is a drop down menu at the top of this window.  
 
 Change Default to *Recognition RTK*.  
 
