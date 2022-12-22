@@ -126,7 +126,7 @@ A: Some of you might have wondered why I want you to immerse without knowing any
 
 **Q: So, I've completed my first episode, what should I do now?**
 
-A: You can consider that your immersion done for today but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
+A: You can consider your immersion done for the day but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
 
 [Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
