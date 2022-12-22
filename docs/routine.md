@@ -15,6 +15,7 @@ What you'll expect to know at the end of the 30 days:
 What I expect from you: 
 
 - **the will to learn**    
+- 3+ hours of your free time per day available for Japanese.  
 - a computer (sorry phone users)  
 
 It has been years since I was a beginner at Japanese, but recently I have tried learning other languages, so my memories of what it was like being a beginner came back to me. I tried my best to make this study guide as approachable as possible.  
