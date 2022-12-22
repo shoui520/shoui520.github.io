@@ -13,6 +13,7 @@ nav:
     - 'monolingual.md'
     - 'faq.md'
     - 'Fixing your font': 'font.md'
+    - '30 Day Japanese': 'routine.md'
   - 'Visual Novels':
     - 'Learning Japanese with VNs': 'vn.md'
     - 'Visual Novel Setup': 'vn-setup.md'
@@ -25,7 +26,8 @@ nav:
 theme:
   features:
     - navigation.instant
-    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlighting
     - search.share
@@ -34,7 +36,7 @@ theme:
   palette:
     # Light mode
       - scheme: default
-        primary: blue
+        primary: purple
         accent: cyan      
   favicon: img/favicon.png
   logo: img/moe.svg
