@@ -20,11 +20,15 @@ What I expect from you:
 
 It has been years since I was a beginner at Japanese, but recently I have tried learning other languages, so my memories of what it was like being a beginner came back to me. I tried my best to make this study guide as approachable as possible.  
 
-### Stage: Pre kana stage  
 
-## Day 1 
 
-Copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).  
+## Day 1  
+
+### Stage: Starting kana stage  
+
+Read about kana(hiragana and katakana). [(here)](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts)  
+
+Then copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).  
 It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty.  
 You can do it on a paper or a screen, it doesn't matter really.   
 
@@ -38,9 +42,12 @@ Type the correct romaji in the text box. This is how you'll practice your kana.
 Do this for 10 minutes.  
 You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
-### Stage: Creating your own Japan at home
 
-## Day 2
+
+## Day 2  
+
+### Stage: Creating your own Japan at home  
+
 
 Practice on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes. Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/). Do not forget that all kana must be enabled.  
 
@@ -101,7 +108,7 @@ A: Some of you might have wondered why I want you to immerse without knowing any
 
 **Q: So I've completed my first episode, what should I do now?**
 
-A: Watch another!!!
+A: If you have enough time, watch another!!!
 
 **Q: How many?**
 
@@ -115,9 +122,11 @@ The number you get is the number of anime episodes you watch for today!
 
 I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
 
-### Stage: Just starting grammar
+
 
 ## Day 3
+
+### Stage: Just starting grammar
 
 Do your daily kana practice on this site! [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes.  
 Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
@@ -125,7 +134,7 @@ Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://ww
 
 Now here's where you'll start grammar.  
 
-You don't need to do any drills or anything like that.   
+You don't need to do any drills or anything.   
 
 You don't need to choose the correct patterns or anything like that.  
 
@@ -946,4 +955,3 @@ Nevertheless I highly recommend you do them.
 - Finish a visual novel in under 6 months  
 - Try using a monolingual dictionary after you finish a visual novel.  
 - Increase your immersion hours.  
-
