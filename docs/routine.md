@@ -29,7 +29,7 @@ Why and how they are used can get confusing for newcomers to Japanese.
 
 So, I recommend reading [[this]](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
 
-Read it until you get to  "Kanji"  
+Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.    
 
 It is quite a hefty amount of text. It could take some time.  
 
