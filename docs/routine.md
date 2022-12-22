@@ -148,7 +148,9 @@ Everything you will be learning is insanely common and will be reinforced with y
 
 The grammar guide I want you to use is Cure Dolly's Organic Japanese.  
 
-The playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+The YouTube playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+
+For folks out there that prefer reading, here is the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!  
 
 All I want you to do is **watch the videos** and **take notes** (Google note taking site here: [https://keep.google.com/](https://keep.google.com/))  
 **Note: I recommend turning on the subtitles for Cure Dolly's videos.**  
@@ -573,9 +575,11 @@ Yomichan is a great help because it knows where words start and end with 90% acc
 
 A: It's complicated...   
 
-There are always forms of expression that just aren't compatible between English and Japanese. The way of thinking is a lot of different.  
+There are always forms of expression that just aren't compatible between English and Japanese.  
 
-This is the main reason why this method (and similar ones) tends to advise against trying to translate your immersion.  
+The way of thinking is a lot different.  
+
+That is the main reason why this method (and similar ones) tends to advise against trying to translate your immersion.  
 
 Because Japanese is not English.  
 
@@ -585,7 +589,7 @@ Be the language!
 
 You can do some sort of "loose translation", where you just try to piece together some sort of basic meaning.  
 
-Do I need to translate at all?  
+*Do I need to translate at all?*  
 
 Not always, it is inevitable that there are things you will just not understand due to many factors. (Missing knowledge of: word meaning, word meaning that's hard to understand just from the dictionary, grammar usage, advanced grammar usage, context, how the word is generally used in the wider scope of language etc.)  
 
@@ -721,7 +725,7 @@ You can decide everything with a dice and flipping a coin if you're uncertain, o
 
 I apologize if "immersion" is a vague term.  
 
-All of that stuff that you did with the anime and the subtitles and the Yomichan is immersion.  
+All of that stuff that you did with the anime and the subtitles and Yomichan is immersion.  
 
 ## Day 9  
 
