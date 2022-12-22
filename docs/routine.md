@@ -612,10 +612,6 @@ The simple answer?
 Heads = Listening day  
 Tails = Reading day  
 
-### Important! The raw listening question
-
-
-
 ## Day 8
 
 ### Stage: The elephant in the room... kanji!  
