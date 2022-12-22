@@ -725,7 +725,7 @@ Daily routine:
 2. Grammar  
 3. Immersion  
 
-You may want to look into [Condensed Audio](/resources#condensed-audio), this is way to maximize the efficiency of passive listening.  
+You may want to look into [Condensed Audio](/resources#condensed-audio), this is a way to maximize the efficiency of passive listening.  
 
 Passive listening is when you listen to Japanese audio when you are doing other things.  
 
