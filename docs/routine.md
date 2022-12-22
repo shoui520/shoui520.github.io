@@ -94,7 +94,7 @@ The flowchart process:
 
 Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.  
 
-By listening to it when doing other things you are filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
+By listening to it when doing other things, you are filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
 
 Note: Listening while doing other things = **passive immersion**. Listening with undivided attention = **active immersion**  
 
@@ -103,7 +103,7 @@ Note: Listening while doing other things = **passive immersion**. Listening with
 
 A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of the environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
 
-**Q: So I've completed my first episode, what should I do now?**
+**Q: So, I've completed my first episode, what should I do now?**
 
 A: You can consider that your immersion done for today but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
 
@@ -150,7 +150,7 @@ Your notes are YOUR notes, make them your notes.
 
 A: I want you to take notes so you can go over them whenever you need to. (Keyword: when **you** need to!)   
 You are essentially making your own little mini version of the videos in your notes.  
-So if you *do* forget something, you can always just look at your notes.  
+So, if you *do* forget something, you can always just look at your notes.  
 
 **Q: I really don't want to take notes...**  
 A: And that is fine!  
@@ -165,14 +165,14 @@ Now what I want you to do is immerse.
 
 You know the drill.  
 
-[Roll a 4 sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 **Q: Do I need to do the "subtitle tutor" method?**  
 
 A: The subtitle tutor method is **not required**. It is merely a way to make immersion more interesting in the beginning. 
 I merely presented it to you as a method that is available to you.  
 
-**Q: What do I do if i keep hearing a word that interests me and want to know what it means?**
+**Q: What do I do if I keep hearing a word that interests me and want to know what it means?**
 
 A: First of all, that's great!  
 You can use https://jisho.org/ to search up the word. 
@@ -182,15 +182,15 @@ Tomorrow will get more complex. So, uh, look forward to it...?
 
 ## Day 4  
 
-### Stage: Learning kanji and new words: Using anki for the first time.  
+### Stage: Learning kanji and new words: Using Anki for the first time.  
 
 Today you'll be:  
 
 - Practicing kana  
 - Studying grammar  
-- Using anki for the first time
+- Using Anki for the first time
 - Learning new words and kanji in Anki. 
-- Seting up a Japanese keyboard on your pc 
+- Setting up a Japanese keyboard on your pc 
 - Doing your daily immersion.  
 
 It is a lot. Please make sure you have enough time today.   
@@ -205,7 +205,7 @@ Remember the routine from the previous day: **3 Cure Dolly videos**!
 
 After you've done that, let's set up Anki.  
 
-First I want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
+First, I want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
 
 Now let's download Anki.  
 
@@ -217,7 +217,7 @@ When you first open Anki, the first thing you'll see is the "interface language 
 
 Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
 
-In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*" and from the drop down menu, choose "*Show new cards before reviews*".  
+In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*" and from the drop-down menu, choose "*Show new cards before reviews*".  
 
 And change the **Learn ahead limit** to `900`.  
 
@@ -239,7 +239,7 @@ The blue number is how many new cards you will be doing in a day.
 
 20 cards may or not be manageable.  
 
-You might want to lower the amount of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
+You might want to lower the number of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
 
 Click on the cog icon next to the deck. 
 
@@ -247,7 +247,7 @@ Click *Options*.
 
 Change **Maximum reviews/day** to `9999`. This just means "uncapped".  
 
-The default is 200 and I don't think your cards will pile up that high if you do Anki everyday but,  
+The default is 200 and I don't think your cards will pile up that high if you do Anki every day but,  
 
 It is good practice to uncap your review limit.  
 
@@ -271,7 +271,7 @@ Only focus on the top line. That's what you actually need to learn.
 
 The line below it is just an example sentence.  
 
-I can't say its very useful at this point.  
+I can't say it's very useful at this point.  
 
 But everything in this deck is insanely common.  
 
@@ -313,7 +313,7 @@ When you learn a word in Japanese, you learn its "base" form. This means its un-
 
 Wait a second.  
 
-So what do you actually do from here?  
+So, what do you actually do from here?  
 
 Well, you see that white line at the top going through the card?  
 
@@ -387,11 +387,11 @@ I recommend you decide on a set number of anime episodes to use for immersion pe
 
 If you can't decide, then by all means, let a dice decide for you! 
 
-[Roll a 4 sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 ## Day 5  
 
-At this point you'll be struggling with kana less. So I suggest spending less time on practicing it. 
+At this point you'll be struggling with kana less. So, I suggest spending less time on practicing it. 
 
 Go on this site [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) and practice kana for 5 minutes. [https://www.online-stopwatch.com/timer/5minutes/](https://www.online-stopwatch.com/timer/5minutes/).  
 
@@ -462,7 +462,7 @@ In your Chrome extension settings (`chrome://extensions`), enable "**Developer m
 
 Now download the [asbplayer Extension](https://github.com/killergerbah/asbplayer/releases)  
 
-It has to be installed manually, it is not on the Chrome Web Store.  
+It has to be installed manually; it is not on the Chrome Web Store.  
 
 You need to unzip the .zip file first.  
 
@@ -512,7 +512,7 @@ This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.githu
 
 **This also enables you to "read" the anime! Which I recommend you do!!!**    
 
-So what's the routine?  
+So, what's the routine?  
 
 **Watch** the anime with Japanese subtitles first.  
 
@@ -520,9 +520,9 @@ Then focus your attention on **just reading** it.
 
 **Q: How much words do I look up?**  
 
-A: I think you should decide this using a 20 sided dice, per episode.  
+A: I think you should decide this using a 20-sided dice, per episode.  
 
-[Click here for 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
+[Click here for 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
 
 Roll!  
 
@@ -556,7 +556,7 @@ A: It's complicated...
 
 There are always forms of expression that just aren't compatible between English and Japanese. The way of thinking is a lot of different.  
 
-This is the main reason why this method (and similar ones) tend to advise against trying to translate your immersion.  
+This is the main reason why this method (and similar ones) tends to advise against trying to translate your immersion.  
 
 Because Japanese is not English.  
 
@@ -568,15 +568,15 @@ You can do some sort of "loose translation", where you just try to piece togethe
 
 Do I need to translate at all?  
 
-Not always, it is inevitable that there are things you will just not understand due to many factors. (missing knowledge of: word meaning, word meaning thats hard to understand just from the dictionary, grammar usage, advanced grammar usage, context, how the word is generally used in the wider scope of language etc.)  
+Not always, it is inevitable that there are things you will just not understand due to many factors. (Missing knowledge of: word meaning, word meaning that's hard to understand just from the dictionary, grammar usage, advanced grammar usage, context, how the word is generally used in the wider scope of language etc.)  
 
 It is also tiring, so do it in moderation.  
 
 **Q: How much episodes should I watch with Japanese subs until I go back to no subs?**  
 
-A: Let a 4 sided dice decide.  
+A: Let a 4-sided dice decide.  
 
-[Roll a 4 sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)  
+[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)  
 
 **Q: How should I decide whether to watch a new episode without subs or with Japanese subs?**
 
@@ -587,7 +587,7 @@ Tails = JP subs
 
 **Q: When can I go back to switching between English and no subs?**  
 
-A: After you've watched x amount of episodes with Japanese subs. (Decided by 4 sided dice.)    
+A: After you've watched x number of episodes with Japanese subs. (Decided by a 4-sided dice.)    
 
 ## Day 7  
 
@@ -597,7 +597,7 @@ Step 1. Do your Anki.
 Step 2. Cure Dolly routine.  
 Step 3. Immerse!! (Details below)  
 
-Focusing on a particular area of your Japanese (e.g. listening or reading) is good.  
+Focusing on a particular area of your Japanese (e.g., listening or reading) is good.  
 
 But how will you decide whether today is a day where you'll focus on listening or reading?  
 
@@ -616,7 +616,7 @@ Tails = Reading day
 
 ### Stage: The elephant in the room... kanji!  
 
-Kanji look like scribbles don't they?  
+Kanji look like scribbles, don't they?  
 
 For a beginner, they look nonsensical.  
 
@@ -652,7 +652,7 @@ Click the cog icon next to the 日本語 parent deck.
 
 Now click Options.  
 
-There is a drop down menu at the top of this window.  
+There is a drop-down menu at the top of this window.  
 
 Change Default to *Recognition RTK*.  
 
@@ -674,7 +674,7 @@ This deck WILL help you see kanji as compositions of consistent shapes.
 
 It is an important skill to have, because when you are learning Japanese for a long time you will come across a ton of words and you may confuse them if the kanji look too similar for you.  
 
-**Q: So what do I need to do today?**
+**Q: So, what do I need to do today?**
 
 1. Anki. Your Core deck and the RRTK deck.  
 2. Grammar. Watch 3 Cure Dolly videos.
@@ -703,7 +703,7 @@ Daily routine:
 This is the fundamental process of the method. Keep doing what you're doing.  
 
 But longer hours = more improvement!  
-So try and aim for longer immersion hours!  
+So, try and aim for longer immersion hours!  
 
 **Q: I've been thinking about looking up a lot of words in reading, is this bad or good?**
 
@@ -778,7 +778,7 @@ Daily routine:
 
 Here's an interesting challenge for you today.  
 
-Look up **50** words in your Japanese subtitles anime reading practice.  
+Look up **50** words in your Japanese subtitled anime reading practice.  
 
 ## Day 14
 
@@ -790,7 +790,7 @@ With more time spent doing the right methods, you'll certainly improve.
 
 You may have your doubts on what this method is actually doing, so allow me to explain.  
 
-Your **Anki**,　 **grammar study** and **looking up words** are where you are increasing your *knowledge* of the language.  
+Your **Anki**,　 **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language.  
 
 Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives.  
 
@@ -804,7 +804,7 @@ When you get advanced at Japanese and understand your raw listening immersion, m
 
 Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Japanese.  
 
-### Stage: 100 page Yotsubato! challenge  
+### Stage: 100-page Yotsubato! challenge  
 
 From today until the 30th day. I want you to challenge yourself to read 100 pages of the よつばと！ manga.  
 
@@ -832,23 +832,23 @@ I have made a Yotsubato reading helper to help you with words like these.
 
 Japanese manga is in vertical text. This means the text is read **downwards** from the **rightmost** line to the **leftmost** line.  
 
-**Q: So what will I need to be doing from today until the 30th day?**  
+**Q: So, what will I need to be doing from today until the 30th day?**  
 
 As always you will need to do your Anki and grammar study.  
 
 Your immersion will get more... complicated.  
 
-You will need need to balance reading that manga and your usual immersion.  
+You will need to balance reading that manga and your usual immersion.  
 
 Shoving everything into the same day may be too difficult.  
 
-I suggest replacing your reading practice with Yotsubato! instead of Japanese subtitles. It doesn't have to be everyday if you don't want to.  
+I suggest replacing your reading practice with Yotsubato! instead of Japanese subtitles. It doesn't have to be every day if you don't want to.  
 
 **Q: How long will it actually take to read 100 pages?**
 
 A: At a pace of 10 minutes per page, it will take 16 hours and 40 minutes.  
 
-If you read it for 1 hour everyday for the rest of the 30 days, you can finish it in time.  
+If you read it for 1 hour every day for the rest of the 30 days, you can finish it in time.  
 
 This is assuming your pace stays at 10 minutes per page though!  
 
@@ -865,13 +865,13 @@ Use this Pomodoro timer: [https://pomofocus.io/](https://pomofocus.io/)
 
 You should reduce the time to 15 minutes if 25 minutes is too long.  
 
-**20 sided dice**
+**20-sided dice**
 
-For anyone that isn't feeling like reading for too long on a particular day, you can roll a 20 sided dice to decide how many minutes you're gonna read.  
+For anyone that isn't feeling like reading for too long on a particular day, you can roll a 20-sided dice to decide how many minutes you're gonna read.  
 
-[Roll a 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
+[Roll a 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
 
-Or you could use the 20 sided dice to decide how many minutes reading you're gonna do between anime episodes!  
+Or you could use the 20-sided dice to decide how many minutes reading you're gonna do between anime episodes!  
 
 #### Skimming/Skipping  
 
@@ -883,7 +883,7 @@ If that annoying part of the book was any good then it would make you wanna read
 
 You can always go back to that one annoying part after you've read the good bits after all.  
 
-If you want to of course.  
+If you want to, of course.  
 
 
 #### Take breaks!  
@@ -927,7 +927,7 @@ There is no time limit for these tasks.
 
 Some you might not even be able to do until months or years down the line!  
 
-Nevertheless I highly recommend you do them.  
+Nevertheless, I highly recommend you do them.  
 
 - Finish the entirety of Yotsubato volume 1
 - Finish the Core deck   
@@ -936,7 +936,7 @@ Nevertheless I highly recommend you do them.
 - Start studying JLPT N5, N4 and N3 Grammar.  
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
 - When you are comfortable, study JLPT N2 and N1 grammar.  
-- Start a "mining" Anki deck some time after you finish the Core deck.  
+- Start a "mining" Anki deck sometime after you finish the Core deck.  
 - Finish a visual novel in under 6 months  
 - Try using a monolingual dictionary after you finish a visual novel.  
 - Increase your immersion hours.  
