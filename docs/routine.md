@@ -509,11 +509,17 @@ After unzipping the file, I got a bunch of .SRT files.
 
 Now what you need to do is drag and drop an .SRT file onto a video.  
 
-The asbplayer extension works with [zoro.to](https://zoro.to/). I recommend streaming from there.  
+The asbplayer extension works with [zoro.to](https://zoro.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
+
+Before you start playing an episode, make sure you have this page open: [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/)  
 
 When an episode starts playing, you can drag and drop an .SRT file onto it.  
 
-The subtitles should just work, and by using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
+The subtitles should load and work.  
+
+English subtitles display at the same time, which can be bad or good depending on how you look at it. To disable English subtitles, click the CC icon on the video player controls and click Off.  
+
+By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
 
 But there is a problem. The subtitle file for Love Live is horribly **out of sync**!  
 
@@ -522,7 +528,6 @@ This means the subtitles don't match the timing of the audio.
 Luckily, asbplayer supports adjusting the timing.  
 
 You can do that with ++ctrl++++shift++++left++ or ++right++. Sometimes it doesn't work if you don't click on the video first.  
-
 You will need to experiment to find the right timing. For Love Live it was -8400ms.  
 
 It might be hard to figure out what subtitle belongs to what audio when reading is so difficult. 
@@ -815,7 +820,9 @@ Daily routine:
 
 Here's an interesting challenge for you today.  
 
-Look up **50** words in your Japanese subtitled anime reading practice.  
+Let today be a reading practice day.  
+
+Look up **25** words in your Japanese subtitled anime reading practice.  
 
 ## Day 14
 
@@ -972,6 +979,7 @@ Nevertheless, I highly recommend you do them.
 - Finish Cure Dolly's grammar guide  
 - Start studying JLPT N5, N4 and N3 Grammar.  
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
+- Train your ability to recognize and read Japanese numbers.  
 - When you are comfortable, study JLPT N2 and N1 grammar.  
 - Start a "mining" Anki deck sometime after you finish the Core deck.  
 - Finish a visual novel in under 6 months  
