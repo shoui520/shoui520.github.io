@@ -120,7 +120,7 @@ Essentially, by watching the episode with subtitles first, you have increased th
 
 While watching the episode raw, don't worry if you can't understand.  
 
-Try to focus on the sounds, the speaking patterns and the anything in it that you can make meaning out of.  
+Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
 
 Becoming able to understand Japanese is a skill that takes a long time.  
 
