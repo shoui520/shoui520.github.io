@@ -80,9 +80,9 @@ There are many, many anime that have simple Japanese.
 Here are some suggestions (but you can use anything you want):  
 
 Love Live! (Any)  
-Non non Biyori  
+Non Non Biyori  
 Kimetsu no Yaiba  	
-Koe no katachi  
+Koe no Latachi  
 Hotarubi no Mori e    
 Toki wo Kakeru Shoujo    
 Himouto! Umaru-chan  
@@ -92,9 +92,9 @@ Precure (Any)
 Gakuen Utopia Manabi Straight  
 K-on  
 Ao haru Ride  
-Usagi drop  
-Flying witch  
-Byousoku 5 centimeter  
+Usagi Drop  
+Flying Witch  
+Byousoku 5 Centimeter  
 Kiniro Mosaic  
 New Game  
 
@@ -107,19 +107,33 @@ A: And I like your way of thinking! Immersion is all about spending time with co
 **Your task:**  
 
 I want you to try immersing for the first time with the "subtitle tutor" method.  
-The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier). 
+
+The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier).  
 
 The flowchart process:
 
 1. Watch with English subtitles  
-2. Watch without any subtitles  
+2. Watch without any subtitles (also known as raw listening)  
 3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
 
 Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.  
 
-By listening to it when doing other things, you are filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
+While watching the episode raw, don't worry if you can't understand.  
 
-Note: Listening while doing other things = **passive immersion**. Listening with undivided attention = **active immersion**  
+Try to focus on the sounds, the speaking patterns and the anything in it that you can make meaning out of.  
+
+Becoming able to understand Japanese is a skill that takes a long time.  
+
+But it all begins with raw listening and trying to make that listening comprehensible.  
+
+The subtitle tutor method is only meant to provide context for the audio you are listening to.   
+
+I also recommend listening to the audio when doing other things.  
+
+By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
+
+Note: Listening while doing other things = **passive immersion**.  
+Listening with undivided attention = **active immersion**.  
 
 
 **Q: Why immersion before any grammar or vocabulary study?** 
@@ -137,7 +151,8 @@ I didn't want to overwhelm you on your second day, so you'll start learning abou
 
 ### Stage: Just starting grammar
 
-Do your daily kana practice on this site! [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes.    
+Do your daily kana practice on this site! [https://itazuraneko.neocities.org/learn/kana.html](https://itazuraneko.neocities.org/learn/kana.html) for 10 minutes.  
+
 Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
 Now here's where you'll start grammar.  
@@ -166,15 +181,21 @@ That is a good number, you will be near the end of her guide after 30 days at th
 **Q: What should I even put in my notes?**  
 
 A: You should put information that you feel is important.  
+
 Rely on your instincts.  
-If Cure Dolly says this means that, then you might want to take a note of it.     
-Your notes do not need to be detailed, and you don't need to show them to anyone.   
+
+If Cure Dolly says this means that, then you might want to take a note of it.  
+
+Your notes do not need to be detailed, and you don't need to show them to anyone.  
+
 Your notes are YOUR notes, make them your notes.  
 
 **Q: Why should I even do notes! I can probably remember everything anyway!**
 
-A: I want you to take notes so you can go over them whenever you need to. (Keyword: when **you** need to!)   
+A: I want you to take notes so you can go over them whenever you need to. (Keyword: when **you** need to!)  
+
 You are essentially making your own little mini version of the videos in your notes.  
+
 So, if you *do* forget something, you can always just look at your notes.  
 
 **Q: I really don't want to take notes...**  
