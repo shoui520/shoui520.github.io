@@ -1,6 +1,8 @@
 # 30 Day Japanese (UsagiSpoon)  
 
-A routine for people that are lost on how to start learning. 
+A guide/routine to help people learn Japanese with the immersion method.  
+
+This guide was made to be followed in order. Most of the decisions have already been made for you.   
 
 The routines are split into days. Each day has tasks that you need to do.  
 
