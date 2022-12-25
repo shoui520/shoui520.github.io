@@ -169,14 +169,17 @@ The YouTube playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8
 
 For folks out there that prefer reading, here is the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!  
 
-All I want you to do is **watch the videos** and **take notes** (Google note taking site here: [https://keep.google.com/](https://keep.google.com/))  
-**Note: I recommend turning on the subtitles for Cure Dolly's videos.**  
+All I want you to do is **watch the videos** and **take notes**
 
-**Watch 3 videos a day**  
+(Google Keep note taking site here: [https://keep.google.com/](https://keep.google.com/))  
+
+**Note: I recommend turning on the subtitles for Cure Dolly's videos.**    
+
+***Watch 3 videos a day***  
 
 That is a good number, you will be near the end of her guide after 30 days at that pace.  
 
-**Take notes.**    
+***Take notes.***  
 
 **Q: What should I even put in my notes?**  
 
