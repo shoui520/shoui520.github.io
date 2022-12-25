@@ -1,6 +1,8 @@
 # Japanese Guide
 I know that the following guide is long. But language learning is something you do in the long term, so please take time to read this guide in its entirety.  
 
+***New: 30 day routine to learn Japanese from scratch: [UsagiSpoon](/routine)***  
+
 ## Why many people “fail” to learn Japanese
 Before I talk about this, I would like to clarify what I mean by “fail”. What I mean is, not being able to achieve their goals. Many people love the idea of being fluent, and being able to watch Japanese media without subtitles, in their raw form. However, many people also don’t ever reach this goal, or even get close. I believe it mostly isn’t *their* fault, but rather, the *method*’s fault.
 
