@@ -77,7 +77,7 @@ Slice of life is a good place to start.
 
 There are many, many anime that have simple Japanese.  
 
-Here are some suggestions, (but you can use anything you want):  
+Here are some suggestions (but you can use anything you want):  
 
 Love Live! (Any)  
 Non non Biyori  
@@ -200,7 +200,7 @@ I merely presented it to you as a method that is available to you.
 **Q: What do I do if I keep hearing a word that interests me and want to know what it means?**
 
 A: First of all, that's great!  
-You can use https://jisho.org/ to search up the word. 
+You can use [Jisho.org](https://jisho.org/) to search up the word. 
 There's a chance you might be mishearing it so you may not be able to find out.  
 
 Tomorrow will get more complex. So, uh, look forward to it...?  
@@ -242,7 +242,7 @@ When you first open Anki, the first thing you'll see is the "interface language 
 
 Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
 
-In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*" and from the drop-down menu, choose "*Show new cards before reviews*".  
+In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*".  
 
 And change the **Learn ahead limit** to `900`.  
 
@@ -279,6 +279,8 @@ It is good practice to uncap your review limit.
 Just some Anki know-how.  
 
 You also need to change the **Learning steps** to `1m 5m 1h`.  
+
+Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
 
 Now click *Save*.  
 
@@ -701,6 +703,10 @@ There is a drop-down menu at the top of this window.
 Change Default to *Recognition RTK*.  
 
 Change **New cards/day** to `5`  
+
+Change the **Learning steps** to `1m 5m 1h`.  
+
+Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
 
 Click Save.  
 
