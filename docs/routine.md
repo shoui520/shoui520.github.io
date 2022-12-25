@@ -920,6 +920,14 @@ Shoving everything into the same day may be too difficult.
 
 I suggest replacing your reading practice with Yotsubato! instead of Japanese subtitles. It doesn't have to be every day if you don't want to.  
 
+**Word looking up trick: The Yomichan Search Page**  
+
+You can use Yomichan to search up words by typing it or copy and pasting it.  
+
+You will need to use the Yomichan search page to look up words from my Yotsubato Reading Helper.  
+
+You can access the search page by clicking on the Yomichan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
+
 **Q: How long will it actually take to read 100 pages?**
 
 A: At a pace of 10 minutes per page, it will take 16 hours and 40 minutes.  
