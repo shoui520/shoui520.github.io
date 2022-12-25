@@ -82,7 +82,7 @@ Here are some suggestions (but you can use anything you want):
 Love Live! (Any)  
 Non Non Biyori  
 Kimetsu no Yaiba  	
-Koe no Latachi  
+Koe no Katachi  
 Hotarubi no Mori e    
 Toki wo Kakeru Shoujo    
 Himouto! Umaru-chan  
@@ -417,7 +417,7 @@ Now let's set up a Japanese keyboard.
 
 Read this article: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
 
-This article is very good. 
+The article is very good. 
 
 After you've done that lemme teach you the most useful functions.
 
