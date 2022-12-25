@@ -6,6 +6,7 @@ nav:
   - Home: 'index.md'
   - 'Guides':
     - 'Japanese Guide': 'guide.md'
+    - '30 Day Japanese': 'routine.md'
     - 'speaking.md'
     - 'animejp.md'
     - 'kanji.md'
@@ -13,7 +14,6 @@ nav:
     - 'monolingual.md'
     - 'faq.md'
     - 'Fixing your font': 'font.md'
-    - '30 Day Japanese': 'routine.md'
   - 'Visual Novels':
     - 'Learning Japanese with VNs': 'vn.md'
     - 'Visual Novel Setup': 'vn-setup.md'
