@@ -572,7 +572,7 @@ So, what's the routine?
 
 Then focus your attention on **just reading** it.  
 
-**Q: How much words do I look up?**  
+**Q: How many words do I look up?**  
 
 A: I think you should decide this using a 20-sided dice, per episode.  
 
@@ -583,6 +583,41 @@ Roll!
 After you've looked up your amount just *watch* the rest with Japanese subs.  
 
 If anything piques your interest, then feel free to look it up!  
+
+**Q: When watching with Japanese subs, do I try to read everything on the screen?**
+
+A: No. I generally recommend looking up the number of words the dice decided and then just watch the rest of the episode without looking anything up or stopping to read anything, but you should focus on how the kana are pronounced etc.  
+
+**Q: When I look up something, or need to read something, do I pause the video?**  
+
+A: Yes! Pause the video when you need to look up!  
+
+**Q: What is the point of the subtitles in a list?**  
+
+A: You do it so you can do "raw reading practice".  
+
+When the anime playing, you are doing half-reading half-listening.  
+
+When you remove the audio part and just read the subtitles in a list, you are doing the equivalent of real reading!  
+
+**Q: How many episodes should I read?**  
+
+Read 1 until you've looked up the amount of dice decided words.  
+
+**Q: Does the dice decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
+
+A: Hard question to answer.  
+
+I'd just say [roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.    
+**Q: How many episodes should I read?**  
+
+Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
+
+**Q: Do I have to change the anime I'm reading to the one I last watched?**  
+
+No. I actually recommend reading the same one until you read the end.  
+
+But you don't have to always use the same one if it no longer interests you.  
 
 **Q: How can I expect to remember the words I look up?**  
 
@@ -628,22 +663,16 @@ Not always, it is inevitable that there are things you will just not understand 
 
 It is also tiring, so do it in moderation.  
 
-**Q: How much episodes should I watch with Japanese subs until I go back to no subs?**  
+**Q: How many episodes should I watch with Japanese subs until I go back to no subs?**  
 
-A: Let a 4-sided dice decide.  
+A: 1 Japanese subtitled episode per day is a good number. 2 or 3 if you want to go all out.  
 
-[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)  
 
-**Q: How should I decide whether to watch a new episode without subs or with Japanese subs?**
 
-A: [Flip a coin](https://www.google.com/search?q=flip+a+coin).
+**Q: Can I still do subtitle tutor?**  
 
-Heads = no subs  
-Tails = JP subs
+A: Yes, you can still do subtitle tutor. A routine of subtitle tutor → Japanese subtitles → raw is very good.  
 
-**Q: When can I go back to switching between English and no subs?**  
-
-A: After you've watched x number of episodes with Japanese subs. (Decided by a 4-sided dice.)    
 
 ## Day 7  
 
@@ -937,6 +966,26 @@ If you read it for 1 hour every day for the rest of the 30 days, you can finish 
 This is assuming your pace stays at 10 minutes per page though!  
 
 Your pace can increase the more you get used to reading Yotsubato.  
+
+**Q: Am I looking up every word in the manga or am I using a dice to decide?**  
+
+A: I want you to look up everything you can.  
+
+It is going to be really tough.  
+
+**Q: I don't understand the sentences!**  
+
+Don't worry if you don't understand sentences.  
+
+You don't understand them because they aren't i+1.  (Only 1 component of the sentence that you aren't already quite comfortable with)
+
+With more reading, more i+1 opportunities arise.  
+
+And when you read, look up, and understand i+1 sentences, your Japanese comprehension level increases.  
+
+And with enough reading, you'll be able to go back to those difficult sentences and understand them at least a little better.  
+In other words, you'll only learn to understand sentences with more reading!!!   
+
 
 ### Important! Learning how to read for long hours and making it enjoyable.  
 #### Timeboxing
