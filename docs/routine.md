@@ -600,15 +600,10 @@ When the anime playing, you are doing half-reading half-listening.
 
 When you remove the audio part and just read the subtitles in a list, you are doing the equivalent of real reading!  
 
-**Q: How many episodes should I read?**  
-
-Read 1 until you've looked up the amount of dice decided words.  
-
 **Q: Does the dice decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
 
-A: Hard question to answer.  
-
-I'd just say [roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.    
+A: [Roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.  
+   
 **Q: How many episodes should I read?**  
 
 Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
@@ -969,9 +964,7 @@ Your pace can increase the more you get used to reading Yotsubato.
 
 **Q: Am I looking up every word in the manga or am I using a dice to decide?**  
 
-A: I want you to look up everything you can.  
-
-It is going to be really tough.  
+A: I want you to look up as much as you can.  
 
 **Q: I don't understand the sentences!**  
 
