@@ -89,6 +89,7 @@ Himouto! Umaru-chan
 Nakitai Watashi wa Neko o Kaburu  
 Yuru Yuri  
 Precure (Any)  
+Gabriel Dropout  
 Gakuen Utopia Manabi Straight  
 K-on  
 Ao haru Ride  
@@ -290,7 +291,7 @@ The blue number is how many new cards you will be doing in a day.
 
 You might want to lower the number of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
 
-Click on the cog icon next to the deck. 
+Click the cog icon next to the *Core2.3k Version 3* deck.  
 
 Click *Options*.  
 
@@ -304,15 +305,43 @@ Just some Anki know-how.
 
 You also need to change the **Learning steps** to `1m 5m 1h`.  
 
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
+Change **Insertion order**, to **Sequential (oldest cards first)**  
+
+Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  
 
 Now click *Save*.  
+
+I also want you to install the *Speed Focus Mode* Anki add-on. I will explain why later, but let's just install it now.  
+
+Click on *Tools* at the top of Anki, and click *Add-ons*.  
+
+Click **Get Add-ons...**.   
+
+Paste this code into the box: `1046608507` and click **OK**.
+
+You need to restart Anki. Close Anki, and launch it back up.  
+
+Click the cog icon next to the *Core2.3k Version 3* deck.  
+
+Hold the ++shift++ key and click *Options*.  
+
+A different looking menu with some red text should open. (If it did not, you did it wrong. You need to hold ++shift++ while clicking *Options*).  
+
+In the *General* tab, there are a few settings you need to change.  
+
+Change *Automatically play alert* to `10` seconds.  
+
+Change *Automatically show answer* to `15` seconds.  
+
+Change *Automatically rate 'again'* to `60` seconds.  
+
+Now let's get to studying the deck.  
 
 When you click on the name of the deck, you'll be able to start learning by clicking *Study now*  
 
 First thing you'll notice....
 
-There's a word you can read... "suru"...
+There's a word you can probably read... "する"... (IF THE WORD IS NOT する THEN YOU NEED TO CHECK YOUR CARD INSERTION ORDER!)  
 
 But there is also line below it with absolutely CRAZY kanji....
 
@@ -332,7 +361,7 @@ What you are actually being tested for is, whether or not you can read the word 
 
 In Japanese learning we call this "learning the **reading** and **meaning**"  
 
-For a word like, する, the **reading** is easy. It's just する! It isn't in kanji. The next word though, does use kanji.  
+For a word like, する, the **reading** is easy. It's just する! It isn't in kanji. The next word 言う, does use kanji though.  
 
 When you click *Show answer* at the bottom (shortcut: ++space++), you can see what the word means.  
 
@@ -402,6 +431,30 @@ The learning pile means Anki will show you the card multiple times so you can re
 
 Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards).  
 
+**Do not spend a long time looking at the same card**  
+
+When you don't know the word even after 15 seconds of looking at it, then looking at it for even longer doesn't mean you'll suddenly remember it.  
+
+So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
+
+**My card learning method**  
+
+Step 1: Look at the card.  
+Step 2: Recognize whether it is a new card or not.  
+Step 3: Reveal the back (Show answer) after realizing it is a new card.  
+Step 4: Read the reading.  
+Step 5: Read the meaning.  
+Step 6: Let the audio play.  
+Step 7: For now, press "Again"  
+Step 8: Above 7 steps will be the same if the next card is also a new card but...
+Step 9: If the next card is one I've already seen before, I test my knowledge.
+Step 10: I try to recall the word's meaning and the reading.  
+Step 11: There are sometimes more than 1 meaning. Only 1 meaning is enough.  
+Step 12: I reveal the back.  
+Step 13: I grade myself depending on if the meaning *and* reading I thought it was, was correct.  
+Step 14: I usually use the Good button if I got it correct. Again if it wasn't correct.  
+
+
 After you have successfully learned 20 cards, you can consider your Anki done for the day.  
 
 The next day you can expect to see some cards in the green (Review) pile. 
@@ -410,8 +463,46 @@ You will also have a fresh batch of 20 new cards!
 
 Please make sure you do Anki every day!   
 
-  
+**Q: Why does UsagiSpoon recommend Core instead of Tango?**  
 
+A: Short answer: You learn more with Core.  
+
+Core teaches a new word with each card. The order of words is optimized for anime and visual novels because it teaches the most common words from them. Tango on the other hand, has tons of cards that do not introduce new words, and repeats a lot of similar sentences. ← IMO this is just inefficient. Tango also has weird English translations and stuff. 
+
+While I was writing this day of UsagiSpoon I originally wrote the entire thing showing you how to use the Tango deck. But I had to point out "Hey don't look at the translations!", and "There are a lot of words you will probably never see in anime..." etc, etc. So in the end I saw how the Core deck was better and decided to use that.  
+
+While Core is significantly more difficult (obviously! It is actually introducing something new with every single card) but it will benefit you more than using Tango.  
+
+**Q: Should I worry if I forget a lot?**  
+
+A: No.  
+
+Anki is made for things you're likely to forget.  
+
+You are very likely to forget words of a language you just started learning.  
+
+I don't think it is strange if you forget more than half of what you learn when a day passes by.  
+
+You're likely to forget these words without Anki, so that's why you need to keep Anki'ing them so you can finally learn the word.  
+
+In other words, just keep doing Anki.  
+
+If this continues for a while then you might want to think back on your method of doing Anki.   
+
+**Q: Leeches (Words not sticking)**  
+
+Leeches are when you keep forgetting the word no matter what.  
+
+Memory works by picking up on cues.  
+
+When words don't stick, it means there are multiple things in the wider scope of the word that makes it so your mind isn't picking on any cues. 
+
+In easier terms, you need more, or different information than the information on the card.  
+
+For these leeches, I recommend looking at them in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with an English translation.  
+
+
+**Setting up a Japanese Keyboard**  
 
 Now let's set up a Japanese keyboard. 
 
@@ -754,6 +845,8 @@ Change **New cards/day** to `5`
 
 Change the **Learning steps** to `1m 5m 1h`.  
 
+Change **Insertion order**, to *Sequential (oldest cards first)*  
+
 Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
 
 Click Save.  
@@ -1041,6 +1134,10 @@ Read what interests you!
 Watch what interests you!  
 
 This study guide (UsagiSpoon) was just making a few of the decisions for you.  
+
+**Q: What is the ideal UsagiSpoon lifesyle?**  
+
+A: [https://www.youtube.com/watch?v=r5Qxr8OGkaA](https://www.youtube.com/watch?v=r5Qxr8OGkaA)  
 
 
 ## Day 31 and beyond: After UsagiSpoon?  
