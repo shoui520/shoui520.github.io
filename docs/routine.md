@@ -446,8 +446,8 @@ Step 4: Read the reading.
 Step 5: Read the meaning.  
 Step 6: Let the audio play.  
 Step 7: For now, press "Again"  
-Step 8: Above 7 steps will be the same if the next card is also a new card but...
-Step 9: If the next card is one I've already seen before, I test my knowledge.
+Step 8: Above 7 steps will be the same if the next card is also a new card but...  
+Step 9: If the next card is one I've already seen before, I test my knowledge.  
 Step 10: I try to recall the word's meaning and the reading.  
 Step 11: There are sometimes more than 1 meaning. Only 1 meaning is enough.  
 Step 12: I reveal the back.  
