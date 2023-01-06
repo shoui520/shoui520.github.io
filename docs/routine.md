@@ -307,6 +307,8 @@ You also need to change the **Learning steps** to `1m 5m 1h`.
 
 Change **Insertion order**, to **Sequential (oldest cards first)**  
 
+Under the **Lapses** section, change the *Relearning Steps* to `2m 1h`.  
+
 Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  
 
 Now click *Save*.  
@@ -699,6 +701,38 @@ A: [Roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+
 
 Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
 
+**Q: Is it possible to understand everything by spending 30 minutes spamming Yomichan on a sentence?**  
+
+A: Short answer: No. Comprehension is a gradual process.  
+
+Long answer:  
+
+There are many things you will not understand just by using a dictionary.  
+
+There are many factors that go into understanding something.  
+
+There are obvious factors such as vocabulary and grammar.
+
+But there are also less obvious ones such as the contexts that that piece of language is often used in, which in turns leads to its meaning.  
+
+In a vacuum, studying vocabulary and grammar increases your ability to understand things.  
+
+But understanding the use of the vocabulary and grammar in contexts further increases your understanding of the sentence.  
+
+This works especially well for sentences that have only one piece of language that you aren't comfortable with.  
+
+This doesn't work well for hard sentences though.  
+
+Because there is too much language information in the sentence that you are too unfamiliar with.  
+
+The best you can do for hard sentences is to look up the vocabulary in them.  
+
+While it may not be enough to understand *that* sentence at *that* time, your newly found knowledge of the word can help you connect it to some meaning in a later context.  
+
+With more study and immersion (understanding things in context), your understanding of Japanese will increase.  
+
+
+
 **Q: Do I have to change the anime I'm reading to the one I last watched?**  
 
 No. I actually recommend reading the same one until you read the end.  
@@ -755,11 +789,23 @@ A: 1 Japanese subtitled episode per day is a good number. 2 or 3 if you want to 
 
 
 
-**Q: Can I still do subtitle tutor?**  
+**Q: What about subtitle tutor?**  
 
-A: Yes, you can still do subtitle tutor. A routine of subtitle tutor → Japanese subtitles → raw is very good.  
+A: You can still do subtitle tutor if you want. A routine of subtitle tutor → Japanese subtitles → raw is good.  
 
+Do I recommend it? 
 
+Not always. Japanese subs are better.  
+
+It gets tedious watching the same episode twice.  
+
+Without watching the episode in Japanese after you watch it in English, there is no point.  
+
+And using English subs as a crutch forever isn't a good idea.  
+
+It just makes your immersion more effective in the beginning because immersion works better **when you have an idea of what is going on**.  
+Getting rid of translations and training yourself to understand the language on its own is how you'll get better at Japanese in the future.  
+Subtitle tutor  
 ## Day 7  
 
 **Note about kana practice:**  
@@ -846,6 +892,8 @@ Change **New cards/day** to `5`
 Change the **Learning steps** to `1m 5m 1h`.  
 
 Change **Insertion order**, to *Sequential (oldest cards first)*  
+
+Under the **Lapses** section, change the *Relearning Steps* to `2m 1h`.  
 
 Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
 
