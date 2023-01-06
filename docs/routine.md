@@ -1205,10 +1205,11 @@ Nevertheless, I highly recommend you do them.
 - Finish the RRTK450 deck  
 - Finish Cure Dolly's grammar guide  
 - Start studying JLPT N5, N4 and N3 Grammar.  
+- Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
 - Train your ability to recognize and read Japanese numbers.  
 - When you are comfortable, study JLPT N2 and N1 grammar.  
 - Start a "mining" Anki deck sometime after you finish the Core deck.  
-- Finish a visual novel in under 6 months  
+- Finish a visual novel in under 6 months after starting it.   
 - Try using a monolingual dictionary after you finish a visual novel.  
 - Increase your immersion hours.  
