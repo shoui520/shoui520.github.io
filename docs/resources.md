@@ -137,7 +137,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)   
 
 ### Subtitles
-- [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always).  
+- [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). **(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**    
 - [Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)  
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
