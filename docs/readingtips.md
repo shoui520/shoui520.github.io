@@ -1,5 +1,7 @@
 # Reading Strategy and Tips  
 
+The REAL getting into reading guide.  
+
 Reading is pretty much the most effective way to get better at Japanese. There is no doubt about it.  
 
 "Read more"  is often the first Japanese learning advice that advanced learners of Japanese will give to any beginner.  And for good reason.  
@@ -57,6 +59,18 @@ The holy trinity of Japanese learning (for novel enjoyers).
 - Itazuraneko in [Resources](/resources)  
 - EPUBs... many ways you can get them. (Itazuraneko, Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523)) 
 - [ッツ Reader](https://reader.ttsu.app/manage)  
+
+### Manga?  
+
+Yes, they are really good.  
+
+But you should kind of be aware that they only have speech and short descriptions most of the time.  
+
+Nevertheless they are still good for reading and you can obviously learn tons of words from manga.  
+
+### Yomichan, Mokuro and a good OCR
+
+The holy trinity of Japanese learning (for manga enjoyers).  
 
 ### Pomodoro / Timeboxing  
 
@@ -269,8 +283,8 @@ But knowing the words is only the beginning of being a proficient reader imo.
 
 Anyway stop thinking how much you will be reading because it is not a productive use of your time calculating the amount of books you need to read until you never look at text again, lol.  
 
+## Shameless plug  
 
+I make everything for free (and intend to continue making everything free) but I would highly appreciate some patreon subs.  
 
-
-
-
+[:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }  
