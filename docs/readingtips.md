@@ -146,7 +146,7 @@ Now, the Yomichan dictionaries I really want you to use are:
 
 If you can't understand monolingual dictionaries yet, still keep them because if you ever get stuck on what a word actually means, the monolingual dictionary will come through.  
 
-### Comprehension tip: Bilingual vs Monolingual = The difference between not knowing what's going vs actually understanding?
+### Comprehension tip: Bilingual vs Monolingual = The difference between not knowing what's going on vs actually understanding?
 
 In many cases, yes.  
 
