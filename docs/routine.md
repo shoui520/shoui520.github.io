@@ -20,8 +20,6 @@ What I expect from you:
 - 3+ hours of your free time per day available for Japanese.  
 - a computer (sorry phone users)  
 
-It has been years since I was a beginner at Japanese, but recently I have tried learning other languages, so my memories of what it was like being a beginner came back to me. I tried my best to make this study guide as approachable as possible.  
-
 ## Day 1  
 
 ### Stage: Starting kana stage  
@@ -787,7 +785,19 @@ It is also tiring, so do it in moderation.
 
 A: 1 Japanese subtitled episode per day is a good number. 2 or 3 if you want to go all out.  
 
+**Q: Should I watch Japanese subs or raw?**  
 
+A: They exist for different purposes.  
+
+I can't say which one is better because they have their own benefits and drawbacks.  
+
+Japanese subs: 
+Good: learn new words, reading practice  
+Bad: doesn't train raw listening ability, you might not pick up on things said in the audio  
+
+Raw:  
+Good: trains raw listening ability and can attribute to speaking ability too. You will notice more than just watching with Japanese subtitles.  
+Bad: the words you dont know you just don't know.  
 
 **Q: What about subtitle tutor?**  
 
@@ -804,8 +814,9 @@ Without watching the episode in Japanese after you watch it in English, there is
 And using English subs as a crutch forever isn't a good idea.  
 
 It just makes your immersion more effective in the beginning because immersion works better **when you have an idea of what is going on**.  
+
 Getting rid of translations and training yourself to understand the language on its own is how you'll get better at Japanese in the future.  
-Subtitle tutor  
+
 ## Day 7  
 
 **Note about kana practice:**  
@@ -1203,6 +1214,7 @@ Nevertheless, I highly recommend you do them.
 - Finish the entirety of Yotsubato volume 1
 - Finish the Core deck   
 - Finish the RRTK450 deck  
+- Do the [Kanji Phonetics](/kanjiphonetics) deck.  
 - Finish Cure Dolly's grammar guide  
 - Start studying JLPT N5, N4 and N3 Grammar.  
 - Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
