@@ -439,14 +439,15 @@ It's all a matter of **personal preference** but I guess you can't go wrong copy
 	Step 4: Font size `21`  
 	Step 5: Line height `1.65` (I did everything with custom CSS which is in part 2 but I was lazy to change it)  
 	Step 6: Writing mode: `Horizontal`  
-	Step 7: Blur image: `Off`   
+	Step 7: Blur image: `Off`  
+	Step 8: Continuous viewing mode.   
 	<h3><strong>YOU ARE NOT DONE YET! FOLLOW PART 2</strong></h3>
 
 ??? tip "ッツ Reader Setup: Part 2"  
 	Install the Stylus extension. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)    
 	Now when you're on the ッツ Reader web page, click on the Stylus icon in the extensions toolbar.  
 	Now click on the **left end** of the URL. So **reader.ttsu.app** or **ttu-ebook.web.app** is underlined. Not "/This URL".
-	Now copy and paste this CSS and SAVE:  
+	Now copy and paste this CSS:  
 	```css
 	.book-content div, .calibre2 p {
 	    font-family: MS Mincho;
@@ -503,6 +504,13 @@ It's all a matter of **personal preference** but I guess you can't go wrong copy
 ??? tip "How it looks"  
 	![Image](img/my_ttsu_setup.png)  
 	<h2><strong>If it doesn't look like this, there is something you did wrong!</strong></h2>  
+
+??? tip "Mouse side buttons and tips"  
+	I don't know about you, but I absolutely despise the default function of mouse side buttons being "front" and "back"  
+	I reconfigured them for the "front" one to be ++alt++++down++, which is the Yomichan shortcut to jump to the next word in the scan results. I have the "back" button for ++shift++. This is so I can look up more comfortably. I KNOW that you can look up words with the mouse wheel, but I don't think it is as comfortable as using the side button mapped to ++shift++.  
+	Also you can hold the mouse in your lap instead of having your arm reached out all day.  
+	Also I often click the mouse wheel and scroll slowly when reading. It's just a habit at this point and I don't know if it's any better than just scrolling.   
+
 ## Shameless plug  
 
 I make everything for free (and intend to continue making everything free), but I would highly appreciate some Patreon subs.
