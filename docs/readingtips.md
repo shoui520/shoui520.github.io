@@ -446,7 +446,7 @@ It's all a matter of **personal preference** but I guess you can't go wrong copy
 	Install the Stylus extension. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)    
 	Now when you're on the ッツ Reader web page, click on the Stylus icon in the extensions toolbar.  
 	Now click on the **left end** of the URL. So **reader.ttsu.app** or **ttu-ebook.web.app** is underlined. Not "/This URL".
-	Now copy and paste this CSS:  
+	Now copy and paste this CSS and SAVE:  
 	```css
 	.book-content div, .calibre2 p {
 	    font-family: MS Mincho;
