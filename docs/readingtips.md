@@ -97,31 +97,17 @@ You aren't going to become a crazy reader seen at the top of TheMoeWay's Discord
 
 You need to make reading a habit; read in amounts that are manageable for you every day.  
 
-And overtime, when you do this every day, it will become a habit, and you may feel like reading without thinking about "time to improve my Japanese,"  because reading every single day will become a normal thing for you.  
+And overtime, when you do this every day, it will become a habit, and you may feel like reading without thinking about "time to improve my Japanese," because reading every single day will become a normal thing for you.  
 
-### My Comprehension Tip 
+### Setting yourself goals every day  
 
-*This is a tip for more experienced learners*  
+Setting yourself a goal that you can reach everyday is an amazing way to keep up motivation to read every day.  
 
-This is the only comprehension tip that actually works for me.  
+Try to find a concrete goal for yourself.  
 
-The trick is to focus on nouns (and numbers).  
+Try to read for how long you are willing to read for the day, and then check how many characters (if it's a digital novel or visual novel) or pages (if it's manga or physical novel) you managed to read.  
 
-I came up with the idea when I noticed that when I read in English, the nouns stand out.  
-
-Nouns are names, people, objects, places, etc.  
-
-I felt like there was some type of word hierarchy.  
-
-Any nouns/numbers → "action" verbs → adjectives → "abstract" verbs.  
-
-And of course, within nouns, there is also a noun hierarchy, with names, pronouns, and physical objects at the top.  
-
-I noticed that when I read Japanese, it feels a lot more hazy because my brain just doesn't make the nouns stand out more than adjectives or verbs.   
-
-I started to "focus" (I hate to use this term because that's not what I am actually doing, it's more like noticing) on the nouns in sentences and noticed how my comprehension skyrocketed without losing speed.  
-
-It can be a little tricky to notice nouns every time they come up, but trust me, this is an S-tier strategy, and all you need is practice.   
+Then take that amount of characters or pages and increase it by a bit (round it up or something) and make that your goal to read every day.  
 
 ### The usefulness of grammar study and some specific Yomichan dictionaries.  
 
@@ -145,6 +131,29 @@ Now, the Yomichan dictionaries I really want you to use are:
 
 If you can't understand monolingual dictionaries yet, still keep them because if you ever get stuck on what a word actually means, the monolingual dictionary will come through.  
 
+### My Comprehension Tip 
+
+*This is a tip for more experienced learners*  
+
+This is the only comprehension tip that actually works for me.  
+
+The trick is to focus on nouns (and numbers).  
+
+I came up with the idea when I noticed that when I read in English, the nouns stand out.  
+
+Nouns are names, people, objects, places, etc.  
+
+I felt like there was some type of word hierarchy.  
+
+Any nouns/numbers → "action" verbs → adjectives → "abstract" verbs.  
+
+And of course, within nouns, there is also a noun hierarchy, with names, pronouns, and physical objects at the top.  
+
+I noticed that when I read Japanese, it feels a lot more hazy because my brain just doesn't make the nouns stand out more than adjectives or verbs.   
+I started to "focus" (I hate to use this term because that's not what I am actually doing, it's more like noticing) on the nouns in sentences and noticed how my comprehension skyrocketed without losing speed.  
+
+It can be a little tricky to notice nouns every time they come up, but trust me, this is an S-tier strategy, and all you need is practice.   
+
 ### Comprehension Tip: Bilingual vs Monolingual: The difference between not knowing what's going on and actually understanding?
 
 In many cases, yes.  
@@ -153,7 +162,7 @@ Bilingual definitions can be too ambiguous sometimes, so it is always best to ch
 
 ## Reading nayamigoto (aka: stuff you worry too much about)  
 
-### How many words you should look up  
+### How many words you should I look up?    
 
 I don't know because I was looking up every single thing since the beginning, and I think it worked out fine?  
 
@@ -162,6 +171,8 @@ Yomichan makes everything so easy.
 If I had to use copy paste into external apps or write out the word or even worse, use a physical dictionary then I would probably not look up many words.  
 
 But YOU are living in 2023. YOU have Yomichan. Take advantage of it.  
+
+Install a frequency dictionary (I recommend JPDB) so you can see what words are actually common. Below 10,000 frequency is a sign that it comes up a lot in books and anime.  
 
 ### Reading Speed  
 
@@ -187,8 +198,6 @@ Do not be worrying about reading speed if you don't already understand a lot/kno
 #### **Q:** Should I read a lot of manga if I want to improve my Wikipedia reading speed?
 
 A: No. Specialization is required to get faster at reading at what you want.  
-
-
 
 
 ### Comprehension Nayamigoto Type 1  
@@ -244,7 +253,6 @@ You will come across a ton of sentences in a ton of contexts when you read more,
 Now back to the question, would it make you improve faster than "just reading" more?  
 
 Hard to say, but when reading, I always thought about what I was reading. I always thought about the meaning of what I was reading. I felt like everyone did this though, but sometimes you end up reading words without thinking about their meaning, which is another question I'd like to answer.  
-
 #### **Q:** What should I do when I end up reading words without thinking about their meaning?  
 
 I think in every book they have those useless/less important lines, right? I think it is perfectly fine not to think too deeply about them.  
@@ -278,9 +286,25 @@ I know this is very hard for you, but here's what you need to do:
 
 - <h3>Read more<h3>  
 
+
+
 #### **Q:** Is that it? Come on! I'm sure there is something else I could do that would really improve my situation right now.  
 
 A: Well everything boils down to "read more." I answered with "read more" because the theory behind it is: Your comprehension lacks because the kinds of sentences you struggle with are ones you are unfamiliar with. In language acquisition, force feeding yourself too-unfamiliar sentences is not as effective as understanding i+1 sentences. (Only one thing in the sentence that aren't so comfortable with; these "things" may not even be identifiable.) When you read more, **you will come across a crap ton of sentences**, and within these sentences, there will be plenty of i+1 sentences, and this is the peak of your language acquisition gains. As a result of reading a lot, you'll improve your Japanese and find it easier to understand those difficult sentences.  
+
+### Comprehension Nayamigoto Type 4  
+
+Type 4: "I've been studying for a while, with [x] method, I've learned [x] amount of words and grammar. However, when I try to read I don't know any of the words. Reading is a huge struggle. What should I do?"  
+
+I'm sure you can already anticipate the answer.  
+
+Let me just go ahead and say it: It is impossible to get good at reading without reading. It is impossible to learn most of the words you need to a high degree of understanding just with Anki, without reading.  
+
+There is nothing else you can be doing than reading more.  
+
+Of course, you can study more grammar, and learn more vocab with Anki, which will of course help.  
+
+But you will only get good at reading by reading more.  
 
 ### The case for reading faster  
 
@@ -382,6 +406,7 @@ It's all a matter of **personal preference** but I guess you can't go wrong copy
 	I have NHK on top of my priorities by removing all sources and only having Custom URL JSON with the URL `http://localhost:5050/?sources=nhk16,jpod,jpod_alternate,forvo&term={term}&reading={reading}`  
 
 ??? tip "Appearance"  
+	Popup: Allow scanning search page content: ON Allow scanning popup content: ON Maximum number of child popups: `9999`  
 	Theme: light mode   
 	Compact tags: on  
 	All options checked for pitch accent display styles    
@@ -507,7 +532,7 @@ It's all a matter of **personal preference** but I guess you can't go wrong copy
 
 ??? tip "Mouse side buttons and tips"  
 	I don't know about you, but I absolutely despise the default function of mouse side buttons being "front" and "back"  
-	I reconfigured them for the "front" one to be ++alt++++down++, which is the Yomichan shortcut to jump to the next word in the scan results. I have the "back" button for ++shift++. This is so I can look up more comfortably. I KNOW that you can look up words with the mouse wheel, but I don't think it is as comfortable as using the side button mapped to ++shift++.  
+	I reconfigured them (in my mouse software) for the "front" one to be ++alt++++down++, which is the Yomichan shortcut to jump to the next word in the scan results. I have the "back" button for ++shift++. This is so I can look up more comfortably. I KNOW that you can look up words with the mouse wheel, but I don't think it is as comfortable as using the side button mapped to ++shift++.  
 	Also you can hold the mouse in your lap instead of having your arm reached out all day.  
 	Also I often click the mouse wheel and scroll slowly when reading. It's just a habit at this point and I don't know if it's any better than just scrolling.   
 
