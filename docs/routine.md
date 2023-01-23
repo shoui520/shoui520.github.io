@@ -636,7 +636,7 @@ When an episode starts playing, you can drag and drop an .SRT file onto it.
 
 The subtitles should load and work.  
 
-English subtitles display at the same time, which can be bad or good depending on how you look at it. To disable English subtitles, click the CC icon on the video player controls and click Off.  
+English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Japanese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles, click the CC icon on the video player controls and click Off.  
 
 By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
 
@@ -801,13 +801,11 @@ Bad: the words you dont know you just don't know.
 
 **Q: What about subtitle tutor?**  
 
-A: You can still do subtitle tutor if you want. A routine of subtitle tutor → Japanese subtitles → raw is good.  
+A: You shouldn't be doing it all the time.  
 
-Do I recommend it? 
+The only purpose is to give you an idea; context of what the audio is saying.  
 
-Not always. Japanese subs are better.  
-
-It gets tedious watching the same episode twice.  
+It gets tedious watching the same episode twice too.
 
 Without watching the episode in Japanese after you watch it in English, there is no point.  
 
@@ -817,6 +815,9 @@ It just makes your immersion more effective in the beginning because immersion w
 
 Getting rid of translations and training yourself to understand the language on its own is how you'll get better at Japanese in the future.  
 
+Japanese subs are better because they give you the opportunity to learn the actual words that are being used in the anime. (Which is a lot of words, btw.)  
+
+    
 ## Day 7  
 
 **Note about kana practice:**  
@@ -984,6 +985,8 @@ Or, listening to Japanese at every possible opportunity.
 Condensed audio removes non-speech parts of the audio, making it more efficient.  
 
 If you have wireless earbuds, listening all the time becomes a lot easier.  
+
+If you've been watching *Love Live! (2013)*, I made condensed audio for it a long while ago, which you can find [here](https://mega.nz/folder/sdB1mC6T#X_fYeasMb64i3tAf3LeYEA)  
 
 ## Day 11  
 
@@ -1216,7 +1219,8 @@ Nevertheless, I highly recommend you do them.
 - Finish the RRTK450 deck  
 - Do the [Kanji Phonetics](/kanjiphonetics) deck.  
 - Finish Cure Dolly's grammar guide  
-- Start studying JLPT N5, N4 and N3 Grammar.  
+- Start studying JLPT N5, N4 grammar. Only the points that aren't already covered by Cure Dolly though.
+- Study JLPT N3 Grammar. I will have a Anki deck out some day for N5, N4 and N3 grammar.    
 - Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
 - Train your ability to recognize and read Japanese numbers.  
