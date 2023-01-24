@@ -52,9 +52,9 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Chrome extension that allows you to drag and drop subtitle files (See [Subtitles](#subtitles)) on a video you are streaming. It works with zoro.to, and it may work with other sites. 
 - [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime.  
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.  
-- **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video.   
+- **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video. 
+- [Cute Anime](https://cuteanime.moe/anime) - Watch some moe anime with Japanese subtitles.  
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
-
 ### Movies & TV Shows (J-drama)
 - [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
@@ -78,13 +78,14 @@ Refer to the tools section for info on how to make lookups easier for manga.
 
 - [Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
-- [BilingualManga](https://bilingualmanga.net/) - Yomichan compatible & one-click translation.
+- [BilingualManga](https://bilingualmanga.net/) - Yomichan compatible & one-click translation.  
+- [Cute Manga](https://cutemanga.moe/) - Read some moe manga, Yomichannable. 
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
+
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
 - [Rawkuma](https://rawkuma.com/) - Also lets you read manga online. 
-
 The websites below have the best collection but can be a pain to download from.  
 **Use a debrid service to generate premium full speed download links!**   
 - [A-zmanga](http://www.a-zmanga.net/) - Has the most content. You need a debrid service though.  
@@ -159,6 +160,14 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [NWJC Search](https://bonten.ninjal.ac.jp/nwjc/string_search)  
 - [Jisho.org](https://jisho.org/search/%20%23sentences) - From tatoeba project.  
 
+### Condensed Audio
+- [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)  
+- [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)  
+- [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)  
+- [Condensed Audio 4](https://condensedaudiocatalog.com/#)  
+- [Condensed Audio 5](https://www.paliss.com/)   
+- [Condense your own audio](https://ercanserteli.com/condenser/)  
+
 ### Mining
 - [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion. Other options here are heavily inspired by it. 
 - [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
@@ -218,6 +227,7 @@ See Applications section for an EPWING reader.
 #### Manga Tools & OCRs
 
 - [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
+- [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
 - [Poricom Manga OCR](https://github.com/kha-white/manga-ocr) - GUI for manga-ocr
 - [mokuro](https://github.com/kha-white/mokuro) - Lets you use yomichan on regular manga! 
 - [Capture2Text (Windows)](http://capture2text.sourceforge.net/) - recommend download better tessdata from the tesseract github for more accurate results. 
@@ -225,9 +235,9 @@ See Applications section for an EPWING reader.
 - [Hakuneko Manga Downloader](https://hakuneko.download/) - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags. 
 
 
-#### Anime Tools & Video Players 
-- [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels. 
 #### Visual Novel Tools
+- [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels. 
+
 #### Other Tools
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
 It is tricky to use at first. So please see the Mining section for guides on how to set it up. 
@@ -241,16 +251,13 @@ It is tricky to use at first. So please see the Mining section for guides on how
 #### Android
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.  
 - [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android. 
-
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Bilingual dictionary for Android based on the JMdict project, has cool features such as auto-correction and AnkiDroid integration.  
-- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project, simple, no special features.  
-- [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - Port of EBWin for Android devices, this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.  
+- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project.  
+- [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.  
 - [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/843591036831793172/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.  
-
 - **[※ jidoujisho](https://github.com/lrorpilla/jidoujisho) - A mobile video player, reader assistant and card creation toolkit tailored for mobile language learners.**  
 - **[※ Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)** - An EPUB reader for Android that lets you look up a word with one tap. Also supports EPWING monolingual dictionaries.  Does not work correctly on newer phones. 
 - [Typhon改](https://github.com/dajimenezja/typhon/releases) - Fork of Typhon Reader made to work with newer devices.  
-
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.  
 - [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) - Manga scans reader with an OCR to look up words. Supports EPWING monolingual dictionaries.  
 - [Tachiyomi Manga Reader (Get the Japanese sources)](https://tachiyomi.org/) - Manga downloader/reader. Get the Japanese sources.  
@@ -262,13 +269,13 @@ It is tricky to use at first. So please see the Mining section for guides on how
 
 #### iOS
 - [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) - $24.99 official port of Anki for iOS.   
-
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary based on the JMdict project, ever.
 - [EBPocket](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes. 
 
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature.
 - [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomichan dictionary and EPWING support!  
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomichan.  
+- [Orion Browser](https://apps.apple.com/us/app/orion-browser-by-kagi/id1484498200) - Less latency with 10ten than just Safari.  
 - [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - A very pretty e-book reader with great Japanese support. 
 
 
@@ -289,19 +296,18 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - [Asbplayer](https://github.com/killergerbah/asbplayer) - Load local subtitle files to video streaming sites.  
 
 ### Downloading Tools
-- [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean, open source.    
-- [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. Highly recommended.   
+- [qBittorrent](https://www.qbittorrent.org/) - best torrent client, clean and open source.    
+- [Jdownloader2](https://jdownloader.org/jdownloader2) - A download manager that helps accelerate MEGA and Google Drive downloads. 
 - [youtube-dlp](https://github.com/yt-dlp/yt-dlp) - download YouTube videos, playlists, channels, etc.   
-- [Hakuneko Manga Downloader](https://github.com/manga-download/hakuneko)  
 
 ### Other Software
 
 Useful for stuff like visual novels and manga you may download.  
 
-- [7-Zip](https://www.7-zip.org/)- Archiver/Compresor.
-- [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISO/MDF/MDS files as a virtual drive on your computer
-- [WinRAR](https://www.win-rar.com/) - 7-Zip alternative.
-- [DAEMON Tools](https://www.daemon-tools.cc/)- WinCDEmu alternative. Fares better with UDF volumes. 
+- [7-Zip](https://www.7-zip.org/)- Archiver/Compresor.  
+- [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISO/MDF/MDS files as a virtual drive on your computer  
+- [WinRAR](https://www.win-rar.com/) - 7-Zip alternative.  
+- [DAEMON Tools](https://www.daemon-tools.cc/)- WinCDEmu alternative. Fares better with UDF volumes.   
 
 ### VPNs (Japan location specific)  
 
@@ -312,21 +318,18 @@ Useful for stuff like visual novels and manga you may download.
 - [(iOS) Neko VPN](https://learnjapanese.link/vpnneko) - Seems to work fine. 
 
 #### Paid
-I can only recommend Mullvad.  
-
-- [Mullvad](https://mullvad.net/en/) - Not sponsored, I just trust this the most.   
+  
+- [Mullvad](https://mullvad.net/en/) - You can trust this the most if you care a lot about privacy.     
+- [NordVPN](https://nordvpn.com/nordvpn-site/) - confirmed to work on Japanese streaming services.   
 
 #### Premium Cracks/Cheats/Accounts  
 
-- [VPN Accounts Dump](https://leak.sx/dispenser_vpn.php) - Dump of VPN accounts. Kind of shady though.  
+- [VPN Accounts Dump](https://leak.sx/dispenser_vpn.php) - Dumps of premium VPN accounts.   
 
-### Condensed Audio
-- [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)  
-- [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)  
-- [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)  
-- [Condensed Audio 4](https://condensedaudiocatalog.com/#)  
-- [Condensed Audio 5](https://www.paliss.com/)   
-- [Condense your own audio](https://ercanserteli.com/condenser/)  
+### Other resource collections
+
+[Kuzuri](https://kuzuri.neocities.org/resources) - Huge collection of completely legal resources.  
+
 
 
 ### Guides/Methods/Motivation
