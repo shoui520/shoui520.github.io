@@ -20,7 +20,7 @@ I recommend you install the following dictionaries:
 	- `Bilingual/[Bilingual] JMdict (English).zip`  
 	- `Bilingual/[Bilingual] 新和英.zip`  
 	- `Kanji/[Kanji] KANJIDIC (English).zip`  
-	- `Grammar/Dictionary of Japanese Grammar.zip` **(NEW!)**  
+	- `Grammar/Dictionary of Japanese Grammar.zip` 
 
 ## Installing Dictionaries and basic usage
   
@@ -32,7 +32,7 @@ I recommend you install the following dictionaries:
 	- `[Bilingual] JMdict (English).zip`
 	- `[Bilingual] 新和英.zip`
 	- `[Kanji] KANJIDIC (English).zip`
-	- `Grammar/Dictionary of Japanese Grammar.zip` **(NEW!)**  
+	- `Grammar/Dictionary of Japanese Grammar.zip` 
 
 6. Please wait for the dictionaries to import. This could take a while.
 7. Once complete, you can test Yomichan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
@@ -42,9 +42,9 @@ I recommend you install the following dictionaries:
 Click anywhere outside of the box or press the ++esc++ key to dismiss.
  Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 
-8. You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
+You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 
-In your browser extensions toolbar, if you click on the Yomichan logo, then on the ![search icon](img/yomichan-search.png) icon or the ++alt+insert++ keyboard shortcut to access Yomichan Search, this is where you can use Yomichan as a standalone Japanese to English dictionary. 
+In your browser extensions toolbar, if you click on the Yomichan logo, then on the ![search icon](img/yomichan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomichan Search, this is where you can use Yomichan as a standalone Japanese to English dictionary. 
 
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  
@@ -63,7 +63,7 @@ A full dark mode can be enabled in the settings too.
 Enabling this allows you to use Yomichan on local files such as .HTML files.  
 
 !!! failure "PDF Files"
-    On Chrome, it is impossible to use Yomichan on PDF files.  
+    On Chrome, you can't use Yomichan on PDF files, unless you set up PDF.js. 
 
 Chromium:  
 	- Right click the ![yomi icon](img/yomichan-icon.png)  
@@ -108,51 +108,9 @@ Tap on a word to look it up. In the case that it is not working, you may need to
 
 See [AnimeCards Site](https://animecards.site/)
 
-## Offline audio server
+## Offline audio server (+ More audios than default)  
 
-This is entirely optional but people who may be limited by internet access may want to consider this as it allows Yomichan's audio functionality to work offline.  
-
-
-**Yomichan Local Audio Server Addon version 7**
-
-Credits to Zetta (original author) 神出鬼没 (added support for NHK 2016)
-
-**How to Install:**
-
-**CAUTION:** Backup your audio files if they're **not** in `user_files`. See next message for **CHANGES**.
-
-
-1. Download [localaudio_v07.ankiaddon](https://cdn.discordapp.com/attachments/778430038159655012/945816526047572039/localaudio_v07.ankiaddon)  
-
-2. Double click it and install  
-
-3. Download jpod101 audio files (The other jpod101 dump has some missing audio files, should use this one): [HERE](https://mega.nz/file/8yxgSC7Y#P20vHhgWz_1XoOAhNQfriZJzJmN7WfwpoyZL6WS00MI) and extract it to `addons21\955441350\user_files` and replace the `jpod_files` with the extracted folder  
-
-4. Download jpod101 alternate audio files (I tried to scrape everything I can, but I kept getting IP banned every time, so there may be some missing audio files, still have +100k audio files though, should be 99% of them): [HERE](https://mega.nz/file/snxG1Aqa#a0xRK4uMRq1ZOCXl-8ahpHjnswwsUdXlL7DG6Anillo) and extract it to `addons21\955441350\user_files` and replace the `jpod_alternate_files` with the extracted folder  
-
-5. Download NHK 2016 audio files: [HERE](https://mega.nz/file/6gJUFYrR#NZ61jkCb8zWZEbZe0m_OSAv2Kqxqae5zZGKm8uFIXfo) (Thanks kezi ) and extract it to `addons21\955441350\user_files` and replace the `nhk16_files` with the extracted folder  
-
-6. In Yomichan Settings, click `Configure audio playback sources`, Add `Custom URL (JSON)` and URL: `http://localhost:5050/?sources=jpod,jpod_alternate,nhk16&term={term}&reading={reading}` You can reorder `sources` to be `sources=nhk16,jpod,jpod_alternate` if you want` nhk16` to be the first one  
-
-`user_files` folder structure
-
-```
-.
-├── jpod_alternate_files
-│   └── よむ - 読む.mp3
-│   └── ...
-├── jpod_files
-│   └── よむ - 読む.mp3
-│   └── ...
-└── nhk16_files
-    ├── audio
-    │   └── 20170616125910.aac
-    │   └── ...
-    └── entries.json
-```
-
-Once installed, scan a word like 読む and play audio. It will be slow for the first time because it needs to build the map and cache it as a file. (編集済)
-
+[Follow this guide to get local audio.](https://github.com/Aquafina-water-bottle/jmdict-english-yomichan/tree/master/local_audio)  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
