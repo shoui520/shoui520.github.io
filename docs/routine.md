@@ -817,7 +817,7 @@ Getting rid of translations and training yourself to understand the language on 
 
 Japanese subs are better because they give you the opportunity to learn the actual words that are being used in the anime. (Which is a lot of words, btw.)  
 
-    
+
 ## Day 7  
 
 **Note about kana practice:**  
@@ -1223,7 +1223,7 @@ Nevertheless, I highly recommend you do them.
 - Study JLPT N3 Grammar. I will have a Anki deck out some day for N5, N4 and N3 grammar.    
 - Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
-- Train your ability to recognize and read Japanese numbers.  
+- Train your ability to recognize and read Japanese numbers, with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).  
 - When you are comfortable, study JLPT N2 and N1 grammar.  
 - Start a "mining" Anki deck sometime after you finish the Core deck.  
 - Finish a visual novel in under 6 months after starting it.   
