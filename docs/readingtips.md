@@ -23,6 +23,8 @@ Then read the rest of the article.
 
 Visual novels are better for beginners because they don't have to rely on a lot more descriptive text in order to create a story because visual novels have pictures on the screen, etc.  
 
+Visual novels also help you make sense out of hard to understand texts due to images on the screen and more obvious contexts. 
+
 They are easier to approach than novels, difficulty-wise, and therefore they are perfect for easing yourself into reading.  
 
 See [my visual novel guide](/vn) to learn how to learn Japanese with visual novels.  
@@ -318,7 +320,7 @@ This is just a fancy way of saying, *"This means [x] and there is no need to rea
 
 #### **Q:** No subvocalization = no comprehension?  
 
-In my experience, when the words/sentences you are choosing not to subvocalize are not that familiar to you (i.e., you cannot understand them just by glancing at them), An example that experienced readers should understand without reading it word for word is なければならない) then you will end up not understanding what it is actually saying.  
+In my experience, when the words/sentences you are choosing not to subvocalize are not that familiar to you (i.e., you cannot understand them just by glancing at them.) (An example that experienced readers should understand without reading it word for word is なければならない) then you will end up not understanding what it is actually saying.  
 
 Subvocalizing is a useful reading technique, and most people do it; if you read a lot, your subvocalization will just get faster.  
 
