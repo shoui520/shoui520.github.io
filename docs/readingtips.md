@@ -58,7 +58,7 @@ The holy trinity of Japanese learning (for novel enjoyers).
 
 - Set up Yomichan [here](/yomichan)  
 - Itazuraneko in [Resources](/resources)  
-- EPUBs... many ways you can get them. (Itazuraneko, Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
+- EPUBs... many ways you can get them. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
 ### Manga
