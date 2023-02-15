@@ -301,11 +301,11 @@ It is good practice to uncap your review limit.
 
 Just some Anki know-how.  
 
-You also need to change the **Learning steps** to `1m 5m 1h`.  
+You also need to change the **Learning steps** to `1m 5m 10m`.  
 
 Change **Insertion order**, to **Sequential (oldest cards first)**  
 
-Under the **Lapses** section, change the *Relearning Steps* to `2m 1h`.  
+Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
 
 Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  
 
@@ -430,6 +430,8 @@ Green: Review pile
 The learning pile means Anki will show you the card multiple times so you can remember it. 
 
 Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards).  
+
+When the learning pile (red number) goes down that means the card has graduated.  
 
 **Do not spend a long time looking at the same card**  
 
@@ -877,19 +879,7 @@ I recommend you do the "Recognition Remembering the Kanji 450" Anki deck.
 
 [Download it here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
-Import it.  
-
-Do it at a steady 5 cards per day.  
-
-Do not try to rush it.  
-
-You already have the Core deck you're working through.  
-
 The purpose of the deck is to steadily give you the ability to see kanji as a combination of consistent shapes.  
-
-5 cards per day.  
-
-Don't rush it.  
 
 Click the cog icon next to the 日本語 parent deck.  
 
@@ -899,13 +889,13 @@ There is a drop-down menu at the top of this window.
 
 Change Default to *Recognition RTK*.  
 
-Change **New cards/day** to `5`  
+Change **New cards/day** to `10`  
 
-Change the **Learning steps** to `1m 5m 1h`.  
+Change the **Learning steps** to `1m 5m 10m`.  
 
 Change **Insertion order**, to *Sequential (oldest cards first)*  
 
-Under the **Lapses** section, change the *Relearning Steps* to `2m 1h`.  
+Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
 
 Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
 
@@ -1219,12 +1209,10 @@ Nevertheless, I highly recommend you do them.
 - Finish the RRTK450 deck  
 - Do the [Kanji Phonetics](/kanjiphonetics) deck.  
 - Finish Cure Dolly's grammar guide  
-- Start studying JLPT N5, N4 grammar. Only the points that aren't already covered by Cure Dolly though.
-- Study JLPT N3 Grammar. I will have a Anki deck out some day for N5, N4 and N3 grammar.    
+- Study all the Japanese grammar from the Dictionary of Japanese Grammar. There is an Anki deck for that [here](https://ankiweb.net/shared/info/1013111837). There are 629 grammar points ranging from beginner to advanced.     
 - Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
-- Train your ability to recognize and read Japanese numbers, with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).  
-- When you are comfortable, study JLPT N2 and N1 grammar.  
+- Train your ability to recognize and read Japanese numbers, with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).   
 - Start a "mining" Anki deck sometime after you finish the Core deck.  
 - Finish a visual novel in under 6 months after starting it.   
 - Try using a monolingual dictionary after you finish a visual novel.  
