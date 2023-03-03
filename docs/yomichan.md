@@ -110,7 +110,7 @@ See [AnimeCards Site](https://animecards.site/)
 
 ## Offline audio server (+ More audios than default)  
 
-[Follow this guide to get local audio.](https://github.com/Aquafina-water-bottle/jmdict-english-yomichan/tree/master/local_audio)  
+[Follow this guide to get local audio.](https://github.com/themoeway/local-audio-yomichan)  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
