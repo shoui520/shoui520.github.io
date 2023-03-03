@@ -208,12 +208,14 @@ See Applications (Mobile) section for mobile apps.
 #### MDict (MDX)
 Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition) and 大辞林 第三版 (Daijirin 3rd edition)   
 
+- **[Epistularum's Tidy MDX Collection (Recommended)](https://nyaa.si/view/1634529)** - You can selectively download. 国語 dicts are the ones you want.
 - [shoui MDX Collection (Japanese)](https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing)    
 See Applications section for an MDict (MDX) reader.   
 
 #### EPWING  
 Contains older but better known dictionaries such as 新明解国語辞典 第五版 (Shinmeikai 5th edition) and 大辞林 第二版 (Daijirin 2nd edition)   
 
+- **[Epistularum's Tidy EPWing Collection (Recommended)](https://nyaa.si/view/1577255)** - You can selectively download. 国語 dicts are the ones you want.
 - [shoui EPWINGs Pack (Compact Edition) - best for mobile users - 117MB](https://drive.google.com/file/d/1ahs4dUy3kr5vXLBS-eRzq-7aljrGicl-/view?usp=sharing)  
 - [shoui EPWINGs Pack (Standard Edition) - best for computer users - 2GB](https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing)  
 - [shoui EPWINGs Pack (Full Edition) - for those that want it all - 9GB](https://drive.google.com/file/d/1V323XJvasxc2CNb2Ia1gBEeD247g6yRb/view?usp=sharing)  
