@@ -19,7 +19,7 @@ Requirements:
 
 [Textractor](https://github.com/Artikash/Textractor/releases)  
 [Yomichan](https://foosoft.net/projects/yomichan/)  
-[Clipboard Inserter](https://github.com/kmltml/clipboard-inserter)  
+[Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) ([Firefox Version Here](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/))  
 [Texthooking Page](https://learnjapanese.moe/texthooker.html)  
 
 A detailed Yomichan setup tutorial can be found [here](/yomichan)
