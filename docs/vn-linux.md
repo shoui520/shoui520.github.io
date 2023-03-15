@@ -5,7 +5,7 @@ Visual novels are Microsoft Windows-only programs, therefore you must use Wine i
 Follow the steps below. 
 
 !!! warning "Linux dependencies"
-	The guide is currently under review. While it hasn't been changed too much, the Linux dependency section has only been updated for Arch and Void thus far.  
+	The guide is currently under review. The Linux dependency section has been updated for most distros, but openSUSE and Gentoo haven't been tested yet.
 	When following another distro's instructions, make sure you install ffmpeg and the listed gstreamer plugins.
 
 ## Install Wine & dependencies
@@ -48,28 +48,21 @@ Follow the steps below.
 	```bash
 	sudo dpkg --add-architecture i386
 	```  
-	Download the WineHQ repository key:
+	Download and add the WineHQ repository key:
 	```bash
-	wget -nc https://dl.winehq.org/wine-builds/winehq.key
+	sudo mkdir -pm755 /etc/apt/keyrings
+	sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
 	```  
-	Now add the WineHQ repository key:
-	```bash
-	sudo apt-key add winehq.key
-	```  
-	Add the repository:  
+	Add the repository (Ubuntu 22.10):  
 
 	```bash
-	sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' -y
+	sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/kinetic/winehq-kinetic.sources
 	```
 	!!! info "Other Ubuntu Versions"
-		If you use a different version of Ubuntu you must do this instead. Replace `groovy` with the codename of the Ubuntu version you use. This one is for 20.10:
+		If you use a different version of Ubuntu or a derivative like Linux Mint you must do this instead. Replace `kinetic` with the codename of the Ubuntu version you use. This one is for 22.04 and Linux Mint 21.x:
 		```bash
-		sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ groovy main' -y
+		sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
 		```  
-	Add PPA's for Lutris:  
-	```bash
-	sudo add-apt-repository ppa:lutris-team/lutris -y
-	```
 
 	Update packages:  
 	```bash
@@ -79,10 +72,12 @@ Follow the steps below.
 	```bash
 	sudo apt-get install --install-recommends winehq-stable -y
 	```
-	Now install Lutris, CDEmu and some needed libraries:  
+	Now install CDEmu and some needed libraries:  
 	```bash
-	sudo apt-get install lutris libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
+	sudo apt-get install libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
 	```
+	And install Lutris using the deb package from their [GitHub release page](https://github.com/lutris/lutris/releases). Download the version with the tag *Latest*.
+
 	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors.  
 	First, wget the binary:  
 	```bash
@@ -115,24 +110,21 @@ Follow the steps below.
 
 === "Debian"
 
-	✅ Tested on Debian 11 Bullseye
+	These instructions are for Debian 11 Bullseye. On Debian Testing, replace all instances of `bullseye` with `bookworm` in the commands to add repositories.
 
 	First you will need to enable 32-bit architecture.  
 	```bash
 	sudo dpkg --add-architecture i386
 	```  
-	Download the WineHQ repository key:  
+	Download and add the WineHQ repository key:  
 	```bash
-	wget -nc https://dl.winehq.org/wine-builds/winehq.key
+	sudo mkdir -pm755 /etc/apt/keyrings
+	sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
 	```  
-	Now add the WineHQ repository key:  
+	Add the WineHQ repository:  
 	```bash
-	sudo apt-key add winehq.key
+	sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bullseye/winehq-bullseye.sources 
 	```  
-	Add the WineHQ repository to your `/etc/apt/sources.list`:  
-
-	`deb https://dl.winehq.org/wine-builds/debian/ bullseye main`  
-
 	You will need the **Deb Multimedia** repository for CDEmu, this is used to trick VNs that the disc is inserted if no crack is available.
 	Using `wget`, get its GPG keyring:
 	```bash
@@ -142,10 +134,10 @@ Follow the steps below.
 	```bash
 	sudo dpkg -i deb-multimedia-keyring_2016.8.1_all.deb
 	```
-	Now add the repository to your `/etc/apt/sources.list`  
-
+	Now add the repository:
+	```bash
 	`deb http://www.deb-multimedia.org bullseye main`  
-
+	```
 	You also need to append `contrib` and `non-free` to your main repository line in `/etc/apt/sources.list` if you haven't done so already.  
 	Example:  
 	`deb http://deb.debian.org/debian bullseye main contrib non-free`  
@@ -155,10 +147,12 @@ Follow the steps below.
 	sudo apt update
 	```
 
-	Now install all the needed packages, including Wine, Lutris, CDEmu and other Wine dependencies.
+	Now install all the needed packages, including Wine, CDEmu and other Wine dependencies.
 	```bash
-	sudo apt install --install-recommends winehq-stable lutris dbus-x11 libmirage-plugins gcdemu cdemu-client cdemu-daemon libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 gstreamer1.0-plugins-good:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
+	sudo apt install --install-recommends winehq-stable dbus-x11 libmirage-plugins gcdemu cdemu-client cdemu-daemon libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 gstreamer1.0-plugins-good:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
 	``` 
+
+	And install Lutris using the deb package from their [GitHub release page](https://github.com/lutris/lutris/releases). Download the version with the tag *Latest*.
 
 	Now we need to install `winetricks` manually because the one on the repository already is outdated and causes errors. 
 	First, wget the binary: 
@@ -183,13 +177,13 @@ Follow the steps below.
 
 	First add the Wine repository.  
 
-	Fedora 33:  
+	Fedora 37:  
 	```bash
-	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/33/winehq.repo
+	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/37/winehq.repo
 	```
-	Fedora 32:
+	Fedora 36:
 	```bash
-	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/32/winehq.repo
+	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/36/winehq.repo
 	```  
 
 	Now let's install ALL the build dependencies.  
@@ -346,12 +340,14 @@ First you need to get the latest patches for Winetricks or else this will not wo
 sudo winetricks --self-update
 ```  
 Now you can use Winetricks.  
+
+!!! warning "Vulkan Unsupported Systems"
+	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove `dxvk` from the end of the following command. If you already installed it to the Wine prefix you can remove it by following the instructions [here](https://github.com/doitsujin/dxvk#how-to-use).
+
 ```bash
 WINEPREFIX=~/.winevn winetricks -q dotnet35 vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun2012 vcrun2013 vcrun2015 lavfilters alldlls=default quartz dxvk
 ```  
 
-!!! warning "Vulkan Unsupported Systems"
-	Most GPUs made in the last decade [should support Vulkan](https://en.wikipedia.org/wiki/Vulkan#Support_across_vendors). If you have a system that does not support it, remove dxvk by following the instructions [here](https://github.com/doitsujin/dxvk).  
 
 You'll be installing Windows Media Player 10 next. As it's not easy to uninstall, you should make a copy of your prefix in its current state somewhere.  
 
@@ -399,9 +395,10 @@ Now go to System options and set the environment variables as shown below and cl
 - Key: `LC_ALL`	Value: `ja_JP.UTF-8`  
 - Key: `TZ`	Value: `Asia/Tokyo`   
 
-!!! tip "Wine prefix in lutris"
-	Forgot to include this so make sure you set the Wine prefix in Lutris too.
 ![Image](img/vnlinux3.jpg)  
+
+!!! warning "Vulkan Unsupported Systems"
+	If your system does not support Vulkan, you must disable DXVK in "Runner options", this will fallback to regular D3DX9. DXVK is a Vulkan implementation of Direct3D so we will be keeping it on even though Vulkan may not make much of a difference.  
 
 ## Installing the visual novel  
 
@@ -472,9 +469,8 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 	```
 
 ![Image](img/vnlinux5.jpg)  
-
-!!! warning "Vulkan Unsupported Systems"
-	If your system does not support Vulkan, you must disable DXVK in "Runner options", this will fallback to regular D3DX9. DXVK is a Vulkan implementation of Direct3D so we will be keeping it on even though Vulkan may not make much of a difference.  
+!!! tip "Wine prefix in lutris"
+	Forgot to include this so make sure you set the Wine prefix in Lutris too.
 
 Now you can just launch it in Lutris!  
 
