@@ -136,7 +136,7 @@ Follow the steps below.
 	```
 	Now add the repository:
 	```bash
-	`deb http://www.deb-multimedia.org bullseye main`  
+	deb http://www.deb-multimedia.org bullseye main
 	```
 	You also need to append `contrib` and `non-free` to your main repository line in `/etc/apt/sources.list` if you haven't done so already.  
 	Example:  
@@ -177,14 +177,10 @@ Follow the steps below.
 
 	First add the Wine repository.  
 
-	Fedora 37:  
+	These instructions are for Fedora 37. On any other version, replace `37` in this command with your version number.
 	```bash
 	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/37/winehq.repo
 	```
-	Fedora 36:
-	```bash
-	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/36/winehq.repo
-	```  
 
 	Now let's install ALL the build dependencies.  
 
@@ -458,6 +454,10 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 
 ![Image](img/vnlinux5-sup.jpg)  
 
+![Image](img/vnlinux5.jpg)  
+!!! tip "Wine prefix in Lutris"
+	Forgot to include this in the picture, but make sure to set the Wine prefix in Lutris too by adding `~/.winevn` to the *Wine prefix* field.
+
 !!! tip "AlphaROMdiE"
 	For AlphaROMdiE, you need to add AlphaROMdiE to Lutris as the executable, and the filename .exe of the Visual Novel as an argument. If you are using Wine in a command line it should look something like this: 
 	```bash
@@ -467,10 +467,6 @@ Back in Lutris, click the plus icon in the corner, add the name of the VN, choos
 	```bash
 	touch disable_conv other_engine
 	```
-
-![Image](img/vnlinux5.jpg)  
-!!! tip "Wine prefix in lutris"
-	Forgot to include this so make sure you set the Wine prefix in Lutris too.
 
 Now you can just launch it in Lutris!  
 
