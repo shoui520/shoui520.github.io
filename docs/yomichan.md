@@ -16,13 +16,14 @@ These files use the `.zip` extension and **are not to be extracted by the user.*
 You can find my collection of Yomichan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
 →→→→[Shoui's Yomichan Dictionary Collection](https://learnjapanese.link/dictionaries)←←←←　　    
 
+Dictionaries can be found in their respective folders.  
 I recommend you install the following dictionaries:  
 	- `Bilingual/[Bilingual] JMdict (English).zip`  
 	- `Bilingual/[Bilingual] 新和英.zip`  
 	- `Kanji/[Kanji] KANJIDIC (English).zip`  
 	- `Grammar/Dictionary of Japanese Grammar.zip` 
 
-## Installing Dictionaries and basic usage
+## Installing dictionaries and basic usage
   
 1. Click on the ![yomichan-icon](img/yomichan-icon.png) icon in the browser toolbar.  
 2. Click on the ![cog](img/yomichan-cog.png) icon to access the settings page.  
@@ -40,7 +41,7 @@ I recommend you install the following dictionaries:
 ![Yomichan Demo](img/yomidemo1.png) 
 
 Click anywhere outside of the box or press the ++esc++ key to dismiss.
- Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
+Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 
 You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 
@@ -57,13 +58,33 @@ A full dark mode can be enabled in the settings too.
 
 **Dictionary of Japanese Grammar**, or 日本語文法辞典(全集), is a dictionary that helps you look up grammar (duh!).  
 
+## Recommended frequency dictionaries  
+
+Yomichan supports the use of frequency dictionaries that tell you how common a word is.  
+
+**JPDB** - A frequency list made from jpdb.io, which is a site that has analyzed many light novels, visual novels, anime and j-drama. In turn, this is a frequency list from Japanese fictional media.  
+
+**CC100** - Frequency list of corpus data from Japanese internet. Formal words will appear more common in this frequency list . Example: 審議会 (council) is 9733 frequency on CC100 and 58730 on JPDB.  
+
+**fWhat is a common word?**  
+
+Very common: 1-10,000  
+Commmon: 10,001-20,000    
+Fairly common: 20,001-30,000 
+Kind of uncommon: 30,001-40,000 
+Uncommon: 40,001-50,000
+Rare: 50,001-80,000
+Natives-probably-don't-know-it-level: 80,000+
+
+
+
 
 ## Allowing access to file URLs
 
 Enabling this allows you to use Yomichan on local files such as .HTML files.  
 
 !!! failure "PDF Files"
-    On Chrome, you can't use Yomichan on PDF files, unless you set up PDF.js. 
+    On Chrome, you need to use [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). Click on the diagonal up arrow thingy to load a pdf.  
 
 Chromium:  
 	- Right click the ![yomi icon](img/yomichan-icon.png)  
@@ -110,7 +131,7 @@ See [AnimeCards Site](https://animecards.site/)
 
 ## Offline audio server (+ More audios than default)  
 
-[Follow this guide to get local audio.](https://github.com/Aquafina-water-bottle/jmdict-english-yomichan/tree/master/local_audio)  
+[Follow this guide to get local audio.](https://github.com/themoeway/local-audio-yomichan)  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
