@@ -70,11 +70,11 @@ Yomichan supports the use of frequency dictionaries that tell you how common a w
 
 Very common: 1-10,000  
 Commmon: 10,001-20,000    
-Fairly common: 20,001-30,000 
-Kind of uncommon: 30,001-40,000 
-Uncommon: 40,001-50,000
-Rare: 50,001-80,000
-Natives-probably-don't-know-it-level: 80,000+
+Fairly common: 20,001-30,000   
+Kind of uncommon: 30,001-40,000  
+Uncommon: 40,001-50,000  
+Rare: 50,001-80,000  
+Natives-probably-don't-know-it-level: 80,000+  
 
 
 
