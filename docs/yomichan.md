@@ -66,7 +66,7 @@ Yomichan supports the use of frequency dictionaries that tell you how common a w
 
 **CC100** - Frequency list of corpus data from Japanese internet. Formal words will appear more common in this frequency list . Example: 審議会 (council) is 9733 frequency on CC100 and 58730 on JPDB.  
 
-**fWhat is a common word?**  
+**What is a common word?**  
 
 Very common: 1-10,000  
 Commmon: 10,001-20,000    
