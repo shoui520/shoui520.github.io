@@ -1073,7 +1073,9 @@ It is known as "長音" (ちょうおん). The kanji of this mean long, sound!.
 
 I have made a Yotsubato reading helper to help you with words like these.  
 
-**Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**    
+**Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**   
+
+*Note: A typo I made in the reading helper: おいてくぞ is actually おいていくぞ, not おいておくぞ*
 
 Japanese manga is in vertical text. This means the text is read **downwards** from the **rightmost** line to the **leftmost** line.  
 
