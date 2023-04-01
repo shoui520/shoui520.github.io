@@ -30,7 +30,7 @@ I recommend you install the following dictionaries:
 3. On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  
 4. Click the "Import" button on the bottom.  
 5. Here's where you select the dictionaries to import. Please only import the following. 
-	- `[Bilingual] JMdict (English).zip`
+	- `[Bilingual] JMdict Extra.zip`
 	- `[Bilingual] 新和英.zip`
 	- `[Kanji] KANJIDIC (English).zip`
 	- `Grammar/Dictionary of Japanese Grammar.zip` 
@@ -50,7 +50,7 @@ In your browser extensions toolbar, if you click on the Yomichan logo, then on t
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  
 
-**JMdict** is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMdict. This is the most common Japanese to English dictionary.  
+**JMdict** is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMdict. This is the most common Japanese to English dictionary. The version you are loading into Yomichan includes example sentences.  
 
 **新和英** (Shinwaei) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with even more example sentences is called `[Bilingual] 研究社　新和英大辞典　第５版.zip` can also be found in my dictionaries collection.  
 
