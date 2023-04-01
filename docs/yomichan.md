@@ -18,7 +18,7 @@ You can find my collection of Yomichan dictionaries below. This will have everyt
 
 Dictionaries can be found in their respective folders.  
 I recommend you install the following dictionaries:  
-	- `Bilingual/[Bilingual] JMdict (English).zip`  
+	- `Bilingual/[Bilingual] JMdict Extra.zip`  
 	- `Bilingual/[Bilingual] 新和英.zip`  
 	- `Kanji/[Kanji] KANJIDIC (English).zip`  
 	- `Grammar/Dictionary of Japanese Grammar.zip` 
