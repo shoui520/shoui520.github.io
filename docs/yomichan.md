@@ -6,7 +6,7 @@ Yomichan is a browser extension that allows you to look up Japanese words with b
 ## Getting Started 
 Yomichan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
 [Chrome Web Store](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami)  
-[Firefox (requires sideloading)](https://github.com/FooSoft/yomichan/releases/tag/22.10.23.0)  
+[Firefox (requires sideloading)](https://github.com/FooSoft/yomichan/releases/download/22.10.23.0/a708116f79104891acbd-22.10.23.0.xpi)  
 Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  
 
 ## Acquiring Dictionaries
