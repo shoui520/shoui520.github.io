@@ -94,6 +94,7 @@ The websites below have the best collection but can be a pain to download from.
 - [JPDDL](https://jpddl.com/manga) - Similar to a-zmanga.  
 
 ### Novels and Literary Texts
+- **[※Itazuraneko EPUB AZW3 MOBI Full List](https://itazuraneko.neocities.org/library/shousetu/shousetulist)** 
 - [Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - This page has a lot of books, and you are able to sort by genre, author, kanji count and such. You may want to uncheck "Hide books translated from English", as it is enabled by default.
 - [Itazuraneko New Novel Library](https://itazuraneko.neocities.org/library/shousetu.html) - A more updated version of the above, with more books, but it lacks sorting.
 - [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - Huge list of books, 20000+ books. Takes a while to load when you click on the "検索" page. You can click on the name to read it in a web browser, or you can click on the file size to download it. Please note that the EPUB files that it gives you have highly compressed images. The search function does not work no matter what. Use CTRL+F/Find in page feature in your browser instead. 
