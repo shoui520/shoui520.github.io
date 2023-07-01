@@ -5,7 +5,7 @@ Visual novels are Microsoft Windows-only programs, therefore you must use Wine i
 Follow the steps below. 
 
 !!! warning "Linux dependencies"
-	The guide is currently under review. The Linux dependency section has been updated for most distros, but openSUSE and Gentoo haven't been tested yet.
+	The Linux dependency section has been updated for most distros, but the openSUSE and Gentoo parts have been left untouched.
 	When following another distro's instructions, make sure you install ffmpeg and the listed gstreamer plugins.
 
 ## Install Wine & dependencies
@@ -22,12 +22,12 @@ Follow the steps below.
 
 	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
 
-	Now we might want something called *CDemu*, this is to trick some VNs into thinking that the original disc for the VN is inserted, so it'll let you play the game.  
+	Optionally, for some VNs, you might want *CDEmu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game.  
 	```bash
 	sudo pacman -S cdemu-client cdemu-daemon
 	```
 
-	In order to use CDemu, you need to install the VHBA module.  
+	In order to use CDEmu, you need to install the VHBA module.  
 	```bash
 	sudo pacman -S vhba-module
 	```
@@ -35,7 +35,7 @@ Follow the steps below.
 	!!! info "Custom and LTS Kernels"
 		If you are using a custom or LTS kernel, install `vhba-module-dkms`. Otherwise, install `vhba-module`.  
 
-	The CDemu service is loaded with the kernel module.  
+	The CDEmu service is loaded with the kernel module.  
 
 	If drivers for CD/DVD drives are not automatically loaded, you can load it manually.  
 	```bash
@@ -72,7 +72,7 @@ Follow the steps below.
 	```bash
 	sudo apt-get install --install-recommends winehq-stable -y
 	```
-	Now install CDEmu and some needed libraries:  
+	Install some needed libraries:  
 	```bash
 	sudo apt-get install libgnutls30:i386 libldap-2.4-2:i386 libgpg-error0:i386 libxml2:i386 libasound2-plugins:i386 libsdl2-2.0-0:i386 libfreetype6:i386 libdbus-1-3:i386 libsqlite3-0:i386 libgstreamer-plugins-base1.0-0:i386 libgstreamer-plugins-good1.0-0:i386 libgstreamer-plugins-bad1.0-0:i386 libgudev-1.0-0:i386 ocl-icd-dev:i386 -y
 	```
@@ -92,7 +92,7 @@ Follow the steps below.
 	sudo cp winetricks /usr/bin
 	```  
 
-	Optionally, for some VNs, you might want *CDemu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game.  
+	Optionally, for some VNs, you might want *CDEmu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game.  
 
 	Add PPA's for CDEmu:  
 	```bash
@@ -101,12 +101,12 @@ Follow the steps below.
 	Update package repositories:  
 	```bash
 	sudo apt update
-	```  
-	Now we need to install the VHBA module if you don't already have it.  
+	```
+	Now install CDEmu daemon and clients:
 	```bash
-	sudo apt-get install vhba-dkms -y
-	```  
-	The CDemu service is loaded with the kernel module.  
+	sudo apt install cdemu-client cdemu-daemon gcdemu vhba-dkms
+	```
+	The CDEmu service should now be loaded with the kernel module.  
 
 === "Debian"
 
@@ -125,7 +125,8 @@ Follow the steps below.
 	```bash
 	sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bullseye/winehq-bullseye.sources 
 	```  
-	You will need the **Deb Multimedia** repository for CDEmu, this is used to trick VNs that the disc is inserted if no crack is available.
+	
+	Optionally, for some VNs, you might want *CDEmu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game. You will need the **Deb Multimedia** repository for CDEmu.
 	Using `wget`, get its GPG keyring:
 	```bash
 	wget https://www.deb-multimedia.org/pool/main/d/deb-multimedia-keyring/deb-multimedia-keyring_2016.8.1_all.deb
@@ -171,61 +172,49 @@ Follow the steps below.
 	```bash
 	sudo apt install vhba-dkms
 	```
-	The CDemu service should be loaded with the kernel module.  
+	The CDEmu service should be loaded with the kernel module.  
 
 === "Fedora"  
 
-	First add the Wine repository.  
-
-	These instructions are for Fedora 37. On any other version, replace `37` in this command with your version number.
+	For this you will need to have the [RPM Fusion](https://rpmfusion.org) repositories added. If you haven't already added them you can do so with these commands:
 	```bash
-	sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/37/winehq.repo
+	sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+	sudo dnf groupupdate core
 	```
 
-	Now let's install ALL the build dependencies.  
-
+	Install Wine, Winetricks and other dependencies you're gonna need for many VNs.
 	```bash
-	sudo dnf install alsa-plugins-pulseaudio.i686 glibc-devel.i686 glibc-devel libgcc.i686 libX11-devel.i686 freetype-devel.i686 libXcursor-devel.i686 libXi-devel.i686 libXext-devel.i686 libXxf86vm-devel.i686 libXrandr-devel.i686 libXinerama-devel.i686 mesa-libGLU-devel.i686 mesa-libOSMesa-devel.i686 libXrender-devel.i686 libpcap-devel.i686 ncurses-devel.i686 libzip-devel.i686 lcms2-devel.i686 zlib-devel.i686 libv4l-devel.i686 libgphoto2-devel.i686 cups-devel.i686 libxml2-devel.i686 openldap-devel.i686 libxslt-devel.i686 gnutls-devel.i686 libpng-devel.i686 flac-libs.i686 json-c.i686 libICE.i686 libSM.i686 libXtst.i686 libasyncns.i686 liberation-narrow-fonts.noarch libieee1284.i686 libogg.i686 libsndfile.i686 libuuid.i686 libva.i686 libvorbis.i686 libwayland-client.i686 libwayland-server.i686 llvm-libs.i686 mesa-dri-drivers.i686 mesa-filesystem.i686 mesa-libEGL.i686 mesa-libgbm.i686 nss-mdns.i686 ocl-icd.i686 pulseaudio-libs.i686 sane-backends-libs.i686 tcp_wrappers-libs.i686 unixODBC.i686 samba-common-tools.x86_64 samba-libs.x86_64 samba-winbind.x86_64 samba-winbind-clients.x86_64 samba-winbind-modules.x86_64 mesa-libGL-devel.i686 fontconfig-devel.i686 libXcomposite-devel.i686 libtiff-devel.i686 openal-soft-devel.i686 mesa-libOpenCL-devel.i686 opencl-utils-devel.i686 alsa-lib-devel.i686 gsm-devel.i686 libjpeg-turbo-devel.i686 pulseaudio-libs-devel.i686 pulseaudio-libs-devel gtk3-devel.i686 libattr-devel.i686 libva-devel.i686 libexif-devel.i686 libexif.i686 glib2-devel.i686 mpg123-devel.i686 mpg123-devel.x86_64 libcom_err-devel.i686 libcom_err-devel.x86_64 libFAudio-devel.i686 libFAudio-devel.x86_64
-	```  
-
-	```bash
-	sudo dnf groupinstall "C Development Tools and Libraries"
-	sudo dnf groupinstall "Development Tools"
+	sudo dnf install wine winetricks alsa-plugins-pulseaudio.i686 glibc-devel.i686 glibc-devel libgcc.i686 libX11-devel.i686 freetype-devel.i686 libXcursor-devel.i686 libXi-devel.i686 libXext-devel.i686 libXxf86vm-devel.i686 libXrandr-devel.i686 libXinerama-devel.i686 mesa-libGLU-devel.i686 mesa-libOSMesa-devel.i686 libXrender-devel.i686 libpcap-devel.i686 ncurses-devel.i686 libzip-devel.i686 lcms2-devel.i686 zlib-devel.i686 libv4l-devel.i686 libgphoto2-devel.i686 cups-devel.i686 libxml2-devel.i686 openldap-devel.i686 libxslt-devel.i686 gnutls-devel.i686 libpng-devel.i686 flac-libs.i686 json-c.i686 libICE.i686 libSM.i686 libXtst.i686 libasyncns.i686 liberation-narrow-fonts.noarch libieee1284.i686 libogg.i686 libsndfile.i686 libuuid.i686 libva.i686 libvorbis.i686 libwayland-client.i686 libwayland-server.i686 llvm-libs.i686 mesa-dri-drivers.i686 mesa-filesystem.i686 mesa-libEGL.i686 mesa-libgbm.i686 nss-mdns.i686 ocl-icd.i686 pulseaudio-libs.i686 sane-backends-libs.i686 tcp_wrappers-libs.i686 unixODBC.i686 samba-common-tools.x86_64 samba-libs.x86_64 samba-winbind.x86_64 samba-winbind-clients.x86_64 samba-winbind-modules.x86_64 mesa-libGL-devel.i686 fontconfig-devel.i686 libXcomposite-devel.i686 libtiff-devel.i686 openal-soft-devel.i686 mesa-libOpenCL-devel.i686 opencl-utils-devel.i686 alsa-lib-devel.i686 gsm-devel.i686 libjpeg-turbo-devel.i686 pulseaudio-libs-devel.i686 pulseaudio-libs-devel gtk3-devel.i686 libattr-devel.i686 libva-devel.i686 libexif-devel.i686 libexif.i686 glib2-devel.i686 mpg123-devel.i686 mpg123-devel.x86_64 libcom_err-devel.i686 libcom_err-devel.x86_64 libFAudio-devel.i686 libFAudio-devel.x86_64
 	```
-	You also need some packages from [rpmfusion](https://rpmfusion.org)  
-
+	
+	*This may look like a lot of "bloat" but for older games especially, you will need all of these.*  
+	
+	After that you can install all necessary multimedia codecs.
 	```bash
-	sudo dnf install gstreamer-plugins-base-devel gstreamer-devel.i686 gstreamer.i686 gstreamer-plugins-base.i686 gstreamer-devel gstreamer1.i686 gstreamer1-devel gstreamer1-plugins-base-devel.i686 gstreamer-plugins-base.x86_64 gstreamer.x86_64 gstreamer1-devel.i686 gstreamer1-plugins-base-devel gstreamer-plugins-base-devel.i686 gstreamer-ffmpeg.i686 gstreamer1-plugins-bad-free-devel.i686 gstreamer1-plugins-bad-free-extras.i686 gstreamer1-plugins-good-extras.i686 gstreamer1-libav.i686 gstreamer1-plugins-bad-freeworld.i686
-	```  
-
-	Now install Wine:  
-
-	```bash
-	sudo dnf install wine
+	sudo dnf install gstreamer1-plugins-base-devel gstreamer1-devel.i686 gstreamer1.i686 gstreamer1-plugins-base.i686 gstreamer1-devel gstreamer1.i686 gstreamer1-devel gstreamer1-plugins-base-devel.i686 gstreamer1-plugins-base.x86_64 gstreamer1.x86_64 gstreamer1-devel.i686 gstreamer1-plugins-base-devel gstreamer1-plugins-base-devel.i686 gstreamer1-plugins-bad-free-devel.i686 gstreamer1-plugins-bad-free-extras.i686 gstreamer1-plugins-good-extras.i686 gstreamer1-plugin-libav gstreamer1-plugin-libav.i686 gstreamer1-plugins-bad-freeworld.i686
 	```
+	
+	!!! warning "Problem: conflicting requests"
+		If you get an error message mentioning conflicting requests and `ffmpeg-free`, you'll need to replace it with the FFmpeg from RPM Fusion's repositories by running this command:
+		```bash
+		sudo dnf install ffmpeg --allowerasing
+		```
+		Once this is done you should be able to rerun the previous command.
 
-	And then Winetricks:  
+	Optionally, for some VNs, you might want *CDEmu* which tricks VNs into thinking that the original disc is inserted so it'll let you play the game.
 
-	First, wget the binary:  
-	```bash
-	wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
-	```
-	Use `chmod` to make it into an executable:  
-	```bash
-	chmod +x winetricks
-	```
-	Now copy it to your `/usr/bin` so it can be used in a command line.  
-	```bash
-	sudo cp winetricks /usr/bin
-	```  
-
-	And now CDEmu, first enable the rok/cdemu COPR repository:  
-
+	Enable the rok/cdemu COPR repository:  
 	```bash
 	sudo dnf copr enable rok/cdemu
 	```
-	Now install CDEmu daemon and clients:  
-
+	
+	Make sure the kernel development package is installed.
+	```bash
+	sudo dnf install kernel-devel
+	```
+	If it wasn't already installed or you just updated your system and that included a kernel update, reboot your system before continuing and installing CDEmu.
+	
+	Install CDEmu daemon and clients:  
 	```bash
 	sudo dnf install cdemu-daemon cdemu-client gcdemu
 	```
@@ -234,7 +223,7 @@ Follow the steps below.
 	```bash
 	sudo akmods
 	sudo systemctl restart systemd-modules-load.service
-	```  
+	```
 
 === "openSUSE"
 
