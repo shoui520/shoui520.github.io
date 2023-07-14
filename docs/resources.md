@@ -6,8 +6,8 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 
 ### Kana  
 
-- [**※ - Tae Kim - The Writing System**](https://itazuraneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
-- [Itazuraneko Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
+- [**※ - Tae Kim - The Writing System**](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
+- [DJT Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
 
 ### Kanji
 
@@ -35,8 +35,8 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 ### Grammar
 - **[※ - Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Cure Dolly is a new grammar guide that has sparked recent attention because of its unique way of teaching Japanese grammar. It aims to teach Japanese grammar in a way that sticks true to the roots of the language, in contrast to other grammar guides that take shortcuts that could cause confusion later on. For that reason, I recommend you start with this. Because of Cure Dolly's speech, and the audio quality presented in the videos, you may find it difficult to understand. However there are subtitles available for all videos that may alleviate this issue, which I recommend you turn on. 
 - [Cure Dolly Complete Transcript by dinuz](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc) - A transcript of a few Cure Dolly videos. This can be useful when you want to check something or would just prefer to read it. 
-- [Tae Kim’s Guide to Japanese, a guide for grammar](https://itazuraneko.neocities.org/grammar/taekim.html) - Tae Kim's grammar guide has been around for as long as anyone can remember. It is often recommended as a good grammar guide however you may want to use Cure Dolly instead, for a more optimized approach. 
-- [Reference list of all Japanese grammar patterns.](https://itazuraneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
+- [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html) - Tae Kim's grammar guide has been around for as long as anyone can remember. It is often recommended as a good grammar guide however you may want to use Cure Dolly instead, for a more optimized approach. 
+- [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
 - **[※ - NihongoKyoshi Anki Deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
@@ -48,9 +48,9 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 ### Anime
 
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker with raw anime, this is the best place to get anime. I recommend you use **qBittorrent**! 
-- [zoro.to](https://zoro.to/) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.
+- ~~[zoro.to](https://zoro.to/) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.~~
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Chrome extension that allows you to drag and drop subtitle files (See [Subtitles](#subtitles)) on a video you are streaming. It works with zoro.to, and it may work with other sites. 
-- [Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime.  
+- ~~[Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime.~~  
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.  
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video. 
 - [Cute Anime](https://cuteanime.moe/anime) - Watch some moe anime with Japanese subtitles.  
@@ -76,7 +76,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 
 Refer to the tools section for info on how to make lookups easier for manga.  
 
-- [Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.  
+- ~~[Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.~~  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
 - [BilingualManga](https://bilingualmanga.net/) - Yomichan compatible & one-click translation.  
 - [Cute Manga](https://cutemanga.moe/) - Read some moe manga, Yomichannable. 
@@ -94,9 +94,9 @@ The websites below have the best collection but can be a pain to download from.
 - [JPDDL](https://jpddl.com/manga) - Similar to a-zmanga.  
 
 ### Novels and Literary Texts
-- **[※Itazuraneko EPUB AZW3 MOBI Full List](https://itazuraneko.neocities.org/library/shousetu/shousetulist)** 
-- [Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - This page has a lot of books, and you are able to sort by genre, author, kanji count and such. You may want to uncheck "Hide books translated from English", as it is enabled by default.
-- [Itazuraneko New Novel Library](https://itazuraneko.neocities.org/library/shousetu.html) - A more updated version of the above, with more books, but it lacks sorting.
+- ~~**[※Itazuraneko EPUB AZW3 MOBI Full List](https://itazuraneko.neocities.org/library/shousetu/shousetulist)**~~ 
+- ~~[Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - This page has a lot of books, and you are able to sort by genre, author, kanji count and such. You may want to uncheck "Hide books translated from English", as it is enabled by default.~~
+- ~~[Itazuraneko New Novel Library](https://itazuraneko.neocities.org/library/shousetu.html) - A more updated version of the above, with more books, but it lacks sorting.~~
 - [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - Huge list of books, 20000+ books. Takes a while to load when you click on the "検索" page. You can click on the name to read it in a web browser, or you can click on the file size to download it. Please note that the EPUB files that it gives you have highly compressed images. The search function does not work no matter what. Use CTRL+F/Find in page feature in your browser instead. 
 - [Boroboro](https://boroboro.neocities.org/listfullepub.html) - Has EPUBs of some series that may not be on Itazuraneko.   
 - [Syosetsu Web Novels](https://yomou.syosetu.com/) - Web novels. In contrast to Itazuraneko and Boroboro, which has retail books, this has only web novels and 二次創作 (fanfiction)   
@@ -121,7 +121,7 @@ Note: visual novels on consoles do not have any NSFW content.
 
 **Console/Emulator**  
 
-- [Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive](https://itazuraneko.neocities.org/library/game.html) - Nintendo, Sony and Sega, 6th generation console and older games.  
+- ~~[Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive](https://itazuraneko.neocities.org/library/game.html) - Nintendo, Sony and Sega, 6th generation console and older games.~~  
 - [r/roms megathread](https://r-roms.github.io/) - has more ROMs than the other sites
 - [CDRomance Japanese PSP Games](https://cdromance.com/psp/?filter_language=japanese&filter_region=japan) - PSP games 
 - [CDRomance Japanese PS2 Games](https://cdromance.com/ps2-iso/?filter_language=japanese&filter_region=japan) - PS2 games
@@ -135,7 +135,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 #### Hook VNs with Textractor!
 - [VN Guide](https://learnjapanese.moe/vn/)  
 ### Audiobooks & Podcasts
-- [Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - Has some of the 0 yen audiobooks from Audible.  
+- ~~[Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - Has some of the 0 yen audiobooks from Audible.~~  
 - [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
@@ -143,7 +143,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). **(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**    
-- [Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)  
+- ~~[Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)~~  
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
 - [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)   
@@ -178,7 +178,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [Aquafina's Advanced Anki Template](https://aquafina-water-bottle.github.io/jp-mining-note/)  
 
 ### Japanese Fonts
-- [Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html) 
+- [Itazuraneko Font Library](https://gohoneko.neocities.org/library/font.html) 
 - [Font Free](https://fontfree.me/)   
 
 ### Dictionaries
