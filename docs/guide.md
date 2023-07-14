@@ -71,7 +71,7 @@ Mnemonics may seem like a good idea, but I’ve seen people complain that it mak
 
 ***You need to learn this first.***
 
-I recommend you read [Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) and pause after *The Writing System*. This is to dispell any misconceptions you may have about kana, so you know exactly what they are and how they are used at first hand.  
+I recommend you read [Tae Kim](https://gohoneko.neocities.org/grammar/taekim.html) and pause after *The Writing System*. This is to dispell any misconceptions you may have about kana, so you know exactly what they are and how they are used at first hand.  
 
 After that you should copy out the chart below in a notebook or something similar. You may never need to use a pen ever again after this. :smile:
 
@@ -83,7 +83,7 @@ The Chart:
 When you've done that you should go on [DJT Kana](https://djtguide.neocities.org/kana/index.html) and check all the kana by going in "show/hide" and test yourself. Make sure you also scroll down and check all for hiragana combinations and katakana/katakana combinations!
 
 Steps if you got confused:
-> 1. Read [Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) until you complete *The Writing System*
+> 1. Read [Tae Kim](https://gohoneko.neocities.org/grammar/taekim.html) until you complete *The Writing System*
 > 2. Copy out the chart above into a notebook or something similar.
 > 3. Test yourself by using [DJT Kana](https://djtguide.neocities.org/kana/index.html). Make sure you check all the kana by going in "show/hide" and test yourself. MAKE SURE you also scroll down and check all for hiragana combinations and katakana/katakana combinations!
 
@@ -158,7 +158,7 @@ When approaching grammar, it is important to know that the purpose of a grammar 
 There are many grammar guides out there, some are good, but some are bad. To prevent confusion amongst learners, i will only mention 2 grammar guides. Tae Kim and Cure Dolly. No grammar guide is perfect, they each have their ups and downs. Tae Kim is written pretty well, and very beginner friendly, however some of his explanations may be a little off and it can get boring to read. Cure Dolly takes an unorthodox approach to Japanese grammar, trying to teach Japanese grammar in a more Japanese “organic” way. However, Cure Dolly is not the most absolute beginner friendly, you need at least *some* background knowledge before using. Also, the audio is very poor.  
 You can find the 2 grammar guides below:   
 
-[Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html)     
+[Tae Kim](https://gohoneko.neocities.org/grammar/taekim.html)     
 *There is also an Android and iOS app for offline viewing!, note that everything in this guide is considered to be "basic Japanese", even the “advanced” section*    
 [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 *I recommend turning on subtitles and setting the speed to 1.25x!*    
@@ -258,7 +258,7 @@ This guide would have not been possible if it was not for Stephen Krashen, Mass 
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)  
 [All Japanese All The Time](https://learnjapanese.link/ajatt)  
 [AntiMoon](http://www.antimoon.com/)  
-[Itazuraneko](https://itazuraneko.neocities.org/)  
+[Itazuraneko (clean mirror)](https://gohoneko.neocities.org/)  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
@@ -301,5 +301,5 @@ If you have any questions, you can ask at our Discord.
 1. [YouTube - Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)  
 2. [Stephen Krashen’s Theory of Second Language Acquisition](https://www.sk.com.br/sk-krash.html)  
 3. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)  
-4. [Itazuraneko - main guide](https://itazuraneko.neocities.org/learn/guide.html)  
+4. [Itazuraneko - main guide](https://gohoneko.neocities.org/learn/guide.html)  
 5. [Input Hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis)  
