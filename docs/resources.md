@@ -178,7 +178,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [Aquafina's Advanced Anki Template](https://aquafina-water-bottle.github.io/jp-mining-note/)  
 
 ### Japanese Fonts
-- [Itazuraneko Font Library](https://gohoneko.neocities.org/library/font.html) 
+- ~~[Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)~~ 
 - [Font Free](https://fontfree.me/)   
 
 ### Dictionaries
