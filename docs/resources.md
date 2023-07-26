@@ -53,7 +53,6 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - ~~[Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime.~~  
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.  
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video. 
-- [Cute Anime](https://cuteanime.moe/anime) - Watch some moe anime with Japanese subtitles.  
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 ### Movies & TV Shows (J-drama)
 - [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)
@@ -83,7 +82,6 @@ Refer to the tools section for info on how to make lookups easier for manga.
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
-
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
 - [Rawkuma](https://rawkuma.com/) - Also lets you read manga online. 
 The websites below have the best collection but can be a pain to download from.  
