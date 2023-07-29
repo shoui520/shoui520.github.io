@@ -61,13 +61,13 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - stream some J-drama.
 - [Crunchyroll (free with ads)](https://www.crunchyroll.com/) - some j-drama on here.     
 - [Minidrama](https://minidrama.net/j-drama/) - MKV downloads for J-drama.  
-- [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama 
-- [Japanese Live TV Streams](http://www.keylabo.com/watch-tv-online-for-free/) - Not all channels work.  
-- [Japanese Live TV Streams 2](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific). 
-- **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.  
-- [Aqstream Japanese TV Live streams](https://aqstream.com/jp) - Not all channels work.  
+- [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama
+- [Japanese Live TV Streams](https://aqstream.com/jp) - Good speed but small collection.
+- [Japanese Live TV Streams 2](https://www.xhzb.tw/en/list.php?tid=94) - Not all channels work.
+- [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific). 
+- **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.   
 - [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.  
-- [Some Japanese TV Shows on BiliBili](https://space.bilibili.com/60958832/#/video?tid=0&page=1&keyword=&order=pubdate)
+- [Search on bilibili]((https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND  
 
 
