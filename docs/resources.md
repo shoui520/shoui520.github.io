@@ -83,6 +83,7 @@ Refer to the tools section for info on how to make lookups easier for manga.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
+- [mangareader.to](https://mangareader.to) - mangareader, read manga online.
 - [Rawkuma](https://rawkuma.com/) - Also lets you read manga online. 
 The websites below have the best collection but can be a pain to download from.  
 **Use a debrid service to generate premium full speed download links!**   
