@@ -24,7 +24,7 @@ Learning these components can help you learn the readings of new words easier!
 Make sure you read the description of the deck so you can learn the usage instructions and the pitfalls of the method.  
 
 ## Download link  
-[**→→→(Download Link)←←←**](https://drive.google.com/file/d/12Zb3-oBQAgsdMRyapRUYv23_0gnHIRY3/view?usp=share_link)  
+[**→→→(Download Link)←←←**](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?usp=drive_link)  
 
 ## When should I start this?  
 
