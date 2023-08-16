@@ -630,7 +630,7 @@ After unzipping the file, I got a bunch of .SRT files.
 
 Now what you need to do is drag and drop an .SRT file onto a video.  
 
-The asbplayer extension works with [zoro.to](https://zoro.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
+The asbplayer extension works with [Aniwatch](https://aniwatch.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
 
 Before you start playing an episode, make sure you have this page open: [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/)  
 
