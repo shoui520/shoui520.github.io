@@ -48,7 +48,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 ### Anime
 
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker with raw anime, this is the best place to get anime. I recommend you use **qBittorrent**! 
-- ~~[zoro.to](https://zoro.to/) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.~~
+- [Aniwatch.to](https://aniwatch.to/) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Chrome extension that allows you to drag and drop subtitle files (See [Subtitles](#subtitles)) on a video you are streaming. It works with zoro.to, and it may work with other sites. 
 - ~~[Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime.~~  
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.  
