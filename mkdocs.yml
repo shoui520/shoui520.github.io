@@ -23,6 +23,7 @@ nav:
   - 'Resources':
     - 'Resources': 'resources.md' 
   - 'Other':
+    - 'Donate': 'donate.md'
 theme:
   features:
     - navigation.instant
