@@ -62,7 +62,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [Crunchyroll (free with ads)](https://www.crunchyroll.com/) - some j-drama on here.     
 - [Minidrama](https://minidrama.net/j-drama/) - MKV downloads for J-drama.  
 - [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama
-- [Japanese Live TV Streams](https://aqstream.com/jp) - Good speed but small collection.
+- [Japanese Live TV Streams](https://aqstream.com/jp) - Good speed but small collection. TBS and TV Tokyo work great.
 - [Japanese Live TV Streams 2](https://www.xhzb.tw/en/list.php?tid=94) - Not all channels work.
 - [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific). 
 - **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.   
@@ -138,8 +138,8 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
-- [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)   
-
+- [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
+  
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). **(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**    
 - ~~[Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)~~  
@@ -314,6 +314,7 @@ Useful for stuff like visual novels and manga you may download.
 ### VPNs (Japan location specific)  
 
 #### Free
+- **[※ MillenVPN](https://millenvpn.jp/) - Japanese-made VPN with support for streaming services such as Netflix.**
 - [(Cross-platform) VPN Gate](https://www.vpngate.net/en/) - free Japanese VPN servers with OpenVPN support.  
 - [(Windows) SoftEther](https://www.softether.org/5-download) - Make sure you read the manual of this.
 - [(Android) VPN Japan Proxy Secure VPN](https://play.google.com/store/apps/details?id=free.vpnjapan.unlimited.unblock.proxy.secure.turbo) - While I would never trust my data with this, it works fine for getting a Japanese IP address.  
