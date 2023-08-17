@@ -124,7 +124,7 @@ Windows: [Siki](https://sikiapp.net/)
 Android: [Chmate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate&hl=ja)  
 iOS: [BB2C](https://apps.apple.com/jp/app/bb2c/id298820042)  
 ## Improve the web browser 2ch experience: 5chutil  
-You can improve the web browser 2ch experience using an the 5chutil extension.  
+You can improve the web browser 2ch experience using the 5chutil extension.  
 [Chrome](https://chrome.google.com/webstore/detail/5chutil/ckcklnamohjkfhflhfgboeadbbfhnmif?hl=ja)  
 [Firefox](https://addons.mozilla.org/ja/firefox/addon/5chutil/)   
 [Greasyfork Userscript](https://greasyfork.org/ja/scripts/441117-5chutil)     
@@ -187,8 +187,8 @@ Originally 20 years ago, this meant boards that got special treatment, but now t
 ### トリップ/酉/鳥
 This is similar to [コテハン](#_8), but a トリップ is made by a special string of characters that only you should know, that becomes another string of characters, this is your トリップ. People may want to post with a トリップ when they want to be specially identified.
 ### !extend::vvvvv::
-This is a command you can use in the OP of a 2ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 2ch reset when the date changes or when you post from a different IP address, so ID's aren't enough. People will post multiple lines of the string `!extend::vvvvv::` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
-A more severe version of this, with more v's displays each poster's IP address, however this is more rare. 
+This is a command you can use in the OP of a 2ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 2ch reset when the date changes or when you post from a different IP address, so IDs aren't enough. People will post multiple lines of the string `!extend::vvvvv::` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
+A more severe version of this with more v's displays each poster's IP address, however this is more rare. 
 ### ﾜｯﾁｮｲ
 What gets displayed next to your name along with a special code when you post in threads that have `!extend::vvvvv::` in the OP. 
 ### ROMる
@@ -201,4 +201,3 @@ The person who posted the OP. From ">>1"
 An error message that sometimes displays when you try viewing something in the 2ch過去ログ. It's a 誤字 version of 人多過ぎ. It appears when the server that HTML'ify's the .dat's in the 過去ログ is overloaded. 
 ### アフィ / アフィカス
 アフィ refers to affiliate まとめ sites. These sites take 2ch過去ログ threads and put them on まとめ sites. These sites have ads all over them, and try to farm clicks which means they are earning money from 2ch threads. This is extremely frowned upon among 2ch users, so much so that 2ch owners copyrighted all the threads on their website, making it illegal to post their threads on other sites. Despite this, まとめ sites exist and they are not going away. The カス is a Japanese word meaning something like "scum".
-
