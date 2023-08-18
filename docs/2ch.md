@@ -140,7 +140,7 @@ So the steps are as follows,
 2. Then switch to the Residential tab and choose Japan.   
 3. When the flag at the bottom changes to Japan you know it worked.  
 4. Try accessing ipleak.net to see what your ISP displays as. It should be something like KDDI, NTT, au, SoftBank, Docomo etc.   
-5. When you reach the daily limit, connect to another VPN first before connecting. (it remembers your original IP)  
+5. When you reach the daily limit, connect to another VPN first before connecting. (It counts against your IP)  
 
 **WARNING: Tuxler lets other people use your IP address as a residential VPN too. Make sure you close the app fully (gone from the taskbar icons and Task Manager completely) when you finish using it.**  
 
