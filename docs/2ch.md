@@ -148,12 +148,6 @@ So the steps are as follows,
 
 Also known as SoftEther, or VPN Gate. Out of courtesy for the contributors I will not go into detail but this is also an option. 
 
-#### Interlink MyIP
-
-You can buy a static Japanese residential IP from Interlink. This is the safest and the option I would recommend. Here is a link to it: [マイIP](https://www.interlink.or.jp/service/myip/)  
-
-It starts at 1100 yen per month, which is 7.58 USD at the time of writing. You'll need to decide yourself if it's worth it just to be able to post on 2ch/5ch lol.   
-
 ### Method 2: Buy 浪人
 
 2ch/5ch 浪人 (ronin) is like a 2ch/5ch Premium; you have more perks such as heightened spamming abilities and you can post from any IP address.
