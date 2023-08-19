@@ -1,8 +1,8 @@
-# How to use 2channel
+# How to use 5ch / 2ch
 ![Image](img/2ch00.png){:  style="display: block; margin: 0 auto; size:50%;" }
 
 2channel (Japanese: ２ちゃんねる) (New name: ５ちゃんねる) is a Japanese anonymous **text** bulletin board. You can think of it as the Japanese equivalent to something in between Reddit and 4chan, with a more toxic userbase than Reddit and varying levels of moderation. You can use this to burn away time instead of looking at English sites. The site design is very questionable by today's standards, and I will be constantly calling it "awful" in this article. The awful site design, combined with the lack of user friendliness, make the site very **hard to use**, especially for people still learning Japanese. 
-This article will try explaining how to use 2channel in your browser. 
+This article will try explaining how to use 2ch/5ch in your browser. 
 
 ## So what is this site actually called? 
 
@@ -140,13 +140,19 @@ So the steps are as follows,
 2. Then switch to the Residential tab and choose Japan.   
 3. When the flag at the bottom changes to Japan you know it worked.  
 4. Try accessing ipleak.net to see what your ISP displays as. It should be something like KDDI, NTT, au, SoftBank, Docomo etc.   
-5. When you reach the daily limit, connect to another VPN first before connecting. (It counts against your IP)  
+5. When you reach the daily limit, connect to another VPN first before connecting. (it remembers your original IP)  
 
 **WARNING: Tuxler lets other people use your IP address as a residential VPN too. Make sure you close the app fully (gone from the taskbar icons and Task Manager completely) when you finish using it.**  
 
 #### 筑波vpn
 
 Also known as SoftEther, or VPN Gate. Out of courtesy for the contributors I will not go into detail but this is also an option. 
+
+#### Interlink MyIP
+
+You can buy a static Japanese residential IP from Interlink. This is the safest and the option I would recommend. Here is a link to it: [マイIP](https://www.interlink.or.jp/service/myip/)  
+
+It starts at 1100 yen per month, which is 7.58 USD at the time of writing. You'll need to decide yourself if it's worth it just to be able to post on 2ch/5ch lol.   
 
 ### Method 2: Buy 浪人
 
