@@ -140,7 +140,7 @@ So the steps are as follows,
 2. Then switch to the Residential tab and choose Japan.   
 3. When the flag at the bottom changes to Japan you know it worked.  
 4. Try accessing ipleak.net to see what your ISP displays as. It should be something like KDDI, NTT, au, SoftBank, Docomo etc.   
-5. When you reach the daily limit, connect to another VPN first before connecting. (it remembers your original IP)  
+5. When you reach the daily limit, connect to another residential VPN first before connecting. (it remembers your original IP)  
 
 **WARNING: Tuxler lets other people use your IP address as a residential VPN too. Make sure you close the app fully (gone from the taskbar icons and Task Manager completely) when you finish using it.**  
 
@@ -148,11 +148,10 @@ So the steps are as follows,
 
 Also known as SoftEther, or VPN Gate. Out of courtesy for the contributors I will not go into detail but this is also an option. 
 
-#### Interlink MyIP
+#### Dedicated Residential Proxy 
 
-You can buy a static Japanese residential IP from Interlink. This is the safest and the option I would recommend. Here is a link to it: [マイIP](https://www.interlink.or.jp/service/myip/)  
-
-It starts at 1100 yen per month, which is 7.58 USD at the time of writing. You'll need to decide yourself if it's worth it just to be able to post on 2ch/5ch lol.   
+This is quite an expensive option. There are proxy providers aimed at people that do web scraping that provide undetectable residential proxies. A lot of these providers have Japan location residential proxies too. Your safest and most reliable approach to posting on 5ch outside of Japan would be this, but it can be quite costly. 
+Make sure you don't buy an "ISP Proxy"! These are just datacenter IPs with a registered dummy ISP. You need a *residential* or *mobile* proxy.  
 
 ### Method 2: Buy 浪人
 
@@ -214,7 +213,12 @@ The NSFW (BBSPINK) versions of ニュー速 and なんでもあり can only be a
 
 ![Image](img/2ch09.png)  
 
-Talk.jp is a site that has the main, most popular boards of 2ch/5ch (not all of them). I don't use it myself but, a lot of 2ch/5ch users recently are starting to use Talk.jp instead of 2ch/5ch. It has a much nicer UI than 2ch/5ch and is more user friendly.  
+URL: [https://talk.jp/](https://talk.jp/)
+
+Talk.jp is a spin off of 5ch that was made recently due to disagreements between the terrible owners of 5ch and the owner of the developer of the most popular 2ch/5ch専用ブラウザ, Jane Style. The developer of Jane Style used to have ads placed on the 5ch website, however the owners decided to remove his ads, resulting in him losing that source of income. In response to this, the developer of Jane Style created Talk.jp and removed 5ch support from Jane Style, and made it into a Talk.jp専用ブラウザ.  Jane Style was an extremely popular 5ch専用ブラウザ, which means everyone that downloaded the update will no longer be browsing 5ch, but Talk.jp. With that being said, this is not really stealing that much traffic from 5ch.  
+
+Talk.jp has the most popular boards of 5ch, and features an easier to use web design.
+
 ## Terminology
 ### スレ
 Thread.
