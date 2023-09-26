@@ -23,7 +23,7 @@ And second, the site design is actually very **inconsistent**, the site design c
 
 The front page displays popular threads from the [ニュース速報+](https://asahi.5ch.net/newsplus/index.html) (a news board) and [野球実況板](https://tanuki.5ch.net/livebase/index.html) (a [実況](#_7) baseball board).
 
-While the front page has quite mundane content, there are actually a ton of different boards for different interests. You can access the list of boards by clicking the [掲示板](https://www2.5ch.net/5ch.html) button on the top left.  
+While the front page has quite mundane content, there are actually a ton of different boards for different interests. You can access the list of boards by clicking the [掲示板](https://www2.5ch.net/5ch.html) button on the top right.  
 
 
 ## Boards
