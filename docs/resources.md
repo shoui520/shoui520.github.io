@@ -77,8 +77,7 @@ Refer to the tools section for info on how to make lookups easier for manga.
 
 - ~~[Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.~~  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
-- [BilingualManga](https://bilingualmanga.net/) - Yomichan compatible & one-click translation.  
-- [Cute Manga](https://cutemanga.moe/) - Read some moe manga, Yomichannable. 
+- [BilingualManga](https://bilingualmanga.org/) - Yomichan compatible & one-click translation.   
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
