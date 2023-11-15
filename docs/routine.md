@@ -22,6 +22,11 @@ What I expect from you:
 
 ## Day 1  
 
+Today you'll be:  
+   - Learning about how kana is used  
+   - Writing out kana  
+   - Practicing recalling kana  
+
 ### Stage: Starting kana stage  
 The absolute first thing you need to do when you learn Japanese is to learn the kana. Kana is short for hiragana and katakana.  
 
@@ -45,14 +50,20 @@ Once you've done all the above that will conclude your first day.
 
 ## Day 2  
 
+- Today you'll be:
+   - Practicing recalling kana   
+   - Learning what immersion means  
+   - Putting immersion into practice
+
+#### Daily Review
+- Practice recalling kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.([10 minute timer](https://www.online-stopwatch.com/timer/10minutes/))  
+     If you feel you are struggling it may be helpful to go back and copy out the [the chart from the main guide](/img/hiragana_katakana_LARGE.png) again. 
+     *Note: Do not forget that all kana must be enabled.*  
+
 ### Stage: Creating your own Japan at home  
+Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start, however there are many, many anime that have simple Japanese.  
 
-- Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. ([10 minute timer](https://www.online-stopwatch.com/timer/10minutes/))  
-*Note: Do not forget that all kana must be enabled.*  
-
-- Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start, however there are many, many anime that have simple Japanese.  
-
-   Here are some suggestions (but you can use anything you want):  
+- Here are some suggestions (but you can use anything you want):  
    >Love Live! (Any)  
    >Non Non Biyori  
    >Kimetsu no Yaiba  	
@@ -71,12 +82,12 @@ Once you've done all the above that will conclude your first day.
    >Flying Witch  
    >Byousoku 5 Centimeter  
    >Kiniro Mosaic  
-   >New Game
+   >New Game  
    
    See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
 
 >**Q: Everything here is so boooooring!!!! I'd rather watch something actually good!**  
-> A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
+> A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.
 
 - **Your task:**  
    
@@ -88,8 +99,8 @@ Once you've done all the above that will conclude your first day.
    
    1. Watch with English subtitles  
    2. Watch without any subtitles (also known as raw listening)  
-   3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
-   
+   3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)  
+
    Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.
    While watching the episode raw, don't worry if you can't understand. Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
    
@@ -97,15 +108,11 @@ Once you've done all the above that will conclude your first day.
    
    *Note: Listening while doing other things = **passive immersion**.*  
    *Listening with undivided attention = **active immersion**.*
-   
-   I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
+
+With that the second day is complete and you're ready for the next day where you will begin learning grammar.
 
 >**Q: Why immersion before any grammar or vocabulary study?**  
 >A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
-
->**Q: So, I've completed my first episode, what should I do now?**  
-> A: You can consider your immersion done for the day but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch. [Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
-
 
 ## Day 3
 
