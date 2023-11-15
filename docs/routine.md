@@ -47,10 +47,10 @@ Once you've done all the above that will conclude your first day.
 
 ### Stage: Creating your own Japan at home  
 
-- Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/).  
-Do not forget that all kana must be enabled.  
+- Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. ([10 minute timer](https://www.online-stopwatch.com/timer/10minutes/))  
+*Note: Do not forget that all kana must be enabled.*  
 
-- Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start. However there are many, many anime that have simple Japanese.  
+- Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start, however there are many, many anime that have simple Japanese.  
 
    Here are some suggestions (but you can use anything you want):  
    >Love Live! (Any)  
