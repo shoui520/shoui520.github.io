@@ -41,38 +41,37 @@ At the bottom of the screen click the "show/hide options" button. Scroll through
 - Practice your kana for the next 10 minutes by writing the correct romaji in the text box. Give yourself no more than 10 seconds before making an attempt. Don't be concerned if you make any mistakes, just keep practicing until the timer runs out.  
 You can use this timer here: [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/). 
 
+Once you've done all the above that will conclude your first day.
 
 ## Day 2  
 
 ### Stage: Creating your own Japan at home  
 
-#### To Do:
-Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-Timer here: [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/). 
+- Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/). 
 Do not forget that all kana must be enabled.  
 
-Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start. However there are many, many anime that have simple Japanese.  
+- Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start. However there are many, many anime that have simple Japanese.  
 
 Here are some suggestions (but you can use anything you want):  
-Love Live! (Any)  
-Non Non Biyori  
-Kimetsu no Yaiba  	
-Koe no Katachi  
-Hotarubi no Mori e    
-Toki wo Kakeru Shoujo    
-Himouto! Umaru-chan  
-Nakitai Watashi wa Neko o Kaburu  
-Yuru Yuri  
-Precure (Any)  
-Gabriel Dropout  
-Gakuen Utopia Manabi Straight  
-K-on  
-Ao haru Ride  
-Usagi Drop  
-Flying Witch  
-Byousoku 5 Centimeter  
-Kiniro Mosaic  
-New Game  
+>Love Live! (Any)  
+>Non Non Biyori  
+>Kimetsu no Yaiba  	
+>Koe no Katachi  
+>Hotarubi no Mori e    
+>Toki wo Kakeru Shoujo    
+>Himouto! Umaru-chan  
+>Nakitai Watashi wa Neko o Kaburu  
+>Yuru Yuri  
+>Precure (Any)  
+>Gabriel Dropout  
+>Gakuen Utopia Manabi Straight  
+>K-on  
+>Ao haru Ride  
+>Usagi Drop  
+>Flying Witch  
+>Byousoku 5 Centimeter  
+>Kiniro Mosaic  
+>New Game
 
 See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
 
@@ -96,8 +95,8 @@ While watching the episode raw, don't worry if you can't understand. Try to focu
 
 The process of understanding Japanese is a skill that takes a long time. It all begins with raw listening and trying to make that listening comprehensible. The subtitle tutor method is only meant to provide context for the audio you are listening to. I also recommend listening to the audio when doing other things. By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
 
-Note: Listening while doing other things = **passive immersion**.  
-Listening with undivided attention = **active immersion**.   
+*Note: Listening while doing other things = **passive immersion**.*  
+*Listening with undivided attention = **active immersion**.*
 
 I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
 
