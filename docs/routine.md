@@ -50,10 +50,10 @@ Once you've done all the above that will conclude your first day.
 
 ## Day 2  
 
-- Today you'll be:
-   - Practicing recalling kana   
-   - Learning what immersion means  
-   - Putting immersion into practice
+Today you'll be:
+- Practicing recalling kana  
+- Learning what the subtitle tutor method is.  
+- Putting immersion into practice with the subtitle tutor method
 
 #### Daily Review
 - Practice recalling kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.([10 minute timer](https://www.online-stopwatch.com/timer/10minutes/))  
