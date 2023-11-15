@@ -12,7 +12,7 @@ Follow the steps below.
 
 === "Arch"
 
-	You will need to enable [multilib] and [community] before running this command. To do this, uncomment the `[multilib]` and `[community]` section in `/etc/pacman.conf`.  
+	You will need to enable [multilib] and [extra] before running this command. To do this, uncomment the `[multilib]` and `[extra]` section in `/etc/pacman.conf`.  
 	
 	Next, install [yay](https://github.com/Jguer/yay#installation) then run the following command. 
 
