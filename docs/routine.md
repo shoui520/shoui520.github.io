@@ -47,58 +47,58 @@ Once you've done all the above that will conclude your first day.
 
 ### Stage: Creating your own Japan at home  
 
-- Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/). 
+- Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/).  
 Do not forget that all kana must be enabled.  
 
 - Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start. However there are many, many anime that have simple Japanese.  
 
-Here are some suggestions (but you can use anything you want):  
->Love Live! (Any)  
->Non Non Biyori  
->Kimetsu no Yaiba  	
->Koe no Katachi  
->Hotarubi no Mori e    
->Toki wo Kakeru Shoujo    
->Himouto! Umaru-chan  
->Nakitai Watashi wa Neko o Kaburu  
->Yuru Yuri  
->Precure (Any)  
->Gabriel Dropout  
->Gakuen Utopia Manabi Straight  
->K-on  
->Ao haru Ride  
->Usagi Drop  
->Flying Witch  
->Byousoku 5 Centimeter  
->Kiniro Mosaic  
->New Game
-
-See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
+   Here are some suggestions (but you can use anything you want):  
+   >Love Live! (Any)  
+   >Non Non Biyori  
+   >Kimetsu no Yaiba  	
+   >Koe no Katachi  
+   >Hotarubi no Mori e    
+   >Toki wo Kakeru Shoujo    
+   >Himouto! Umaru-chan  
+   >Nakitai Watashi wa Neko o Kaburu  
+   >Yuru Yuri  
+   >Precure (Any)  
+   >Gabriel Dropout  
+   >Gakuen Utopia Manabi Straight  
+   >K-on  
+   >Ao haru Ride  
+   >Usagi Drop  
+   >Flying Witch  
+   >Byousoku 5 Centimeter  
+   >Kiniro Mosaic  
+   >New Game
+   
+   See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
 
 >**Q: Everything here is so boooooring!!!! I'd rather watch something actually good!**  
 > A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
 
-**Your task:**  
-
-I want you to try immersing for the first time with the "subtitle tutor" method.  
-
-The subtitle tutor method goes as follows; Watch an episode of an anime with English subtitles, re-watch it again without subtitles, finally whilst other things listen to the episode (wireless earbuds makes this easier).  
-
-The flowchart process:
-
-1. Watch with English subtitles  
-2. Watch without any subtitles (also known as raw listening)  
-3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
-
-Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.
-While watching the episode raw, don't worry if you can't understand. Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
-
-The process of understanding Japanese is a skill that takes a long time. It all begins with raw listening and trying to make that listening comprehensible. The subtitle tutor method is only meant to provide context for the audio you are listening to. I also recommend listening to the audio when doing other things. By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
-
-*Note: Listening while doing other things = **passive immersion**.*  
-*Listening with undivided attention = **active immersion**.*
-
-I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
+- **Your task:**  
+   
+   I want you to try immersing for the first time with the "subtitle tutor" method.  
+   
+   The subtitle tutor method goes as follows; Watch an episode of an anime with English subtitles, re-watch it again without subtitles, finally whilst other things listen to the episode (wireless earbuds makes this easier).  
+   
+   The flowchart process:
+   
+   1. Watch with English subtitles  
+   2. Watch without any subtitles (also known as raw listening)  
+   3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
+   
+   Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.
+   While watching the episode raw, don't worry if you can't understand. Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
+   
+   The process of understanding Japanese is a skill that takes a long time. It all begins with raw listening and trying to make that listening comprehensible. The subtitle tutor method is only meant to provide context for the audio you are listening to. I also recommend listening to the audio when doing other things. By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
+   
+   *Note: Listening while doing other things = **passive immersion**.*  
+   *Listening with undivided attention = **active immersion**.*
+   
+   I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
 
 >**Q: Why immersion before any grammar or vocabulary study?**  
 >A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
