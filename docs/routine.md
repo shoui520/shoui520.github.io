@@ -32,19 +32,20 @@ The absolute first thing you need to do when you learn Japanese is to learn the 
 
 - Why and how they are used can get confusing for newcomers to Japanese.  So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
 Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.  
-*Note: You will not be memorizing the kana with that link. This will be explained further below.*
+*Note: You will not be memorizing the kana with this link. That will be explained further below.*
 
 - When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).  
 It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.   
 
 - Then, watch this video by JapanesePod: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
-Be advised this should probably be the only Japanese Pod video you should watch though...
+*Note: This should probably be the only Japanese Pod video you should watch though...*
 
 - Now, you are going to practice your kana on the following website. [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html).  
-At the bottom of the screen click the "show/hide options" button. Scroll through the categories and click "check all" so all the boxes are ticked for Hiragana, Hiragana combinations, Katakana and Katakana combinations. You can leave the fonts with only the first one ticked. 
+At the bottom of the screen click the "show/hide options" button. Scroll through the categories and click "check all" so all the boxes are ticked for each kana. You can leave the fonts with only the first one ticked. 
 
-- Practice your kana for the next 10 minutes by writing the correct romaji in the text box. Give yourself no more than 10 seconds before making an attempt. Don't be concerned if you make any mistakes, just keep practicing until the timer runs out.  
-You can use this timer here: [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/). 
+- Practice your kana for the next 10 minutes by writing in the text box. 
+You can use this timer here: [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/).  
+*Note: Spend no more than 10 seconds per attempt, if you can't remember mouse over the kana to show the correct romaji*
 
 Once you've done all the above that will conclude your first day.
 
@@ -58,7 +59,7 @@ Today you'll be:
 #### Daily Review
 - Practice recalling kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.([10 minute timer](https://www.online-stopwatch.com/timer/10minutes/))  
      If you feel you are struggling it may be helpful to go back and copy out the [the chart from the main guide](/img/hiragana_katakana_LARGE.png) again. 
-     *Note: Do not forget that all kana must be enabled.*  
+     *Note: Remember that all kana should be enabled.*  
 
 ### Stage: Creating your own Japan at home  
 Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start, however there are many, many anime that have simple Japanese.  
