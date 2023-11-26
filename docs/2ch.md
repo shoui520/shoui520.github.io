@@ -6,7 +6,7 @@ This article will try explaining how to use 5ch in your browser.
 
 ## So what is this site actually called? 
 
-"にちゃんねる" is how it was widely known. The site was renamed to 5channel due to some [some circumstances](https://www.wdic.org/w/WDIC/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E4%BA%8B%E4%BB%B6). Many users still refer to the site with its old name, however to reduce confusion, I'll just refer to it as 5ch. Towever, there is a different site, known as Futaba Channel, that is known as 2**chan**, that is not related to 2channel/5channel. Very confusing.
+"にちゃんねる" is how it was widely known. The site was renamed to 5channel due to some [some circumstances](https://www.wdic.org/w/WDIC/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E4%BA%8B%E4%BB%B6). Many users still refer to the site with its old name, however to reduce confusion, I'll just refer to it as 5ch. However, there is a different site, known as Futaba Channel, that is known as 2**chan**, that is not related to 2channel/5channel. Very confusing.
 
 ## URL
 
