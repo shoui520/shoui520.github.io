@@ -20,6 +20,8 @@ What! What part of the site design is awful, you say?
 Well first, that screenshot is actually taken with an ad-blocker enabled. The site without an ad-blocker has too many ads to be a pleasant experience.  
 And second, the site design is actually very **inconsistent**, the site design changes across different pages. Only the front page looks good, lol.  
 
+I recommend uBlock Origin ([Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)) as an ad-blocker. It is the only one that functions properly as an ad-blocker.  
+
 The front page displays popular threads from the [ニュース速報+](https://asahi.5ch.net/newsplus/index.html) (a news board) and [野球実況板](https://tanuki.5ch.net/livebase/index.html) (a [実況](#_7) baseball board).
 
 While the front page has quite mundane content, there are actually a ton of different boards for different interests. You can access the list of boards by clicking the [掲示板](https://www2.5ch.net/5ch.html) button on the top left.  
@@ -193,7 +195,7 @@ The major downside of this for Japanese learners is that you can't use Yomichan 
 Recommended 5ch専用ブラウザ:    
 Windows: [Siki](https://sikiapp.net/)  
 Android: [Chmate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate&hl=ja)  
-iOS: [BB2C](https://apps.apple.com/jp/app/bb2c/id298820042)  
+iOS: [mae2ch](https://apps.apple.com/jp/app/mae2ch/id550933279)  
 ## Improve the web browser 5ch experience: 5chutil  
 You can improve the web browser 5ch experience using the 5chutil extension.  
 [Chrome (load unzipped)](https://drive.proton.me/urls/JJNBJQYXFG#Rxrr6Flaic6V)  
@@ -209,7 +211,9 @@ This has a lot of useful quality of life improvements. Including:
 
 ## Recommended way to search 5ch
 
-I recommend using Google with the search term `site:5ch.net <keyword>`.  
+If you want to search active and archived threads, and thread content too, I recommend using Google with the search term `site:5ch.net <keyword>`.  
+
+The search bar on the site is fine to search thread titles of active thread. 
 
 ## 結局 No point of using 5ch?? / まとめサイト introduction
 5ch can have a lot of interesting posts, however a lot of threads may be クソスレ (crappy threads) and a lot of responses in threads may be クソレス (crappy responses). It can also be hard to find things on 5ch.  
@@ -265,9 +269,9 @@ This is similar to [コテハン](#_8), but a トリップ is made by a special 
 This is a command you can use in the OP of a 5ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 5ch reset when the date changes or when you post from a different IP address, so IDs aren't enough. People will post multiple lines of the string `!extend::vvvvv::` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
 A more severe version of this with more v's displays each poster's IP address, however this is more rare. 
 ### ﾜｯﾁｮｲ
-What gets displayed next to your name along with a special code when you post in threads that have `!extend::vvvvv::` in the OP. Enabled by default on all threads on some boards. Also displays information about the network you are posting from. There are different ﾜｯﾁｮｲ types and you must research yourself what each of them mean when you see them. 
+What gets displayed next to your name along with a special code when you post in threads that have `!extend::vvvvv::` in the OP. 
 ### ROMる
-(**Read Only** Memory). Lurking. 
+(**Read Only** Memory). Lurking. This is what you will be doing. 
 ### AA
 ASCII art. Also includes Shift-JIS art.  
 ### イッチ
