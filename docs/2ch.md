@@ -6,7 +6,7 @@ This article will try explaining how to use 5ch in your browser.
 
 ## So what is this site actually called? 
 
-"にちゃんねる" is how it was widely known. The site was renamed to 5channel due to some [some circumstances](https://www.wdic.org/w/WDIC/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E4%BA%8B%E4%BB%B6). Many users still refer to the site with its old name, however to reduce confusion, I'll just refer to it as 5ch. However, there is a different site, known as Futaba Channel, that is known as 2**chan**, that is not related to 2channel/5channel. Very confusing.
+"にちゃんねる" is how it was widely known. The site was renamed to 5channel (ごちゃんねる) due to some [some circumstances](https://www.wdic.org/w/WDIC/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E4%B9%97%E3%81%A3%E5%8F%96%E3%82%8A%E4%BA%8B%E4%BB%B6). Many users still refer to the site with its old name, however to reduce confusion, I'll just refer to it as 5ch. However, there is a different site, known as Futaba Channel, that is known as 2**chan**, that is not related to 2channel/5channel. Very confusing.
 
 ## URL
 
@@ -52,7 +52,7 @@ The first box of the board page contains rules, and info about the board.
 You can see the list of threads in the next box. This is how you will find threads. The number in brackets after the thread name is how many *responses* the thread has.
 
 If you scroll further, you can see previews of the latest bumped threads. This will show the first post (the OP), and the last 50 posts.  
-The "レス" refers to how many *responses* the thread has. The "CP" refers to how many *clicks recently* the thread has.  
+The "レス" refers to how many *responses* the thread has. The "CP" (click point?) refers to how popular the thread currently is. A higher number means it's more popular.
 (Latest bumped threads view) You need to click on 全部読む to view the entire thread.  
 
 ![Image](img/2ch05.png)
@@ -75,19 +75,27 @@ You may notice a lot of people posting Imgur links. This is because 5ch is a **t
 
 There are browser extensions that aim to improve the 5ch experience that feature embedding images and tweets. The one I use personally is [5chutil](#improve-the-web-browser-2ch-experience-5chutil).  
 
+Update December 2023: Imgur has started to remove images containing 18+ content and images from unregistered users, so some 5ch users have moved to xxup.org and catbox.moe for image hosting.  
+
 ## Responses
 
-Responses work in nearly the same way as replies do on sites like 4chan. The oldest responses are displayed first, and the newest displayed last.
+Responses work in nearly the same way as replies do on sites like 4chan. The oldest responses are displayed first, and the newest displayed last. 
+
 However, while replies in 4chan threads are counted against all replies across all threads across the entire board (this is why replies have really high numbers), responses in 5ch threads are counted against how many responses are in that one thread.  
 On 5ch, the way people respond to other posts is to refer to the number with `>>`. For example, replying to the first post will be `>>1`, replying to the 19th post would be `>>19`.   
 
-On 5ch, threads will be automatically archived when they reach 1000 responses. You can view those archived threads in the 過去ログ. Archived threads cannot be replied to.  
+On 5ch, threads will automatically DAT落ち when they reach 1000 responses. You can view those archived threads in the 過去ログ. Archived threads cannot be replied to.  
 
 ## 過去ログ
 
-The 5ch 過去ログ is where archived threads go. You can view the 過去ログ by clicking on the **過去ログ一覧はこちら** button at the top of the thread list.  
+The 5ch 過去ログ is where DAT落ち'd threads go. You can view the 過去ログ by clicking on the **過去ログ一覧はこちら** button at the top of the thread list.  
 
 ![Image](img/2ch08.png)
+
+You can visit the [過去ログ web page](https://kakolog.jp/) to search for older threads were archived too recently to be indexed by Google.
+
+IMPORTANT UPDATE OCTOBER 2023: Following a period of DDoS attacks, 過去ログ threads can no longer be viewed due to the error code 522. 
+Update December 2023: Many threads still cannot be viewed. It is unknown what is causing this because it has been 2 months now with no fix.   
 
 ## Posting
 
@@ -95,7 +103,7 @@ You can post on 5ch by scrolling right to the bottom of the thread and typing in
 
 ![Image](img/2ch11.png)  
 
-When posting, make sure you post with courtesy and respect! Follow the 5ch etiquette and the rules of the board you're posting on. You can easily get banned for trolling on 5ch and it is really not pretty trying to get unbanned or evade your ban!
+When posting, make sure what you're posting does not break the law and is not causing trouble to others. You can easily get banned for trolling on 5ch and it is really not pretty trying to get unbanned or evade your ban!
 
 It is best practice to [sage](#sage)! when posting! 
 
@@ -109,15 +117,16 @@ Since posting is anonymous, posts *may* get toxic. People may throw insults arou
 
 People can and will respond negatively to poor quality posts you make and threads you create, and there *will* be haters everywhere bashing the things you like, it is important to not take these negative responses to heart, and learn to get over them.  
 
-Despite this, 5ch is much better regulated than places like 4chan, because 2ch/5ch has more frequent bans, more severe troll prevention measures and very strict limits on what IP addresses can post.  
-
 ## How to post outside of Japan
 
 ![Image](img/2ch10.png)  
 
 Non-Japanese IPs cannot post on 5ch.  
 
-5ch is very strict on what IP addresses can post on 99% of boards (大使館 and Anarchy boards you can post freely).   
+5ch is very strict on what IP addresses can post ~~on 99% of boards (大使館 and Anarchy boards you can post freely).~~
+
+Update October 2023: You can no longer post on any board on 5ch with a foreign IP without 5ch premium.  
+
 You can *view* 5ch just fine outside of Japan, however you can only post with approved Japanese ISP's and mobile carriers. This means usual VPN's don't work, as the ISP needs to be approved too.
 
 However there are still ways to get over the posting restriction, but it can get tricky.
@@ -156,10 +165,8 @@ Make sure you don't buy an "ISP Proxy"! These are just datacenter IPs with a reg
 
 ### Method 2: Buy ＵＰＬＩＦＴ
 
-
 Update November 2023: 5ch ＵＰＬＩＦＴ (formerly known as 浪人) is like a 5ch Premium; you have more perks such as heightened spamming abilities and you can post from outside of Japan and with a VPN. This used to only allow Japanese credit/debit cards, however their payment processor shift to Stripe has made it purchaseable for people without a Japanese card. 
 It starts at $4 for 1 month.  
-I was billed £3.21 by `UPLIFT5CH SYNIC +13613321317 US` without any non-GBP purchase fees. It was a pleasant surprise they are actually converting the currency. 
 However, make sure you disable "自動更新" before you buy! There does not seem to be any way other than emailing them to remove your payment details. So just don't check that box.
 
 **This is by far the best way to post on 5ch outside of Japan!!**
@@ -196,6 +203,7 @@ Recommended 5ch専用ブラウザ:
 Windows: [Siki](https://sikiapp.net/)  
 Android: [Chmate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate&hl=ja)  
 iOS: [mae2ch](https://apps.apple.com/jp/app/mae2ch/id550933279)  
+
 ## Improve the web browser 5ch experience: 5chutil  
 You can improve the web browser 5ch experience using the 5chutil extension.  
 [Chrome (load unzipped)](https://drive.proton.me/urls/JJNBJQYXFG#Rxrr6Flaic6V)  
@@ -225,14 +233,16 @@ There is a まとめサイト for pretty much any hobby / interest, just search 
 ## Notorious 5ch boards
 The following boards are known for being bad places to be around. These are usually in the 雑談系２ category of boards.  
 You should avoid these, but if you are one of *those* people, then feel free...    
-	- なんでも実況(any)  
+	- なんでも実況J  
+	- なんでも実況G  
 	- ニュー速VIP  
-	- ニュー速(嫌儲)  
-	- なんでもあり  
-	- 最悪  
-	- 学歴  
+	- ニュー速(嫌儲)   
+	- 東アジアニュース+
+	- なんでもあり   
+	- 難民  
+	- ハード・業界  
 
-The NSFW (BBSPINK) versions of ニュー速 and なんでもあり can only be accessed with a Japanese IP address.  
+The NSFW (BBSPINK) versions of ニュー速 and なんでもあり can only be accessed with a Japanese IP address. Most of BBSPINK is only accessible with a Japanese IP address too.    
 
 ## Talk.jp
 
@@ -252,24 +262,24 @@ Response.
 ### 板
 Board.
 ### sage
-Usually when you post on 5ch, the thread will get bumped to the top of the board. You can stop this by putting `sage` in the Email field when posting. Posting without sage'ing is generally frowned upon among 5ch users. Names will appear purple for users that posted with `sage`.  
+Usually when you post on 5ch, the thread will get bumped to the top of the board. You can stop this by putting `sage` in the Email field when posting. Posting without sage'ing was frowned upon like 20 years ago and the culture of sage'ing has mostly remained. Names will appear purple for users that posted with `sage`.  
 ### 自治
 Basically moderation on 5ch. Well moderated boards have "自治スレ"'s where you complain to the mods about being moderated.
 ### 実況
 実況 on 5ch refers to discussing an event or something while it is happening. This has often been frowned upon by 5ch users, therefore most boards disallow 実況'ing by default. Boards that *do* allow it, have 実況 in the name or 実況OK/実況可 written in the rules)  
-### dat落ち
-When a thread reaches 1000 replies and is then archived. 5ch thread raw data is stored in .dat files. Therefore, the dat "falls".
+### DAT落ち
+When a thread becomes archived and you are unable to reply to it. A thread may DAT落ち when many more new threads than the board can take are made, or when the thread reaches 1000 replies. 5ch thread raw data is stored in .dat files. Therefore, the dat "falls".
 ### VIP
 Originally 20 years ago, this meant boards that got special treatment, but now this kind of has a "containment" connotation to it because the boards that have "VIP" in the name are really notorious for their posts. Examples include [ニュー速VIP](https://mi.5ch.net/news4vip/).   
 ### コテハン
-2ch is usually anonymous, however you can post with a name. This is called コテハン.
+5ch is usually anonymous, however you can post with a name. This is called コテハン.
 ### トリップ/酉/鳥
 This is similar to [コテハン](#_8), but a トリップ is made by a special string of characters that only you should know, that becomes another string of characters, this is your トリップ. People may want to post with a トリップ when they want to be specially identified. You can make a trip like this: `<name> #<random string>`
-### !extend::vvvvv::
-This is a command you can use in the OP of a 5ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 5ch reset when the date changes or when you post from a different IP address, so IDs aren't enough. People will post multiple lines of the string `!extend::vvvvv::` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
-A more severe version of this with more v's displays each poster's IP address, however this is more rare. 
+### !extend:checked:vvvvv:1000:512
+This is a command you can use in the OP of a 5ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 5ch reset when the date changes or when you post from a different IP address, so IDs aren't enough. People will post multiple lines of the string `!extend:checked:vvvvv:1000:512` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
+A more severe version of this with more v's displays each poster's IP address (`!extend:checked:vvvvvv:1000:512`), however this is more rare. 
 ### ﾜｯﾁｮｲ
-What gets displayed next to your name along with a special code when you post in threads that have `!extend::vvvvv::` in the OP. 
+What gets displayed next to your name along with a special code when you post in threads that have `!extend:checked:vvvvv:1000:512` in the OP. 
 ### ROMる
 (**Read Only** Memory). Lurking. This is what you will be doing. 
 ### AA
