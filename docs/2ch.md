@@ -202,7 +202,7 @@ The major downside of this for Japanese learners is that you can't use Yomichan 
 Recommended 5ch専用ブラウザ:    
 Windows: [Siki](https://sikiapp.net/)  
 Android: [Chmate](https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate&hl=ja)  
-iOS: [mae2ch](https://apps.apple.com/jp/app/mae2ch/id550933279)  
+iOS: [Thread Master](https://apps.apple.com/jp/app/threadmaster/id6455370741)  
 
 ## Improve the web browser 5ch experience: 5chutil  
 You can improve the web browser 5ch experience using the 5chutil extension.  
@@ -231,8 +231,6 @@ There is a まとめサイト for pretty much any hobby / interest, just search 
 [【完全版】おすすめまとめサイト30選！2chなどジャンル別に調査！](https://monamona2525.com/archives/59506)  
 
 ## Notorious 5ch boards
-The following boards are known for being bad places to be around. These are usually in the 雑談系２ category of boards.  
-You should avoid these, but if you are one of *those* people, then feel free...    
 	- なんでも実況J  
 	- なんでも実況G  
 	- ニュー速VIP  
