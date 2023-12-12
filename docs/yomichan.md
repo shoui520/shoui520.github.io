@@ -1,5 +1,7 @@
 # Yomichan Setup Tutorial
 
+***New: Use [Yomitan](https://github.com/themoeway/yomitan) instead. [Yomichan](https://foosoft.net/posts/passing-the-torch-to-yomitan/) is sunset.***
+
 ## What is Yomichan?
 Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
 
