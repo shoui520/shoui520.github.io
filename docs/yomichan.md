@@ -1,44 +1,46 @@
 # Yomichan Setup Tutorial
 
-***New: Use [Yomitan](https://github.com/themoeway/yomitan) instead. [Yomichan](https://foosoft.net/posts/passing-the-torch-to-yomitan/) is sunset.***
+**New: Yomichan is no longer in development. Its successor is Yomitan.**
 
-## What is Yomichan?
-Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
+## What is Yomitan?
+Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
 
 ## Getting Started 
-Yomichan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
-[Chrome Web Store](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami)  
-[Firefox (requires sideloading)](https://github.com/FooSoft/yomichan/releases/download/22.10.23.0/a708116f79104891acbd-22.10.23.0.xpi)  
+Yomitan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
+[Chrome Web Store](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)  
+[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)  
 Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  
 
 ## Acquiring Dictionaries
-When you first install Yomichan, you need to load dictionaries into it in order to use it.  
+When you first install Yomitan, you need to load dictionaries into it in order to use it.  
 These files use the `.zip` extension and **are not to be extracted by the user.**
 
-You can find my collection of Yomichan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
-→→→→[Shoui's Yomichan Dictionary Collection](https://learnjapanese.link/dictionaries)←←←←　　    
+You can find my collection of Yomitan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
+→→→→[Shoui's Yomitan Dictionary Collection](https://learnjapanese.link/dictionaries)←←←←　　    
 
 Dictionaries can be found in their respective folders.  
 I recommend you install the following dictionaries:  
-	- `Bilingual/[Bilingual] JMdict Extra.zip`  
+	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
 	- `Bilingual/[Bilingual] 新和英.zip`  
 	- `Kanji/[Kanji] KANJIDIC (English).zip`  
 	- `Grammar/Dictionary of Japanese Grammar.zip` 
+	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
 ## Installing dictionaries and basic usage
   
-1. Click on the ![yomichan-icon](img/yomichan-icon.png) icon in the browser toolbar.  
-2. Click on the ![cog](img/yomichan-cog.png) icon to access the settings page.  
+1. Click on the ![yomitan-icon](img/yomitan-icon.png) icon in the browser toolbar.  
+2. Click on the ![cog](img/yomitan-cog.png) icon to access the settings page.  
 3. On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  
 4. Click the "Import" button on the bottom.  
 5. Here's where you select the dictionaries to import. Please only import the following. 
-	- `[Bilingual] JMdict Extra.zip`
-	- `[Bilingual] 新和英.zip`
-	- `[Kanji] KANJIDIC (English).zip`
+	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
+	- `Bilingual/[Bilingual] 新和英.zip`  
+	- `Kanji/[Kanji] KANJIDIC (English).zip`  
 	- `Grammar/Dictionary of Japanese Grammar.zip` 
+	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
 6. Please wait for the dictionaries to import. This could take a while.
-7. Once complete, you can test Yomichan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
+7. Once complete, you can test Yomitan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
 
 ![Yomichan Demo](img/yomidemo1.png) 
 
@@ -47,12 +49,12 @@ Click on an individual kanji in the headword to view kanji information (only fun
 
 You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
 
-In your browser extensions toolbar, if you click on the Yomichan logo, then on the ![search icon](img/yomichan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomichan Search, this is where you can use Yomichan as a standalone Japanese to English dictionary. 
+In your browser extensions toolbar, if you click on the Yomitan logo, then on the ![search icon](img/yomitan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomitan Search, this is where you can use Yomitan as a standalone Japanese to English dictionary. 
 
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  
 
-**JMdict** is the dictionary hosted on Jisho.org. Jisho.org is not its own dictionary, rather it's a portal that accesses JMdict. This is the most common Japanese to English dictionary. The version you are loading into Yomichan includes example sentences.  
+**Jitendex** is a free and openly licensed Japanese-to-English dictionary. Jitendex is built upon data provided by multiple free and open projects. Most notably the JMdict project, which is used on many Japanese dictionary projects such as Jisho.org, Akebi, Shirabe Jisho, Takoboto etc. 
 
 **新和英** (Shinwaei) is a Japanese-English dictionary intended for Japanese people. It has many example sentences which can prove to be very useful for Japanese learners. A variation of this with even more example sentences is called `[Bilingual] 研究社　新和英大辞典　第５版.zip` can also be found in my dictionaries collection.  
 
@@ -60,9 +62,11 @@ A full dark mode can be enabled in the settings too.
 
 **Dictionary of Japanese Grammar**, or 日本語文法辞典(全集), is a dictionary that helps you look up grammar (duh!).  
 
+**アクセント辞典v2** lets you see pitch accent information of words. 
+
 ## Recommended frequency dictionaries  
 
-Yomichan supports the use of frequency dictionaries that tell you how common a word is.  
+Yomitan supports the use of frequency dictionaries that tell you how common a word is.  
 
 **JPDB** - A frequency list made from jpdb.io, which is a site that has analyzed many light novels, visual novels, anime and j-drama. In turn, this is a frequency list from Japanese fictional media.  
 
@@ -78,12 +82,9 @@ Uncommon: 40,001-50,000
 Rare: 50,001-80,000  
 Natives-probably-don't-know-it-level: 80,000+  
 
-
-
-
 ## Allowing access to file URLs
 
-Enabling this allows you to use Yomichan on local files such as .HTML files.  
+Enabling this allows you to use Yomitan on local files such as .HTML files.  
 
 !!! failure "PDF Files"
     On Chrome, you need to use [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). Click on the diagonal up arrow thingy to load a pdf.  
@@ -98,7 +99,7 @@ Firefox:
 
 ## Bonus: Adding Forvo extra audio source  
 
-You may encounter missing audio with the default Yomichan audio sources, adding [Forvo](https://ja.forvo.com/) will help fill in the gaps.  
+You may encounter missing audio with the default Yomitan audio sources, adding [Forvo](https://ja.forvo.com/) will help fill in the gaps.  
 
 Thanks to [jamesnicholas](https://github.com/jamesnicolas/yomichan-forvo-server) for this wonderful add-on!
 
@@ -108,7 +109,7 @@ This requires you to have Anki (2.1 and newer) installed and open on your comput
 2. In Anki, in the menu at the top, click on **Tools**, then **Add-ons**.
 3. In the new window, click **Get Add-ons...** and paste the code `580654285` into the text box and click **OK**
 4. Restart Anki by closing it and opening it back up again.
-5. In the Yomichan settings page ![cog](img/yomichan-cog.png), click **Audio** on the left, and then click on **Configure audio playback sources...**
+5. In the Yomitan settings page ![cog](img/yomitan-cog.png), click **Audio** on the left, and then click on **Configure audio playback sources...**
 6. Click **Add** and then select **Custom** from the drop down menu. 
 7. Now where it says **Custom audio source (?)**, select the type **JSON** from the drop down menu.
 8. In the URL text box, enter this `http://localhost:8770/?expression={expression}&reading={reading}`
