@@ -68,7 +68,8 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.   
 - [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.  
 - [Search on bilibili]((https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
-- [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND  
+- [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND
+- [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 
 
 ### Manga
@@ -90,7 +91,8 @@ The websites below have the best collection but can be a pain to download from.
 - [DLRaw](https://dlraw.net/) - Starting to catch up to A-zmanga. You may need a debrid service though.
 - [13dl.to](http://13dl.to/) - Similar to a-zmanga. 
 - [JPDDL](https://jpddl.com/manga) - Similar to a-zmanga.  
-
+- [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+- 
 ### Novels and Literary Texts
 - ~~**[※Itazuraneko EPUB AZW3 MOBI Full List](https://itazuraneko.neocities.org/library/shousetu/shousetulist)**~~ 
 - ~~[Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - This page has a lot of books, and you are able to sort by genre, author, kanji count and such. You may want to uncheck "Hide books translated from English", as it is enabled by default.~~
@@ -101,7 +103,8 @@ The websites below have the best collection but can be a pain to download from.
 - [Kakuyomu](https://kakuyomu.jp/) - Similar to syosetu.  
 - [Hameln](https://syosetu.org/) - Also similar to syosetsu.
 - [Aozora Bunko](https://www.aozora.gr.jp/) - read Japanese classics. Books go on here if the author has died more than 50 years ago.  
-- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books.  
+- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books.
+- [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 
 Note: Gaining the Student rank or above in our Discord channel grants you access to more books than just these.  
 
@@ -114,7 +117,7 @@ Note: Gaining the Student rank or above in our Discord channel grants you access
 - [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Direct links to visual novels  
 - [Sukebei Nyaa.si **(18+) NSFW warning**](https://sukebei.nyaa.si/?f=0&c=1_3&q=) - NSFW side of Nyaa.si which should have a lot more visual novels.  
 - [Visual Novel Recommendation Lists](https://learnjapanese.moe/vn/#unsure-what-to-play)
-
+- [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 Note: visual novels on consoles do not have any NSFW content.  
 
 **Console/Emulator**  
@@ -284,9 +287,9 @@ It is tricky to use at first. So please see the Mining section for guides on how
 
 ### Immersion Helpers
 
-[exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker  
-[JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.   
- 
+- [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker  
+- [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.   
+- [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
   
 ### Browser Extensions
 - [Yomichan](https://foosoft.net/projects/yomichan/) - Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
