@@ -176,7 +176,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**  
 - [stegatxins0's super fast mining guide](https://rentry.co/mining)  
 - [Xelieu's lazy Anki guide](https://rentry.co/lazyXel)    
-- [Aquafina's Advanced Anki Template](https://aquafina-water-bottle.github.io/jp-mining-note/)  
+- [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)  
 
 ### Japanese Fonts
 - ~~[Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)~~ 
@@ -339,7 +339,8 @@ Useful for stuff like visual novels and manga you may download.
 
 ### Guides/Methods/Motivation
 - [All Japanese All The Time](https://learnjapanese.link/ajatt) - The reason why All Japanese All The Time, often abbreviated to AJATT, is still popular to this day, is because of the mindset building that it was able to achieve. The articles on that site can get you in the Japanese immersion spirit better than I or any other guide can. 
-- [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.  
+- [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
+- [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)  
 - [An Alternate Way To Start Reading (by OrangeLightX)](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit)
 - [Assorted JP Guides (by Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
