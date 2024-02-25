@@ -23,14 +23,10 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 
 
 ### Vocabulary
-- [TheMoeWay Tango N5 Deck](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) - The first starter Anki deck you should use when starting out.  
-- [TheMoeWay Tango N4 Deck](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - The second starter Anki deck you use after N5.  
-
-!!! info "Tango Decks"
-	You are advised to do Tango over "Core" decks because Tango is easier, as it uses the sentence card format.      
-	However you may want to create a "mining deck" when you complete Tango N4.   
-  
-- [Core2.3K VN Order Deck](https://anacreondjt.gitlab.io/docs/coredeck/) - the Core deck but ordered in terms of visual novel frequency. Not recommended for beginners. You may want to use this if you have studied Japanese before and are deciding on changing your method.   
+- [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) - The basic vocabulary deck the guide suggests to learn Japanese. You can also find it [here](https://github.com/donkuri/Kaishi/releases) (click on the `.apkg` file).
+- [TheMoeWay Tango N5 Deck](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) - An older deck that was recommended before Kaishi 1.5k was made.  
+- [TheMoeWay Tango N4 Deck](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - The follow-up deck to Tango N5 above, now superseded by Kaishi 1.5k.
+- [Core2.3K VN Order Deck](https://anacreondjt.gitlab.io/docs/coredeck/) - The optimized Core deck but ordered in terms of visual novel frequency. Got absorbed into Kaishi 1.5k.
 
 ### Grammar
 - **[※ - Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Cure Dolly is a new grammar guide that has sparked recent attention because of its unique way of teaching Japanese grammar. It aims to teach Japanese grammar in a way that sticks true to the roots of the language, in contrast to other grammar guides that take shortcuts that could cause confusion later on. For that reason, I recommend you start with this. Because of Cure Dolly's speech, and the audio quality presented in the videos, you may find it difficult to understand. However there are subtitles available for all videos that may alleviate this issue, which I recommend you turn on. 
