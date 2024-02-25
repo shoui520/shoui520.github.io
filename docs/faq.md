@@ -6,10 +6,7 @@ Due to the FAQ becoming ridiculously long, it can be hard to quickly find what y
 
 ### Why this FAQ was made
 
-This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, I'm willing to answer any question you have if you sub to my Patreon.  
-
-### Tango vs Core2.3k
-Why does TheMoeWay recommend the Tango deck in the main guide but Core2.3k in UsagiSpoon? The reason is not so simple, but the main guide and UsagiSpoon have different aims in mind. On the one hand, the main guide provides general guidelines on how to learn Japanese, but UsagiSpoon assumes you will follow everything written step by step. Why is this important? Well before I get into that, I would like to go through the main benefits and drawbacks of Tango vs Core2.3k. The cards in Tango are sentence cards, which means they show you full sentences for you to read and get the meaning from. The cards also re-use words already introduced before. This means that Tango is relatively easy. However, this also means Tango is less efficient, as not every new card is necessarily a new piece of information. On the other hand, in the Core2.3k deck, every other card is a new word. The information on the front of the card is the word on its own in kanji. This means that Core2.3k is more efficient, as every single new card is a new piece of information. However, this also makes Core2.3k very difficult. Now that that's out the way, the difference in recommendation is down to the purpose of the guide. UsagiSpoon was written with the intention of making a Japanese guide focused on efficiency. The use of early immersion, condensed audio, kanji cards, grammar study, vocab study, all in just 30 days also shows how UsagiSpoon tries to be efficient. I have received a lot of feedback on UsagiSpoon however, pointing out the difficulty of Core2.3k. I have also received feedback for the guide regarding the Tango decks, saying there are too many useless cards. Neither deck is perfect, whether you are following UsagiSpoon, or just following the main guide, feel free to use any vocab/sentence deck that you wish.
+This FAQ aims to assist you with your self study. When it comes to learning Japanese, it is almost inevitable that you will often wonder about a lot of things. I’m not going to always be here to help you out, so I might as well dump all my knowledge here. I am sure your question will be answered in this FAQ. If not, I'm willing to answer any question you have if you sub to my Patreon.
 ### How do I learn Japanese?
 Through massive amounts of *input*, in other words **immersion.** See [the guide](/guide) for more info.
 ### Can you teach me Japanese?
@@ -23,7 +20,7 @@ Raw anime, untranslated manga, light novels and visual novels. Unsubbed J-drama,
 ### Hey shoui, so I know the method you describe is better than what I’m doing right now but can you please give me permission to carry on doing my own method?
 Don’t care. It’s your Japanese, not mine. 
 ### When should I start using Anki?
-You can start to use Anki whenever you want actually, you can even learn the kana with it. However I recommend you start using Anki when you already have a grasp of the kana and basic grammar, after that you can download and start working on the Tango Anki decks. (Mining comes after)
+You can start to use Anki whenever you want actually, you can even learn the kana with it. However I recommend you start using Anki when you already have a grasp of the kana and basic grammar, after that you can download and start working on the Kaishi 1.5k Anki deck. (Mining comes after)
 ### When (what time of day) should I do Anki?
 I recommend doing Anki the first thing in the morning. (As early as possible)
 ### How long should I spend on Anki?
@@ -102,13 +99,8 @@ Learning is simple as it is. Don’t fall for pretty-UI learning programs such a
 Animebook. UPDATE: You can use [MPV](https://youtu.be/bbg6ztWecbU) instead
 ### How many words do I need to know to understand EVERYTHING?
 Around 30k. You may think, but uh with 2k I can understand 80%? Yeah but it gets very steep after that. 10k is around 98%, 20k is around 99% and 30k is like 99.9% because I can’t guarantee that you can understand 100% with 30k. But it is definitely a good number to aim for. I don't understand everything in English so is it really worth the endeavour? That is your decision.
-### Why are Core decks bad? Should I do Core decks?
-They aren't bad... it's just...
-The frequency lists the Core decks are based on are very low quality. So you aren’t even learning “core” words. It is also much more difficult than Tango.
 ### HUH? NO FURIGANA? THAT’S IMPOSSIBLE TO READ THEN!!!
 Furigana has never been necessary and relying on it only holds you back becoming able to read fluently. You should learn how to function without it. In my opinion furigana is pretty useless apart from when it's on names.
-### What’s better Tango N5+N4 or Core2k/3k?
-Doesn’t matter as long as you get onto mining straight after you completed them. :slight_smile:
 ### I don’t have that green + button like you do in Yomichan
 Setup AnkiConnect. <https://foosoft.net/projects/anki-connect/>
 Make sure you also have a proper card type and have filled in the fields correctly.
@@ -225,7 +217,7 @@ If you have money you can buy visual novels from Steam. If you are lucky enough 
 [vn guide](/vn)
 ### How do I switch from traditional methods to your method?
 You probably have a stupid flashcard deck on some SRS that probably isn’t Anki. Even if you used Anki you were probably using some stupid pre-made deck. You are halfway through your second Genki textbook or whatever. You paid for Memrise Premium. You have a WaniKani subscription. LingoDeer lured you into buying their premium too. What should you do? Screw them. Cancel your premium subscriptions. Learning Japanese is completely FREE and I can guarantee you that. Delete your old stupid decks. You may worry that you may forget everything you’ve learned, but you won’t. You won’t forget everything. Stop using the textbook, return it or something. You may also have HelloTalk friends. Well let me tell you the truth about HelloTalk friends: they don't even care about you. They just want to practice English with you, not Japanese. If you ask them to correct you they will probably block you, so they’re just stopping any chance of you ever improving. So forget about them, why even bother? Speaking practice doesn't really mean much without immersion anyway.
-Now, it may be different what you gotta do depending on how good you are. If you haven’t gotten that far (e.g. can’t understand like 50% of anime yet) then just follow the [Japanese Guide](/guide) from the beginning, if you already know kana, you don’t need to re-learn them. Watch the Cure Dolly grammar guide. Setup Anki, import the Tango N4+N5/Core3k decks and work through them. Immerse everyday. 
+Now, it may be different what you gotta do depending on how good you are. If you haven’t gotten that far (e.g. can’t understand like 50% of anime yet) then just follow the [Japanese Guide](/guide) from the beginning, if you already know kana, you don’t need to re-learn them. Watch the Cure Dolly grammar guide. Setup Anki, import the Kaishi 1.5k deck and work through it. Immerse everyday. 
 If you’re a so-called “intermediate” then just get to mining with AnimeCards straight away. Immerse everyday. 
 There is no way you got to an “advanced” level or even close using a bad method so I’ll end this here.
 ### How to deal with words with multiple meanings?
@@ -270,11 +262,6 @@ You’re probably confused but trust me it is tricky at the beginning but overti
 If you’re doing sentence cards then I’ll talk you through the review process.
 Let's think back to bilingual cards, how do you grade them? You should already know that the sentence that goes on the front is the thing you need to understand, and the on the back is the word along with its reading and definition is needed to understand the sentence. 
 The process of reviewing sentence cards goes as follows: You read the sentence, reveal the backside of the card, read the definition that is on the back of the card, if the definition on the back made you understand the sentence better, then grade it as a Fail. If not, grade it as a Pass. In other words, you grade the card as a Pass if the extra information (the definition) on the card was not needed to comprehend the sentence. It’s basically the same for monolingual cards.
-### How to grade Tango cards?
-You should already know that the sentence that goes on the front is the thing you need to understand, and the on the back is the word along with its reading and definition is needed to understand the sentence. 
-The process of reviewing sentence cards goes as follows: You read the sentence, reveal the backside of the card, read the definition that is on the back of the card, if the definition on the back made you understand the sentence better, then grade it as a Fail. If not, grade it as a Pass. In other words, you grade the card as a Pass if the extra information (the definition) on the card was not needed to comprehend the sentence.
-### Why do you do AnimeCards over sentence cards?
-Muh opinion
 ### I want to pass the JLPT N1. How long will that take me with your method?
 Cant say as it all depends on how much you immerse  
 Also make sure you study the grammar used in JLPT N1 (it is easy to look over them in immersion)  
@@ -298,7 +285,7 @@ Yeah.
 No.
 ### The Intermediate Blues
 (Intermediate= >N1)
-The Intermediate Blues. The Intermediate Plateau. Whatever you want to call it. This is the feeling of not feeling like you are improving, despite doing 40 Anki cards per day, speeding through your reviews, reading for 3 hours, listening for 6 hours. In fact, there is no plateau. It doesn’t exist. You are either improving (when u immerse) or getting worse (when u dont immerse). The Intermediate Blues are usually felt when you remember back when you were a beginner and you could feel your progress everyday, you don’t really get that same feeling as an intermediate learner. 
+The Intermediate Blues. The Intermediate Plateau. Whatever you want to call it. This is the feeling of not feeling like you are improving, despite doing 40 Anki cards per day, speeding through your reviews, reading for 3 hours, listening for 6 hours. In fact, there is no plateau. It doesn’t exist. You are either improving (when you immerse) or getting worse (when you dont immerse). The Intermediate Blues are usually felt when you remember back when you were a beginner and you could feel your progress everyday, you don’t really get that same feeling as an intermediate learner. 
 You are improving.
 Please note that you can understand like 80% of your immersion with like 2000 words. You can understand like 90% with 10,000. It just gets very steep. 20,000 you understand like 95%. 30,000 you may finally be close to the 100%. The feeling sucks, but you gotta keep going.
 What usually motivates is when I hear in an anime a word I learned the day before, it always gives me a motivation boost no matter what :wink:

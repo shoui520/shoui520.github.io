@@ -259,7 +259,7 @@ Now let's download Anki.
 
 You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
 
-Download the required deck [here](https://anacreondjt.gitlab.io/docs/coredeck/)  
+Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)  
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
@@ -289,7 +289,7 @@ The blue number is how many new cards you will be doing in a day.
 
 You might want to lower the number of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
 
-Click the cog icon next to the *Core2.3k Version 3* deck.  
+Click the cog icon next to the *Kaishi 1.5k* deck.  
 
 Click *Options*.  
 
@@ -321,7 +321,7 @@ Paste this code into the box: `1046608507` and click **OK**.
 
 You need to restart Anki. Close Anki, and launch it back up.  
 
-Click the cog icon next to the *Core2.3k Version 3* deck.  
+Click the cog icon next to the *Kaishi 1.5k* deck.  
 
 Hold the ++shift++ key and click *Options*.  
 
@@ -464,16 +464,6 @@ The next day you can expect to see some cards in the green (Review) pile.
 You will also have a fresh batch of 20 new cards!  
 
 Please make sure you do Anki every day!   
-
-**Q: Why does UsagiSpoon recommend Core instead of Tango?**  
-
-A: Short answer: You learn more with Core.  
-
-Core teaches a new word with each card. The order of words is optimized for anime and visual novels because it teaches the most common words from them. Tango on the other hand, has tons of cards that do not introduce new words, and repeats a lot of similar sentences. ← IMO this is just inefficient. Tango also has weird English translations and stuff. 
-
-While I was writing this day of UsagiSpoon I originally wrote the entire thing showing you how to use the Tango deck. But I had to point out "Hey don't look at the translations!", and "There are a lot of words you will probably never see in anime..." etc, etc. So in the end I saw how the Core deck was better and decided to use that.  
-
-While Core is significantly more difficult (obviously! It is actually introducing something new with every single card) but it will benefit you more than using Tango.  
 
 **Q: Should I worry if I forget a lot?**  
 
@@ -905,7 +895,7 @@ When you click Study now, the first cards will be explanation cards.
 
 After you read them, and understood the usage of the deck, I recommend suspending them.  
 
-You will be working on this deck alongside the Core deck.  
+You will be working on this deck alongside the Kaishi 1.5k deck.  
 
 This deck will NOT help you read kanji.  
 This deck will NOT help you write kanji from memory.  
@@ -917,7 +907,7 @@ It is an important skill to have, because when you are learning Japanese for a l
 
 **Q: So, what do I need to do today?**
 
-1. Anki. Your Core deck and the RRTK deck.  
+1. Anki. Your Kaishi 1.5k deck and the RRTK deck.  
 2. Grammar. Watch 3 Cure Dolly videos.
 3. Immersion.  
 
@@ -1207,7 +1197,7 @@ Some you might not even be able to do until months or years down the line!
 Nevertheless, I highly recommend you do them.  
 
 - Finish the entirety of Yotsubato volume 1
-- Finish the Core deck   
+- Finish the Kaishi 1.5k deck   
 - Finish the RRTK450 deck  
 - Do the [Kanji Phonetics](/kanjiphonetics) deck.  
 - Finish Cure Dolly's grammar guide  
@@ -1215,7 +1205,7 @@ Nevertheless, I highly recommend you do them.
 - Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
 - Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
 - Train your ability to recognize and read Japanese numbers, with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).   
-- Start a "mining" Anki deck sometime after you finish the Core deck.  
+- Start a "mining" Anki deck sometime after you finish the Kaishi 1.5k deck.  
 - Finish a visual novel in under 6 months after starting it.   
 - Try using a monolingual dictionary after you finish a visual novel.  
 - Increase your immersion hours.  

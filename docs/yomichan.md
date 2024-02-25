@@ -130,7 +130,7 @@ Tap on a word to look it up. In the case that it is not working, you may need to
 
 ## Anki Setup
 
-See [AnimeCards Site](https://animecards.site/)
+See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup).
 
 ## Offline audio server (+ More audios than default)  
 

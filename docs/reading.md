@@ -4,7 +4,7 @@ Reading Japanese is ***CRUCIAL***. It is important you learn how to read Japanes
 
 With that said, it may seem difficult to learn how to read, after all there are like so much unique kanji on the page! Well yes, reading for the first time will always be painful, you just have to get through it and over time you will become more confident and better at reading. And if anyone is curious on how on earth you're supposed to find out how to read Japanese words and what they mean, just read on, there are certain tools that let you do this easily.  
 
-Before you start reading for real, it is important you have already worked through a pre-made Anki deck, such as Tango N5+N4 *or* Core3k and also a grammar guide such as Tae Kim or Cure Dolly, this is to make the process less painful as there will be more words you know. Second, I recommend also having prior listening immersion experience because 1. it prevents you from developing a bad accent and 2. it helps you parse sentences better when reading.   
+Before you start reading for real, it is important you have already worked through a pre-made Anki deck, such as Kaishi 1.5k and also a grammar guide such as Tae Kim or Cure Dolly, this is to make the process less painful as there will be more words you know. Second, I recommend also having prior listening immersion experience because 1. it prevents you from developing a bad accent and 2. it helps you parse sentences better when reading.   
 
 ### Key Points  
 

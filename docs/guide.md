@@ -135,18 +135,9 @@ The bulk of your language learning journey is learning vocabulary, so you will b
 
 Anki is a spaced repetition system (SRS) flashcard program. It is designed to help you remember information. You can get it [here](https://apps.ankiweb.net/)  
 
-![Anki](img/anki21_tango_example.jpg)  
+![Anki](https://github.com/donkuri/Kaishi/raw/main/pics/back-card.png)
 
-You should use Anki to build up a vocabulary of basic words to assist your immersion, after that learning vocabulary from immersion, especially in reading, becomes easier. Usually people use the *Core 2K* deck to build up a vocabulary of 2000 words. It works by showing you the word you need to learn at the front, and it has the meaning and how to read it at the back, along with a voiced example sentence. You learn words with Core2K by recalling the meaning and reading of the displayed word. However, I advise against using Core 2K, and suggest you do [*Tango N5+N4*](https://learnjapanese.moe/resources/#vocabulary) instead, and here’s why:
-
-Core 2K is significantly harder than [Tango N5+N4](https://learnjapanese.moe/resources/#vocabulary) because Tango has the sentence on the front, Core 2K has only the word on the front.  
-Tango decks work by showing you a sentence at the front, and the piece of information (a meaning and reading) needed to understand the sentence at the back. You click "Good" whenever you understood the sentence, and "Again" when you did not.  
-The "N" number in the deck name refers to the Japanese Language Proficiency Test (JLPT), with N5 being the lowest, easiest and N1 being the highest.  
-Sentences make recalling vocabulary easier, after all, it is much more close to how we use language in real life as opposed to isolated words.  
-
-**However, it is important to note that Tango's translations are not literal, and do not represent Japanese structure well, so I guess that's a flaw of Tango. In other cases, it might be utterly wrong.**  
-
-People have always struggled with Core 2K, and to make the process smoother, I recommend [Tango N5+N4](https://learnjapanese.moe/resources/#vocabulary) over Core 2K. Especially if you don’t want to do isolated kanji study!  
+You should use Anki to build up a vocabulary of basic words to assist your immersion, after that learning vocabulary from immersion, especially in reading, becomes easier. To learn vocabulary, I recommend using the new beginner deck [Kaishi 1.5k](https://github.com/donkuri/Kaishi/). You will learn 1500 words that are among the most common in the language and are very useful to start reading. You can either get it on GitHub [here](https://github.com/donkuri/Kaishi/releases) (choose the latest release) or on Ankiweb [here](https://ankiweb.net/shared/info/1196762551). The deck works like this: You get a word and a sentence with the word appearing in it being bolded. You can pass the card if you remember the reading and the meaning _of the word_. It's okay if you don't understand the sentence fully, grade yourself on the word. Comprehension will come with time and as you learn more grammar.
 
 I recommend you start learning vocabulary using Anki after you have learned the kana and know extremely basic grammar. How basic is extremely basic is up to you to decide. I will go through how to study grammar after this section, so don't panic.  
 
@@ -167,19 +158,17 @@ With that said, I suggest doing grammar study in conjunction with your immersion
 
 ### Mining  
 
-Mining means when you add vocabulary (often along with the sentence they were found in) into your Anki deck. You can then review these flashcards overtime to make sure you don’t forget them. It usually recommended you begin mining right after you finished Tango N5+N4. You should not bother with Tango N3, N2 and/or N1 because at this point you should be making your own flashcards from your immersion, which is overall a fun process.
+Mining means when you add vocabulary (often along with the sentence they were found in) into your Anki deck. You can then review these flashcards overtime to make sure you don’t forget them. It usually recommended you begin mining right after you finish Kaishi 1.5k. You should not bother with other premade decks at this point you should be making your own flashcards from your immersion, which is overall a fun process.
 
 Mining is something you will be doing for a long time, so this is pretty important.  
 There’s a lot of disagreement when it comes to “formats” of mining, but I think the "Anime cards" format is very good, and has served me really well.   
 
 **Animecards Vocab Cards**  
-Animecards are *High Quality* vocab cards which are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back, making them much more superior to standard vocab cards. 
-
-I think it is good to graduate *sentence* cards after you finish Tango N5 and N4 (Tango decks are sentence cards by the way), as vocabulary cards become easy and quick as you have familiarzied yourself with simple Japanese.  
+Animecards are *High Quality* vocab cards which are different to standard vocab cards. Standard vocab cards simply have the word in kanji form on the front, and the reading and meaning of that word at the back. High quality vocab cards, as opposed to standard vocab cards, have the audio of the sentence (from an anime or voiced Visual Novel), also a picture (from an anime or Visual Novel) and the sentence it came from at the back, making them much more superior to standard vocab cards.
 
 ![Anime Cards](img/cardexample1.jpg)  
 
-※ They are known as “Anime Cards” because of [AnimeCards Site](https://animecards.site)  
+※ They are known as “Anime Cards” because of the [AnimeCards site](https://animecards.site)  
 
 __Benefits__   
 + Easy to set up    
@@ -187,7 +176,7 @@ __Benefits__
 + Able to mine everything and anything (does not follow i+1)    
 + Compensates for words with multiple meanings with the hint field.  
 
-After you have finished the Tango N5 and N4 decks, you should read this site [AnimeCards Site](https://animecards.site/ankisetup/) to learn how to set up a mining deck.   
+After you have finished the Kaishi 1.5k deck, you should read [this site](https://donkuri.github.io/learn-japanese/setup/) to learn how to set up a mining deck.
 
 ### How to Immerse (inputting)  
 What you need to do when immersing is different depending on what stage you are on. This is why making a one size fits all Japanese guide is difficult. I will only go through what you need to do as a beginner.    
@@ -202,7 +191,7 @@ Furthermore, listening just flows without stopping, so you feel more comfortable
 
 Surprisingly, there are many i+1 opportunities in listening immersion as a beginner, especially when you are studying grammar and vocabulary alongside your immersion, so it still passes as comprehensible input, even if you don’t understand other parts. But language is not acquired through incomprehensible input remember? That is true, however, you are still benefiting from incomprehensible input but in a different way; it is improving your ability to distinguish phonemes, in other words giving you a better accent. Immersing even if you don’t understand much is also a great way to build up a habit of interacting with your Japanese.  
 
-With that said though, immersion (input) at this stage will still be largely incomprehensible, however you can change that by working through the Tango Anki decks.    
+With that said though, immersion (input) at this stage will still be largely incomprehensible, however you can change that by working through the Kaishi 1.5k Anki deck.    
 
 Please note that you need to pay attention to your immersion. (Active Immersion).    
 Just putting it on in the background and not paying attention (Passive Immersion) is not going to help you.    
@@ -228,19 +217,19 @@ In our [Resources](/resources) you can find links to sites that let you read a l
 
 **Finding the balance between listening and reading**    
 
-Balance is important. It may be obvious just to split your time up in half, and if you are able to do that, then that is great. However, not  everyone has the time, and when it comes to reading, depending on your current level, it may be considerably difficult to read for extended hours.  For example people that have gotten further in the Tango Anki deck may be able to read longer than those who are a little behind.   
+Balance is important. It may be obvious just to split your time up in half, and if you are able to do that, then that is great. However, not  everyone has the time, and when it comes to reading, depending on your current level, it may be considerably difficult to read for extended hours.  For example people that have gotten further in the Kaishi 1.5k Anki deck may be able to read longer than those who are a little behind.   
  
 So what is the perfect balance?   
-I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the [Tango N5](https://learnjapanese.moe/resources/#vocabulary) Anki deck.    
+I cannot answer that, that is up to you to experiment and decide. It all depends on your schedule and current level. You don’t need to do reading from day 1, give it a few weeks until you can read basic words from the [Kaishi 1.5k](https://github.com/donkuri/Kaishi/) Anki deck.    
   
 ## Summary  
 
 1. Learn the [kana](#kana) and start learning from your chosen grammar guide.  
-2. Download and setup Anki. Import the Tango N5 deck by clicking on it.  
+2. Download and setup Anki. Import the Kaishi 1.5k deck by clicking on it.  
 3. Click the cog icon next to the deck > Options. The default limit of new cards per day is set at 20. Try to stick with this number for a few days and see how it goes for you, if you feel like it is too much, then you can lower the limit to 15 or even 10. Check in the “Reviews” tab, set the Maximum reviews/day to 9999. Don’t be startled by this number. It will likely not go over 150 with okay retention rate. If you fail to keep up with the reviews you are getting, lower your new cards/day instead of lowering the maximum reviews. This is because not doing your due reviews interferes with Anki’s spaced repetition system. Anki requires consistency in the long term for it to be effective, try creating a schedule for it. Personally I do my Anki when I wake up in the morning.  
 4. Do Anki daily, while also doing your chosen grammar guide **and** immersing daily.  
-5. Repeat until you have finished Tango N5, now you should do Tango N4. You should feel more comfortable with reading now, I suggest you start reading easy manga or watch anime with Japanese subtitles.  
-6. After you've finished Tango N4, set up your mining deck, watch whatever you like, read whatever you like and **HAVE FUN!!**  
+5. Repeat until you have finished Kaishi 1.5k. You should feel more comfortable with reading now, I suggest you start reading easy manga or watch anime with Japanese subtitles.  
+6. After you've finished Kaishi 1.5k, set up your mining deck, watch whatever you like, read whatever you like and **HAVE FUN!!**  
 
 ### Final Notes  
 That’s it. You can get fluent in Japanese just like that. But don’t forget that the most important part is immersion, Anki and grammar only assist your immersion.   
