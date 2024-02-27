@@ -15,6 +15,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 
 
 - **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - The best way to learn how to write when you can already read.**
+- **[Kanken resource page](https://rentry.org/kankenbros/#random-links)** 
 - [Chronopolize's Kanji Components](https://ankiweb.net/shared/info/390273931) - An Anki deck to help you differentiate similar kanji by teaching components.  
 - [Usagi Chan Kanji Phonetics](/kanjiphonetics) - An Anki deck to help you learn the readings of kanji components that carry a consistent on-yomi.  
 - [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)  
