@@ -3,7 +3,7 @@
 ## 1.1 Introduction
 
 Language... is a huge thing. There is so much to it that far exceeds the limitations of a classroom or app-based approach that aims to teach you about the language in a "x means y" or "x does y" format. Learning a  to a high level requires an **enormous** amount of experience hearing and reading the sayings of native speakers.  
-It is often difficult to systematically explain why they phrased sentences *that* way instead of *this* way, or why *that* word was used instead of *this* word, which poses a problem for us learners as we can’t express our thoughts in in our target language the same way as native speakers can just by studying the language in a "traditional" manner.  
+It is often difficult to explain why they phrased sentences in a certain way, or why they used a certain word instead of another... which poses a problem for us learners as we can't just study grammar and vocab to achieve the same thing.  
 Attempting to construct sentences in said target language without the required experience often leads to unnatural, or easily misunderstood phrasing. Lack of experience hearing and reading how native speakers use their language often leads to an inability to understand them, due to unfamiliarity with sentences outside of what is taught by a specific learning resource.  
 
 This is why in your learning routine, you must prioritize what we call “immersion” – reading and listening to what native speakers write and speak.    
