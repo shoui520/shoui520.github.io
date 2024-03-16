@@ -12,7 +12,6 @@ This is why in your learning routine, you must prioritize what we call “immers
 
 Many people have a simple goal in mind when learning Japanese: to be able to enjoy Japanese content without subtitles/translation and to speak Japanese fluently. However, as it turns out, reaching this goal is not possible with "traditional" methods people usually use to study Japanese.  
 "Traditional" methods tend to go like this:  
-
 - you learn the alphabet(s)  
 - you learn basic phrases such as greetings and how to introduce yourself  
 - you learn basic grammar structure and vocabulary  
@@ -38,7 +37,7 @@ Language learning is a process of subconsciously memorising patterns through com
 
 And because you are a proficient reader in English, you can do this effortlessly. You have seen the same patterns elsewhere. You can detect the tone and level of formality in my writing all thanks to your brain also storing the context, and other information of the patterns you come across.  
 
-Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because naturally you don't process language in this way. Some of you may not even be native speakers and you may have consciously learned English grammar, but it is unlikely you are actively thinking about it when coming into contact with English every day.  
+Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because naturally you don't process language in this way. Some of you may not even be native speakers and you probably learned English grammar before, but it is unlikely you are actively thinking about it when coming into contact with English every day.  
 
 However, sometimes you do have to think extra hard about how to say something complicated, but this is actually the "other side" of learning, known as output.  
 
@@ -61,9 +60,9 @@ Your long-term study consists of:
 -    looking up vocabulary and grammar found in immersion  
 -    using flashcards to better memorise vocabulary  
 
-Immersion usually consists of whatever a native speaker of that language would read or watch. For example a Japanese YouTube video, or an anime, or a book, or a forum post, or even social media, etc.   
-
 As you can see, study pretty much boils down to learning the vocabulary and grammar. This is a crucial step in the learning process. We can't have immersion without study, but we also cannot have study without immersion.  
+
+Immersion usually consists of whatever a native speaker of that language would read or watch. For example a Japanese YouTube video, or an anime, or a book, or a forum post, or even social media, etc.   
 
 Immersion must have comprehensible parts to be useful, and likewise, study has to be combined with immersion to be useful.  
 
