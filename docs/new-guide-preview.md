@@ -6,11 +6,11 @@ Language... is a huge thing. There is so much to it that far exceeds the limitat
 It is often difficult to systematically explain why they phrased sentences *that* way instead of *this* way, or why *that* word was used instead of *this* word, which poses a problem for us learners as we can’t express our thoughts in in our target language the same way as native speakers can just by studying the language in a "traditional" manner.  
 Attempting to construct sentences in said target language without the required experience often leads to unnatural, or easily misunderstood phrasing. Lack of experience hearing and reading how native speakers use their language often leads to an inability to understand them, due to unfamiliarity with sentences outside of what is taught by a specific learning resource.  
 
-This is why in your learning routine, you must prioritize what we call “immersion” – reading and listening to what native speakers write and speak.  
+This is why in your learning routine, you must prioritize what we call “immersion” – reading and listening to what native speakers write and speak.    
 
 ## 1.2 Why many people "fail" to learn Japanese
 
-Many people have a simple goal in mind when learning Japanese: to be able to enjoy Japanese content without subtitles/translation and to speak Japanese fluently. However, as it turns out, reaching this goal is not possible with "traditional" methods people usually use to study Japanese. 
+Many people have a simple goal in mind when learning Japanese: to be able to enjoy Japanese content without subtitles/translation and to speak Japanese fluently. However, as it turns out, reaching this goal is not possible with "traditional" methods people usually use to study Japanese.  
 "Traditional" methods tend to go like this:  
 - you learn the alphabet(s)  
 - you learn basic phrases such as greetings and how to introduce yourself  
@@ -33,7 +33,7 @@ As language learners, our standard for "correct Japanese in context" is whatever
 
 As mentioned in the introduction, language is a huge thing, but you may not realise how big of a thing it actually is. Even you being able to fluently read this guide without trouble is a testament to the scale of language, in particular the scale of language learning.  
 
-Language learning is a process of subconsciously memorising patterns through comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain stores that pattern subconsciously to be accessed later. You see, being able to fluently read this guide is because you have had so much experience reading English in the past that, when you read this, your brain is going, "Oh, there's pattern #234 used with pattern #82 and pattern #10!" 
+Language learning is a process of subconsciously memorising patterns through comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain stores that pattern subconsciously to be accessed later. You see, being able to fluently read this guide is because you have had so much experience reading English in the past that, when you read this, your brain is going, "Oh, there's pattern #234 used with pattern #82 and pattern #10!"  
 
 And because you are a proficient reader in English, you can do this effortlessly. You have seen the same patterns elsewhere. You can detect the tone and level of formality in my writing all thanks to your brain also storing the context, and other information of the patterns you come across.  
 
@@ -45,7 +45,7 @@ However, sometimes you do have to think extra hard about how to say something co
 
 Input refers to listening to or reading the language.  
 
-Output refers to speaking the language, either through speech, through text or by writing.  
+Output refers to speaking the language, either through speech, through text or by writing.    
 
 Your learning routine should be 90% input, especially in the earlier stages of learning. You should also output when you feel like it to ensure you are actually understanding the usages of the things you are seeing in your input.  
 
@@ -79,7 +79,7 @@ The learning process for the initial beginner stage consists of:
 - learning grammar  
 - starting to do mainly listening immersion with easy content and with high repetition  
 
-## 2.2 Hiragana and Katakana 
+## 2.2 Hiragana and Katakana  
 
 Hiragana and katakana are collectively referred to as the "kana".  
 
