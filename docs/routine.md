@@ -329,81 +329,25 @@ A different looking menu with some red text should open. (If it did not, you did
 
 In the *General* tab, there are a few settings you need to change.  
 
-Change *Automatically play alert* to `10` seconds.  
+Change *Automatically play alert* to `15` seconds.  
 
-Change *Automatically show answer* to `15` seconds.  
+Change *Automatically show answer* to `30` seconds.  
 
-Change *Automatically rate 'again'* to `60` seconds.  
+Change *Automatically rate 'again'* to `180` seconds.  
 
 Now let's get to studying the deck.  
 
 When you click on the name of the deck, you'll be able to start learning by clicking *Study now*  
 
-First thing you'll notice....
+First thing you'll see is an explanation card. Feel free to delete this one.
 
-There's a word you can probably read... "する"... (IF THE WORD IS NOT する THEN YOU NEED TO CHECK YOUR CARD INSERTION ORDER!)  
+The next card is a word that is using kanji.  
 
-But there is also line below it with absolutely CRAZY kanji....
+If you click "Show answer", it reveals the *back* of the card, and you will be able to find out how to read the word on the front.  
 
-Ignore that!  
+The deck has other features, such as word meaning, audio, sentence and translations.  
 
-Only focus on the top line. That's what you actually need to learn.  
-
-The line below it is just an example sentence.  
-
-I can't say it's very useful at this point.  
-
-But everything in this deck is insanely common.  
-
-Now I want you to read this carefully,
-
-What you are actually being tested for is, whether or not you can read the word and ALSO know what it means.  
-
-In Japanese learning we call this "learning the **reading** and **meaning**"  
-
-For a word like, する, the **reading** is easy. It's just する! It isn't in kanji. The next word 言う, does use kanji though.  
-
-When you click *Show answer* at the bottom (shortcut: ++space++), you can see what the word means.  
-
-This deck also other interesting features.  
-
-A picture at the back.  
-
-Audio at the back.  
-
-The picture illustrates the example sentence. It is not important.  
-
-There is also a sentence translation at the bottom.  
-
-Scroll down if you can't see it.  
-
-Wait a second.  
-
-You might have been wondering. Why can't I even see the word in the example sentence it is supposed to be in?  
-
-The reason is, it is actually there, it is just inflected.  
-
-Inflections are something you will learn from Cure Dolly.  
-
-These inflections are absolutely CRAZY for you right now, so do not worry about learning inflections from this deck.  
-
-The example sentences are too advanced for you.  
-
-When you learn a word in Japanese, you learn its "base" form. This means its un-inflected form.  
-
-Wait a second.  
-
-So, what do you actually do from here?  
-
-Well, you see that white line at the top going through the card?  
-
-That is the separator between the "front" and the "back" of the card.  
-
-The **first** line on the **back** of the card is the **Reading**.  
-
-The **second** line on the **back** of the card is the **Meaning**.  
-
-Those are the 2 pieces of information that you must remember.  
+BUT the only things you should be memorising is the **word on the front**, **reading** and **word meaning**.
 
 Do not waste your brain power on thinking about anything else.  
 
@@ -411,7 +355,7 @@ Look at the bottom bar. There are 4 buttons. These are your grading options.
 
 In Anki, you have to manually grade yourself.   
 
-Think of **Again** as "I FAILED". **Easy** as SUPER EASY, **Good** as normal/usual/eh, and **Hard** as "I struggled with this it took me a while BUT I still got it right".  
+Think of **Again** as "I GOT IT WRONG". **Easy** as SUPER EASY, **Good** as normal/usual/eh, and **Hard** as "I struggled with this it took me a while BUT I still got it right".  
 
 Because this is a card that is **seen for the first time**, press "Again".  
 
