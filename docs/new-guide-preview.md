@@ -25,13 +25,11 @@ While it may seem like a good way to learn a language at first, it does not get 
 
 <h2> It's important to learn how to move on!</h2>
 
-A common trap people fall into in language learning is staying on the beginner resource for too long; they want to ensure they know every single detail of their beginner resources and refuse to move onto the real language; refuse to engage in anything they aren't already comfortable with. It is important to leave the beginner resource as soon as possible.  
+A common trap people fall into in language learning is staying on the beginner resource for too long; they want to ensure they know every single detail of their beginner resources and refuse to move onto the real language; refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything; they feel like they "aren't ready" It is important to leave the beginner resource as soon as possible because the truth is... you will never be ready until you actually start engaging with the real language and getting yourself used to it.   
 
 ## 1.3 The standard of the language
 
 Some of you may be wondering, "But what makes what native speakers say so important?" Simply speaking, how native speakers use their language in different settings sets the standard for the language. They don’t use the same old words, and same old structures in every single setting. How different ideas are expressed can be completely different from the language/s you are familiar with, and the range of ideas that can be formed can completely exceed your expectations – especially given your lack of knowledge. Expressions that are technically grammatically incorrect can even become "correct" when it becomes the norm for native speakers to use the language that way.  
-
-As language learners, our standard for "correct Japanese in context" is whatever we are shown in use of the language by natives.  
 
 ## 1.4 The scale of language
 
@@ -43,15 +41,7 @@ And because you are a proficient reader in English, you can do this effortlessly
 
 Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because naturally you don't process language in this way. Some of you may not even be native speakers and you probably learned English grammar before, but it is unlikely you are actively thinking about it when coming into contact with English every day.  
 
-However, sometimes you do have to think extra hard about how to say something complicated, but this is actually the "other side" of learning, known as output.  
-
-## 1.5 Input vs output
-
-Input refers to listening to or reading the language.  
-
-Output refers to speaking the language, either through speech, through text or by writing.    
-
-Your learning routine should be 90% input, especially in the earlier stages of learning. You should also output when you feel like it to ensure you are actually understanding the usages of the things you are seeing in your input.  
+## 1.5 
 
 ## 1.6 Incorporating immersion into study
 
