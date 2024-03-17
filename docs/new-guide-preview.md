@@ -23,7 +23,7 @@ Many people have a simple goal in mind when learning Japanese: to be able to enj
 
 While it may seem like a good way to learn a language at first, it does not get us very far when our goal is to reach a high level of Japanese that allows us to enjoy Japanese content in its original form and to speak Japanese fluently. As explained in the previous section, language requires an enourmous amount of experience listening to and reading the language. True language mastery sits far outside the scope of what learning grammar and doing exercises can do.  
 
-<h2> It's important to learn how to move on!</h2>
+<strong><h3> It's important to learn how to move on!</h3></strong>
 
 A common trap people fall into in language learning is staying on the beginner resource for too long; they want to ensure they know every single detail of their beginner resources and refuse to move onto the real language; refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything; they feel like they "aren't ready" It is important to leave the beginner resource as soon as possible because the truth is... you will never be ready until you actually start engaging with the real language and getting yourself used to it.   
 
