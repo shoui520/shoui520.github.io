@@ -4,8 +4,4 @@ You can support me over at Patreon if you found TheMoeWay's site and community u
 
 [https://www.patreon.com/shoui](https://www.patreon.com/shoui)  
 
-I also accept Litecoin.
- 
-Litecoin: `MAe5Q6agmXGT1WAYWgxmoQ67dfVtkuyedy`   
-
 
