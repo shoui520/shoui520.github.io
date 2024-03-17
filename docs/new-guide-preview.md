@@ -12,6 +12,7 @@ This is why in your learning routine, you must prioritize what we call “immers
 
 Many people have a simple goal in mind when learning Japanese: to be able to enjoy Japanese content without subtitles/translation and to speak Japanese fluently. However, as it turns out, reaching this goal is not possible with "traditional" methods people usually use to study Japanese.  
 "Traditional" methods tend to go like this:  
+
 - you learn the alphabet(s)  
 - you learn basic phrases such as greetings and how to introduce yourself  
 - you learn basic grammar structure and vocabulary  
