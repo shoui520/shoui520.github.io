@@ -30,7 +30,7 @@ A common trap people fall into in language learning is staying on the beginner r
 
 ## 1.3 The standard of the language
 
-Some of you may be wondering, "But what makes what native speakers say so important?" Simply speaking, how native speakers use their language in different settings sets the standard for the language. They don’t use the same old words, and same old structures in every single setting. How different ideas are expressed can be completely different from the language/s you are familiar with, and the range of ideas that can be formed can completely exceed your expectations – especially given your lack of knowledge. Expressions that are technically grammatically incorrect can even become "correct" when it becomes the norm for native speakers to use the language that way.  
+Some of you may be wondering, "what makes what native speakers say so important?" Simply speaking, how native speakers use their language in different settings sets the standard for the language. They don’t use the same old words, and same old structures in every single setting. How different ideas are expressed can be completely different from the language/s you are familiar with, and the range of ideas that can be formed can completely exceed your expectations – especially given your lack of knowledge. Expressions that are technically grammatically incorrect can even become "correct" when it becomes the norm for native speakers to use the language that way.  
 
 ## 1.4 The scale of language
 
@@ -42,7 +42,10 @@ And because you are a proficient reader in English, you can do this effortlessly
 
 Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because naturally you don't process language in this way. Some of you may not even be native speakers and you probably learned English grammar before, but it is unlikely you are actively thinking about it when coming into contact with English every day.  
 
-## 1.5 
+## 1.5 Coming to terms with sucking 
+
+In language learning, and in anything skill-based, you are always going to start off sucking for a long time until you get good. The reason I say this is, many learners (I am guilty of this too.) fall into the trap of making sure they are really good at something before ever *trying* to do the thing they need to work on. For example, someone might fuss over a certain stage of grammar for way too long and never find the time to move onto something else they want to work on. **THIS HERE**, ladies and gentlemen is what we want to avoid. We have to learn to move on from things and start working on the things we need to work on.  
+Yes, you won't understand that book or that anime perfectly the first time; but that is never how learning worked. It always takes a third, forth, fifth and even sixth pass to finally learn something.  
 
 ## 1.6 Incorporating immersion into study
 
