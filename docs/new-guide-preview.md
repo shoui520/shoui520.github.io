@@ -137,7 +137,6 @@ I recommend practicing your kana by trying to read some Tadoku graded readers, w
 
 This is for consolidating your kana knowledge.  
 
-
 ## 2.3 Vocabulary & Kanji
 ## 2.4 Grammar
 ## 2.5 Basic Immersion
