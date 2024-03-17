@@ -92,7 +92,7 @@ Hiragana can be described as the "main alphabet" of Japanese. It's used in gramm
 ### Katakana
 
 ![Katakana](img/katakana.png)
-Hiragana is the angular and pointy version of kana. It has the exact same sounds as hiragana. It's used in loan words (words borrowed from other languages like English), onomatopoeia words (Japanese is full of these!) and slang words. It may also be used in names, mainly foreign names.  
+Katakana is the angular and pointy version of kana. It has the exact same sounds as hiragana. It's used in loan words (words borrowed from other languages like English), onomatopoeia words (Japanese is full of these!) and slang words. It may also be used in names, mainly foreign names.  
 
 ### How you are going to learn the Kana
 
