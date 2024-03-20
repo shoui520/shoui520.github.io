@@ -969,7 +969,7 @@ With more time spent doing the right methods, you'll certainly improve.
 
 You may have your doubts on what this method is actually doing, so allow me to explain.  
 
-Your **Anki**,　 **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language.  
+Your **Anki**, **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language.  
 
 Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives.  
 
