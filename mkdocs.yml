@@ -3,6 +3,7 @@ site_description: Moe Moe Moe Moe Moe Moe Moe
 site_url: https://learnjapanese.moe
 site_author: shoui  
 repo_url: https://github.com/shoui520/shoui520.github.io
+repo_name: Open a pull request
 nav:
   - Home: 'index.md'
   - 'Guides':
@@ -55,9 +56,9 @@ theme:
   custom_dir: overrides
   favicon: img/favicon.png
   logo: img/moe.svg
+  icon:
+    repo: fontawesome/brands/github
 markdown_extensions:
-  - toc:
-      permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

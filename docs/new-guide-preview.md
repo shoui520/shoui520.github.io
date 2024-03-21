@@ -64,34 +64,22 @@ In language learning, and in anything that requires skill, you are always going 
 
 Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
 
-## 1.6 WHAT is "immersion"?  
+## 1.6 WHAT EVEN IS "immersion"?  
 
-
-## 1.7 Stages of learning
-
-Language learning is a long-term endeavor. It should be noted that your experience as a beginner getting into the language will differ greatly from an intermediate or advanced learner. The process does not change between intermediate and advanced learners since they have already gotten past the initial hurdle. This guide will steer you through the labyrinthine beginner stage, and then from the intermediate stage and onward.
+Immersion is when you interact with natural content in the target language. This means, content that is NOT made for or cherry picked for learners. Content that a native speaker of the language would also consume.  
+If you were an English learner, you reading this guide right now would be you "doing your English immersion", because this guide is not watered down or aimed at English learners, this is written for a native/proficient English speaking audience.  
+Thus, when you listen to, or read Japanese content that a Japanese person would also normally consume, you are doing immersion.  
+Technically, we would refer to this as *input*, but I like the term *immersion* more. 
 
 ## 2.1 How to learn Japanese
 
+### Beginner study process 
 The learning process for the beginner consists of:
 
 - Learning the *hiragana* and *katakana*, which are two of the writing systems of Japanese. 
 - Learning basic vocabulary and their kanji with a software called *Anki*.
 - Learning grammar through a YouTube playlist.
 - Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
-
-### Long term study process
-
-The methodology covered in this guide consists of an immersion-based approach supplemented by study.
-
-Your long-term study consists of:  
-
--    Learning vocabulary;
--    Learning grammar structures;
--    Looking up vocabulary and grammar found in immersion;
--    Using flashcards to better memorize vocabulary.
-
-As you can see, studying pretty much boils down to learning vocabulary and grammar. This is very important. We can't have immersion without study, but we also cannot have study without immersion, as we want to be able to get meaning from our immersion and see how what we've studied is used in real language.
 
 ## 2.2 Hiragana and Katakana  
 
@@ -164,6 +152,36 @@ I recommend practicing your kana by trying to read some Tadoku graded readers, w
 <strong><h3>You do not need to be able to understand anything right now. This is just for getting better at reading kana.</h3></strong><br>
 
 ## 2.3 Vocabulary & Kanji
+
+### Kanji, the oddball
+
+<figure>
+  <img src="/img/kanji2.jpg" />
+  <figcaption>The first 80 kanji taught to Japanese 1st graders.</figcaption>
+</figure> 
+
+*Kanji*, meaning "Chinese characters", is another one of the writing systems used in Japanese. They are logographic and are much more complex and wider in variety than kana. There are around 2000 to 3000 of them used in Japanese, however, do not let this number demotivate you, because kanji are not to be studied and grinded like kana are.  
+*Kana* are logical, simple and few in number so they can be studied in isolation and mastered in a short amount of time, however, *kanji* are not used in the same way as kana and aren't exactly logical. What do I mean by that?  
+Let's take this as an example. Because kana represent sounds in the language, we can write whatever we want according to the sounds as long as a kana exists for it, this includes writing English words.   
+Now Imagine I wrote the **English** sentence "I am learning Japanese" but using *kana*, it would be:
+> "あい　あむ　らあにんぐ　じゃぱにいず"  
+
+Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible.  
+
+Kanji only make sense when they are used in vocabulary.  
+
+I repeat,
+
+<div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
+  Kanji only make sense when they are used in vocabulary!
+</div> 
+
+Every language has A LOT of words, and different words have different meanings, so Chinese, and Japanese for whatever reason decided they are going to use kanji to represent these different kind of words and their different meanings. That is why there are so many of them. That is why you shouldn't let them scare you because they are meant to be learned along with the words that use them.  
+
+  
+
+
+
 ## 2.4 Grammar
 ## 2.5 Basic Immersion
 ## 2.6 Beginner learning loop
