@@ -1,14 +1,15 @@
-# Japanese Guide
+# Preview Draft
 
 ## 1.1 Why many people "fail" to learn Japanese
 
-Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. Many also fail to reach these goals even after years of study. It is not always their fault though, but rather the method's. In language learning, the method behind your learning makes a huge difference in the progress you make.
+Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. You'll hear everyone say something along those lines when asked about their learning goals. However, many also fail to reach these goals even after years of study. Is the language just too hard? Are they just not studying hard enough?  
+I believe it is actually not their fault, but rather the method's. In language learning, the method behind your learning makes a huge difference in the kind of progress you make.
 
-As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient to their study routines, and that would be **immersion**—listening to or reading native content made for native speakers. For example, anime is originally broadcasted in Japanese without subtitles, so when consumed in this form, we call it immersion.   
+As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient to their study routines, and that would be what we call **immersion**—listening to or reading native content made for native speakers. For example, anime is originally in Japanese without subtitles, so when consumed in this form, we call it immersion.   
 
 ## 1.2 Problems with traditional methods
 
-A Japanese language student following a “traditional” curriculum would usually go through the following steps:
+A Japanese learner following a “traditional” study method would usually go through the following steps:
 
 - Learning the alphabet(s);
 - Learning basic sentences such as greetings and self-introductions;
@@ -19,15 +20,17 @@ A Japanese language student following a “traditional” curriculum would usual
 - Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress;
 - And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practice their skills.
 
-None of that is bad in itself, it actually might be sufficient study, but it's not enough to get you to a high level of proficiency. The problem is that they aren't actually engaging with the real language—but what do I mean by that?
+None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is that they aren't actually engaging with the real language—but what do I mean by that?
 
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer, unless you’re 4 years old.
+Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer. You can't expect to get anywhere by just learning all the theory behind the techniques and practicing them in isolation without actually swimming in a real pool.
 
 How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. That's the only possible way to learn.
 
 <strong><h3> It's important to learn how to move on!</h3></strong>
 
-A common trap students fall into in language learning is staying on beginner resources for too long. They want to ensure they know every single detail of their basics and refuse to move onto the real language. They refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.
+A common trap students fall into in language learning is staying on beginner resources for too long. They want to ensure they know every single detail of their basics and refuse to move onto the real language. They refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
+
+Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture. Learning a language is like climbing a mountain. you can try to climb that mountain without ropes and whatnot assisting your route, and though, it will take lots of struggle, you will eventually make it if you persist. traditional study is like building that rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope!-You eventually have to climb it, and no matter how much rope you decide to make, eventually you just get diminishing returns, and climbing that mountain is still going to be difficult and time-consuming.
 
 ## 1.3 The scale of language
 
@@ -39,8 +42,7 @@ Attempting to construct sentences in said target language without the required e
 
 This is why in your learning routine, **you must “immerse” yourself in the language—read and listen to what natives write and speak.**
 
-Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain goes, "Oh, there's pattern #234 used with pattern #82 and pattern
-#10!"
+Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain goes, "Oh, there's pattern #234 used with pattern #82 and pattern #10!"
 
 And since you are a proficient English reader, this is done effortlessly. You have seen the same patterns elsewhere before. You can detect the tone and degree of formality in my writing all thanks to your brain also storing the context, and other information about the patterns you come across.
 
@@ -147,3 +149,18 @@ This is for consolidating your kana knowledge.
 ## 2.4 Grammar
 ## 2.5 Basic Immersion
 ## 2.6 Beginner learning loop
+
+## Contributors
+
+I'd like to thank everyone that has contributed to the making of this guide:  
+
+iamatryhard  
+shigatsunoraion  
+kaio.n  
+saegusa.mayumin  
+pedipanol  
+.ikki.  
+ultravioletspring  
+deviru  
+kazuhira___  
+marv.n  
