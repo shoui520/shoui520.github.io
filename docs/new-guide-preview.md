@@ -30,7 +30,7 @@ Let's take swimming as an example. You can't just stay in the baby pool with flo
 How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
 
 
-<div style="border: 2px solid #333; padding: 10px; margin: 10px 0; border-radius: 5px; font-size: 30px; font-weight: bold;">
+<div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
   It's important to learn how to move on!
 </div>
 
@@ -51,24 +51,21 @@ Attempting to construct sentences in said target language without the required e
 
 This is why in your learning routine, **you must “immerse” yourself in the language—read and listen to what natives write and speak.**
 
-Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain goes, "Oh, there's pattern #234 used with pattern #82 and pattern #10!"
-
+Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
 And since you are a proficient English reader, this is done effortlessly. You have seen the same patterns elsewhere before. You can detect the tone and degree of formality in my writing all thanks to your brain also storing the context, and other information about the patterns you come across.
 
 Notice how I haven't mentioned "knowing the grammar" or "having memorized the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they are actively thinking about it when coming into contact with English every day.
 
 ## 1.5 Coming to terms with sucking 
 
-In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. The reason I say this is, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on. For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move onto something else they should be spending their time with.
+In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on. For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move onto something else they should be spending their time with.
 
-**☝ THIS HERE**, ladies and gentlemen, is what we want to avoid. We have to get into the habit of letting go of time-wasters and start engaging with our object of study.
+**☝ THIS HERE**, ladies and gentlemen, is what we want to avoid. We have to get into the habit of letting go of time-wasters and start doing what we actually need to do. 
 
 Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
 
 ## 1.6 WHAT is "immersion"?  
 
-
-Immersion usually consists of whatever a native speaker of that language would read or watch. For example a Japanese YouTube video, or an anime, or a book, or a forum post, or even social media, etc.
 
 ## 1.7 Stages of learning
 
