@@ -1,5 +1,7 @@
 # Preview Draft
 
+*If you don't need a preface, please skip to [2.1 How to learn Japanese](#21-how-to-learn-japanese)*  
+
 ## 1.1 Why many people "fail" to learn Japanese
 
 Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. You'll hear everyone say something along those lines when asked about their learning goals. However, many also fail to reach these goals even after years of study. Is the language just too hard? Are they just not studying hard enough?  
