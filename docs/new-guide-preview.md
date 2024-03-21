@@ -7,7 +7,7 @@
 Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. You'll hear everyone say something along those lines when asked about their learning goals. However, many also fail to reach these goals even after years of study. Is the language just too hard? Are they just not studying hard enough?  
 I believe it is actually not their fault, but rather the method's. In language learning, the method behind your learning makes a huge difference in the kind of progress you make.
 
-As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient to their study routines, and that would be what we call **immersion**—listening to or reading native content made for native speakers. For example, anime is originally in Japanese without subtitles, so when consumed in this form, we call it immersion.   
+As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient, **immersion**, into their study routines. **Immersion** refers to listening to or reading native content made for native speakers. For example, anime is originally in Japanese without subtitles, so when consumed in this form, we call it immersion.   
 
 ## 1.2 Problems with traditional methods
 
@@ -19,20 +19,27 @@ A Japanese learner following a “traditional” study method would usually go t
 - Coming up with sentences either by having conversations with a tutor or study partner, or by writing;
 - Translating example sentences from their native language to their target language and vice versa;   
 - Looking up further material about grammar structures and vocabulary in textbooks or YouTube videos recommended by a tutor;
+- Practice speaking using the knowledge they have learned from their study.
 - Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress;
 - And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practice their skills.
 
 None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is that they aren't actually engaging with the real language—but what do I mean by that?
 
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer. You can't expect to get anywhere by just learning all the theory behind the techniques and practicing them in isolation without actually swimming in a real pool.
+Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer by just learning the theory behind the techniques in isolation and practicing them in isolation without actually swimming in a real pool.
 
-How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. That's the only possible way to learn.
+How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
 
-<strong><h3> It's important to learn how to move on!</h3></strong>
 
-A common trap students fall into in language learning is staying on beginner resources for too long. They want to ensure they know every single detail of their basics and refuse to move onto the real language. They refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
+<div style="border: 2px solid #333; padding: 10px; margin: 10px 0; border-radius: 5px; font-size: 30px; font-weight: bold;">
+  It's important to learn how to move on!
+</div>
 
-Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture. Learning a language is like climbing a mountain. you can try to climb that mountain without ropes and whatnot assisting your route, and though, it will take lots of struggle, you will eventually make it if you persist. traditional study is like building that rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope!-You eventually have to climb it, and no matter how much rope you decide to make, eventually you just get diminishing returns, and climbing that mountain is still going to be difficult and time-consuming.
+A common trap students fall into in language learning is staying on beginner resources for too long.  
+They want to ensure they know every single detail of their basics and refuse to move onto the real language. They refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
+
+Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture.  
+
+Learning a language is like climbing a mountain. you can try to climb that mountain without ropes and whatnot assisting your route, and though, it will take lots of struggle, you will eventually make it if you persist. traditional study is like building that rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope!-You eventually have to climb it, and no matter how much rope you decide to make, eventually you just get diminishing returns, and climbing that mountain is still going to be difficult and time-consuming.
 
 ## 1.3 The scale of language
 
@@ -58,7 +65,25 @@ In language learning, and in anything that requires skill, you are always going 
 
 Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
 
-## 1.6 How you will be studying with this method
+## 1.6 WHAT is "immersion"?  
+
+
+Immersion usually consists of whatever a native speaker of that language would read or watch. For example a Japanese YouTube video, or an anime, or a book, or a forum post, or even social media, etc.
+
+## 1.7 Stages of learning
+
+Language learning is a long-term endeavor. It should be noted that your experience as a beginner getting into the language will differ greatly from an intermediate or advanced learner. The process does not change between intermediate and advanced learners since they have already gotten past the initial hurdle. This guide will steer you through the labyrinthine beginner stage, and then from the intermediate stage and onward.
+
+## 2.1 How to learn Japanese
+
+The learning process for the beginner consists of:
+
+- Learning the *hiragana* and *katakana*, which are two of the writing systems of Japanese. 
+- Learning basic vocabulary and their kanji with a software called *Anki*.
+- Learning grammar through a YouTube playlist.
+- Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
+
+### Long term study process
 
 The methodology covered in this guide consists of an immersion-based approach supplemented by study.
 
@@ -71,23 +96,13 @@ Your long-term study consists of:
 
 As you can see, studying pretty much boils down to learning vocabulary and grammar. This is very important. We can't have immersion without study, but we also cannot have study without immersion, as we want to be able to get meaning from our immersion and see how what we've studied is used in real language.
 
-Immersion usually consists of whatever a native speaker of that language would read or watch. For example a Japanese YouTube video, or an anime, or a book, or a forum post, or even social media, etc.
-
-## 1.7 Stages of learning
-
-Language learning is a long-term endeavor. It should be noted that your experience as a beginner getting into the language will differ greatly from an intermediate or advanced learner. The process does not change between intermediate and advanced learners since they have already gotten past the initial hurdle. This guide will steer you through the labyrinthine beginner stage, and then from the intermediate stage and onward.
-
-## 2.1 How to learn Japanese
-
-The learning process for the beginner consists of:
-
-1. Learning the *hiragana* and *katakana*, which are two of the writing systems of Japanese. They are kind of like alphabets. You will study them on a recommended website after watching a YouTube video on them.
-2. Learning basic vocabulary and their kanji with a software called *Anki*.
-3. Learning grammar through a YouTube playlist.
-4. Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
-
 ## 2.2 Hiragana and Katakana  
-![Hiragana and Katakana](img/kana3.png)  
+
+<figure>
+  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" />
+  <figcaption>"Hiragana" and "Katakana" written in their scripts respectively.</figcaption>
+</figure> 
+
 Hiragana and katakana, these two are parts of the Japanese writing system. The 3rd part of it being kanji.
 Japanese's writing system can be described as more of a "syllabary" than an alphabet. It is technically wrong to call these alphabets, as each character represents a syllable rather than a vowel or consonant. Take for example, "か", this reads as "ka".  
 
@@ -115,16 +130,20 @@ First I want you to take a good look at this kana chart
 <a href="/img/hiragana_katakana_LARGE.png" download>
 Download image</a>
 
-This chart will come in really handy when you are learning to read the kana. I recommend you save it.
+This chart will come in really handy when you are learning to read the kana. I recommend you save it.  
+
+Things you can do with the chart:
+- learn to read kana by referring to the table. The columns representing vowel sounds, and the rows representing consonant sounds. Since か is in the A column and the K row, it is pronounced "ka".  
+- learn how they are written by looking at the stroke orders. (the little blue arrows and numbers on the characters).  
+- use it as a master reference for all singular kana. This will help you a lot when you are learning how to read Japanese.  
 
 #### Step 2 - the YouTube video
 
 <h3> <a href="https://youtu.be/_wZHqOghvSs" target="_blank">Watch this YouTube video</a> </h3><br>
 It's a 2 hour long video about hiragana and katakana. It is a great introduction into the kana.  
 
-
 #### Step 3 - the grinding
-
+Once you have done that, play this kana grinding game.  
 <h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">The kana grinding game</a></h3><br>
 
 <h4>How to play</h4>
@@ -132,20 +151,20 @@ It's a 2 hour long video about hiragana and katakana. It is a great introduction
 2. Click "check all" for Hiragana
 3. Start guessing how the hiragana are *pronounced*
 4. Repeat until confident (may take a few days or weeks), and then do the same thing but with all "Hiragana combinations" also checked.
-5. Repeat until confident, then do it with all "Katakana" also checked, and then with all "Katakana combinations" also checked.
+5. Repeat until confident, then do it with all "Katakana" also checked, and then with all "Katakana combinations" also checked.  
+
+This whole process can take up to 3 weeks to a month depending on the person. Do not feel discouraged if this part of learning Japanese is taking a while, as there are other things to do such as beginner level immersion.
 
 #### Step 4 - reading practice
 
 What also helps immensely in memorising the kana is reading sentences in kana.   
 Not everything in Japanese is written in kana, and you will have trouble trying to read most things at this point without *kanji* knowledge, but sometimes in Japanese, kana is put over kanji to help you read. This is known as furigana. An example can be seen here! <ruby>
   日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp>
-</ruby>. This just means the Japanese language (nihongo). I wrote it in its kanji form and put hiragana over it.
+</ruby>. This just means the Japanese language ("nihongo"). I wrote it in its kanji form and put hiragana over it.
 
 I recommend practicing your kana by trying to read some Tadoku graded readers, which you can find [here](https://tadoku.org/japanese/free-books/#l0)  
 
-<strong><h3>You do not need to be able to understand anything.</h3></strong><br>
-
-This is for consolidating your kana knowledge.  
+<strong><h3>You do not need to be able to understand anything right now. This is just for getting better at reading kana.</h3></strong><br>
 
 ## 2.3 Vocabulary & Kanji
 ## 2.4 Grammar
