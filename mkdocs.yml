@@ -82,3 +82,20 @@ plugins:
         - en
         - ja
   - open-in-new-tab
+# extra:
+#   alternate:
+#     - name: English
+#       link: /
+#       lang: en
+#     - name: Português (Brasil)
+#       link: /pt-BR/
+#       lang: pt-br
+#     - name: Deutsch
+#       link: /de/
+#       lang: de
+#     - name: Español
+#       link: /es/
+#       lang: es
+#     - name: Bahasa Indonesia
+#       link: /id/
+#       lang: id
