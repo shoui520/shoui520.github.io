@@ -27,7 +27,7 @@ And finally, in the endgame, moving to or visiting Japan in hopes of having oppo
 
 None of that is bad in itself, it's actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is that they aren't actually engaging with the real language—but what do I mean by that?
 
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer by just learning the theory behind the techniques in isolation and practicing them in isolation without actually swimming in a real pool.
+Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer by just learning the theory behind the techniques in isolation and practising them in isolation without actually swimming in a real pool.
 
 How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
 
@@ -50,19 +50,19 @@ Language is… huge. There's so much to it that far exceeds the limitations of a
 
 And yet, it's often difficult to grasp why they tend to use *that* phrase in *this* context, or *this* word instead of *that* other one… This creates a barrier for us learners as we can't just study grammar and vocabulary to achieve native-like fluency.
 
-Without the prerequisite experience, attempting to construct sentences in your target langage often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers play with their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
+Without the prerequisite experience, attempting to construct sentences in your target language often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers play with their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
 
 This is why in your learning routine, **you must “immerse” yourself in the language—read and listen to what natives write and speak.**
 
-Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
+Language learning is a process of subconsciously memorising patterns by the way of comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
 
 And since you are a proficient English reader, this is done effortlessly. You can understand the words in these sentences. You can understand what links the sentences together. You can even detect the tone and degree of formality in my writing, and it's all thanks to your brain storing the context, and other information of all the language patterns that you've come across.
 
-Notice how I haven't mentioned "knowing the grammar" or "having memorized the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they're actively thinking about it when coming into contact with English every day.
+Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they're actively thinking about it when coming into contact with English every day.
 
 ## 1.4 Coming to terms with sucking 
 
-In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practise with what they need to work on. For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
+In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on. For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
 
 **☝ THIS HERE**, ladies and gentlemen, is what we want to avoid. We have to get into the habit of letting go and start doing what we actually need to do. 
 
@@ -91,7 +91,7 @@ The learning process for the beginner consists of:
 ## 2.2 Hiragana and Katakana  
 
 <figure>
-  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS>
+  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS">
   <figcaption>"Hiragana" and "Katakana" written in their scripts respectively.</figcaption>
 </figure> 
 
@@ -144,9 +144,9 @@ It may also be used in:
 First I want you to take a good look at this *kana* chart.
 
 <figure>
-  <img src="img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
+  <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
   <figcaption>
-      Exhaustive list of all hiragana and katakana. Notice that there are some blank spaces. Some of these are kana that have become extinct over time, e.g., the hiragana「ゑ」'we', 「ゐ」'wi'. Sometimes these will be seen in older texts, but they are not picturered here.'
+      Full chart of singular kana
   </figcaption>
 </figure>
 <a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
@@ -155,7 +155,8 @@ First I want you to take a good look at this *kana* chart.
 This chart will come in really handy when you are learning to read the *kana*. I recommend you save it.  
 
 Things you can do with the chart:
-- Learn to read *kana* by referring to the table. The columns representing vowel sounds, and the rows representing consonant sounds. Since 「か」 is in the A column and the K row, it is pronounced "ka".  
+
+- Learn to read *kana* by referring to the table. The columns representing vowel sounds, and the rows representing consonant sounds. Since 「か」 is in the K row and in the A column, it is pronounced "ka".  
 - Learn how they are written by looking at the stroke orders (the little blue arrows and numbers on the characters).  
 - Use it as a master reference for all singular *kana*. This will help you a lot when you are learning how to read Japanese.  
 
@@ -200,14 +201,14 @@ I recommend practising your *kana* by trying to read some Tadoku graded readers,
 
 *Kanji*, meaning "Chinese characters", is another one of the writing systems used in Japanese. They are logographic and are much more complex and wider in variety than *kana*. There are around 2000 to 3000 of them used in Japanese, however, do not let this number demotivate you, because *kanji* are not to be studied and grinded like *kana* are.  
 
-*Kana* are phonetically consistent, simple and few in number so they can be studied in isolation and mastered in a short amount of time, however, *kanji* are not used in the same way as kana and aren't exactly logical. What do I mean by that?
+*Kana* are **phonetically consistent** and few in number so they can be studied in isolation and mastered in a short amount of time, however, *kanji* are not. They aren't used in the same way either, and aren't exactly logical. What do I mean by that?
 
 Let's take this as an example. Because *kana* represent sounds in the language, we can write whatever we want according to the sounds as long as a kana exists for it, this includes writing English words. 
 
 Now imagine I wrote the **English** sentence "I am learning Japanese" but using *kana*, it would be:
 > "あい　あむ　らあにんぐ　じゃぱにいず"  
 
-Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible.  
+Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible. But why then, do we use kanji? **Because of words.**  
 
 Kanji only make sense when they are used in vocabulary.  
 
@@ -217,15 +218,69 @@ I repeat,
   Kanji only make sense when they are used in vocabulary!
 </div> 
 
-Every language has A LOT of words, and different words have different meanings, so Chinese, and Japanese for whatever reason decided they are going to use *kanji* to represent these different kind of words and their different meanings. That is why there are so many of them. That is why you shouldn't let them scare you because they are meant to be learned along with the words that use them.  
+Every language has **a lot** of words, and different words have different meanings. Chinese, and Japanese for whatever reason decided they are going to use kanji to piece together different words and their different meanings. That is why there are so many of them and why you shouldn't let them scare you as they are meant to be learned along with the words that use them. After all... no one is going to think to front-load all the words before they learn how to read! That's ridiculous.  
+
+<div style="border: 1px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 18px; font-weight: bold; text-align: center; font-style: italic;">
+  Kanji aren't words, but they make up the building blocks.  
+</div> 
+
+Japanese has extra steps when it comes to learning how to read; due to kanji you need to constantly refer to a dictionary to learn how to read anything at all.  
+Take this for example, if I showed you the word, **今日**, chances are you wouldn't be able to read it, or know what it means. How you learn how to read it is by looking it up in a dictionary, such as [Jisho.org](https://jisho.org/).  
+The dictionary shows it is read as **きょう**, and means *today*. If we had to look this word up while reading something, we internalise this piece of information and move on.  
+Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this with a single press. 
+
+
+## 2.4 Learning Vocabulary
+To get a feel for kanji and how they are used together in words, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around *1500* words aimed at teaching you the most common Japanese words to jumpstart your Japanese learning.  
+
+### Quick Anki Setup
+Anki is a flashcard program designed to help you remember large amounts of information, such as vocabulary.  
+
+Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it. 
+<figure>
+  <img src="/img/ankidownload.png" / alt="Anki Download Page">
+  <figcaption>Download the one for your system.</figcaption>
+</figure>  
+
+When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).    
+
+The beginner deck I recommend is [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases) which can be downloaded [here](https://github.com/donkuri/Kaishi/releases) (click the .apkg link)  
+
+After the download is complete, import the deck by clicking "Import file" and navigating to the downloaded file (.apkg) and then click Import on the top right.  
+### Quick Anki Usage Guide
+
+Before studying, I recommend changing some settings first. Click the cog icon next to the deck, and go on *Options*.  
+
+Change the *Maximum reviews/day* from `200` to `9999`. Don't be alarmed by this number, your reviews probably won't ever reach that high, it's just uncapping your daily review limit for the optimal experience.  
+
+As for *New cards/day*, I think `20` might be too big of a commitment for some. If you aren't feeling confident learning 20 new words per day, try dropping the number down to `10` or lower.   
+
+When you first start studying the *Kaishi 1.5k* deck, the first card will be an explanation card. You can delete this by going in "More" and clicking "Delete Note"
+
+Anki helps you remember things by testing your knowledge of what is on the back of the card. What you are being tested for here is whether you know the meaning and how to read the word. Everything else on the card is only there for aid.  
+Please note that while *Kaishi 1.5k* includes sentences, it is only designed to teach you single words.   
+
+When seeing an unfamiliar Anki card for the first time, the general rule of thumb is to click *Show Answer* so you can see what's on the back of the card.   
+<figure>
+  <img src="/img/ankikaishi.png" / alt="Anki Kaishi Deck">
+  <figcaption>The pieces of information you need to memorise.</figcaption>
+</figure>  
+Once you have had a good look, press *Again* (this is short for try again). You will be on the next card, do the same thing as it is also a card you are seeing for the first time.  
+The next time you see the card, it is knowledge testing time. Try your best remember the meaning and reading that was on the back of the card and grade yourself! 
+
+This, in essence, is how we are going to learn vocabulary in the beginner stage.  
+
+Once you have completed your new cards for the day, make sure you come back the next day to check your reviews!   
+
+## 2.5 Grammar
 
 
 
 
 
-## 2.4 Grammar
-## 2.5 Basic immersion
-## 2.6 Beginner learning loop
+
+## 2.6 Basic immersion
+## 2.7 Beginner learning loop
 
 ## Contributors
 
