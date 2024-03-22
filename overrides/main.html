@@ -20,20 +20,18 @@ function language_selector() {
         element.href = window.location.href.replace(regex, window.location.host + "/" + element.hreflang);
     }
 
-    let anchors = document.getElementsByTagName("a");
+    let anchors = document.querySelectorAll("li.md-nav___item a[href*='https://learnjapanese.moe/']");
     for (let i = 0; i < anchors.length; i++) {
         let element = anchors[i];
-        if (element.href && !element.href.includes(".") && element.closest("li.md-nav___item")) {
-            const regex = new RegExp(`${window.location.host}(/en|/pt-br|/de|/es|/id)*`);
-            let base_link = window.location.href.match(regex)[0];
-            let language_path = base_link.split("/").pop(); // Get the current language from the URL
-            element.href = element.href.replace(/^(.*)(#[^#]*)?$/, `$1/${language_path}$2`); // Add /<language>/ to href
-        }
+        const regex = new RegExp(`https://learnjapanese.moe/(en|pt-br|de|es|id)`);
+        let language_path = window.location.href.match(regex)[1];
+        element.href = element.href.replace(/^(.*)(#[^#]*)?$/, `$1/${language_path}/$2`);
     }
 }
 
 const observer = new MutationObserver(function() {language_selector()});
 observer.observe(document.documentElement, {childList: true, subtree: true});
+
 
 </script>
 
