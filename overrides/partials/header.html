@@ -100,7 +100,7 @@
           <ul class="md-select__list">
             {% for alt in config.extra.alternate %}
             <li class="md-select__item">
-              <a href="{{ alt.link | url }}" hreflang="{{ alt.lang }}" class="md-select__link">
+              <a href="{{ alt.link | url }}" hreflang="{{ alt.lang }}" class="md-select__link language-select-link">
                 {{ alt.name }}
               </a>
             </li>

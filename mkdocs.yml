@@ -75,7 +75,9 @@ markdown_extensions:
   - pymdownx.tabbed
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
   - javascripts/extra.js
+  - javascripts/lang.js
 plugins:
   - search:
       lang:

@@ -11,35 +11,33 @@
   gtag('js', new Date());
 
   gtag('config', 'G-6M8XGSMGX2');
-
-function language_selector() {
-    let language_links = document.getElementsByClassName("language-select-link");
-    for (let i = 0; i < language_links.length; i++) {
-        let element = language_links[i];
-        const regex = new RegExp(`${window.location.host}(/en|/pt-br|/de|/es|/id)*`);
-        element.href = window.location.href.replace(regex, window.location.host + "/" + element.hreflang);
-    }
-
-    let anchors = document.querySelectorAll("li.md-nav___item a[href*='https://learnjapanese.moe/']");
-    for (let i = 0; i < anchors.length; i++) {
-        let element = anchors[i];
-        const regex = new RegExp(`https://learnjapanese.moe/(en|pt-br|de|es|id)`);
-        let language_path = window.location.href.match(regex)[1];
-        element.href = element.href.replace(/^(.*)(#[^#]*)?$/, `$1/${language_path}/$2`);
-    }
-}
-
-const observer = new MutationObserver(function() {language_selector()});
-observer.observe(document.documentElement, {childList: true, subtree: true});
-
-
 </script>
+
+
 
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7374918663808833"
      crossorigin="anonymous"></script>
 
+{% endblock %}
+
+{% block lang_switcher %}
+<script>
+    
+console.log("Script loaded"); // Check if script is loaded
+
+function language_selector() {
+    console.log("language_selector function called");
+}
+
+language_selector(); // Call the function initially
+
+const observer = new MutationObserver(language_selector);
+observer.observe(document.documentElement, { childList: true, subtree: true });
+
+
+</script>
 {% endblock %}
 
 {% block site_nav %}
