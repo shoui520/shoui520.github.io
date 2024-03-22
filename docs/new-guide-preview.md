@@ -1,8 +1,4 @@
 # Preview Draft
-<!-- 
-  Apparently adding a title tag + language (into html tag) is important for search engine stuff. Might be worth doing that.
-  Also I have no idea how to justify lol so I'll leave that to you.
--->
 
 *If you don't need a preface, please skip to [2.1 How to learn Japanese](#21-how-to-learn-japanese)*  
 
@@ -71,9 +67,6 @@ In language learning, and in anything that requires skill, you are always going 
 **☝ THIS HERE**, ladies and gentlemen, is what we want to avoid. We have to get into the habit of letting go and start doing what we actually need to do. 
 
 Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
-<!--
-  The phrasing here makes it sound like you're doubling down on the statement just above. instead of just saying that it takes multiple attempts, perhaps mention something along the lines of revisiting in the future with more experience, etc etc). I'm not sure how to fix it so I'm just leaving it be for now
---> 
 
 ## 1.5 WHAT EVEN IS "immersion"?  
 
@@ -132,9 +125,6 @@ It may also be used in:
   <img src="/img/katakana.png" / alt="KATAKANA">
   <figcaption>An example of a couple katakana. This isn't all of them.</figcaption>
 </figure> 
-<!--
-  Apparently you should define the width and height of images (reduce flickering or something?). I'll leave that to you.
---!>
 
 *Katakana* is the angular and pointy version of kana. It has the exact same sounds as *hiragana*. 
 It is usually used in:  
