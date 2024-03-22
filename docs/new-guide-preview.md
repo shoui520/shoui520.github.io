@@ -98,7 +98,7 @@ The learning process for the beginner consists of:
 ## 2.2 Hiragana and Katakana  
 
 <figure>
-  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" />
+  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS>
   <figcaption>"Hiragana" and "Katakana" written in their scripts respectively.</figcaption>
 </figure> 
 
