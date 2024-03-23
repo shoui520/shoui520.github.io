@@ -24,12 +24,11 @@ A Japanese learner following a “traditional” study method would usually go t
 - Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress
 - And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practise their skills.
 
-None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is they aren't actually engaging with the real language—but what do I mean by that?
+None of that is bad in itself, it's actually sufficient study, but not enough to get you to a high level of proficiency. The problem is they aren't actually engaging with the real language—but what do I mean by that?
 
 Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in a real pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer just by learning the theory behind the techniques in isolation and practising them without actually swimming in a real pool.
 
 How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
-
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
   It's important to learn how to move on!
@@ -41,7 +40,7 @@ They want to ensure they know every single detail of their basics and refuse to 
 
 Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture.  
 
-Learning a language is like climbing a mountain. You can try to climb that mountain without anything assisting your ascent, and though it will take lots of struggle, you will eventually make it if you persist. Traditional study is like building a rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope! You eventually have to climb it, because no matter how much rope you decide to make climbing that mountain is still going to be difficult and time-consuming.
+Learning a language is like climbing a mountain. You can try to climb that mountain without anything assisting your ascent, and though it will take lots of struggle, you will eventually make it if you persist. Traditional study is like building a rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope! You eventually have to climb it, because no matter how much rope you decide to make, climbing that mountain is still going to be difficult and time-consuming.
 
 ## 1.3 The scale of language
 
@@ -57,7 +56,7 @@ Language learning is a process of subconsciously memorising patterns with compre
 
 And since you are a proficient English reader, this is done effortlessly. You can understand the words in these sentences. You can understand what links the sentences together. You can even detect the tone and degree of formality in my writing, and it's all thanks to your brain storing the context, and other information of all the language patterns that you've come across.
 
-Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they're actively thinking about it when coming into contact with English every day.
+Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it's unlikely they're actively thinking about it when coming into contact with English every day.
 
 ## 1.4 Coming to terms with sucking 
 
@@ -69,7 +68,7 @@ For example, a student might fuss over a certain aspect of grammar for way too l
 <h3>↑ This here is what we want to avoid. ↑</h3 >  </div>
 We have to get into the habit of letting go and start doing what we actually need to do. 
 
-Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
+Yes, you won't understand that book or anime perfectly the first time and probably not the second time either, but that’s just not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
 
 ## 1.5 What even is "immersion"?  
 
