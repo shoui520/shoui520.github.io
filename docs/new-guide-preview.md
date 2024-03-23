@@ -87,7 +87,7 @@ Learning a language requires you to be content with not understanding everything
 
 It is drastically different from conventional ways of learning experienced at school where perfectionism is rewarded and you are graded according to an arbitrary criteria or through exams.  
 
-Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, they tend to get discouraged extremely quickly due to not understand everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
+Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, they tend to get discouraged extremely quickly due to not understanding everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
 
 What sets language learning apart from school-like subjects is it's too based on real-world and natural use that cannot conceivably be covered by study material.  
 
