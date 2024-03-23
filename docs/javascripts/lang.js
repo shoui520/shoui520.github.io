@@ -4,7 +4,6 @@ function language_selector() {
 
     // fetch current lang from local storage
     let currentLang = localStorage.getItem('lang');
-    //console.log(currentLang)
 
     // changes language
     const languageLinks = document.getElementsByClassName('language-select-link');
@@ -22,7 +21,6 @@ function language_selector() {
     // matches the language from the url into an array
     // ex: learnjapanese.moe/es/kanji/ will return ['/es/', 'es'];
     let currentUrlLang = onlyCurrentLangRegex.exec(window.location.href);
-    //console.log(currentUrlLang)
 
     // only update local storage when language changes
     if (currentUrlLang && window.location.href.includes(currentUrlLang[0]) && currentLang !== currentUrlLang[1]) {
@@ -37,22 +35,24 @@ function language_selector() {
     const topNavLogoLink = document.querySelector('.md-header__button.md-logo')
     const topNavDiscordLink = document.querySelector('a[href*="/join"]')
     const topNavDonateLink = document.querySelector('a[href*="/donate"]')
-    // console.log(topNavLogoLink)
-
 
     // pushes all anchors into one array to iterate over
     const anchors = [...leftNavAnchors, topNavLogoLink, topNavDiscordLink, topNavDonateLink];
 
+    // ! I do not recommend you edit any of this ! //
     for (const a of anchors) {
         if (a instanceof HTMLAnchorElement) {
             let modifiedUrl;
             let urlArray = a.href.split('/').filter((segment) => segment !== '');
             let currentAnchorSegment = `${urlArray[urlArray.length - 1]}`;
-            if ((a.href == `${window.location.origin}/` || a.href == window.location.origin) && currentAnchorSegment !== currentLang) {
+            if ((a.href == `${window.location.origin}/` || a.href == window.location.origin)) {
+                //console.log(currentAnchorSegment)
                 if (currentLang !== 'en' && !a.href.includes(`/${currentLang}/`)) {
-                    modifiedUrl = `${window.location.origin}/${currentLang}/`
+                    modifiedUrl = `${currentLang}/`
                 }
-                else if (currentLang === 'en' && !a.href.includes(`/${currentLang}/`)) modifiedUrl = `${window.location.origin}/`
+                else if (currentLang === 'en' && !a.href.includes(`/${currentLang}/`)) {
+                    modifiedUrl = `/`
+                }
             }
             else if (currentLang !== 'en' && !a.href.includes(`/${currentLang}/`) && currentAnchorSegment !== currentLang) {
                 modifiedUrl = `${window.location.origin}/${currentLang}/${currentAnchorSegment}/`;
@@ -61,7 +61,9 @@ function language_selector() {
                 modifiedUrl = `${window.location.origin}/${currentLang}/${currentAnchorSegment}/`;
             }
             else modifiedUrl = `${window.location.origin}/${currentAnchorSegment}/`;
-            a.href = modifiedUrl
+            setTimeout(() => {
+                a.href = modifiedUrl;
+            }, 0);
         }
     }
 }
