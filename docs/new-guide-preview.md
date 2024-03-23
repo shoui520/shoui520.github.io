@@ -154,7 +154,7 @@ It may also be used in:
 
 - Names, mainly foreign names
 
-### How you are going to learn the kana
+### How to learn the kana
 
 #### Step 1 - the chart
 
@@ -177,7 +177,7 @@ Things you can do with the chart:
 - Learn how they are written by looking at the stroke orders (the little blue arrows and numbers on the characters).  
 - Use it as a master reference for all singular *kana*. This will help you a lot when you are learning how to read Japanese.  
 
-#### Step 2 - the YouTube video<br>
+#### Step 2 - the YouTube video
 <h3><a href="https://youtu.be/_wZHqOghvSs" target="_blank">Watch this YouTube video</a></h3><br>
 It's a 2 hour long video about *hiragana* and *katakana*. It is a great introduction into the *kana*.
 
@@ -188,7 +188,7 @@ Once you have done that, play this *kana* grinding game.
 <h4>How to play</h4>
 
 1. Click "show/hide options".
-2. Click "check all" for *hiragana*.
+2. Click "check all" for *Hiragana*.
 3. Start guessing how the *hiragana* are *pronounced*.
 4. Repeat until confident (may take a few days or weeks), and then do the same thing but with all "Hiragana combinations" also checked.
 5. Repeat until confident, then do it with all "Katakana" also checked, and then with all "Katakana combinations" also checked.
@@ -225,14 +225,14 @@ Let's take this as an example. Because *kana* represents the sounds in Japanese,
 Now imagine I wrote the **English** sentence "I am learning Japanese" but using *kana*, it would be:
 > "あい　あむ　らあにんぐ　じゃぱにいず"  
 
-Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible. But why then, do we use kanji? **Because of words.**  
+Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible. But why then, do we use kanji? **Because of words.** Words use kanji, and therefore...    
 
-Kanji only make sense when they are used in vocabulary.  
+Kanji only make sense when they are used in words.  
 
 I repeat,
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
-  Kanji only make sense when they are used in vocabulary!
+  Kanji only make sense when they are used in words!
 </div> 
 
 Every language has **a lot** of words, and different words have different meanings. Chinese, and Japanese for whatever reason decided they are going to use kanji to piece together different words and their different meanings. That is why there are so many of them and why you shouldn't let them scare you as they are meant to be learned along with the words that use them. After all... no one is going to think to front-load all the words before they learn how to read! That's ridiculous.  
@@ -245,6 +245,9 @@ Japanese has extra steps when it comes to learning how to read; due to kanji you
 Take this for example, if I showed you the word, **今日**, chances are you wouldn't be able to read it, or know what it means. How you learn how to read it is by looking it up in a dictionary, such as [Jisho.org](https://jisho.org/).  
 The dictionary shows it is read as **きょう**, and means *today*. If we had to look this word up while reading something, we internalise this piece of information and move on.  
 Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this with a single press. 
+
+### A note on studying kanji in isolation
+
 
 
 ## 2.4 Learning Vocabulary
@@ -291,7 +294,7 @@ Once you have completed your new cards for the day, make sure you come back the 
 
 ## 2.5 Grammar
 
-Learning grammar can be straightforward and complex all at the same time. It's quite essential to learning Japanese and while it might seem daunting at first, 
+Learning grammar can be straightforward and complex at the same time. It's quite essential to learning Japanese and while it might seem daunting at first, 
 there are resources out there that help make the learning process easier.  
 
 There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
@@ -300,12 +303,15 @@ Below are a list of grammar resources in order of how much I recommend them. You
 
 [Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
-[Japanese Ammo by Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
+[Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
 [IMABI](https://imabi.org/)    
 
-It is prime time to start getting some immersion going when you have learned some new grammar points. 
+It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.   
 
 ## 2.6 Basic immersion
+
+### Beginner immersion: an uphill battle
+
 
 ## 2.7 Beginner learning loop
 
@@ -317,10 +323,27 @@ This is a terrible approach. You need to do a bit of everything.
 
 ### The right way to do it  
 
-While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles.  
+While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles. It can be anything you like, and you don't need to understand anything. 
 You should start learning vocabulary and grammar at the same time. 
 
-## Contributors
+## 2.8 What to do if you are stuck  
+
+## 3.1 Regarding speaking and writing (output)  
+
+## 3.2 Closing notes: post-beginner stage and beyond  
+
+
+### Discord   
+If you have any questions, you can ask at our Discord. 
+
+[Join us on Discord :fontawesome-brands-discord:](/join){: .md-button } 
+
+### Patreon
+
+If you found this guide useful in your Japanese learning journey, a Patreon donation would be highly appreciated!  
+
+[:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }  
+### Contributors
 
 I'd like to thank everyone that has contributed to the making of this guide:  
 
