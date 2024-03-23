@@ -87,7 +87,7 @@ Learning a language requires you to be content with not understanding everything
 
 It is drastically different from conventional ways of learning experienced at school where perfectionism is rewarded and you are graded according to an arbitrary criteria or through exams.  
 
-Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, they tend to get discouraged extremely quickly due to not understanding everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
+Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, is they tend to get discouraged extremely quickly due to not understanding everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
 
 What sets language learning apart from school-like subjects is it's too based on real-world and natural use that cannot conceivably be covered by study material.  
 
@@ -248,6 +248,13 @@ Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this
 
 ### A note on studying kanji in isolation
 
+Kanji study methods have been a subject of debate for as long as learning Japanese has been a thing. One of the common problems that arise when beginners try to read Japanese, is that kanji can look too similar to each other and that their shapes don't make sense.  
+
+While they may look like random shapes, kanji are actually formed from common components. Take for example the kanji *萌*, that is being used as the icon for this website. It is actually made up from 3 common kanji components that are used in lots of other kanji as well. 
+
+![Kanji](img/kanji.png)   
+
+While optional, learners that are struggling to tell apart different kanji may want to try studying kanji by their components in isolation. An additional *Anki deck* (explained in the next section) can be used to do this. You can find the deck [here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
 
 ## 2.4 Learning Vocabulary
@@ -304,6 +311,7 @@ Below are a list of grammar resources in order of how much I recommend them. You
 [Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
 [Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
+[Sakubi](https://gohoneko.neocities.org/learn/anon/sakubi)  
 [IMABI](https://imabi.org/)    
 
 It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.   
@@ -311,6 +319,26 @@ It is prime time to start getting some immersion going when you have learned som
 ## 2.6 Basic immersion
 
 ### Beginner immersion: an uphill battle
+
+If you recall from section 1.3, I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
+
+Now you may have noticed a problem here. What do you do if you don’t have access to comprehensible input? As a complete beginner, there is no content that is easy. In fact, this is why people often fall into the endless cycle of reading from beginner resource to beginner resource. Though incomprehensible input is by no means useless—it does have its benefits and assists with learning—it is very difficult to get past that initial hurdle. 
+
+Failing to understand the content you want to enjoy inherently sucks unless you take a specific mindset to it—taking pleasure in the knowledge that you are making gradual progress, even if that progress is immediately imperceptible. However, it’s difficult to maintain this mindset all the time, so it isn’t reliable as the sole motivator for consistency—the number one key of mastering any skill!
+
+So how can we make it so we don’t constantly dread having to parse through content that is difficult to understand?
+
+The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.  
+
+### Reading & Dictionaries
+
+To make Japanese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](/yomichan)  
+
+To look up words individually, you can use [Jisho.org](https://jisho.org/), apps for your phone include [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) for Android and [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) for iOS.  
+
+### Choosing immersion content
+
+Honestly, pick whatever you want. It can be any anime, movie, J-drama, novel, light novel, manga, visual novel, game or YouTube video. If you don't have anything in mind you can just watch [my favourite anime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Just make sure you're actually interested in whatever you're choosing to immerse with!  
 
 
 ## 2.7 Beginner learning loop
@@ -323,32 +351,54 @@ This is a terrible approach. You need to do a bit of everything.
 
 ### The right way to do it  
 
-While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles. It can be anything you like, and you don't need to understand anything. 
-You should start learning vocabulary and grammar at the same time. 
+While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles. It can be anything you like, and you don't need to understand anything.  
+After that should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day?  And in the same day, try to get some immersion in.  
 
-## 2.8 What to do if you are stuck  
+!!! question "How long should I do immersion per day?"
+    I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.  
 
 ## 3.1 Regarding speaking and writing (output)  
 
-## 3.2 Closing notes: post-beginner stage and beyond  
+People often have the misconception that speaking the language a lot is how you get better at the language, but this isn't really the case, as the input we receive from hearing and seeing natives use their language is what actually benefits us. While output won't directly improve your proficiency at the language, it is still quite important to be practicing output, whether it is by texting or with speech, because input and output go hand in hand. Doing output effectively forces your brain to make sure it is correctly understanding the words you are hearing and you may start to subconsciously look for opportunities to use what you hear in input.  
+Regular output along with regular input is recommended.     
+
+Contrary to what many immersion-based learning methods say, I do not believe it is a smart idea to delay your output until you are "really good" for reasons such as "saying things incorrectly is going to "cripple" or "ruin" your Japanese". Doing this makes you miss out on so many opportunities to pick up on things to use in your output earlier and brainwashes you into a toxic perfectionist mindset, becoming extremely protective of your Japanese. 
+
+Throughout my 4+ years of running TheMoeWay and talking to all sorts of immersion learners, I haven't seen many that are confident in output. Why is that? Well for most of them, they don't even want to try outputting at all because they're scared of saying something broken, or scared that it's going to ruin their Japanese, or scared that somebody may laugh at them etc. All of this is a product of a toxic perfectionist mindset that hurts immersion learning.  
+
+## 3.2 Pronunciation & Pitch Accent
+
+Compared to language communities and resources for literally every other language out there, Japanese resources, tutors and learners always tend to make pronunciation an afterthought because Japanese pronunciation is simple. Yes it is simple, and yes you don't need to worry about being misunderstood but it may be in some learners' goals to have good pronunciation.  
+
+I am going to add this guide to the list of resources that say you don't need to study pronunciation by saying: if you don't really care about sounding amazing, then don't bother fussing over your pronunciation. 
+
+Learners that want to go the extra mile may want to look into learning *pitch accent* and the correct IPA pronunciation on their own, ideally as early as possible.
+
+
+## 3.3 Closing notes: post-beginner stage and beyond  
+
+There isn't really much else to the learning process other than learn words and grammar and immerse a lot. You can really just get fluent at Japanese eventually with this method. But one thing does change when you leave the beginner stage.  
+
+Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call *mining*. The recommended mining guide is [Donkuri's mining guide](https://donkuri.github.io/learn-japanese/mining/). Mining will essentially become the heart of your Japanese *study*.  
 
 
 ### Discord   
 If you have any questions, you can ask at our Discord. 
 
-[Join us on Discord :fontawesome-brands-discord:](/join){: .md-button } 
+[Join the Discord :fontawesome-brands-discord:](/join){: .md-button } 
 
 ### Patreon
 
 If you found this guide useful in your Japanese learning journey, a Patreon donation would be highly appreciated!  
 
-[:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }  
+[:fontawesome-brands-patreon: Become a patron](https://www.patreon.com/shoui){: .md-button }  
 ### Contributors
 
 I'd like to thank everyone that has contributed to the making of this guide:  
 
 iamatryhard  
 shigatsunoraion  
+qazsedctgb  
 kaio.n  
 saegusa.mayumin  
 pedipanol  
