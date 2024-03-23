@@ -291,13 +291,34 @@ Once you have completed your new cards for the day, make sure you come back the 
 
 ## 2.5 Grammar
 
-Learning grammar can be straightforward and complex all at the same time. 
+Learning grammar can be straightforward and complex all at the same time. It's quite essential to learning Japanese and while it might seem daunting at first, 
+there are resources out there that help make the learning process easier.  
 
+There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
 
+Below are a list of grammar resources in order of how much I recommend them. You do not need to do every single one, just find the one that works well for you.
 
+Cure Dolly's Organic Japanese YouTube Playlist  
+Tae Kim's Guide to Japanese  
+Japanese Ammo by Misa Grammar YouTube Playlist  
+IMABI  
+
+It is prime time to start getting some immersion going when you have learned some new grammar points. 
 
 ## 2.6 Basic immersion
+
 ## 2.7 Beginner learning loop
+
+### The wrong way to do it
+
+Learn ALL the kana, then learn ALL the 1500 words in Kaishi, then learn ALL the grammar before you finally try immersion for the first time...  
+
+This is a terrible approach. You need to do a bit of everything.  
+
+### The right way to do it  
+
+While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles.  
+You should start learning vocabulary and grammar at the same time. 
 
 ## Contributors
 
