@@ -298,10 +298,10 @@ There have been many resources throughout the years that teach grammar, many gre
 
 Below are a list of grammar resources in order of how much I recommend them. You do not need to do every single one, just find the one that works well for you.
 
-Cure Dolly's Organic Japanese YouTube Playlist  
-Tae Kim's Guide to Japanese  
-Japanese Ammo by Misa Grammar YouTube Playlist  
-IMABI  
+[Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+[Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
+[Japanese Ammo by Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
+[IMABI](https://imabi.org/)    
 
 It is prime time to start getting some immersion going when you have learned some new grammar points. 
 
