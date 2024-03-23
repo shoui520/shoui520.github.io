@@ -89,15 +89,24 @@ extra:
     - name: English
       link: /
       lang: en
-    - name: Português (Brasil)
-      link: /pt-BR/
-      lang: pt-br
+    - name: Français
+      link: /fr/
+      lang: fr
     - name: Deutsch
       link: /de/
       lang: de
     - name: Español
       link: /es/
       lang: es
+    - name: Português (Brasil)
+      link: /pt-BR/
+      lang: pt-br
+    - name: Русский
+      link: /ru/
+      lang: ru
     - name: Bahasa Indonesia
       link: /id/
       lang: id
+    - name: tiếng Việt
+      link: /viet/
+      lang: vn

@@ -22,12 +22,11 @@ A Japanese learner following a “traditional” study method would usually go t
 - Looking up further material about grammar structures and vocabulary in textbooks or YouTube videos recommended by a tutor.
 - Practising conversation using knowledge from their study.
 - Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress
+- And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practise their skills.
 
-And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practise their skills.
+None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is they aren't actually engaging with the real language—but what do I mean by that?
 
-None of that is bad in itself, it's actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is that they aren't actually engaging with the real language—but what do I mean by that?
-
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer by just learning the theory behind the techniques in isolation and practising them in isolation without actually swimming in a real pool.
+Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in a real pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer just by learning the theory behind the techniques in isolation and practising them without actually swimming in a real pool.
 
 How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
 
@@ -38,7 +37,7 @@ How about a more relatable example: competitive video games. You won’t get bet
 
 A common trap students fall into in language learning is staying on beginner resources for too long.  
 
-They want to ensure they know every single detail of their basics and refuse to move on to the real language. They refuse to engage in anything they aren't already comfortable with, because they're too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
+They want to ensure they know every single detail of their basics and refuse to move on to the real language. They refuse to engage in anything they aren't already comfortable with, because they're too afraid of not understanding anything. They may feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
 
 Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture.  
 
@@ -50,11 +49,11 @@ Language is… huge. There's so much to it that far exceeds the limitations of a
 
 And yet, it's often difficult to grasp why they tend to use *that* phrase in *this* context, or *this* word instead of *that* other one… This creates a barrier for us learners as we can't just study grammar and vocabulary to achieve native-like fluency.
 
-Without the prerequisite experience, attempting to construct sentences in your target language often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers play with their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
+Without the prerequisite experience, attempting to construct sentences in your target language often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers use their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
 
-This is why in your learning routine, **you must “immerse” yourself in the language—read and listen to what natives write and speak.**
+This is why in your learning routine, **you do what we call "immersion"—read and listen to what natives write and speak.**
 
-Language learning is a process of subconsciously memorising patterns by the way of comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
+Language learning is a process of subconsciously memorising patterns with comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
 
 And since you are a proficient English reader, this is done effortlessly. You can understand the words in these sentences. You can understand what links the sentences together. You can even detect the tone and degree of formality in my writing, and it's all thanks to your brain storing the context, and other information of all the language patterns that you've come across.
 
@@ -62,21 +61,39 @@ Notice how I haven't mentioned "knowing the grammar" or "having memorised the vo
 
 ## 1.4 Coming to terms with sucking 
 
-In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on. For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
+In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on.  
 
-**☝ THIS HERE**, ladies and gentlemen, is what we want to avoid. We have to get into the habit of letting go and start doing what we actually need to do. 
+For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
+
+<div style="text-align: center; font-weight:bold">
+<h3>↑ This here is what we want to avoid. ↑</h3 >  </div>
+We have to get into the habit of letting go and start doing what we actually need to do. 
 
 Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
 
-## 1.5 WHAT EVEN IS "immersion"?  
+## 1.5 What even is "immersion"?  
 
 Immersion is when you interact with natural content in the target language. This means, content that is NOT made for or cherry picked for learners. Content that a native speaker of the language would also consume.  
 
-If you were an English learner, reading this guide right now would be "doing your English immersion, because this guide is not watered down or aimed at English learners, this is written for a native/proficient English speaking audience.  
+If you were an English learner, reading this guide right now would be "doing your English immersion", because this guide is not watered down or aimed at English learners, it is written for a native/proficient English speaking audience.  
 
 Thus, when you listen to, or read Japanese content that a Japanese person would also normally consume, you are doing immersion.  
 
 Technically, we would refer to this as *input*, but I like the term *immersion* more. 
+
+## 1.6 A top-down approach to learning  
+
+Learning a language requires you to be content with not understanding everything.  
+
+It is drastically different from conventional ways of learning experienced at school where perfectionism is rewarded and you are graded according to an arbitrary criteria or through exams.  
+
+Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, they tend to get discouraged extremely quickly due to not understand everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
+
+What sets language learning apart from school-like subjects is it's too based on real-world and natural use that cannot conceivably be covered by study material.  
+
+So, the only way you are going to get used to everything is by coming to terms with having low comprehension, because the more we interact with the language, the more we improve.  
+
+Of course, you will not be *only* doing immersion with no aid at all. You will study things like grammar and starter vocabulary on the side, and use dictionaries to learn the words from your immersion.  
 
 ## 2.1 How to learn Japanese
 
@@ -203,7 +220,7 @@ I recommend practising your *kana* by trying to read some Tadoku graded readers,
 
 *Kana* are **phonetically consistent** and few in number so they can be studied in isolation and mastered in a short amount of time, however, *kanji* are not. They aren't used in the same way either, and aren't exactly logical. What do I mean by that?
 
-Let's take this as an example. Because *kana* represent sounds in the language, we can write whatever we want according to the sounds as long as a kana exists for it, this includes writing English words. 
+Let's take this as an example. Because *kana* represents the sounds in Japanese, we can write whatever we want according to the sounds as long as a kana exists for it, this includes writing English words. 
 
 Now imagine I wrote the **English** sentence "I am learning Japanese" but using *kana*, it would be:
 > "あい　あむ　らあにんぐ　じゃぱにいず"  
@@ -266,7 +283,7 @@ When seeing an unfamiliar Anki card for the first time, the general rule of thum
   <figcaption>The pieces of information you need to memorise.</figcaption>
 </figure>  
 Once you have had a good look, press *Again* (this is short for try again). You will be on the next card, do the same thing as it is also a card you are seeing for the first time.  
-The next time you see the card, it is knowledge testing time. Try your best remember the meaning and reading that was on the back of the card and grade yourself! 
+The next time you see the card, it is knowledge testing time. Try your best to remember the meaning and reading that was on the back of the card and grade yourself! 
 
 This, in essence, is how we are going to learn vocabulary in the beginner stage.  
 
@@ -274,7 +291,7 @@ Once you have completed your new cards for the day, make sure you come back the 
 
 ## 2.5 Grammar
 
-
+Learning grammar can be straightforward and complex all at the same time. 
 
 
 
