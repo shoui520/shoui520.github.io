@@ -68,7 +68,7 @@ For example, a student might fuss over a certain aspect of grammar for way too l
 <h3>↑ This here is what we want to avoid. ↑</h3 >  </div>
 We have to get into the habit of letting go and start doing what we actually need to do. 
 
-Yes, you won't understand that book or anime perfectly the first time and probably not the second time either, but that’s just not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
+Yes, you won't understand that book or anime perfectly the first time and probably not the second time either, but that’s just how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
 
 ## 1.5 What even is "immersion"?  
 
