@@ -12,6 +12,8 @@ As it turns out, reaching such goals is not possible with "traditional" methods 
 
 ## 1.2 Problems with traditional methods
 
+![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
 A Japanese learner following a “traditional” study method would usually go through the following steps:
 
 - Learning the alphabet(s).
@@ -47,7 +49,7 @@ Learning a language is like climbing a mountain. You can try to climb that mount
 
 Language is… huge. There's so much to it that far exceeds the limitations of a classroom or app-based approach that tries to teach in an "x means y" or "x does y" format. Mastering a language to a higher level requires enormous amounts of experience reading and listening to what native speakers say.
 
-And yet, it's often difficult to grasp why they tend to use *that* phrase in *this* context, or *this* word instead of *that* other one… This creates a barrier for us learners as we can't just study grammar and vocabulary to achieve native-like fluency.
+It's often difficult to grasp why they tend to use *that* phrase in *this* context, or *this* word instead of *that* other one… This creates a barrier for us learners as we can't just study grammar and vocabulary to achieve native-like fluency.
 
 Without the prerequisite experience, attempting to construct sentences in your target language often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers use their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
 
@@ -61,12 +63,13 @@ Notice how I haven't mentioned "knowing the grammar" or "having memorised the vo
 
 ## 1.4 Coming to terms with sucking 
 
+![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on.  
 
 For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
 
 <div style="text-align: center; font-weight:bold">
-<h3>↑ This here is what we want to avoid. ↑</h3 >  </div>
+<h3>↑ This here is what we want to avoid.</h3 >  </div>
 We have to get into the habit of letting go and start doing what we actually need to do. 
 
 Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
@@ -75,7 +78,7 @@ Yes, you won't understand that book or anime perfectly the first time, but that�
 
 Immersion is when you interact with natural content in the target language. This means, content that is NOT made for or cherry picked for learners. Content that a native speaker of the language would also consume.  
 
-If you were an English learner, reading this guide right now would be "doing your English immersion", because this guide is not watered down or aimed at English learners, it is written for a native/proficient English speaking audience.  
+If you were an English learner, reading this guide right now would be "doing your English immersion", because this guide is not watered down or aimed at English learners. It is written for a native/proficient English speaking audience.  
 
 Thus, when you listen to, or read Japanese content that a Japanese person would also normally consume, you are doing immersion.  
 
@@ -163,27 +166,27 @@ First I want you to take a good look at this *kana* chart.
 <figure>
   <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
   <figcaption>
-      Full chart of singular kana
+      Full chart of singular kana<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
+<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
   </figcaption>
 </figure>
-<a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
-<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
+
 
 This chart will come in really handy when you are learning to read the *kana*. I recommend you save it.  
 
 Things you can do with the chart:
 
-- Learn to read *kana* by referring to the table. The columns representing vowel sounds, and the rows representing consonant sounds. Since 「か」 is in the K row and in the A column, it is pronounced "ka".  
+- Learn to read *kana* by referring to the table. The columns represent vowel sounds, and the rows represent consonant sounds. Since 「か」 is in the K row and in the A column, it is pronounced "ka".  
 - Learn how they are written by looking at the stroke orders (the little blue arrows and numbers on the characters).  
 - Use it as a master reference for all singular *kana*. This will help you a lot when you are learning how to read Japanese.  
 
 #### Step 2 - the YouTube video
-<h3><a href="https://youtu.be/_wZHqOghvSs" target="_blank">Watch this YouTube video</a></h3><br>
+<h3><a href="https://youtu.be/_wZHqOghvSs" target="_blank">Watch this YouTube video</a></h3>
 It's a 2 hour long video about *hiragana* and *katakana*. It is a great introduction into the *kana*.
 
 #### Step 3 - the grinding
 Once you have done that, play this *kana* grinding game.  
-<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">The kana grinding game</a></h3><br>
+<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">The kana grinding game</a></h3>
 
 <h4>How to play</h4>
 
@@ -248,13 +251,13 @@ Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this
 
 ### A note on studying kanji in isolation
 
-Kanji study methods have been a subject of debate for as long as learning Japanese has been a thing. One of the common problems that arise when beginners try to read Japanese, is that kanji can look too similar to each other and that their shapes don't make sense.  
+Kanji study methods have been a matter of debate for as long as learning Japanese has been a thing. One of the common problems that arise when beginners try to read Japanese is that kanji can look too similar to each other and that their shapes don't make sense.  
 
-While they may look like random shapes, kanji are actually formed from common components. Take for example the kanji *萌*, that is being used as the icon for this website. It is actually made up from 3 common kanji components that are used in lots of other kanji as well. 
+While they may look like random shapes, kanji are actually formed from common components. Take for example the kanji **萌**, that is being used as the icon for this website. It is actually made up from 3 common kanji components that are used in lots of other kanji as well. 
 
 ![Kanji](img/kanji.png)   
 
-While optional, learners that are struggling to tell apart different kanji may want to try studying kanji by their components in isolation. An additional *Anki deck* (explained in the next section) can be used to do this. You can find the deck [here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
+While optional, learners that are struggling to tell apart different kanji may want to try studying kanji by their components in isolation. An additional *Anki deck* (explained in the next section) can be used to do this. You can find the deck [here.](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
 
 ## 2.4 Learning Vocabulary
@@ -302,7 +305,7 @@ Once you have completed your new cards for the day, make sure you come back the 
 ## 2.5 Grammar
 
 Learning grammar can be straightforward and complex at the same time. It's quite essential to learning Japanese and while it might seem daunting at first, 
-there are resources out there that help make the learning process easier.  
+there are resources out there that help make the learning process easier. The grammar learning process is relatively simple; just pick up a guide and read/watch it.    
 
 There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
 
@@ -316,9 +319,7 @@ Below are a list of grammar resources in order of how much I recommend them. You
 
 It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.   
 
-## 2.6 Basic immersion
-
-### Beginner immersion: an uphill battle
+## 2.6 Beginner immersion: an uphill battle
 
 If you recall from section 1.3, I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
 
@@ -330,6 +331,8 @@ So how can we make it so we don’t constantly dread having to parse through con
 
 The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.  
 
+## 2.7 How to immerse
+
 ### Reading & Dictionaries
 
 To make Japanese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](/yomichan)  
@@ -340,12 +343,28 @@ To look up words individually, you can use [Jisho.org](https://jisho.org/), apps
 
 Honestly, pick whatever you want. It can be any anime, movie, J-drama, novel, light novel, manga, visual novel, game or YouTube video. If you don't have anything in mind you can just watch [my favourite anime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Just make sure you're actually interested in whatever you're choosing to immerse with!  
 
+### How to immerse with listening  
 
-## 2.7 Beginner learning loop
+Listening is almost entirely a top-down, "intuitive" approach. We don't want to think too hard over things when we are listening. Go with the flow until you find a really good oppportunity to pause and look something up.  
+There are certain levels to listening. Level one would be free-flow listening, where you let the listening flow without looking things up. Level two would be looking things up that pop out at you but still letting the listening play. Level three would be pausing at every single unknown word and looking them up.   
+In the beginner to intermediate stages, listening is entirely level one and level two listening. Don't think too hard about it and cherish all the little opportunities you get.   
+
+### How to immerse with reading
+
+In contrast to listening, reading is sort of a bottom-up, take-your-time, "analytical" approach. You can take as much time as you'd like reading sentences and looking up words. The process loop is essentially **read → look up word → reaction → read more → look up word → (repeat)**. For a while, it is going to seem like banging your head against a wall, but this is really just how you're going to build up reading ability.  
+Reading content with a visual component such as anime with Japanese subtitles (detailed in [UsagiSpoon](/routine)), manga and visual novels can help ease you into reading.  
+
+### Ideal ratio between listening and reading  
+
+In the beginner stage I recommend a 7:3 listening to reading ratio. This is mainly because listening is the most natural form of the language, so I believe it is essential to prioritise it to make your brain process Japanese more naturally.  
+You can start to lower the amount of listening to an equal 5:5 ratio when you get better at Japanese.  
+
+## 2.8 Beginner learning loop
 
 ### The wrong way to do it
 
-Learn ALL the kana, then learn ALL the 1500 words in Kaishi, then learn ALL the grammar before you finally try immersion for the first time...  
+!!! failure "The wrong way"
+    Learn ALL the kana, then learn ALL the 1500 words in Kaishi, then learn ALL the grammar before you finally try immersion for the first time...  
 
 This is a terrible approach. You need to do a bit of everything.  
 
@@ -374,16 +393,27 @@ I am going to add this guide to the list of resources that say you don't need to
 
 Learners that want to go the extra mile may want to look into learning *pitch accent* and the correct IPA pronunciation on their own, ideally as early as possible.
 
+## 3.3 Learning milestones
 
-## 3.3 Closing notes: post-beginner stage and beyond  
+For those that are curious, here is the level of Japanese ability you can expect to have after reaching these milestones.  
 
-There isn't really much else to the learning process other than learn words and grammar and immerse a lot. You can really just get fluent at Japanese eventually with this method. But one thing does change when you leave the beginner stage.  
+- 10 raw anime series: You are really starting to get the hang of listening to Japanese. You are probably able to understand a good chunk of sentences now. Anime you watched at the beginning of your learning journey are going to feel so much different!  
+- 25 raw anime series: At this point listening to Japanese is going to feel more natural than ever before.
+- 50 raw anime series: If you have been keeping up with your study... then I can't really consider you a beginner anymore at this point. There's going to be a huge difference between your abilty now compared to when you were starting out!  
+- 1 full novel finished: While you had a really rough time trying to understand this book, you are beginning to really shoot out of the beginner stage. The next book you read will be noticeably easier.  
+- 5 novels finished: I wouldn't consider you are a beginner anymore. You are really beginning to build up good Japanese reading proficiency.  
+- 10 novels: Completely intermediate at this point. Congratulations!   
+
+
+## 3.4 Closing notes: post-beginner stage and beyond  
+
+There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Japanese with this method. But one thing does change when you leave the beginner stage.  
 
 Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call *mining*. The recommended mining guide is [Donkuri's mining guide](https://donkuri.github.io/learn-japanese/mining/). Mining will essentially become the heart of your Japanese *study*.  
 
+Thank you so much for taking your time to read this guide and I wish you good luck on your Japanese learning journey! 
 
-### Discord   
-If you have any questions, you can ask at our Discord. 
+If you have any questions, you can ask away at our Discord server. 
 
 [Join the Discord :fontawesome-brands-discord:](/join){: .md-button } 
 
@@ -399,6 +429,7 @@ I'd like to thank everyone that has contributed to the making of this guide:
 iamatryhard  
 shigatsunoraion  
 qazsedctgb  
+ktamashi  
 kaio.n  
 saegusa.mayumin  
 pedipanol  
