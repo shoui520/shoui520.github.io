@@ -309,7 +309,7 @@ there are resources out there that help make the learning process easier. The gr
 
 There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
 
-Below are a list of grammar resources in order of how much I recommend them. You do not need to do every single one, just find the one that works well for you.
+Here are a few guides ranked based on how much I recommend them to total beginners You do not need to do every single one, just find the one that works well for you.
 
 [Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
@@ -407,8 +407,8 @@ For those that are curious, here is the level of Japanese ability you can expect
 - 25 raw anime series: At this point listening to Japanese is going to feel more natural than ever before.
 - 50 raw anime series: If you have been keeping up with your study... then I can't really consider you a beginner anymore at this point. There's going to be a huge difference between your abilty now compared to when you were starting out!  
 - 1 full novel finished: While you had a really rough time trying to understand this book, you are beginning to really shoot out of the beginner stage. The next book you read will be noticeably easier.  
-- 5 novels finished: I wouldn't consider you are a beginner anymore. You are really beginning to build up good Japanese reading proficiency.  
-- 10 novels: Completely intermediate at this point. Congratulations!   
+- 5 novels finished/1 medium to long VN: I wouldn't consider you are a beginner anymore. You are really beginning to build up good Japanese reading proficiency.  
+- 10 novels/2 medium to long VNs: Completely intermediate at this point. Congratulations!   
 
 
 ## 3.4 Closing notes: post-beginner stage and beyond  

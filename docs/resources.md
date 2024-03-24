@@ -223,7 +223,7 @@ See Applications section for an EPWING reader.
 
 #### E-Reader Dictionaries  
 - [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/) - Made by epistularum(エピス)#9370, includes StarDicts too.
-- [Stardict/Kobo/KOReader Dictionaries](https://drive.google.com/drive/folders/1tXjcwJLHb0dax0ysbXubNza9Gf6iSPkx?usp=drive_link)
+- [Stardict/Kobo/KOReader Dictionaries](https://drive.google.com/drive/folders/1tXjcwJLHb0dax0ysbXubNza9Gf6iSPkx?usp=sharing)
 
 ### Applications (Desktop)
 
