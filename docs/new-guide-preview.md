@@ -349,6 +349,12 @@ Listening is almost entirely a top-down, "intuitive" approach. We don't want to 
 There are certain levels to listening. Level one would be free-flow listening, where you let the listening flow without looking things up. Level two would be looking things up that pop out at you but still letting the listening play. Level three would be pausing at every single unknown word and looking them up.   
 In the beginner to intermediate stages, listening is entirely level one and level two listening. Don't think too hard about it and cherish all the little opportunities you get.   
 
+#### "Active" and "Passive" listening
+
+Active listening is when you are paying full attention to your listening. You are engaging with all aspects of it like looking at the screen and listening to the anime. This is the type of listening where you are making the most gains.  
+
+Passive listening is where you do something else and have the listening on in the background. This helps when you intermittently listen in on your listening for brief moments, it can hugely benefit you if you have a busy lifestyle. I actually recommend doing passive immersion to fill in the gaps where you're usually not doing Japanese.  
+
 ### How to immerse with reading
 
 In contrast to listening, reading is sort of a bottom-up, take-your-time, "analytical" approach. You can take as much time as you'd like reading sentences and looking up words. The process loop is essentially **read → look up word → reaction → read more → look up word → (repeat)**. For a while, it is going to seem like banging your head against a wall, but this is really just how you're going to build up reading ability.  
