@@ -1,6 +1,6 @@
 function language_selector() {
-    const regex = new RegExp(`${window.location.host}(/fr|/de|/es|/pt-BR|/ru|/id|/viet)*`);
-    const onlyCurrentLangRegex = /\/(en|fr|de|es|pt-BR|ru|id|viet)\//;
+    const regex = new RegExp(`${window.location.host}(/fr|/de|/es|/it|/pt-BR|/ru|/id|/viet)*`);
+    const onlyCurrentLangRegex = /\/(en|fr|de|es|it|pt-BR|ru|id|viet)\//;
 
     // fetch current lang from local storage
     let currentLang = localStorage.getItem('lang');

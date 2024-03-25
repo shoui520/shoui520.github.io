@@ -98,6 +98,9 @@ extra:
     - name: Español
       link: /es/
       lang: es
+    - name: Italiano
+      link: /it/
+      lang: it
     - name: Português (Brasil)
       link: /pt-BR/
       lang: pt-br
