@@ -48,7 +48,7 @@ function language_selector() {
             if ((a.href == `${window.location.origin}/` || a.href == window.location.origin)) {
                 //console.log(currentAnchorSegment)
                 if (currentLang !== 'en' && !a.href.includes(`/${currentLang}/`)) {
-                    modifiedUrl = `${currentLang}/`
+                    modifiedUrl = `${window.location.origin}/${currentLang}/`
                 }
                 else if (currentLang === 'en' && !a.href.includes(`/${currentLang}/`)) {
                     modifiedUrl = `/`
