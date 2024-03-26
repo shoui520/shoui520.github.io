@@ -36,7 +36,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 - [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
-- **[※ - NihongoKyoshi Anki Deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
+- **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
 
 Sorry to overwhelm you with information, but also check out my grammar dictionaries for Yomichan (pop up dictionary browser extension). 
 
