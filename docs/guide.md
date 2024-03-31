@@ -377,7 +377,7 @@ This is a terrible approach. You need to do a bit of everything.
 ### The right way to do it  
 
 While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles. It can be anything you like, and you don't need to understand anything.  
-After that should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day?  And in the same day, try to get some immersion in.  
+After that you should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day?  And in the same day, try to get some immersion in.  
 
 !!! question "How long should I do immersion per day?"
     I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.  
