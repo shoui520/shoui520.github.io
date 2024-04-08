@@ -8,11 +8,24 @@ There are native Android visual novels but most of these are gacha cash grab tra
 
 While they are a couple of native Android visual novels but these are usually spin-offs and gacha trash, and no one wants to play them.
 
-The best option is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp) emulator and download PSP ROMs.
-
-PSP games are probably the best quality visual novels you can get on a mobile device.
+one of the best options is to use [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp) emulator and download PSP ROMs.
 
 ![Image](img/vnpsp1.jpg)  
+
+## Vita3k
+
+As technology improves, something that used to be almost completely impossible has now been made normal. That's probably the best way to define the existence of [Vita3k](https://github.com/Vita3K/Vita3K-Android/releases/) on android phones. With this wonderful software, it's possible to emulate many of the best Japanese games available on the best handheld that a Japanese student could ever ask for. Vita has received official (and unofficial) ports of several different VNs, and all of them are top quality! 
+
+Well, as expected, this emulator is fairly demanding. Most intermediate and high-end smartphones from the last 5~6 years are capable of running most VNs on it, in other words, there are certain minimum requirements that you need to meet before downloading the emulator itself. Here I'll mention all the requirements that are important for running VNs, i.e. commercial games other than VNs are heavier and require more from your smartphone. Therefore, don't expect to run all that much besides VNs with what I'm going to tell you here
+
+#### requirements:
+
+- At least 4GB of ram
+- 64-bit processors
+- EGL3.2 
+- At least something with comparable performance to the snapdragon 732g 
+
+You'll find everything you need to know about setting up Vita 3k on its [oficial_website](https://vita3k.org/quickstart.html), with links to download the necessary files. It's all very simple and takes no more than 10 minutes to get the emulator up and running.
 
 ## Kirikiroid2
 
@@ -35,7 +48,7 @@ Now follow the steps below.
 
 Any games that use the NScripter engine (e.g. has an `nscript.dat` file) can be loaded and played natively without any virtualization on Android.  
 
-TBA   
+TBA
 
 ## QEMU/Limbo/Bochs PC Emulator  
 
