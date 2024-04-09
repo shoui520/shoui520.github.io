@@ -27,6 +27,31 @@ Well, as expected, this emulator is fairly demanding. Most intermediate and high
 
 You'll find everything you need to know about setting up Vita 3k on its [oficial_website](https://vita3k.org/quickstart.html), with links to download the necessary files. It's all very simple and takes no more than 10 minutes to get the emulator up and running.
 
+## Suyu/Yuzu
+
+Now, the switch emulator is also available on android. Thanks to the native support provided by certain parts within the Switch architecture linked to the android system, it is possible for the emulator to perform very well through a function called NCE, in other words, Native Code Execution. As a result, the code for Switch games ends up running natively on your phone... at least to some extent. Now, you're probably wondering what results this actually yields, right? Well, thanks to this amazing feature, we can run most Switch games on an android phone these days. Not just that, but combined with some custom drivers, you can run almost any VN on Switch without hardly any graphical issues.
+
+Well, since Nintendo took down the original yuzu, you now have about two options when it comes to downloading it. First, of course, would be to download the latest version of yuzu available on the [archives](https://web.archive.org/web/20240304142742/https://github.com/yuzu-emu/yuzu-android/releases/tag/android-278). On the other hand, the second, a little more practical, would be to get [Suyu](https://git.suyu.dev/suyu/suyu/releases), which is the most stable of all yuzu's descendants. It should be noted that at the time of this writing, the difference in performance between yuzu and Suyu is non-existent. I mean, Suyu is a recent follow-up project, so you can't expect it to improve much in such a short space of time. And yes, there are other switch emulators on android, but from my tests, they are completely outdated (most of these projects are dead) and/or compatibility is extremely limited when compared to something more up-to-date like yuzu/suyu.
+
+Okay, if the Vita 3k was a bit demanding, then this one is just downright frightful. Although it uses NCE to run part of the processes natively, we still need to emulate the rest. Of course, this applies more to 3d games, as most VNs available on the Switch are extremely smooth and simple to emulate, however, you still need a more up-to-date phone.
+
+#### requirements:
+
+- At least 6GB ram*
+- 64-bit processors
+- android 11+
+- At least something with comparable performance to the sanpdragon 865*
+
+  <div>
+    <b>OBS 1:</b> I have specified 6GBs of ram as a minimum requirement for the emulator, yet, when playing for a long time, I would advise you to close the emulator once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to lack of RAM (yuzu's memory leak occurs even on android). And although you'd be able to run most VNs with 6GB ram, that is not true for games in general. So don't expect too much from it.
+  </div>
+
+  <div>
+    <b>OBS 2:</b> While the Snapdragon 865 is the recommended SOC for running most of the Yuzu/Suyu library, I wouldn't recommend using it for anything too demanding. This SOC was quite good with all the VNs I tested, so in that respect I don't think you'll have a problem even if you use a weaker SOC. That being said, I tried it with the 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the 732g but weaker than the 865 will be able to run most VNs on this emulator.
+  </div>
+
+All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The whole thing is very simple and they already provide the link to everything, besides, there's a brief explanation of the cutomized drivers that I mentioned earlier. With that, you can now read your VNs on your cell phone!
+
 ## Kirikiroid2
 
 Any games that use the Kirikiri2 engine (e.g. has `.xp3` files) can be loaded and played natively without any virtualization on Android.  
