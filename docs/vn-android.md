@@ -52,16 +52,13 @@ Okay, if the Vita 3k was a bit demanding, then this one is just downright fright
 
 All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The whole thing is very simple and they already provide the link to everything, besides, there's a brief explanation of the cutomized drivers that I mentioned earlier. With that, you can now read your VNs on your cell phone!
 
-## WINDOWS FUCKING EMULATOR
+## WINDOWS EMULATOR... or something close to it
 
-Now... now i can finally talk about my babies!!! i think it is worth mentioning that although I do refer to them as 'Windows emulators', they are not exactly working like that. if i had to say it, I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 enmulators in charge of running Windows' programs on Android: Exagear, winlator and mobox. I'm going to talk about each one of them here. so be prepared to hell!
+Now... now i can finally talk about my babies!!! i think it is worth mentioning that although I do refer to them as 'Windows emulators', they are not exactly working like that. if i had to say it, I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 enmulators in charge of running Windows' programs on Android: Exagear, winlator and mobox. I'm going to talk about each two of them here. so be prepared!
 
 #### Exagear
 
-  
   <b>OBS:</b>  Only use it if your phone can't run the other emulators on this list, or if you want to test something that doesn't work on the other two.
- 
-
 
  Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as 'Windows emulators', the truth is that they are nothing more than Wine emulators.
 
@@ -88,7 +85,39 @@ Super ultra mega blaster tutorial on how to set this one up:
 12. You click 'Next' and 'Next' until it installs. Usually, the first installation attempt ends in an error. If that's the case for you, click again and try to install until it succeeds.
 13. now u can run your game!
 
-First of all, I'd like to remind you that it was quite a hassle testing all of this (all the emulators). So if you encounter any errors, just ping me on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting VNs that don't require installation, meaning you only need to open the executable. Remember that it only runs 32-bit programs.
+First of all, I'd like to remind you that it was quite a hassle testing all of this (all the emulators). So if you encounter any errors, just ping me on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting VNs that don't require installation, meaning you only need to open the executable. Remember that it only runs 32-bit programs. It's also worth mentioning as well that not all VNs work on it. You need to test to see how it goes. Furthermore, there are some forums on the internet where people (like Reddit) discuss compatibility of some VNs with it.
+
+#### Winlator
+
+HE IS THE GOAT! THE GOAT!!!!
+
+Jokes aside, this is probably, along with Mobox, the best Windows emulator on PC. It works with 64-bit programs as well, and you can even run PC games on it. If you search online, you'll find videos of people playing on it. 
+
+Unfortunately, quality comes with a price, and that is performance. You really need a good phone to run it at its best. I believe that for visual novels, or at least most of them, anything above the 732g should be enough. But for compatibility with the rest of the titles, you'll need something like the Snapdragon 855 or higher. 
+
+Ah, yes. Since it's still a relatively new emulator, it's a bit tricky. You'll need to test each visual novel individually and adjust its settings depending on each game. The upside is that the community is quite active, so even if you encounter an issue with something that should be working, you can reach out to them."
+
+what do you need to set 'the goat' up:
+
+- [Winlator apk](https://github.com/brunodev85/winlator/releases)
+
+Super ultra mega blaster tutorial on how to set 'the GOAT' up:
+
+1. You're going to download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run.
+2. After the installation is complete, swipe the screen to the right, go to 'containers', click on the '+' and create one.
+3. Containers settings: 
+  - Name -> You can choose anything. It doesn't matter.
+  - screen size -> Choose 800x600 only if your phone isn't that good. You'll lose compatibility with a lot of VNs that don't support this resolution. If you want to focus on compatibility and your phone can handle it, go for 1280x720
+  - Graphics driver -> If your SOC is Snapdragon, choose 'Turnip'. If it's anything else, choose 'VirGL.
+  - DX wrapper -> If you're using a Snapdragon SOC, choose 'DXVK'. If you have any other SOC, choose 'Wined3d'.When using DXVK, if you click on the gear icon next to it, you can choose the in-game screen framerate, the driver version, and also select the amount of RAM to allocate. Since we're talking about VNs, 2GB should be enough for allocation. If it doesn't run, increase it and test again.
+  - audrio driver -> pulse audio
+  - Enable all CPU boxes (0, 1, 2, 3...)
+  - Further down, there's the 'Wine Configuration' tab. In it, choose a GPU and allocate its memory. Depending on what you choose, the box may crash. Test your VN with the default GPU (GT 9800GT). If it doesn't work, create a new container and change the GPU there until it works.
+  - After that, grab the slider where the 'Wine Configuration' is located and drag it to the left. Do this until the 'Advanced' option appears. Here, set both x86 and x64 to compatibility mode.
+  - now just click on the 'V' and save it.
+4. Now click on the three dots of the container and click on play. There you go, it's already working.
+
+<b>OBS:</b>  Don't forget to download the location emulator for PC and leave the file in your phone's folder to open with Winlator (if you're going to play VNs in Japanese). Otherwise, they probably won't open.
 
 ## Kirikiroid2
 
@@ -112,10 +141,6 @@ Now follow the steps below.
 Any games that use the NScripter engine (e.g. has an `nscript.dat` file) can be loaded and played natively without any virtualization on Android.  
 
 TBA
-
-## QEMU/Limbo/Bochs PC Emulator  
-
-This way is dreadfully slow and I recommend you stay FAR away from this. If you want a portable PC visual novel experience, I recommend you pick up a GPD Win. The first model equipped with an Intel Atom will be fine for VNs, the second model with an Intel Core m3 is more likely to be in stock though.  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
