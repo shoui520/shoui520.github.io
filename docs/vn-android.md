@@ -52,6 +52,44 @@ Okay, if the Vita 3k was a bit demanding, then this one is just downright fright
 
 All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The whole thing is very simple and they already provide the link to everything, besides, there's a brief explanation of the cutomized drivers that I mentioned earlier. With that, you can now read your VNs on your cell phone!
 
+## WINDOWS FUCKING EMULATOR
+
+Now... now i can finally talk about my babies!!! i think it is worth mentioning that although I do refer to them as 'Windows emulators', they are not exactly working like that. if i had to say it, I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 enmulators in charge of running Windows' programs on Android: Exagear, winlator and mobox. I'm going to talk about each one of them here. so be prepared to hell!
+
+#### Exagear
+
+  
+  <b>OBS:</b>  Only use it if your phone can't run the other emulators on this list, or if you want to test something that doesn't work on the other two.
+ 
+
+
+ Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as 'Windows emulators', the truth is that they are nothing more than Wine emulators.
+
+Having said that, let me rank ExaGear among the other three. It's the slowest and has the least support on this list. As I mentioned before, it only works on 32-bit programs, so any 64-bit visual novel won't work on it. Furthermore, running it decently will depend a lot on the VN (visual novel) itself. I also recommend having a decent phone, but compared to yuzu and vita3k, anything with performance comparable to Snapdragon 845 should be more than enough for this emulator. Oh, and even with a VERY good device, your VN may still lag a bit, or even take 10 minutes to open. It all depends on the VN, and I recommend that you test the game you want to play individually.
+
+what do you need to set it up:
+
+- [Exagear APK + OBB](https://mega.nz/file/ZcMnXIQA#_uhqRyS0-YeTmMQzgKOCGLa5x0wARQoEMzYEqvCmX6c)
+- [Basic exagear files](https://mega.nz/file/VQ1RySQD#TwVTuEJB-woteCXr2ul-VfcHgQJgNwRPwDHkhzeyW9I)
+
+Super ultra mega blaster tutorial on how to set this one up:
+
+1. after downloading and extracting the ExaGear APK + OBB, you'll move the 'com.eltechs.ee' folder to a folder called OBB within the Android folder on your phone -> 0/android/obb.
+2. Now, install the ExaGear APK that was included with the extracted files.
+3. You'll now open the app, swipe to the right, and go to the tab labeled 'manage containers'. Once inside, swipe to the left and click on the '+' symbol in the top left corner.
+4. With the new container created, you'll now click on the three dots next to it and go to properties. Here, you'll change the color depth to 32 bits, set the locale to Japan, and uncheck all the option boxes below.
+5. Now you can return to the container's home page, click on the three dots again, and open the 'run explorer' option. It may take a little while to start.
+6. When it opens, you'll notice that the interface looks quite like Windows. That said, in its file window, under 'My Computer', you'll navigate to the folder where you downloaded the 'basic ExaGear files' earlier.
+7. Now, double-click on 'k lite...'. Once it opens, you'll need to choose 'Advanced' instead of 'Normal'.
+8. Now you can click on 'Next', and in the next window, under the 'Preferred audio player' option, choose 'Media Player Classic...'
+9. Keep clicking on 'Next' until you reach the 'additional task and options' window. Here, you'll uncheck all 4 boxes within the 'system tray icons' field.
+10. Now, install all the files in the 'Visual C' folder.
+11. After installing them, go back to the location where you downloaded the 'basic ExaGear files' and run MPsetup
+12. You click 'Next' and 'Next' until it installs. Usually, the first installation attempt ends in an error. If that's the case for you, click again and try to install until it succeeds.
+13. now u can run your game!
+
+First of all, I'd like to remind you that it was quite a hassle testing all of this (all the emulators). So if you encounter any errors, just ping me on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting VNs that don't require installation, meaning you only need to open the executable. Remember that it only runs 32-bit programs.
+
 ## Kirikiroid2
 
 Any games that use the Kirikiri2 engine (e.g. has `.xp3` files) can be loaded and played natively without any virtualization on Android.  
