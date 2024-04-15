@@ -29,7 +29,7 @@ You'll find everything you need to know about setting up Vita3K on its [official
 
 Nintendo Switch emulation is also available on Android through Yuzu. Thanks to the hard work of Yuzu's developers, we can run most Switch games on Android phones these days. Not only that, but combined with some custom drivers, hardly any graphical issues appear at all.
 
-Well, since Nintendo took down the original Yuzu repository, there are now two options when it comes to downloading the emulator. The first is downloading the latest version of Yuzu available on the [archives](https://web.archive.org/web/20240304142742/https://github.com/yuzu-emu/yuzu-android/releases/tag/android-278). The second is download [Suyu](https://git.suyu.dev/suyu/suyu/releases) instead, which is a fork (whose development imploded) of Yuzu with some minor improvements.
+Well, since Nintendo took down the original Yuzu repository, there are now two options when it comes to downloading the emulator. The first is downloading the latest version of Yuzu available on the [archives](https://web.archive.org/web/20240304142742/https://github.com/yuzu-emu/yuzu-android/releases/tag/android-278). The second is downloading [Suyu](https://git.suyu.dev/suyu/suyu/releases) instead, which is a fork (whose development imploded) of Yuzu with some minor improvements.
 
 Okay, if Vita3K was a bit demanding, then Yuzu is just downright frightful as it requires a more up-to-date device. Thankfully, most VNs available on the Switch are extremely simple and easy to emulate due to their nature as fancy PowerPoint slides.
 
@@ -41,18 +41,18 @@ Okay, if Vita3K was a bit demanding, then Yuzu is just downright frightful as it
 - At least something with comparable performance to the Snapdragon 865\*
 
   <div>
-    <b>OBS 1:</b> I have specified 6GB of RAM as a minimum requirement for the emulator, yet, when playing for a long time, I would advise you to close the emulator once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to lack of RAM from Yuzu's memory leaks. And while you can run most VNs with 6GB of RAM, other games could require even greater amounts of RAM.
+    <b>OBS 1:</b> I have specified 6GB of RAM as a minimum requirement for the emulator, yet, when playing for a long time, I would advise you to close the emulator once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to a lack of RAM from Yuzu's memory leaks. And while you can run most VNs with 6GB of RAM, other games could require even greater amounts of RAM.
   </div>
 
   <div>
     <b>OBS 2:</b> While the Snapdragon 865 is the recommended SoC for running most of the Switch library, I wouldn't recommend using it for anything too demanding. This SoC was quite good with all the VNs I tested, so in that respect I don't think you'll have a problem even if you use a weaker SoC. That being said, I tried it with the 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the 732g will be able to run most VNs on this emulator.
   </div>
 
-All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The setup is very simple with links to every necessary resource. There's even a brief explanation of the customized drivers that I mentioned earlier. With that, you can now read your VNs on your phone!
+All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The setup is straightforward with links to every necessary resource. There's even a brief explanation of the customized drivers that I mentioned earlier. With that, you can now read your VNs on your phone!
 
 ## WINDOWS EMULATION... or something close to it
 
-Now... now I can finally talk about my babies!!! It is worth mentioning that although I do refer to them as "Windows emulators", I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 emulators in charge of running Windows programs on Android: Exagear, Winlator and Mobox. I'm going to talk about each two of them here, so be prepared!
+Now... now I can finally talk about my babies!!! It is worth mentioning that although I do refer to them as "Windows emulators", I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 emulators in charge of running Windows programs on Android: Exagear, Winlator, and Mobox. I'm going to talk about each two of them here, so be prepared!
 
 ### Exagear
 
@@ -60,7 +60,7 @@ Now... now I can finally talk about my babies!!! It is worth mentioning that alt
 
 Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as "Windows emulators", the truth is that they are nothing more than Wine emulators.
 
-Having said that, let me rank ExaGear among the other three: it's the slowest and has the least support amongst them. As I mentioned before, it only works on 32-bit programs, so any 64-bit visual novel won't work on it. Furthermore, running it decently will depend a lot on the VN itself. I also recommend having a decent phone, but compared to Yuzu and Vita3K, anything with performance comparable to Snapdragon 845 should be more than enough for this emulator. Oh, and even with a VERY good device, your VN may still lag a bit, or even take 10 minutes to open. It all depends on the VN, and I recommend that you test the game you want to play individually.
+Having said that, let me rank ExaGear among the other three: it's the slowest and has the least support. As I mentioned before, it only works on 32-bit programs, so any 64-bit visual novel won't work on it. Furthermore, running it decently will depend a lot on the VN itself. I also recommend having a decent phone, but compared to Yuzu and Vita3K, anything with performance comparable to Snapdragon 845 should be more than enough for this emulator. Oh, and even with a VERY good device, your VN may still lag a bit, or even take 10 minutes to open. It all depends on the VN, and I recommend you test each game.
 
 Setup files:
 
@@ -80,10 +80,10 @@ Super ultra mega blaster tutorial on how to set this one up:
 9. Keep clicking on `Next` until you reach the `additional task and options` window. Here, you'll uncheck all 4 boxes within the `system tray icons` field.
 10. Install all the files in the `Visual C` folder.
 11. After installing them, go back to the location where you downloaded the `basic ExaGear files` and run `MPsetup`.
-12. Continue clicking on `Next` until it installs. Usually, the first installation attempt ends in an error. If that's the case for you, click again and try to install until it succeeds.
+12. Continue clicking on `Next` until it installs. Usually, the first installation attempt ends in an error. If that's the case for you, click again and try to install it until it succeeds.
 13. Now you can run your game!
 
-First of all, I'd like to remind you that it was quite a hassle testing all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss compatibility of some VNs with Exagear.
+First of all, I'd like to remind you that it was quite a hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss the VN compatibility with Exagear.
 
 ### Winlator
 
@@ -93,7 +93,7 @@ Jokes aside, this is probably, along with Mobox, the best Windows emulator on PC
 
 Unfortunately, quality comes with a price, and the price is performance in this case. You really need a good phone to run Winlator at its best. I believe that for most visual novels, anything above the 732g should be enough. But for compatibility with the rest of the titles, you'll need something like the Snapdragon 855 or higher.
 
-Since it's still a relatively new emulator, it's a bit finicky. You'll need to test each visual novel and adjust Winlator's settings accordingly. The upside is that the community is quite active, so if you encounter any issue, you can reach out to them.
+Since it's still a relatively new emulator, it's a bit finicky. You'll need to test each visual novel and adjust Winlator's settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
 
 Setup files for "the goat":
 
@@ -102,7 +102,7 @@ Setup files for "the goat":
 Super ultra mega blaster tutorial on how to set "the GOAT" up:
 
 1. Download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run.
-2. After the installation is complete, swipe the screen to the right, go to 'containers', click on the '+' and create one.
+2. After the installation is complete, swipe the screen to the right or click on the three stacked lines at the top-left, go to `Containers`, and then click on the + button to create a container.
 3. Containers settings:
 
    - `Name` -> You can choose anything. It doesn't matter.
