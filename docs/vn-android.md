@@ -10,13 +10,13 @@ One of the best options to emulate PSP games is by using the [PPSSPP](https://pl
 
 ![Image](img/vnpsp1.jpg)
 
-## PSVita Emulation
+## PS Vita Emulation
 
 As technology improves, something that used to be almost completely impossible has now been made normal. That's probably the best way to define the existence of [Vita3K](https://github.com/Vita3K/Vita3K-Android/releases/) on Android phones. With this wonderful software, it's possible to emulate many of the best Japanese games available from the best handheld that a Japanese student could ever ask for. Vita has received both official and unofficial ports of several different visual novels (VN), and all of them are top quality!
 
 Well, as expected, this emulator is fairly demanding. Most intermediate and high-end smartphones from the last 5~6 years are capable of running most VNs, in other words, there are certain minimum requirements that you need to meet before downloading the emulator itself. I'll mention all the requirements that are important for running VNs, i.e. commercial games other than VNs are heavier and require more from your smartphone. Therefore, don't expect to run all that much besides VNs with what I'm going to tell you here
 
-#### Requirements:
+Requirements:
 
 - At least 4GB of RAM
 - 64-bit processors
@@ -33,7 +33,7 @@ Well, since Nintendo took down the original Yuzu repository, there are now two o
 
 Okay, if Vita3K was a bit demanding, then Yuzu is just downright frightful as it requires a more up-to-date device. Thankfully, most VNs available on the Switch are extremely simple and easy to emulate due to their nature as fancy PowerPoint slides.
 
-#### Requirements:
+Requirements:
 
 - At least 6GB RAM\*
 - 64-bit processors
@@ -50,7 +50,7 @@ Okay, if Vita3K was a bit demanding, then Yuzu is just downright frightful as it
 
 All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The setup is straightforward with links to every necessary resource. There's even a brief explanation of the customized drivers that I mentioned earlier. With that, you can now read your VNs on your phone!
 
-## WINDOWS EMULATION... or something close to it
+## Windows Emulation... or something close to it
 
 Now... now I can finally talk about my babies!!! It is worth mentioning that although I do refer to them as "Windows emulators", I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 emulators in charge of running Windows programs on Android: Exagear, Winlator, and Mobox. I'm going to talk about each two of them here, so be prepared!
 
@@ -101,21 +101,24 @@ Setup files for "the goat":
 
 Super ultra mega blaster tutorial on how to set "the GOAT" up:
 
-1. Download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run.
-2. After the installation is complete, swipe the screen to the right or click on the three stacked lines at the top-left, go to `Containers`, and then click on the + button to create a container.
-3. Containers settings:
-
-   - `Name` -> You can choose anything. It doesn't matter.
-   - `Screen Size` -> Choose `800x600` only if your phone is weak. You'll lose compatibility with a lot of VNs that don't support this resolution. If you want to focus on compatibility and your phone can handle it, go for `1280x720`.
-   - `Graphics Driver` -> If your SoC is Snapdragon, choose `Turnip`. If it's anything else, choose `VirGL`.
-   - `DX Wrapper` -> If your SoC is Snapdragon, choose `DXVK`. If you have any other SoC, choose `WineD3D`. Selecting `DXVK` makes a gear icon appear next to the setting, and clicking it shows a menu where you can choose the in-game screen framerate, the driver version, and also the amount of RAM to allocate. Since we're talking about VNs, 2GB (2048 MB) should be enough for allocation. If the VN doesn't run, increase the RAM allocated and test again.
-   - `Audio Driver` -> `PulseAudio`
-   - Enable all CPU boxes (0, 1, 2, 3...)
-   - In the `Wine Configuration` tab, choose a GPU and allocate its memory. Depending on what you choose, the container may crash. Test your VN with the default GPU `GT 9800GT`. If it doesn't work, create a new container and change the GPU in it until it works.
-   - Grab the slider where the `Wine Configuration` tab is located, drag it to the left until the `Advanced` tab appears, and in it, set both `Box86` and `Box64` to compatibility mode.
-   - Click on the checkmark button to save your settings.
-
-4. Click on the three dots of the container and click on `Run`. There you go, it's already working.
+<ol>
+  <li>Download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run.</li>
+  <li>After the installation is complete, swipe the screen to the right or click on the three stacked lines at the top-left, go to <code>Containers</code>, and then click on the + button to create a container.</li>
+  <li>Container settings:
+    <ul>
+      <li><code>Name</code> -> You can choose anything. It doesn't matter.</li>
+      <li><code>Screen Size</code> -> Choose <code>800x600</code> only if your phone is weak. You'll lose compatibility with a lot of VNs that don't support this resolution. If you want to focus on compatibility and your phone can handle it, go for <code>1280x720</code>.</li>
+      <li><code>Graphics Driver</code> -> If your SoC is Snapdragon, choose <code>Turnip</code>. If it's anything else, choose <code>VirGL</code>.</li>
+      <li><code>DX Wrapper</code> -> If your SoC is Snapdragon, choose <code>DXVK</code>. If you have any other SoC, choose <code>WineD3D</code>. Selecting <code>DXVK</code> makes a gear icon appear next to the setting, and clicking it shows a menu where you can choose the in-game screen framerate, the driver version, and also the amount of RAM to allocate. Since we're talking about VNs, 2GB (2048 MB) should be enough for allocation. If the VN doesn't run, increase the RAM allocated and test again.</li>
+      <li><code>Audio Driver</code> -> <code>PulseAudio</code></li>
+      <li>Enable all CPU boxes (0, 1, 2, 3...)</li>
+      <li>In the <code>Wine Configuration</code> tab, choose a GPU and allocate its memory. Depending on what you choose, the container may crash. Test your VN with the default GPU <code>GT 9800GT</code>. If it doesn't work, create a new container and change the GPU in it until it works.</li>
+      <li>Grab the slider where the <code>Wine Configuration</code> tab is located, drag it to the left until the <code>Advanced</code> tab appears, and in it, set both <code>Box86</code> and <code>Box64</code> to compatibility mode.</li>
+    </ul>
+  </li>
+  <li>Click on the checkmark button to save your container settings.</li>
+  <li>Back in the <code>Containers</code> menu, click on the three dots of the new container and then click on <code>Run</code>. There you go, it's already working.</li>
+</ol>
 
 <b>OBS:</b> If you're going to play VNs in Japanese, don't forget to download the location emulator for PC and leave the file in your phone's folder to open with Winlator. They probably won't open otherwise.
 
