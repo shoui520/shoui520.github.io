@@ -52,11 +52,11 @@ All the information on how to set up the emulator can be found [here](https://yu
 
 ## Windows Emulation... or something close to it
 
-Now... now I can finally talk about my babies!!! It is worth mentioning that although I do refer to them as "Windows emulators", I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 emulators in charge of running Windows programs on Android: Exagear, Winlator, and Mobox. I'm going to talk about each two of them here, so be prepared!
+Now... now I can finally talk about my babies!!! It is worth mentioning that although I do refer to them as "Windows emulators", I would say they are closer to Wine emulators. Well, leaving my autistic behaviour aside, let's get to the important stuff. At least for now, we have 3 emulators in charge of running Windows programs on Android: ExaGear, Winlator, and Mobox. I'm going to talk about each two of them here, so be prepared!
 
-### Exagear
+### ExaGear
 
-<b>OBS:</b> Only use it if your phone can't run the other emulators on this list, or if you want to test something that doesn't work on the other two.
+<b>OBS:</b> It's recommended to use Winlator or Mobox instead for Windows emulation. Only use ExaGear if your phone can't run the other emulators, or if you want to test something that doesn't work on the other two.
 
 Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as "Windows emulators", the truth is that they are nothing more than Wine emulators.
 
@@ -64,32 +64,33 @@ Having said that, let me rank ExaGear among the other three: it's the slowest an
 
 Setup files:
 
-- [Exagear APK + OBB](https://mega.nz/file/ZcMnXIQA#_uhqRyS0-YeTmMQzgKOCGLa5x0wARQoEMzYEqvCmX6c)
-- [Basic exagear files](https://mega.nz/file/VQ1RySQD#TwVTuEJB-woteCXr2ul-VfcHgQJgNwRPwDHkhzeyW9I)
+- [ExaGear APK + OBB](https://mega.nz/file/ZcMnXIQA#_uhqRyS0-YeTmMQzgKOCGLa5x0wARQoEMzYEqvCmX6c)
+- [Basic ExaGear files](https://mega.nz/file/VQ1RySQD#TwVTuEJB-woteCXr2ul-VfcHgQJgNwRPwDHkhzeyW9I)
 
 Super ultra mega blaster tutorial on how to set this one up:
 
 1. After downloading and extracting the ExaGear APK + OBB, you'll move the `com.eltechs.ee` folder to a folder called `OBB` within the Android folder on your phone -> `0/android/obb`.
 2. Install the ExaGear APK that was included with the extracted files.
-3. Open the app, swipe to the right, and go to the tab labeled `manage containers`. Once inside, swipe to the left and click on the '+' symbol in the top left corner.
-4. With the new container created, click on the three dots next to it and go to properties. Here, you'll change the color depth to 32 bits, set the locale to Japan, and uncheck all the option boxes below.
-5. Return to the container's home page, click on the three dots again, and open the `run explorer` option. It may take a while to start.
-6. When it opens, in its file window and under `My Computer`, navigate to the folder where you downloaded the `basic ExaGear files` earlier.
-7. Double-click on `k lite...`. Once it opens, you'll need to choose `Advanced` instead of `Normal`.
+3. Open the app, swipe to the right, and go to the tab labeled `Manage Containers`. Once inside, swipe to the left and click on the "+" button in the top-right corner.
+4. With the new container created, click on the three dots next to it and go to `Properties`. Here, you'll change the color depth to `32bit`, set the locale to `Japanese`, and uncheck all the option boxes below.
+5. Return to the container's home page, click on the three dots again, and open the `Run Explorer` option. It may take a while to start.
+6. When it opens, in its file window and under `Computer`, navigate to the folder where you downloaded the basic ExaGear files earlier.
+7. Double-click on `K-Lite...`. Once it opens, you'll need to choose `Advanced` instead of `Normal`.
 8. Click on `Next`, and in the next window under the `Preferred audio player` option, choose `Media Player Classic...`.
-9. Keep clicking on `Next` until you reach the `additional task and options` window. Here, you'll uncheck all 4 boxes within the `system tray icons` field.
-10. Install all the files in the `Visual C` folder.
-11. After installing them, go back to the location where you downloaded the `basic ExaGear files` and run `MPsetup`.
-12. Continue clicking on `Next` until it installs. Usually, the first installation attempt ends in an error. If that's the case for you, click again and try to install it until it succeeds.
-13. Now you can run your game!
+9. Keep clicking on `Next` until you reach the `Additional Tasks and Options` window. Here, you'll uncheck all 4 boxes within the `System tray icons` field.
+10. Continue clicking on `Next` until the installation finishes.
+11. Install all the files in the `Visual-C...` folder.
+12. After installing them, go back to the location where you downloaded the basic ExaGear files and run `MPSetupXP.exe`.
+13. Continue clicking on `Next` until the installation finishes. The first installation attempt usually ends in an error. If that's the case for you, rerun `MPSetupXP.exe` until it succeeds.
+14. Now you can run your game!
 
-First of all, I'd like to remind you that it was quite a hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss the VN compatibility with Exagear.
+First of all, I'd like to remind you that it was quite a hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss the VN compatibility with ExaGear.
 
 ### Winlator
 
 HE IS THE GOAT! THE GOAT!!!!
 
-Jokes aside, Winlator is probably, along with Mobox, the best Windows emulator on Android. Unlike Exagear, it actually works with 64-bit programs. You'll find videos of people playing all sorts of games on it if you search online.
+Jokes aside, Winlator is probably, along with Mobox, the best Windows emulator on Android. Unlike ExaGear, it actually works with 64-bit programs. You'll find videos of people playing all sorts of games on it if you search online.
 
 Unfortunately, quality comes with a price, and the price is performance in this case. You really need a good phone to run Winlator at its best. I recommend one with the Snapdragon 855 or higher, but I believe anything above the Snapdragon 732g should be enough for most VNs.
 
@@ -103,7 +104,7 @@ Super ultra mega blaster tutorial on how to set "the GOAT" up:
 
 <ol>
   <li>Download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run.</li>
-  <li>After the installation is complete, swipe the screen to the right or click on the three stacked lines at the top-left, go to <code>Containers</code>, and then click on the + button to create a container.</li>
+  <li>After the installation is complete, swipe the screen to the right or click on the button with three stacked lines in the top-left corner, go to <code>Containers</code>, and then click on the "+" button to create a container.</li>
   <li>Container settings:
     <ul>
       <li><code>Name</code> -> You can choose anything. It doesn't matter.</li>
