@@ -1,6 +1,6 @@
 # Visual novels on Android
 
-## The Google Play Store
+## Google Play Store
 
 Native Android visual novels exist, but most of these are gacha cash grab trash. There are a few Android ports of Windows visual novels which you can buy at the Japanese Play Store or... _wink wink_ by "other means". You can switch to the Japanese Play Store by using a Japanese VPN, then clearing your Play Store data and cache.
 
@@ -45,7 +45,7 @@ Requirements:
   </div>
 
   <div>
-    <b>OBS 2:</b> While the Snapdragon 865 is the recommended SoC for running most of the Switch library, I wouldn't recommend using it for anything too demanding. This SoC was quite good with all the VNs I tested, so in that respect I don't think you'll have a problem even if you use a weaker SoC. That being said, I tried it with the 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the 732g will be able to run most VNs on this emulator.
+    <b>OBS 2:</b> While the Snapdragon 865 is the recommended SoC for running most of the Switch library, I wouldn't recommend using it for anything too demanding. This SoC was quite good with all the VNs I tested, so in that respect I don't think you'll have a problem even if you use a weaker SoC. That being said, I tried it with the Snapdragon 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the Snapdragon 732g will be able to run most VNs on this emulator.
   </div>
 
 All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The setup is straightforward with links to every necessary resource. There's even a brief explanation of the customized drivers that I mentioned earlier. With that, you can now read your VNs on your phone!
@@ -60,7 +60,7 @@ Now... now I can finally talk about my babies!!! It is worth mentioning that alt
 
 Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as "Windows emulators", the truth is that they are nothing more than Wine emulators.
 
-Having said that, let me rank ExaGear among the other three: it's the slowest and has the least support. As I mentioned before, it only works on 32-bit programs, so any 64-bit visual novel won't work on it. Furthermore, running it decently will depend a lot on the VN itself. I also recommend having a decent phone, but compared to Yuzu and Vita3K, anything with performance comparable to Snapdragon 845 should be more than enough for this emulator. Oh, and even with a VERY good device, your VN may still lag a bit, or even take 10 minutes to open. It all depends on the VN, and I recommend you test each game.
+Having said that, let me rank ExaGear among the other three: it's the slowest and has the least support. As I mentioned before, it only works with 32-bit programs, so any 64-bit visual novel won't work on it. Furthermore, running it decently will depend a lot on the VN itself. I also recommend having a decent phone, but compared to Yuzu and Vita3K, anything with performance comparable to the Snapdragon 845 should be more than enough for this emulator. Oh, and even with a VERY good device, your VN may still lag a bit, or even take 10 minutes to open. It all depends on the VN, and I recommend you test each game.
 
 Setup files:
 
@@ -89,11 +89,11 @@ First of all, I'd like to remind you that it was quite a hassle to test all of t
 
 HE IS THE GOAT! THE GOAT!!!!
 
-Jokes aside, this is probably, along with Mobox, the best Windows emulator on PC. It works with 64-bit programs as well, and you can even run PC games on it. If you search online, you'll find videos of people playing on it.
+Jokes aside, Winlator is probably, along with Mobox, the best Windows emulator on Android. Unlike Exagear, it actually works with 64-bit programs. You'll find videos of people playing all sorts of games on it if you search online.
 
-Unfortunately, quality comes with a price, and the price is performance in this case. You really need a good phone to run Winlator at its best. I believe that for most visual novels, anything above the 732g should be enough. But for compatibility with the rest of the titles, you'll need something like the Snapdragon 855 or higher.
+Unfortunately, quality comes with a price, and the price is performance in this case. You really need a good phone to run Winlator at its best. I recommend one with the Snapdragon 855 or higher, but I believe anything above the Snapdragon 732g should be enough for most VNs.
 
-Since it's still a relatively new emulator, it's a bit finicky. You'll need to test each visual novel and adjust Winlator's settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
+Since it's still a relatively new emulator, it's a bit finicky. You'll need to test each VN and adjust Winlator's settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
 
 Setup files for "the goat":
 
