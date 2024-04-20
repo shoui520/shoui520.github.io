@@ -41,10 +41,10 @@ Requirements:
 - At least something with comparable performance to the Snapdragon 865\*
 
 !!! warning "Memory leaks"
-I specified 6GB of RAM as a minimum requirement for the emulator, but I would advise you to close it once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to a lack of RAM from Yuzu's memory leaks. And while you can run most VNs with 6GB of RAM, other games could require even greater amounts of RAM.
+    I specified 6GB of RAM as a minimum requirement for the emulator, but I would advise you to close it once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to a lack of RAM from Yuzu's memory leaks. And while you can run most VNs with 6GB of RAM, other games could require even greater amounts of RAM.
 
 !!! info "Minimum required SoC"
-While the Snapdragon 865 _is_ the official recommended SoC, it might struggle with particularly demanding games. Nevertheless, this SoC performed well with all the VNs I tested. I also tried emulating with the Snapdragon 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the Snapdragon 732g will be able to run most VNs on this emulator.
+    While the Snapdragon 865 _is_ the official recommended SoC, it might struggle with particularly demanding games. Nevertheless, this SoC performed well with all the VNs I tested. I also tried emulating with the Snapdragon 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the Snapdragon 732g will be able to run most VNs on this emulator.
 
 All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The setup is straightforward with links to every necessary resource. There's even a brief explanation of the customized drivers that I mentioned earlier. With that, you can now read your VNs on your phone!
 
@@ -55,7 +55,7 @@ Now... now I can finally talk about my babies!!! It is worth mentioning that alt
 ### ExaGear
 
 !!! warning "Only use ExaGear if you have to!"
-Only use ExaGear if your phone can't run the other emulators on the page, or if you want to test something that doesn't work on the other Windows emulators.
+    Only use ExaGear if your phone can't run the other emulators on the page, or if you want to test something that doesn't work on the other Windows emulators.
 
 Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as "Windows emulators", the truth is that they are nothing more than Wine emulators.
 
@@ -84,7 +84,7 @@ Super ultra mega blaster tutorial on how to set this one up:
 14. Now you can run your game!
 
 !!! info "Need more help?"
-It was quite the hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there.
+    It was quite the hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there.
 
 You'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss the VN compatibility with ExaGear.
 
@@ -97,7 +97,7 @@ Jokes aside, Winlator is probably, along with Mobox, the best Windows emulator o
 Unfortunately, quality comes with a price, and the price is performance in this case. You really need a good phone to run Winlator at its best. I recommend one with the Snapdragon 855 or higher, but I believe anything above the Snapdragon 732g should be enough for most VNs.
 
 !!! info "Troubles with new emulators"
-Since Winlator is still relatively new, it's a bit finicky. You'll need to test each VN and adjust the emulator settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
+    Since Winlator is still relatively new, it's a bit finicky. You'll need to test each VN and adjust the emulator settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
 
 Setup files for "the goat":
 
