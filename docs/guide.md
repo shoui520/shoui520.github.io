@@ -311,7 +311,7 @@ There have been many resources throughout the years that teach grammar, many gre
 
 Here are a few guides ranked based on how much I recommend them to total beginners You do not need to do every single one, just find the one that works well for you.
 
-[Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+[Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)[transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)    
 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
 [Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
 [Sakubi](https://gohoneko.neocities.org/learn/anon/sakubi)  

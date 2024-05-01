@@ -94,10 +94,25 @@ The 5ch 過去ログ is where DAT落ち'd threads go. You can view the 過去ロ
 
 You can visit the [過去ログ web page](https://kakolog.jp/) to search for older threads were archived too recently to be indexed by Google.
 
-IMPORTANT UPDATE OCTOBER 2023: Following a period of DDoS attacks, 過去ログ threads can no longer be viewed due to the error code 522. 
+IMPORTANT UPDATE OCTOBER 2023: Following a period of DDoS attacks, 過去ログ threads can no longer be viewed due to the error code 522.  
+
 Update December 2023: Many threads still cannot be viewed. It is unknown what is causing this because it has been 2 months now with no fix.   
 
 ## Posting
+
+## NEW: DONGURI system
+
+As a troll and spam prevention measure, users are required to *plant an acorn* and wait before they are able to post. 
+
+You can do this by typing `!donguri` in the 名前 field and post anything in any thread. 
+You will need to repeat this on every different device/browser/app you use 5ch on.  
+![Image](img/2ch15.png)  
+
+After that you should get an error message telling you that the acorn (donguri) has been planted. You will be able to post after a few minutes have passed. 
+
+![Image](img/2ch14.png)  
+
+
 
 You can post on 5ch by scrolling right to the bottom of the thread and typing in the text box.  
 
@@ -225,7 +240,9 @@ The search bar on the site is fine to search thread titles of active thread.
 
 ## 結局 No point of using 5ch?? / まとめサイト introduction
 5ch can have a lot of interesting posts, however a lot of threads may be クソスレ (crappy threads) and a lot of responses in threads may be クソレス (crappy responses). It can also be hard to find things on 5ch.  
+
 That is where まとめサイト's come in. These sites take interesting threads and only the interesting responses, and put them on a 3rd party site. These sites are also usually specialized in only posting about one topic. For example, there is a [Love Live! 5ch matome site](http://lovelivematocha.com/) that takes threads from the ラブライブ！ board. Here's [ピコピコ通信](https://stkn-games.net/), a まとめサイト that posts threads from video game related 5ch boards. Here's [アルファルファモザイク](https://alfalfalfa.com/) which is more like a general まとめサイト.  
+  
 In my opinion, まとめサイト's are the real Japanese alternative to mindlessly scrolling something like Reddit. You can spend hours being entertained just looking at まとめサイト's.  
 There is a まとめサイト for pretty much any hobby / interest, just search on Google for them. You can see a まとめサイト recommendation list here:  
 [【完全版】おすすめまとめサイト30選！2chなどジャンル別に調査！](https://monamona2525.com/archives/59506)  
@@ -273,9 +290,15 @@ Originally 20 years ago, this meant boards that got special treatment, but now t
 5ch is usually anonymous, however you can post with a name. This is called コテハン.
 ### トリップ/酉/鳥
 This is similar to [コテハン](#_8), but a トリップ is made by a special string of characters that only you should know, that becomes another string of characters, this is your トリップ. People may want to post with a トリップ when they want to be specially identified. You can make a trip like this: `<name> #<random string>`
+### 垢版
+Different spelling of 垢BAN, or アカウントBAN, the name might suggest it bans people but it's just the link to the donguri page.  
+### 大砲
+When you have UPLIFT, you can become a "Hunter" on the site. you can shoot an "acorn cannon" (どんぐりキャノン) at someone you suspect to be a troll. This can get their donguri level reset to 0.  
 ### !extend:checked:vvvvv:1000:512
 This is a command you can use in the OP of a 5ch thread to enable forced [コテハン](#_8) mode. This is a troll prevention measure because it means each member can be identified with a "[ﾜｯﾁｮｲ](#_10)" followed by a special code. Well-moderated boards often have this as a requirement for all threads. You also often see this in multiple part threads with templates for the OP. ID's on 5ch reset when the date changes or when you post from a different IP address, so IDs aren't enough. People will post multiple lines of the string `!extend:checked:vvvvv:1000:512` to remind others to not forget to post it when they make the new OP when the thread dat落ち's.  
 A more severe version of this with more v's displays each poster's IP address (`!extend:checked:vvvvvv:1000:512`), however this is more rare. 
+### 狼
+モーニング娘 board  
 ### ﾜｯﾁｮｲ
 What gets displayed next to your name along with a special code when you post in threads that have `!extend:checked:vvvvv:1000:512` in the OP. 
 ### ROMる

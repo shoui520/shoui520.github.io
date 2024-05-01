@@ -48,7 +48,9 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
+    - navigation.instant.progress
     - navigation.sections
+    - navigation.expand
     - search.suggest
     - search.highlighting
     - search.share
@@ -73,6 +75,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.keys
   - pymdownx.tabbed
+  - toc:
+      permalink: true
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -84,32 +88,32 @@ plugins:
         - en
         - ja
   - open-in-new-tab
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Français
-      link: /fr/
-      lang: fr
-    - name: Deutsch
-      link: /de/
-      lang: de
-    - name: Español
-      link: /es/
-      lang: es
-    - name: Italiano
-      link: /it/
-      lang: it
-    - name: Português (Brasil)
-      link: /pt-BR/
-      lang: pt-br
-    - name: Русский
-      link: /ru/
-      lang: ru
-    - name: Bahasa Indonesia
-      link: /id/
-      lang: id
-    - name: tiếng Việt
-      link: /viet/
-      lang: viet
+# extra:
+#   alternate:
+#     - name: English
+#       link: /
+#       lang: en
+#     - name: Français
+#       link: /fr/
+#       lang: fr
+#     - name: Deutsch
+#       link: /de/
+#       lang: de
+#     - name: Español
+#       link: /es/
+#       lang: es
+#     - name: Italiano
+#       link: /it/
+#       lang: it
+#     - name: Português (Brasil)
+#       link: /pt-BR/
+#       lang: pt-br
+#     - name: Русский
+#       link: /ru/
+#       lang: ru
+#     - name: Bahasa Indonesia
+#       link: /id/
+#       lang: id
+#     - name: tiếng Việt
+#       link: /viet/
+#       lang: viet
