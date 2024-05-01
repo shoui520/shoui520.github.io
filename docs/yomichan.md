@@ -23,7 +23,7 @@ I recommend you install the following dictionaries:
 	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
 	- `Bilingual/[Bilingual] 新和英.zip`  
 	- `Kanji/[Kanji] KANJIDIC (English).zip`  
-	- `Grammar/Dictionary of Japanese Grammar.zip` 
+	- `Grammar/Dictionary of Japanese Grammar.zip`  
 	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
 ## Installing dictionaries and basic usage
