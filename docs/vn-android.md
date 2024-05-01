@@ -40,13 +40,11 @@ Requirements:
 - Android 11+
 - At least something with comparable performance to the Snapdragon 865\*
 
-  <div>
-    <b>OBS 1:</b> I have specified 6GB of RAM as a minimum requirement for the emulator, yet, when playing for a long time, I would advise you to close the emulator once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to a lack of RAM from Yuzu's memory leaks. And while you can run most VNs with 6GB of RAM, other games could require even greater amounts of RAM.
-  </div>
+!!! warning "Memory leaks"
+    I specified 6GB of RAM as a minimum requirement for the emulator, but I would advise you to close it once every 50-60 minutes and restart the phone. If you don't, there's a chance that it will crash due to a lack of RAM from Yuzu's memory leaks. And while you can run most VNs with 6GB of RAM, other games could require even greater amounts of RAM.
 
-  <div>
-    <b>OBS 2:</b> While the Snapdragon 865 is the recommended SoC for running most of the Switch library, I wouldn't recommend using it for anything too demanding. This SoC was quite good with all the VNs I tested, so in that respect I don't think you'll have a problem even if you use a weaker SoC. That being said, I tried it with the Snapdragon 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the Snapdragon 732g will be able to run most VNs on this emulator.
-  </div>
+!!! info "Minimum required SoC"
+    While the Snapdragon 865 _is_ the official recommended SoC, it might struggle with particularly demanding games. Nevertheless, this SoC performed well with all the VNs I tested. I also tried emulating with the Snapdragon 732g as well, but it stuttered in a good number of VNs. Therefore, I believe that something stronger than the Snapdragon 732g will be able to run most VNs on this emulator.
 
 All the information on how to set up the emulator can be found [here](https://yuzu-mirror.github.io/entry/yuzu-android/) and [here](https://www.youtube.com/watch?v=RxBGJdafY6k). The setup is straightforward with links to every necessary resource. There's even a brief explanation of the customized drivers that I mentioned earlier. With that, you can now read your VNs on your phone!
 
@@ -56,7 +54,8 @@ Now... now I can finally talk about my babies!!! It is worth mentioning that alt
 
 ### ExaGear
 
-<b>OBS:</b> It's recommended to use Winlator or Mobox instead for Windows emulation. Only use ExaGear if your phone can't run the other emulators, or if you want to test something that doesn't work on the other two.
+!!! warning "Only use ExaGear if you have to!"
+    Only use ExaGear if your phone can't run the other emulators on the page, or if you want to test something that doesn't work on the other Windows emulators.
 
 Well, let's start by talking about ExaGear. It was a paid project whose focus was essentially to run 32-bit Windows programs on Android. As I've mentioned before, even though I referred to them as "Windows emulators", the truth is that they are nothing more than Wine emulators.
 
@@ -84,7 +83,10 @@ Super ultra mega blaster tutorial on how to set this one up:
 13. Continue clicking on `Next` until the installation finishes. The first installation attempt usually ends in an error. If that's the case for you, rerun `MPSetupXP.exe` until it succeeds.
 14. Now you can run your game!
 
-First of all, I'd like to remind you that it was quite a hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there. Now, back to the emulator, haha. Well, you'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss the VN compatibility with ExaGear.
+!!! info "Need more help?"
+    It was quite the hassle to test all of this. If you encounter any errors, just ping me (@elderruna) on TMW's Discord, and we can sort it out there.
+
+You'll install the game as you normally would on PC. I recommend getting 32-bit VNs that don't require installation where you only need to open the executable. It's also worth mentioning that not all VNs work on it. You need to experiment to see how it goes or look through some forums, such as Reddit, where people discuss the VN compatibility with ExaGear.
 
 ### Winlator
 
@@ -94,34 +96,39 @@ Jokes aside, Winlator is probably, along with Mobox, the best Windows emulator o
 
 Unfortunately, quality comes with a price, and the price is performance in this case. You really need a good phone to run Winlator at its best. I recommend one with the Snapdragon 855 or higher, but I believe anything above the Snapdragon 732g should be enough for most VNs.
 
-Since it's still a relatively new emulator, it's a bit finicky. You'll need to test each VN and adjust Winlator's settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
+!!! info "Troubles with new emulators"
+    Since Winlator is still relatively new, it's a bit finicky. You'll need to test each VN and adjust the emulator settings accordingly. The upside is that the community is quite active, so if you encounter any issues, you can reach out to them.
 
 Setup files for "the goat":
 
 - [Winlator APK](https://github.com/brunodev85/winlator/releases)
+- [Japanese fonts](https://mega.nz/file/Ew4kgbLZ#50_ZK6tLdcv5AlWs9c00LOGoql_bA6HAbHDqTt1y0Rc)
 
 Super ultra mega blaster tutorial on how to set "the GOAT" up:
 
 <ol>
-  <li>Download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run.</li>
+  <li>Download and extract the Japanese fonts from <code>MSFonts.zip</code>; they will be needed later.</li>
+  <li>Download the APK from above, install it, and open the application while connected to the internet. It will download all the necessary data for it to run. </li>
   <li>After the installation is complete, swipe the screen to the right or click on the button with three stacked lines in the top-left corner, go to <code>Containers</code>, and then click on the "+" button to create a container.</li>
   <li>Container settings:
     <ul>
       <li><code>Name</code> -> You can choose anything. It doesn't matter.</li>
       <li><code>Screen Size</code> -> Choose <code>800x600</code> only if your phone is weak. You'll lose compatibility with a lot of VNs that don't support this resolution. If you want to focus on compatibility and your phone can handle it, go for <code>1280x720</code>.</li>
       <li><code>Graphics Driver</code> -> If your SoC is Snapdragon, choose <code>Turnip</code>. If it's anything else, choose <code>VirGL</code>.</li>
-      <li><code>DX Wrapper</code> -> If your SoC is Snapdragon, choose <code>DXVK</code>. If you have any other SoC, choose <code>WineD3D</code>. Selecting <code>DXVK</code> makes a gear icon appear next to the setting, and clicking it shows a menu where you can choose the in-game screen framerate, the driver version, and also the amount of RAM to allocate. Since we're talking about VNs, 2GB (2048 MB) should be enough for allocation. If the VN doesn't run, increase the RAM allocated and test again.</li>
+      <li><code>DX Wrapper</code> -> If your SoC is Snapdragon, choose <code>DXVK</code>. If you have any other SoC, choose <code>WineD3D</code>. Selecting <code>DXVK</code> makes a gear icon appear next to the setting, and clicking it shows a menu where you can choose the in-game screen framerate, the driver version, and also the amount of RAM to allocate. Since we're talking about VNs, 2GB (2048 MB) should be enough for allocation. If the VN doesn't run, allocate more RAM and test again.</li>
       <li><code>Audio Driver</code> -> <code>PulseAudio</code></li>
       <li>Enable all CPU boxes (0, 1, 2, 3...)</li>
       <li>In the <code>Wine Configuration</code> tab, choose a GPU and allocate its memory. Depending on what you choose, the container may crash. Test your VN with the default GPU <code>GT 9800GT</code>. If it doesn't work, create a new container and change the GPU in it until it works.</li>
-      <li>Grab the slider where the <code>Wine Configuration</code> tab is located, drag it to the left until the <code>Advanced</code> tab appears, and in it, set both <code>Box86</code> and <code>Box64</code> to compatibility mode.</li>
+      <li>Grab the slider where the <code>Wine Configuration</code> tab is located, drag it to the left until the <code>ENVIRONMENT VARIABLES</code> tab appears, click on it, and then click the <code>Add</code> button at the bottom. Enter in <code>LC_ALL</code> for the <code>Name</code> field, and <code>ja_JP.UTF-8</code> for the <code>Value</code> field. Click <code>OK</code>.
+      <li>Drag the slider to the left until the <code>Advanced</code> tab appears, and in it, set both <code>Box86</code> and <code>Box64</code> to <code>Compatibility</code>.</li>
     </ul>
   </li>
   <li>Click on the checkmark button to save your container settings.</li>
-  <li>Back in the <code>Containers</code> menu, click on the three dots of the new container and then click on <code>Run</code>. There you go, it's already working.</li>
+  <li>Back in the <code>Containers</code> menu, click on the three dots of the new container and then click on <code>Run</code>.</li>
+  <li>In the file explorer window that opens up, navigate to the <code>D:</code> drive and find the folder where you extracted fonts to.</li>
+  <li>Copy and paste <code>msgothic.ttc</code> and <code>msmincho.ttc</code> to <code>C:\windows\Fonts</code>.</li>
+  <li>Now you can run your game!</li>
 </ol>
-
-<b>OBS:</b> If you're going to play VNs in Japanese, don't forget to download the location emulator for PC and leave the file in your phone's folder to open with Winlator. They probably won't open otherwise.
 
 ## Kirikiroid2
 
