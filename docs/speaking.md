@@ -23,7 +23,7 @@ Another reason why it is bad to output early is that you don’t know what’s r
 ### What if I make a mistake?
 Get over it and move on. It’s not a big deal. As long as you are immersing everyday it is no big deal!
 **Can I talk to other learners?**
-Speaking Japanese to other Japanese learners is the WORST thing you could ever do. :slight_smile: Because as a learner you can't tell if someone's Japanese is natural or not, so you could learn something incorrect. This can be fixed by talking with natives instead.
+Using Japanese regularly, regardless of who you are using it to talk to is essential in expanding your active vocabularly. As long as you are immersing, there is no harm in talking to other learners.  
 
 ### Other Links
 [AntiMoon Article](http://www.antimoon.com/other/myths-speaking.htm)  
