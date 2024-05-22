@@ -8,10 +8,9 @@ There are a couple of native iOS "visual novels" but these are usually spin offs
 
 While there *are* in fact native iOS "visual novels", these are usually gacha trash, and nobody wants to play them. That's why I feel emulating PSP visual novels is a better idea, just because the games on a PSP console are just going to be *so* much higher quality than games made for phones.
 
-It is a little more tricky to get PPSSPP working on iOS without a jailbreak, but it is definitely possible.  
+Getting PPSSPP on iOS used to require sideloading like Kirikiroid2 does, but it can now just be found on the Appstore. 
 You will need:  
-[AltStore](https://altstore.io/) - check the [FAQ](https://altstore.io/faq/) on the website for instructions  
-[PPSSPP IPA](https://www.ppsspp.org/downloads.html)  
+[PPSSPP from the App Store](https://apps.apple.com/us/app/ppsspp-psp-emulator/id6496972903)
 
 ## Non-jailbreak: Kirikiroid2  
 
