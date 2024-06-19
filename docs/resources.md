@@ -64,7 +64,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific). 
 - **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.   
 - [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.  
-- [Search on bilibili]((https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
+- [Search on bilibili](https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 
@@ -89,7 +89,7 @@ The websites below have the best collection but can be a pain to download from.
 - [13dl.to](http://13dl.to/) - Similar to a-zmanga. 
 - [JPDDL](https://jpddl.com/manga) - Similar to a-zmanga.  
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
-- 
+
 ### Novels and Literary Texts
 - ~~**[※Itazuraneko EPUB AZW3 MOBI Full List](https://itazuraneko.neocities.org/library/shousetu/shousetulist)**~~ 
 - ~~[Itazuraneko Old Novel Library](https://itazuraneko.neocities.org/shousetu/index.html) - This page has a lot of books, and you are able to sort by genre, author, kanji count and such. You may want to uncheck "Hide books translated from English", as it is enabled by default.~~
