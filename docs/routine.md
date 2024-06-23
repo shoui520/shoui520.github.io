@@ -22,130 +22,99 @@ What I expect from you:
 
 ## Day 1  
 
+Today you'll be:  
+   - Learning about how kana is used  
+   - Writing out kana  
+   - Practicing recalling kana  
+
 ### Stage: Starting kana stage  
 The absolute first thing you need to do when you learn Japanese is to learn the kana. Kana is short for hiragana and katakana.  
 
-Why and how they are used can get confusing for newcomers to Japanese.  
+- Why and how they are used can get confusing for newcomers to Japanese.  So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.  
+*Note: You will not be memorizing the kana with this link. That will be explained further below.*
 
-So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+- When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).  
+It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.   
 
-Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.    
+- Then, watch this video by JapanesePod: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
+*Note: This should probably be the only Japanese Pod video you should watch though...*
 
-It is quite a hefty amount of text. It could take some time.  
+- Now, you are going to practice your kana on the following website. [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html).  
+At the bottom of the screen click the "show/hide options" button. Scroll through the categories and click "check all" so all the boxes are ticked for each kana. You can leave the fonts with only the first one ticked. 
 
-By the way you aren't memorizing the kana with that link. I will explain how you will do that below.  
+- Practice your kana for the next 10 minutes by writing in the text box. 
+You can use this timer here: [10 minute timer](https://www.online-stopwatch.com/timer/10minutes/).  
+*Note: Spend no more than 10 seconds per attempt, if you can't remember mouse over the kana to show the correct romaji*
 
-
-When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
-
-It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty.  
-
-You can do it on a paper or a screen, it doesn't matter really.   
-
-Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
-
-It is a video by JapanesePod. This should probably be the only Japanese Pod video you should watch though, just sayin'.  
-
-Now, go on this website. [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html)  
-
-Click "show/hide options"  
-
-Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
-
-Type the correct romaji in the text box. This is how you'll practice your kana.  
-
-Do this for 10 minutes.  
-
-You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
-
+Once you've done all the above that will conclude your first day.
 
 ## Day 2  
 
+Today you'll be:
+- Practicing recalling kana  
+- Learning what the subtitle tutor method is.  
+- Putting immersion into practice with the subtitle tutor method
+
+#### Daily Review
+- Practice recalling kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.([10 minute timer](https://www.online-stopwatch.com/timer/10minutes/))  
+     If you feel you are struggling it may be helpful to go back and copy out the [the chart from the main guide](/img/hiragana_katakana_LARGE.png) again. 
+     *Note: Remember that all kana should be enabled.*  
+
 ### Stage: Creating your own Japan at home  
+Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit. Slice of life is a good place to start, however there are many, many anime that have simple Japanese.  
 
-Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).
-Do not forget that all kana must be enabled.  
+- Here are some suggestions (but you can use anything you want):  
+   >Love Live! (Any)  
+   >Non Non Biyori  
+   >Kimetsu no Yaiba  	
+   >Koe no Katachi  
+   >Hotarubi no Mori e    
+   >Toki wo Kakeru Shoujo    
+   >Himouto! Umaru-chan  
+   >Nakitai Watashi wa Neko o Kaburu  
+   >Yuru Yuri  
+   >Precure (Any)  
+   >Gabriel Dropout  
+   >Gakuen Utopia Manabi Straight  
+   >K-on  
+   >Ao haru Ride  
+   >Usagi Drop  
+   >Flying Witch  
+   >Byousoku 5 Centimeter  
+   >Kiniro Mosaic  
+   >New Game  
+   
+   See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
 
-Surrounding your daily life with Japanese is the most important part of the immersion method.  
+>**Q: Everything here is so boooooring!!!! I'd rather watch something actually good!**  
+> A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.
 
-It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit.  
+- **Your task:**  
+   
+   I want you to try immersing for the first time with the "subtitle tutor" method.  
+   
+   The subtitle tutor method goes as follows; Watch an episode of an anime with English subtitles, re-watch it again without subtitles, finally whilst other things listen to the episode (wireless earbuds makes this easier).  
+   
+   The flowchart process:
+   
+   1. Watch with English subtitles  
+   2. Watch without any subtitles (also known as raw listening)  
+   3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)  
 
-Slice of life is a good place to start.  
+   Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.
+   While watching the episode raw, don't worry if you can't understand. Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
+   
+   The process of understanding Japanese is a skill that takes a long time. It all begins with raw listening and trying to make that listening comprehensible. The subtitle tutor method is only meant to provide context for the audio you are listening to. I also recommend listening to the audio when doing other things. By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
+   
+   *Note: Listening while doing other things = **passive immersion**.*  
+   *Listening with undivided attention = **active immersion**.*
 
-There are many, many anime that have simple Japanese.  
+With that the second day is complete and you're ready for the next day where you will begin learning grammar.
 
-Here are some suggestions (but you can use anything you want):  
+>**Q: Why immersion before any grammar or vocabulary study?**  
+>A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
 
-Love Live! (Any)  
-Non Non Biyori  
-Kimetsu no Yaiba  	
-Koe no Katachi  
-Hotarubi no Mori e    
-Toki wo Kakeru Shoujo    
-Himouto! Umaru-chan  
-Nakitai Watashi wa Neko o Kaburu  
-Yuru Yuri  
-Precure (Any)  
-Gabriel Dropout  
-Gakuen Utopia Manabi Straight  
-K-on  
-Ao haru Ride  
-Usagi Drop  
-Flying Witch  
-Byousoku 5 Centimeter  
-Kiniro Mosaic  
-New Game  
-
-See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
-
-**Q: Everything here is so boooooring!!!! I'd rather watch something actually good!**
-
-A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
-
-**Your task:**  
-
-I want you to try immersing for the first time with the "subtitle tutor" method.  
-
-The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier).  
-
-The flowchart process:
-
-1. Watch with English subtitles  
-2. Watch without any subtitles (also known as raw listening)  
-3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
-
-Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.  
-
-While watching the episode raw, don't worry if you can't understand.  
-
-Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
-
-Becoming able to understand Japanese is a skill that takes a long time.  
-
-But it all begins with raw listening and trying to make that listening comprehensible.  
-
-The subtitle tutor method is only meant to provide context for the audio you are listening to.   
-
-I also recommend listening to the audio when doing other things.  
-
-By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
-
-Note: Listening while doing other things = **passive immersion**.  
-Listening with undivided attention = **active immersion**.  
-
-
-**Q: Why immersion before any grammar or vocabulary study?** 
-
-A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
-
-**Q: So, I've completed my first episode, what should I do now?**
-
-A: You can consider your immersion done for the day but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
-
-[Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
-
-I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
 ## Day 3
 
 ### Stage: Just starting grammar
