@@ -4,9 +4,9 @@
 
 Please see below.
 
-[Get Japanese Subtitles](https://learnjapanese.moe/resources/#subtitles)  
+[Get Japanese Subtitles](https://learnjapanese.moe/resources/#subtitles)
 
-## Guides  
+## Guides
 
 [Matt vs. Japan: mpv: The Best Video Player for Language Learning](https://youtu.be/bbg6ztWecbU)
 

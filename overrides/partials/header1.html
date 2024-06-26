@@ -27,11 +27,11 @@
 <header class="md-header" data-md-component="header">
 
     <!-- Top-level navigation -->
-    <nav class="md-header-nav md-grid" aria-label="{{ lang.t('header.title') }}">
+    <nav aria-label="{{ lang.t('header.title') }}" class="md-header-nav md-grid">
 
         <!-- Link to home -->
-        <a href="{{ site_url }}" title="{{ config.site_name | e }}" class="md-header-nav__button md-logo"
-            aria-label="{{ config.site_name }}">
+        <a aria-label="{{ config.site_name }}" class="md-header-nav__button md-logo" href="{{ site_url }}"
+           title="{{ config.site_name | e }}">
             {% include "partials/logo.html" %}
         </a>
 
