@@ -45,8 +45,7 @@ You will need to set your locale to Japanese (Japan).
 2. Type `intl.cpl` and press ++enter++
 3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.
 
-Now if you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > *
-*Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.
+Now if you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.
 
 Standard font: Meiryo UI  
 Serif font: Yu Mincho  
@@ -98,10 +97,8 @@ Sans-serif font: Noto Sans CJK JP Regular
 ##### Firefox
 
 Unless Firefox has a Japanese set as one of its languages or the webpage (or one of its sections) explicitly claims to
-be
-in Japanese (`lang="ja"`), it tends to fall back to Chinese characters. This is because Chinese fonts tend to have a
-more
-complete character coverage.  
+be in Japanese (`lang="ja"`), it tends to fall back to Chinese characters. This is because Chinese fonts tend to have a
+more complete character coverage.  
 To counteract this, do the following:
 
 1. Open a new tab to `about:config`

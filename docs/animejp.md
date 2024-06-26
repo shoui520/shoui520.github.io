@@ -7,13 +7,11 @@ one talks that way!". However, this is in fact, false.
 First, let's consider just exactly why this argument exists in the first place.
 Usually when people say this, they don't know why the argument exists anyway, in other words, most people saying this
 don't know what they're talking about.
-The argument comes from the fact that if you learn Japanese using anime, you will think, "
-おい、てめぇなにやってんだ！コラァ！" and "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" is
+The argument comes from the fact that if you learn Japanese using anime, you will think, "おい、てめぇなにやってんだ！コラァ！" and "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" is
 natural. (Just imagine some very cringe and rude things if you cant read it haha)
 In actual fact, this is not true at all.
 It is important to remember that every anime is different, some speak more natural than others, some may sound more
-masculine than others, some may sound more feminine than others. For example, "Kimi no Na wa." is more natural than "
-Dragon Ball Z".
+masculine than others, some may sound more feminine than others. For example, "Kimi no Na wa." is more natural than "Dragon Ball Z".
 And "Love Live!" is more natural than "Kill la Kill".
 In anime such as "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen", each character speaks different. Some
 characters speak like an "anime", while others actually sound pretty natural.
@@ -37,13 +35,13 @@ the reality show with natural unscripted Japanese) they were making fun of textb
 ### So what exactly is real Japanese?
 
 Simple Answer. Japanese made by a NATIVE FOR NATIVES. Anime is scripted by natives. Movies are scripted by natives.
-J-Drama is scripted by natives. These content are made for Japanese people, and aren't necessarily intended for learning
+J-Drama is scripted by natives. These content are made for Japanese people, and aren't necessarily intended for learning,
 but surprisingly they are an incredibly powerful tool for learning.
 Textbooks, although they may be written by a native, they are made for foreigners. The Japanese gets watered down,
 artificial and filtered, for foreigners. That's why you shouldn't use content dumbed down for learners unless you are
 starting Japanese from scratch, in that case it is okay, but you should let go of it as soon as possible.
 
-###Do not generalize Anime!
+### Do not generalize Anime!
 
 It is annoying to constantly hear people saying that anime will make you always sound like you're about to kill someone,
 as demonstrated earlier. This is just people picking examples of anime that fit their argument, and completely
