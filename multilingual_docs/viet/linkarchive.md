@@ -1,4 +1,4 @@
-After my domains were snatched from me, the learnjapanese.link shortlinks no longer work. You can still use them here.   
+After my domains were snatched from me, the learnjapanese.link shortlinks no longer work. You can still use them here.
 
 [https://learnjapanese.link/dictionaries](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH?usp=sharing)  
 [https://learnjapanese.link/ajatt](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/)  
@@ -24,6 +24,6 @@ After my domains were snatched from me, the learnjapanese.link shortlinks no lon
 [https://learnjapanese.link/novel-september](https://docs.google.com/document/d/16Pqbh7XNukkptji8L2uKCxI7TZECjjVxKAWN7DbPh8o)  
 [https://learnjapanese.link/novel-october](https://docs.google.com/document/d/1fPJMAYxnk1gHIyuz213SwXkysB6ukUUQMhZgf4qLrWY/edit?usp=sharing)  
 [https://learnjapanese.link/october_game](https://drive.google.com/drive/folders/1QXoJ72LuNWwZiJm2sT5OZz2mzTE_xLQJ?usp=sharing)  
-[https://learnjapanese.link/novel-november](https://docs.google.com/document/d/1EMPpguSpzSAYtAsjpXjIxnyxvbRexdfeNZJDC1HUdWA/edit?usp=sharing) 
+[https://learnjapanese.link/novel-november](https://docs.google.com/document/d/1EMPpguSpzSAYtAsjpXjIxnyxvbRexdfeNZJDC1HUdWA/edit?usp=sharing)
 [https://learnjapanese.link/november_game](https://drive.google.com/drive/folders/1dA4VarV1itgTXH1vwGkCFaCwoA4JJ1KV?usp=sharing)  
 [https://learnjapanese.link/novel-december](https://docs.google.com/document/d/1QX1TPBoaNems2LdfnqPYr4ytMtKaXWfnFNhJvN3tW7I/edit?usp=sharing)  

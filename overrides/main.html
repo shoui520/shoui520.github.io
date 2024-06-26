@@ -1,43 +1,43 @@
 {% extends "base.html" %}
 
 
-
 {% block analytics %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6M8XGSMGX2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-6M8XGSMGX2');
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-6M8XGSMGX2');
 </script>
 
 
-
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7374918663808833"
-     crossorigin="anonymous"></script>
+<script async crossorigin="anonymous"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7374918663808833"></script>
 
 {% endblock %}
 
 {% block lang_switcher %}
 <script>
-    
-// console.log("Script loaded"); // Check if script is loaded
 
-// function language_selector() {
-//     console.log("language_selector function called");
-// }
+    // console.log("Script loaded"); // Check if script is loaded
 
-// language_selector(); // Call the function initially
+    // function language_selector() {
+    //     console.log("language_selector function called");
+    // }
 
-// const observer = new MutationObserver(language_selector);
-// observer.observe(document.documentElement, { childList: true, subtree: true });
+    // language_selector(); // Call the function initially
+
+    // const observer = new MutationObserver(language_selector);
+    // observer.observe(document.documentElement, { childList: true, subtree: true });
 
 
-// </script>
+    // </script>
 {% endblock %}
 
 {% block site_nav %}
@@ -46,7 +46,7 @@
 {% if page and page.meta and page.meta.hide %}
 {% set hidden = "hidden" if "navigation" in page.meta.hide %}
 {% endif %}
-<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" {{ hidden }}>
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" hidden {{ }}>
     <div class="md-sidebar__scrollwrap">
         <div class="md-sidebar__inner">
             {% include "partials/nav.html" %}
@@ -59,10 +59,10 @@
 {% if page and page.meta and page.meta.hide %}
 {% set hidden = "hidden" if "toc" in page.meta.hide %}
 {% endif %}
-<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" {{ hidden }}>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" hidden {{ }}>
     <div class="md-sidebar__scrollwrap">
-        <a href="/join"><img width="100%" src="/img/discord.png"></a>
-       <!-- <a href="/donate"><img width="100%" src="/img/donate.png"></a> -->
+        <a href="/join"><img src="/img/discord.png" width="100%"></a>
+        <!-- <a href="/donate"><img width="100%" src="/img/donate.png"></a> -->
         <div class="md-sidebar__inner">
             <br>
             {% include "partials/toc.html" %}
