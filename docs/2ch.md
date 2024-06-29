@@ -234,7 +234,7 @@ This has a lot of useful quality of life improvements. Including:
 
 ## Recommended way to search 5ch
 
-If you want to search active and archived threads, and thread content too, I recommend using Google with the search term `site:5ch.net <keyword>`.  
+~~If you want to search active and archived threads, and thread content too, I recommend using Google with the search term `site:5ch.net <keyword>`.~~ This sucks in 2024. The best way now is to use [find.2ch.sc](https://find.2ch.sc/). 2ch.sc is a mirror site of 5ch.net, owned by the righteous owner of 2channel, Hiroyuki Nishimura. Threads and responses on here that have @net next to them are mirrored from 5ch.net, and you can find the corresponding threads on the 5ch.net site easily.  
 
 The search bar on the site is fine to search thread titles of active thread. 
 
