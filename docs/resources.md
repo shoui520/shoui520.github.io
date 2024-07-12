@@ -113,7 +113,8 @@ Note: Gaining the Student rank or above in our Discord channel grants you access
 - [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Also has a ton of visual novels.  
 - [Anime-sharing](http://www.anime-sharing.com/forum/) - Has the most visual novels out of everything here. But you need an account and also a debrid service, and you need to search across duplicate threads to download anything from here. See [here](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) for premium leeches.   
 - [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Direct links to visual novels  
-- [Sukebei Nyaa.si **(18+) NSFW warning**](https://sukebei.nyaa.si/?f=0&c=1_3&q=) - NSFW side of Nyaa.si which should have a lot more visual novels.  
+- [Sukebei Nyaa.si **(18+) NSFW warning**](https://sukebei.nyaa.si/?f=0&c=1_3&q=) - NSFW side of Nyaa.si which should have a lot more visual novels.
+- [VNPocket **(18+) NSFW warning**](https://vnpocket.com) - Play visual novel and RPG games online.
 - [Visual Novel Recommendation Lists](https://learnjapanese.moe/vn/#unsure-what-to-play)
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 Note: visual novels on consoles do not have any NSFW content.  
