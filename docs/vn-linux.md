@@ -120,7 +120,6 @@ What you need to do in Lutris now depends on whether the VN is already installed
 	| -------- | ------- |
 	| LC_ALL  | ja_JP.UTF-8    |
 	| TZ | Asia/Tokyo     |
-	| PROTON_VERB | run |
 
 
 	Now in Lutris, click the `+` in the top left corner to add a game, then in the window that pops up, choose `Install a Windows game from an executable`
@@ -166,7 +165,6 @@ What you need to do in Lutris now depends on whether the VN is already installed
 	| -------- | ------- |
 	| LC_ALL  | ja_JP.UTF-8    |
 	| TZ | Asia/Tokyo     |
-	| PROTON_VERB | run |
 
 	Now in Lutris, click the `+` icon in the top left corner, and choose `Add locally installed game`
 
@@ -185,7 +183,7 @@ What you need to do in Lutris now depends on whether the VN is already installed
 
 ## Textractor 
 
-Thanks to the PROTON_VERB=run environment variable we set earlier, we can run Textractor along a VN under Proton.  
+This is where things can get a little finnicky. There is no good way to launch 2 .exe's at the same time and have the two processes know of each other using Proton because of the way Proton is designed to only launch 1 program at a time in a single prefix. There are ways to get around this, and by far the best way I have found involves using a batch script with a custom Command Prompt.  
 
 ### Download Textractor
 
@@ -199,9 +197,42 @@ I used the "Run EXE inside Wine prefix" option in Lutris to install Textractor t
 
 I used the "Install for all users" option when installing. 
 
-### Add Textractor to Lutris
+### Set Up Textractor to launch with VN  
 
-Now, add the Textractor executable to Lutris. The path should be `/path/to/wineprefix/drive_c/users/steamuser/Desktop/Textractor/x86/Textractor.exe`.  You need the x86 one for 32-bit VNs and x64 for 64-bit VNs.  
+This is a little complicated due to the nature of Proton, but you can get it working with a custom `cmd.exe` and a `.bat` file. You will need to use a `.bat` script for each VN you add to Lutris.  
+
+The `cmd.exe` in Wine does not function in the exact same way the Windows one does, however, the `cmd.exe` from [ReactOS](https://en.wikipedia.org/wiki/ReactOS), in fact, does. So we will be downloading the `cmd.exe` from ReactOS and running that in Wine. You can take the `.exe` yourself from a ReactOS system at `C:\ReactOS\system32\cmd.exe` or download the one I have prepared below.  
+
+- [Download ReactOS's cmd.exe](https://drive.proton.me/urls/N3V2A1KY1W#dgCG2T5mQaGQ)  
+
+I recommend you put this at the root of your Wine prefix for easy access. 
+For example, `/home/<user>/Games/VNs/cmd.exe`  
+This guide will assume the `cmd.exe` is placed at the root of your Wine prefix.  
+
+Now, we need to edit a .bat script. 
+```bat
+@echo off
+
+:: Without this, Japanese file paths don't work correctly.
+echo "Setting UTF-8..."
+chcp 65001 > nul
+
+echo "Launching VN..."
+:: Edit the following lines to match your file paths. The Z:\ drive is mounted as your Linux filesystem.
+cd /d "Z:/path/to/vn/folder/"
+start <VN EXECUTABLE NAME>.exe
+
+echo Launching Textractor...
+:: This will work as is without editing if you installed Textractor to the prefix. 
+:: Use x86 for 32-bit executables and x64 for 64-bit executables.
+cd /d "C:\users\steamuser\Desktop\Textractor\x86"
+start Textractor.exe
+
+exit
+```
+
+You need to edit the lines under "Launching VN..." to match your file paths. After that, you can save this as a `.bat` file in any directory and as any name you wish.  
+I suggest making a folder called `scripts` or something in your Wine prefix.
 
 !!! info "Unsure what architecture your VN is?"
 	Use the Linux command [file](https://man7.org/linux/man-pages/man1/file.1.html) on the executable to find out if it is 32-bit or 64-bit.
@@ -217,7 +248,16 @@ Now, add the Textractor executable to Lutris. The path should be `/path/to/winep
 	```
 	Then it is 64-bit.
 
-Textractor should just work as expected.   
+In Lutris, go on "Game Options" for the VN, change the executable to the ReactOS `cmd.exe` you downloaded, add the argument to start your `.bat` file in *Arguments*:  
+```
+/k /path/to/startup_script.bat
+```
+I recommend creating a folder called `scripts/` or something in the root of your Wine prefix for easy access.  
+![Lutris run bat file](img/new_vn_linux17.png)  
+
+You will need to create a startup script for every VN you add, but this isn't complicated as it just involves editing file paths.  
+
+With this setup, the VN and Textractor should launch together.  
 
 Proceed to [Learning Japanese with VNs](/vn) for more information on how to use Textractor.  
 
@@ -268,8 +308,10 @@ It is actually not a Wine specific error, it happens on Windows too! These games
 ### Weird scaling / stretched / mouse input not followed correctly.
 
 Try putting the game into windowed mode and relaunching it.  
-<br>
+
+
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>  
 
 [:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
+
