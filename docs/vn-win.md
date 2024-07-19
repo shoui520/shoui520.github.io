@@ -116,7 +116,7 @@ language=japanese
 !!! info "Please insert original disc オリジナルディスクを入れてください"
 	Make sure you have applied the crack/patch. Some VNs require the original disc inserted at least once before it will launch. In that case, use WinCDEmu to mount the .ISO or .MDS as a DVD drive. If the problem persists, try restarting your PC.
 !!! tip "No Crack?"
-	If there is no crack available for your VN, and your VN does not launch, use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). See pictures within .zip file for instructions.
+	If there is no crack available for your VN, and your VN does not launch, use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). See pictures within .zip file for instructions. Just drag the actual (installed) executable over the AlphaRomdiE window when running and it will insert a NoDvD crack, and make a shortcut in the directory too.
 !!! info "Direct3D, Visual C++ Related Issues" 
 	This can be easily fixed by installing DirectX [here](https://www.microsoft.com/en-us/Download/confirmation.aspx?id=35) and all the Visual C++ Redistributable Runtimes [here](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).  
 !!! info "Garbled Text (文字化け)"  
