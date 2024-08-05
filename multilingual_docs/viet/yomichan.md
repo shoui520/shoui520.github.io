@@ -1,55 +1,68 @@
-# Yomichan Setup Tutorial
+# Hướng dẫn cài đặt Yomitan
 
-**New: Yomichan is no longer in development. Its successor is Yomitan.**
+**Cập nhật chút: Yomichan không còn được hỗ trợ. Yomitan là bản phát triển kế tiếp của Yomichan.**
 
-## What is Yomitan?
-Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
+## Yomitan là gì?
+Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ Tiếng Nhật cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
 
-## Getting Started 
-Yomitan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
-[Chrome Web Store](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)  
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)  
-Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  
+## Bắt đầu
+Yomitan có thể tải ở trên cả Chromium và Firefox.
 
-## Acquiring Dictionaries
-When you first install Yomitan, you need to load dictionaries into it in order to use it.  
-These files use the `.zip` extension and **are not to be extracted by the user.**
+Tải tại đây:
 
-You can find my collection of Yomitan dictionaries below. This will have everything you need and (probably) don't need. :slight_smile:  
-→→→→[Shoui's Yomitan Dictionary Collection](https://learnjapanese.link/dictionaries)←←←←　　    
+- [Chrome Web Store](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Cho các trình duyệt như Chrome, Chromium, Brave, Edge hoặc bất kì trình duyệt nào dựa trên nhân Chromium
+- [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/) - Cho Firefox hay các trình duyệt dựa trên Firefox như Librewolf hoặc Waterfox.
 
-Dictionaries can be found in their respective folders.  
-I recommend you install the following dictionaries:  
-	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
-	- `Bilingual/[Bilingual] 新和英.zip`  
-	- `Kanji/[Kanji] KANJIDIC (English).zip`  
-	- `Grammar/Dictionary of Japanese Grammar.zip` 
-	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
+Sau khi cài xong nó sẽ mở một tab mới, bạn đóng trang đó lại và tìm Yomitan trong phần "Tiện ích mở rộng" trong trình duyệt (Hoặc Addons cho Firefox).
 
-## Installing dictionaries and basic usage
+## Tải từ điển
+
+Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển để có thể sử dụng nó.
+
+Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không được giải nén nó ra.**
   
-1. Click on the ![yomitan-icon](img/yomitan-icon.png) icon in the browser toolbar.  
-2. Click on the ![cog](img/yomitan-cog.png) icon to access the settings page.  
-3. On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  
-4. Click the "Import" button on the bottom.  
+### Từ điển Nhật - Anh
+
+Gợi ý từ người dịch: Bạn nên tải cả bộ Nhật - Anh ở dưới để bao quát lượng từ hơn và có thêm nhiều cái hay nữa.
+
+Bạn có thể tải bộ từ điển từ tác giả gốc của bài viết này: [Bộ sưu tập từ điển Yomitan của Shoui](https://learnjapanese.link/dictionaries)
+
+Tải từ điển trong các thư mục tương ứng (Bilingual - Từ điển song ngữ Nhật - Anh, Kanji, Grammar .etc.) 
+
+Bạn nên cài đặt các từ điển sau (theo shoui):
+
+- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
+- `Bilingual/[Bilingual] 新和英.zip`  
+- `Kanji/[Kanji] KANJIDIC (English).zip`  
+- `Grammar/Dictionary of Japanese Grammar.zip`  
+- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
+
+## Cài đặt từ điển và sử dụng cơ bản
+  
+1. Bấm vào ![yomitan-icon](img/yomitan-icon.png) icon trên thanh công cụ của trình duyệt.  
+2. Bấm vào ![cog](img/yomitan-cog.png) icon để mở cài đặt.  
+3. Chọn "Dictionaries" ở thanh sidebar bên trái rồi chọn "Configure installed and enabled dictionaries…"  
+4. Bấm vào nút "Import" ở bên dưới.  
 5. Here's where you select the dictionaries to import. Please only import the following. 
-	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
-	- `Bilingual/[Bilingual] 新和英.zip`  
-	- `Kanji/[Kanji] KANJIDIC (English).zip`  
-	- `Grammar/Dictionary of Japanese Grammar.zip` 
-	- `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
-6. Please wait for the dictionaries to import. This could take a while.
-7. Once complete, you can test Yomitan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
+    - `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
+    - `Bilingual/[Bilingual] 新和英.zip`  
+    - `Kanji/[Kanji] KANJIDIC (English).zip`  
+    - `Grammar/Dictionary of Japanese Grammar.zip` 
+    - `Pitch Accent/アクセント辞典v2 (Recommended).zip`
 
+6. Đợi các từ điển được thêm vào. Sẽ mất một lúc (Mình làm trên Firefox thấy lâu hơn so với bên Chromium)
+7. Sau khi hoàn tất, bạn có thể kiểm tra Yomitan bằng cách giữ phím ++shift++ và di chuột qua văn bản Tiếng Nhật. Thử di chuột vào cái này xem: 日本語. Nó sẽ hiện một pop-up box hiển thị các định nghĩa được chia theo từ điển.
 ![Yomichan Demo](img/yomidemo1.png) 
 
-Click anywhere outside of the box or press the ++esc++ key to dismiss.
-Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
+Bấm ra chỗ khác trên màn hình hoặc phím Esc để ẩn hộp thoại của Yomitan đi
 
-You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
+Nếu bạn cần đọc Kanji riêng cho từng từ thì bấm vào Kanji đó (Phải tải KANJIDIC hoặc KanjiDictVN)
 
-In your browser extensions toolbar, if you click on the Yomitan logo, then on the ![search icon](img/yomitan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomitan Search, this is where you can use Yomitan as a standalone Japanese to English dictionary. 
+Bạn có thể bấm vào nút ![audio](img/yomichan-audio.png) để nghe phát âm từ.
+
+Trên thanh công cụ trình duyệt, nếu bạn nhấp vào biểu tượng Yomitan, sau đó nhấp vào biểu tượng ![search icon](img/yomitan-search.png) hoặc dùng tổ hợp phím tắt `Alt+ Insert`, bạn có thể truy cập vào "Yomitan Search" - bạn có thể sử dụng Yomitan như một từ điển Tiếng Nhật riêng (Hoàn toàn Offline).
+ 
 
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  

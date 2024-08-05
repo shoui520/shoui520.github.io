@@ -1,46 +1,31 @@
-# Anime Japanese
+# Tiếng Nhật trong Anime
 
 ![LoveLive! Muse](img/muse1_crop.jpg)
 
-In the Japanese learning world, it is common to come across the saying, "Don't/You can't learn Japanese from anime, no one talks that way!". However, this is in fact, false.
-First, let's consider just exactly why this argument exists in the first place.
-Usually when people say this, they don't know why the argument exists anyway, in other words, most people saying this don't know what they're talking about.
-The argument comes from the fact that if you learn Japanese using anime, you will think, "おい、てめぇなにやってんだ！コラァ！" and "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" is natural. (Just imagine some very cringe and rude things if you cant read it haha)
-In actual fact, this is not true at all.
-It is important to remember that every anime is different, some speak more natural than others, some may sound more masculine than others, some may sound more feminine than others. For example, "Kimi no Na wa." is more natural than "Dragon Ball Z".
-And "Love Live!" is more natural than "Kill la Kill".
-In anime such as "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen", each character speaks different. Some characters speak like an "anime", while others actually sound pretty natural.
-Second, please take time to think: "What is "real" Japanese?"
+Có khá nhiều người cho rằng việc học Tiếng Nhật thông qua Anime là không nên vì không ai nói Tiếng Nhật như vậy cả! Nhưng trên thực tế thì chưa đúng. Điều này bắt nguồn từ việc nếu bạn học Tiếng Nhật thông qua Anime thì bạn sẽ nghĩ là "おい、てめぇなにやってんだ！コラァ！" và "ちっ、オラぁ一番強ぇんだぜ", "コラァ！何ブツブツ言ってんだ？打っ殺すぞ！" là tự nhiên. (Những câu này rất bất lịch sự). Và trên thực tế, điều này cũng không đúng chút nào. Bởi không phải Anime nào cũng sở hữu những đoạn hội thoại tự nhiên, có những bộ sẽ tự nhiên hơn những bộ khác, có bộ thì nam tính hơn hay có bộ thì nữ tính hơn. Lấy ví dụ thế này, "Kimi no Na wa." nghe sẽ tự nhiên hơn "Dragon Ball Z". Và "Love Live!" nghe sẽ "Nhật" hơn so với "Kill la Kill". Hay ở các bộ như "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen", mỗi nhân vật lại có một kiểu nói khác nhau. Một số nhân vật nói giống như một bộ "anime" thực thụ, còn những nhân vật khác lại nói Tiếng Nhật rất tự nhiên. Bây giờ bạn hãy thử dành thời gian suy nghĩ xem: "Tiếng Nhật "chuẩn" là cái gì?"
 
-### "Real" Japanese
+### Tiếng Nhật "chuẩn"
 
-Anime is often argued to be not "real" Japanese. People arguing this only say this because it is different from the artificial, watered-down mess they learn in the textbooks. In fact, textbook Japanese is very unnatural, and can be argued that it is not "real" Japanese.
-There's many forms of Japanese. Just like how there are many forms of English. Do you speak in the same exact way as someone else you know? Probably not. But does this mean they are wrong and their English is not "real"? Absolutely not. 
-Each person is unique to their own idiolects, different places have their own dialects, and so on. There are billions of different kinds of Japanese, so much so that it is not possible to point to a single form of Japanese and say that that one is the "real" Japanese.
-Anime in fact, is actually sometimes pretty natural, when I have conversations with Japanese friends what they say is close to what I've heard in anime before.
-Meanwhile, I have yet to experience Japanese people speaking sentences from textbooks. IN FACT... in *Terrace House* (the reality show with natural unscripted Japanese) they were making fun of textbook Japanese!
+Có những cuộc tranh cãi về việc ngôn ngữ trong Anime là không tự nhiên. Những người đó nói vậy chỉ đơn giản bởi nó khác so với Tiếng Nhật mà họ được học từ sách vở hay giáo trình. Mặc dù điều phũ phàng là, Tiếng Nhật trong sách vở nghe không hề tự nhiên một chút nào, và có khi nó còn không phải là Tiếng Nhật hàng "thật". Có đủ kiểu Tiếng Nhật. Cũng giống như có cả tá cách sử dụng Tiếng Anh. Liệu bạn có nói ngôn ngữ đó giống hệt cách mà một người khác bạn biết nói không? Có lẽ là không. Liệu từ đó có thể kết luận rằng họ sai và Tiếng Anh mà họ sử dụng không phải hàng "thật" không? Tất nhiên là không. Mỗi người đều có một vốn từ khác nhau, mỗi vùng miền lại có một giọng khác nhau và tương tự. Có cả tỷ kiểu Tiếng Nhật và chắc chắn rằng nó nhiều đến mức sẽ chẳng thể nào chỉ ra một kiểu Tiếng Nhật và nói rằng "nó là Tiếng Nhật chuẩn" được. Trên thực tế thì Anime đôi lúc khá tự nhiên, khi mình trò chuyện với những người bạn người Nhật của mình thì những gì họ nói tương đối giống với những gì mình đã từng nghe trên Anime. Trong khi đó, mình chưa từng nghe người Nhật nào sử dụng các mẫu câu trong sách học Tiếng Nhật cả. Trên thực tế... trong Terrace House (Chương trình thực tế của Nhật) họ đã "chế nhạo" Tiếng Nhật trong sách học.
 
-### So what exactly is real Japanese?
+### "Tiếng Nhật chuẩn" là gì?
 
-Simple Answer. Japanese made by a NATIVE FOR NATIVES. Anime is scripted by natives. Movies are scripted by natives. J-Drama is scripted by natives. These content are made for Japanese people, and aren't necessarily intended for learning but surprisingly they are an incredibly powerful tool for learning.
-Textbooks, although they may be written by a native, they are made for foreigners. The Japanese gets watered down, artificial and filtered, for foreigners. That's why you shouldn't use content dumbed down for learners unless you are starting Japanese from scratch, in that case it is okay, but you should let go of it as soon as possible.
+Đơn giản là, nội dung Tiếng Nhật mà người Nhật làm cho người Nhật. Anime, phim, J-Drama được lên kịch bản và sản xuất bởi người Nhật. Và những nội dung này được làm cho người Nhật xem và không nhất thiết là được làm để cho người học, nhưng bất ngờ thay chúng lại là một công cụ mạnh mẽ cho học tập. Sách học, có thể được viết bởi người Nhật nhưng là cho người học. Tiếng Nhật bị giản lược và máy móc, cho người nước ngoài. Đó là lý do tại sao mình không nên tiêu thụ nội dung làm cho người học, trừ khi mình mới bắt đầu học Tiếng Nhật, khi đó thì hoàn toàn ổn, nếu được thì mình nên dừng tiêu thụ chúng càng sớm càng tốt.
 
-###Do not generalize Anime!
+### Đừng có đánh đồng Anime
 
-It is annoying to constantly hear people saying that anime will make you always sound like you're about to kill someone, as demonstrated earlier. This is just people picking examples of anime that fit their argument, and completely disregarding the plethora of natural-talking anime that exist.
-Older anime sometimes have unusual, outdated slang, take for example, "ダチ" slang for *a friend* is pretty outdated by today and would sound funny if you said it to a Japanese person. 
-Anime makes use of [役割語](https://en.wikipedia.org/wiki/Yakuwarigo) *yakuwarigo* (role language), where the use of language is changed to fit how the character is like. For example, the anime villain may say [貴様](https://jisho.org/word/%E8%B2%B4%E6%A7%98) *kisama*, or [てめぇ](https://jisho.org/search/%E3%81%A6%E3%82%81%E3%81%87%20%23sentences) a lot of the time, but anyone with a brain would know they shouldn't talk like that guy, so you won't end up saying it to a Japanese person.
-Because anime makes use of 役割語, you will get a **broad sense of immersion** which means you would know what sounds masculine, what sounds feminine, arrogant, polite, sarcastic etc. Which makes it a very **valuable immersion resource.** Not every anime character sounds like Gokuu or Naruto or some other shounen MC, like I said, every anime is different, "Kimi no Na wa." actually sounds pretty natural.
-### Why you should learn from anime
-1. Widely available. There is a big community effort to make just about every anime available for free even on public trackers like Nyaa.si.
-2. No one is new to anime. You're learning Japanese, chances are anime was your motivation to start learning. Why not learn from the very thing that wanted to make you start learning the language?
-3. A wide sense of 役割語. This is essential.
-4. Close to real life speech, depending on what anime you watch. (e.g. Shinkai Makoto movies)
-5. Way better than boring textbooks, in terms of the actual Japanese and how much fun you're having too.
+Sẽ khá bực mình khi phải nghe những người khác nói rằng Anime khiến cho cách nói của mình nghe như thể mình sắp giết người khác không bằng. Họ lấy những Anime mà theo họ đúng là như vậy, đồng thời hoàn toàn bỏ qua rất nhiều những bộ Anime có phong cách hội thoại tự nhiên ngoài kia. Các Anime cũ hay sử dụng những mẫu tiếng lóng cũ ví dụ như "ダチ" để chỉ một người bạn, và sẽ khá buồn cười nếu người Nhật nghe được cái này từ bạn. Anime tận dụng [役割語](https://en.wikipedia.org/wiki/Yakuwarigo) yakuwarigo (ngôn ngữ nhập vai), khi mà ngôn ngữ được thay đổi để phù hợp với tính cách nhân vật. Ví dụ như nhân vật phản diện trong Anime có thể sẽ dùng [貴様](https://jisho.org/word/%E8%B2%B4%E6%A7%98) kisama, hoặc [てめぇ](https://jisho.org/search/%E3%81%A6%E3%82%81%E3%81%87%20%23sentences) rất nhiều lần, nhưng ai cũng sẽ biết rằng không nên nói như vậy, vậy nên bạn sẽ không lỡ sử dụng nó khi giao tiếp với người Nhật. Bởi vì Anime sử dụng 役割語, khả năng cảm nhận của bạn sẽ rộng mở và điều tất yếu sẽ xảy đến, bạn sẽ biết cái gì nghe men lỳ, hay nữ tính, ngổ ngáo, lịch sự hay nói kháy v.v. Chính điều đó đã khiến Anime trở thành một nguồn tài nguyên để đắm chìm vào khi học ngôn ngữ. Không phải tất cả nhân vật Anime đều nói như Gokuu hay Naruto hoặc các main trong những bộ Shounen máu mặt, như mình đã nói ở đầu bài, "Kimi no Na wa." thực sự nghe khá tự nhiên.
+
+### Tại sao bạn nên học Tiếng Nhật từ Anime
+
+1. Rất phổ biến
+2. Anime không còn gì xa lại với mọi người. Nếu bạn đang học Tiếng Nhật thì rất có thể Anime là lý do bạn học. Vậy tại sao lại không học từ nó?
+3. Có rất nhiều 役割語. Điều này là cần thiết.
+4. Gần với ngôn ngữ giao tiếp ngoài đời. Tùy vào Anime bạn xem (e.g. phim do Shinkai Makoto đạo diễn chẳng hạn)
+5. Tốt hơn nhiều so với đống sách giáo khoa.
 
 ![LoveLive! Muse](img/muse2_crop.jpg)
-PS: Your anime needs to have either **Japanese subtitles** or in **entirely raw.**
-People on Reddit may argue that people have watched anime for so long with English subtitles but still don't know Japanese, they're right. However, we don't use English subtitles, we watch raw or with Japanese subtitles at least.
 
+PS: Anime bạn xem phải là **phụ đề Nhật** hoặc **không có phụ đề** nha. Có nhiều người nói rằng họ xem Anime có phụ đề dịch và học vẫn không biết Tiếng Nhật và điều đó không sai. Nhưng mà, chúng ta xem không có phụ đề dịch, xem không phụ đề hoặc ít nhất là phụ đề Nhật.
 
-Have fun immersing! :smile:
+Đắm mình trong ngôn ngữ thật vui nha! :smile:

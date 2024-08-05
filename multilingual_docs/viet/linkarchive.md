@@ -1,4 +1,4 @@
-After my domains were snatched from me, the learnjapanese.link shortlinks no longer work. You can still use them here.   
+Tên miền learnjapanese.link không còn dùng được nữa, nhưng bạn có thể dùng nó ở đây.
 
 [https://learnjapanese.link/dictionaries](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH?usp=sharing)  
 [https://learnjapanese.link/ajatt](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/)  

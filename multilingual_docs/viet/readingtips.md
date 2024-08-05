@@ -1,360 +1,352 @@
-# Reading Techniques and Strategies
+# Mẹo và chiến lược cho việc đọc
 
-The REAL Getting Started with Reading Guide
+Hướng dẫn bắt đầu thực sự về việc đọc
 
-Reading is pretty much the most effective way to get better at Japanese. There is no doubt about it.  
+Để giỏi Tiếng Nhật hơn, đọc sách gần như là cách hiệu quả nhất. 
 
-"Read more" is often the first piece of Japanese learning advice that advanced learners of Japanese will give to any beginner, and for good reason.  
-This article aims to give you tips and talk about worries that you may have when reading.  
+“đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học Tiếng Nhật mà những người học Tiếng Nhật ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
+  
+Bài viết cho bạn những lời khuyên và nói về những lo lắng mà bạn có thể gặp phải khi đọc.
 
-## Reading Tips 
+## Mẹo đọc
 
-### I am JUST starting out, what should I do?  
+### Mình CHỈ mới bắt đầu, mình nên làm gì?
 
-Just starting out = don't know Japanese? See [UsagiSpoon](/routine).   
+Mới bắt đầu = không biết Tiếng Nhật? Ghé qua [UsagiSpoon](/routine).
 
-Noob friendly reading practice = anime with Japanese subtitles, it's described in [UsagiSpoon](/routine)  
+Luyện đọc cho người mới thông quan anime có phụ đề Tiếng Nhật, được viết trong [UsagiSpoon](/routine)
 
-Or maybe just starting out = "I have been learning Japanese for a while with [x] method, and I want to start reading for real! What should I do?"  
+Hoặc có thể mới bắt đầu = Mình đã học Tiếng Nhật được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
 
-Then read the rest of the article.  
+Hãy đọc bài viết này cho đến hết.
 
-### Are visual novels better for beginners?
+### Visual Novel có tốt hơn cho người mới bắt đầu không?
 
-Visual novels are better for beginners because they don't have to rely on a lot more descriptive text in order to create a story because visual novels have pictures on the screen, etc.  
+Visual Novel tốt hơn cho người mới bắt đầu vì họ không phải dựa vào nhiều văn bản để có thể xây dựng cốt truyện vì Visual Novel có hình ảnh trên màn hình .v.v.
 
-Visual novels also help you make sense out of hard to understand texts due to images on the screen and more obvious contexts. 
+Visual Novel cũng giúp bạn hiểu được những văn bản khó hiểu thông qua hình ảnh trên màn hình và với ngữ cảnh rõ ràng.
 
-They are easier to approach than novels, difficulty-wise, and therefore they are perfect for easing yourself into reading.  
+Dễ tiếp cận hơn tiểu thuyết thông thường, có độ khó phù hợp nên là một cách tốt để bắt đầu "tập đọc"
 
-See [my visual novel guide](/vn) to learn how to learn Japanese with visual novels.  
+Xem [hướng dẫn về Visual Novel của mình](/vn) để tìm hiểu cách học Tiếng Nhật bằng Visual Novel.
 
 ### Yomichan + Textractor + Texthooker page  
 
-The holy trinity of Japanese learning (for visual novel enjoyers).  
+Bộ ba thần thánh dành cho những người thích Visual Novel.
 
-Everything you need to know is in [The VN guide](/vn)  
+Đọc [hướng dẫn bắt đầu cho Visual Novel](/vn) để bắt đầu.
 
-### Read a book of something you've seen.  
+### Đọc một cuốn sách về một cái gì đó bạn đã thấy.
 
-Did you know many people become readers (in their native language) because they read the book of a movie they liked or something?  
+Bạn có biết nhiều người trở thành những người đọc (sách bằng ngôn ngữ của họ) vì họ đọc sách của một bộ phim họ yêu thích hay đại loại vậy không?
 
-Learning how to visualize scenes in your head is a different skill than just "being native."  
+Bạn có thể áp dụng chiến lược chính xác tương tự cho Tiếng Nhật.
 
-You can apply the same exact strategy to Japanese.  
+Và đó là chiến lược mà mình khuyên mọi người nên thực hiện khi mới bắt đầu tập đọc.
 
-And it's the strategy that I recommend everyone take when they get into reading.  
+**Đọc bộ Light Novel của anime mà bạn thích.**
 
-**Read the light novel series of an anime you enjoyed.**  
+Đọc tiểu thuyết sau khi xem anime hoặc thậm chí trong khi xem anime. Và sau khi bạn đã xem anime, dựa vào anime để giúp bạn trong việc đọc.
 
-Read the novel after you watch the anime, or even while watching the anime. And after you've seen the anime, still refer to the anime to help you read.  
-
-Anyway, this is obviously a God tier reading strategy because, by watching the anime, you have given context to the text on the page, which translates into i+1 Krashen approved effective language learning gains, and the light novel will have multiple volumes, which is great for learners because getting used to one author's writing style is easier than reading a different author every time.  
-
+Dù sao đi nữa, đây là một chiến lược đọc cấp "Chúa tể" vì thông qua anime, bạn đã có ngữ cảnh trong đầu rồi nâng lên thành i+1, tăng hiệu quả trong việc học ngôn ngữ. Light Novel sẽ có nhiều volume, tốt cho người học vì việc làm quen với phong cách viết của một tác giả sẽ dễ dàng hơn so với việc đọc của một tác giả khác.
 
 ### Yomichan, Itazuraneko, EPUBs+ッツ Reader  
 
-The holy trinity of Japanese learning (for novel enjoyers).  
+Bộ ba thần thánh dành cho những người thích đọc tiểu thuyết, Light Novel, web novel bằng Tiếng Nhật.
 
-- Set up Yomichan [here](/yomichan)  
+- Cài đặt Yomichan [đọc ở đây](/yomichan)  
 - Itazuraneko in [Resources](/resources)  
-- EPUBs... many ways you can get them. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
+- EPUBs... Có thể tải ở rất nhiều chỗ. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
 ### Manga
 
-Manga is good reading practice. Of course it is, there is no way it can't be.   
+Manga là một cách luyện đọc tốt. Rõ ràng là vậy.
 
-But you should kind of be aware that they only have speech and short descriptions most of the time.  
+Hãy lưu ý rằng hầu hết trong Manga chỉ có hội thoại và những câu ngắn.
 
-Nevertheless, they are still good for reading, and you can obviously learn tons of words from manga, and you'll get good at reading manga by reading a lot of manga.  
+Tuy vậy, chúng vẫn tốt cho việc luyện đọc và rõ ràng là bạn có thể học được rất nhiều từ thông qua manga và bạn sẽ đọc manga tốt hơn bằng cách đọc nhiều manga hơn.
 
-### Yomichan, Mokuro, and a good OCR  
-
-The holy trinity of Japanese learning (for manga enjoyers).  
+### Yomichan, Mokuro, và một phần mềm OCR đủ tốt
+  
+Bộ ba thần thánh cho những người thích manga.
 
 ### Pomodoro / Timeboxing  
 
-This is another God tier strategy that I'd like to introduce to you.  
+Đây là một chiến lược "God tier" khác mà mình muốn giới thiệu.
 
-The Pomodoro method requires you to focus on a task for a set amount of time (usually 25 minutes), after which the timer rings and you take a short (5-minute) break.  
+Phương pháp Pomodoro yêu cầu bạn tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút), sau đó đồng hồ sẽ đổ chuông và bạn nghỉ giải lao ngắn (5 phút).
 
-So you will be reading in 25 minute sessions.  
+Vì vậy, bạn sẽ đọc trong 25 phút.
 
-It doesn't really sound like much, but it is actually a very useful method.  
+Nghe thì có vẻ không nhiều nhưng thực ra đây là một phương pháp rất hữu ích.
 
-I usually drink water, get up, or walk around during break times; it helps to get refreshed before reading again.   
+Mình thường uống nước, đứng dậy hoặc đi lại trong giờ giải lao; nó giúp bạn tỉnh táo khi tiếp tục đọc.
 
-Here's the Pomodoro timer that I use. **[Pomofocus.io](https://pomofocus.io/)**  
+Đây là đồng hồ bấm giờ Pomodoro mà mình sử dụng. [**Pomofocus.io**](https://pomofocus.io/)
 
-The default settings are 25 minutes of focus, a 5 minute short break, and a 15 minute long break.  
+Cài đặt mặc định là 25 phút tập trung, nghỉ ngắn trong 5 phút và nghỉ dài trong 15 phút.
 
-However, I feel like the 25 minutes are too much, so I recommend **20 minutes** instead.  
+Có lẽ 25 phút là quá nhiều nên có lẽ nên chọn **20 phút** .
 
-You can click *Setting* at the top to change this. Also, I recommend you turn on Auto Start Breaks and Pomodoros.  
+Bạn có thể nhấp vào *Setting* ở trên cùng để thay đổi thời gian. Ngoài ra, bạn nên bật "Auto Start Breaks and Pomodoros".
 
-### The act of making reading a habit — baby steps!  
+### Biến việc đọc thành thói quen - từng bước một
 
-You aren't going to become a crazy reader seen at the top of TheMoeWay's Discord reading leaderboard overnight.  
+Bạn sẽ không trở thành một siêu mọt sách đứng đầu bảng xếp hạng đọc trên Discord của TheMoeWay chỉ sau một đêm.
 
-You need to make reading a habit; read in amounts that are manageable for you every day.  
+Bạn cần biến việc đọc thành thói quen; đọc với số lượng mà bạn có thể thực hiện được mỗi ngày.
 
-And overtime, when you do this every day, it will become a habit, and you may feel like reading without thinking about "time to improve my Japanese," because reading every single day will become a normal thing for you.  
+Và theo thời gian, khi bạn làm điều này hàng ngày, nó sẽ trở thành thói quen, và bạn có thể cảm thấy muốn đọc mà không cần nghĩ rằng “đã đến lúc cải thiện Tiếng Nhật của mình”, bởi vì việc đọc hàng ngày sẽ trở thành một việc bình thường đối với bạn.
 
-### Setting yourself goals every day  
+### Đặt mục tiêu cho bản thân mỗi ngày
 
-Setting yourself a goal that you can reach everyday is an amazing way to keep up motivation to read every day.  
+Đặt cho mình một mục tiêu mà bạn có thể đạt được hàng ngày là một cách tuyệt vời để duy trì động lực đọc sách mỗi ngày.
 
-Try to find a concrete goal for yourself.  
+Hãy cố gắng tìm cho mình một mục tiêu cụ thể.
 
-Try to read for how long you are willing to read for the day, and then check how many characters (if it's a digital novel or visual novel) or pages (if it's manga or physical novel) you managed to read.  
+Hãy đọc trong khoảng thời gian mà bạn sẵn sàng đọc trong ngày, sau đó thử xem bạn đã đọc được bao nhiêu ký tự (nếu là tiểu thuyết digital hoặc Visual Novel) hoặc số trang (nếu là manga hoặc tiểu thuyết).
 
-Then take that amount of characters or pages and increase it by a bit (round it up or something) and make that your goal to read every day.  
+Sau đó lấy số lượng ký tự hoặc trang đó và tăng nó lên một chút (làm tròn nó lên, chắc vậy) và lấy đó làm mục tiêu đọc hàng ngày.
 
-### The usefulness of grammar study and some specific Yomichan dictionaries.  
+### Sự hữu ích của việc học ngữ pháp và một số từ điển Yomichan hỗ trợ điều này.
 
-Honestly grammar study is very useful for reading.  
+Thành thật mà nói, việc học ngữ pháp rất hữu ích cho việc đọc.
 
-If you haven't studied a lot of grammar and don't know all JLPT N5, N4, N3, N2 and N1 grammar points, then I highly recommend you study them. But I don't mean this to say "study JLPT grammar before reading." I mean, "study JLPT grammar to improve your reading, which you should be doing, probably right about now"  
+Nếu bạn chưa học ngữ pháp nhiều và chưa biết hết các cấu trúc ngữ pháp JLPT N5, N4, N3, N2, N1 thì bạn nên học chúng. Nhưng không phải là “học ngữ pháp JLPT trước khi đọc” mà là, “học ngữ pháp JLPT để cải thiện khả năng đọc của bạn, điều mà bạn nên làm, có lẽ là ngay bây giờ”
 
-I want you to watch [Cure Dolly's playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (your basic fundamentals) then study JLPT grammar with [medamayaki's JLPT grammar deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg).  
+Bạn hãy xem [Cure Dolly's playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (những nguyên tắc ngữ pháp cơ bản) sau đó học ngữ pháp JLPT với [medamayaki's JLPT grammar deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg). 
 
-Listen, I don't care if JLPT grammar is not "actually grammar."  
+Nghe này, mình không quan tâm liệu ngữ pháp JLPT có phải là “ngữ pháp thực sự” hay không.
 
-They are useful to study because they are phrases and structures in Japanese that have a rather ambiguous meaning just from the words alone, so you are likely to miss them in immersion.  
+Chúng rất hữu ích vì chúng là những cụm từ và cấu trúc mà không thực sự có ý nghĩa rõ ràng khi đứng một mình, và bạn có thể sẽ bỏ qua chúng khi thực hiện Immersion.
 
-You really can't go wrong studying JLPT grammar.  
+Việc học ngữ pháp JLPT hoàn toàn là một lựa chọn ĐÚNG ĐẮN.
 
-Now, the Yomichan dictionaries I really want you to use are:   
+Giờ thì, một số từ điển Yomichan mà bạn nên dùng là:
 
 - EVERY GRAMMAR ONE  
 - 実用日本語表現辞典  
-- Your favorite monolingual dictionary. (if you dont have a favourite then use either one of my favourites: 新明解国語辞典 第七版、明鏡国語辞典 第二版 (doesn't work with Anki, btw.) or 旺文社国語辞典 第十一版)  
+- Từ điển đơn ngữ mà bạn thích. (Nếu bạn không có bất kì từ điển yêu thích nào thì có thể sử dụng gợi ý của mình: 新明解国語辞典 第七版、明鏡国語辞典 第二版 (không dùng được với Anki) hoặc 旺文社国語辞典 第十一版)  
 
-If you can't understand monolingual dictionaries yet, still keep them because if you ever get stuck on what a word actually means, the monolingual dictionary will come through.  
+Nếu bạn chưa hiểu được từ điển đơn ngữ, hãy vẫn giữ chúng vì nếu bạn gặp khó khăn trong việc hiểu ý nghĩa thực sự của một từ thì từ điển đơn ngữ sẽ giúp bạn.
 
-### My Comprehension Tip 
+### Mẹo cải thiện độ hiểu
 
-*This is a tip for more experienced learners*  
+*Đây là mẹo dành cho những người học có kinh nghiệm hơn*
 
-This is the only comprehension tip that actually works for me.  
+Đây là mẹo đọc hiểu duy nhất mà mình thực sự thấy hiệu quả. 
 
-The trick is to focus on nouns (and numbers).  
+Bí quyết là tập trung vào danh từ (và số).
 
-I came up with the idea when I noticed that when I read in English, the nouns stand out.  
+Ý tưởng này xuất hiện khi mình nhận thấy khi mình đọc bằng tiếng Anh: các danh từ đều rất dễ nhận biết (nổi bật, stand out).
 
-Nouns are names, people, objects, places, etc.  
+Danh từ là tên, người, đồ vật, địa điểm, v.v.
 
-I felt like there was some type of word hierarchy.  
+mình cảm thấy như có một kiểu phân cấp từ nào đó.
 
-Any nouns/numbers → "action" verbs → adjectives → "abstract" verbs.  
+Bất kỳ danh từ/số nào → động từ “hành động” ("action" verbs) → tính từ → động từ “trừu tượng” ("abstract" verbs.).
 
-And of course, within nouns, there is also a noun hierarchy, with names, pronouns, and physical objects at the top.  
+Trong danh từ cũng có hệ thống phân cấp danh từ, với tên, đại từ nhân xưng (pronoun) và đối tượng (physical objects) ở trên cùng.
 
-I noticed that when I read Japanese, it feels a lot more hazy because my brain just doesn't make the nouns stand out more than adjectives or verbs.   
-I started to "focus" (I hate to use this term because that's not what I am actually doing, it's more like noticing) on the nouns in sentences and noticed how my comprehension skyrocketed without losing speed.  
+Mình nhận thấy rằng khi đọc Tiếng Nhật, mình có cảm giác rất mơ hồ vì não mình không thể phân biệt rõ được danh từ để chúng có thể trông nổi bật hơn so với động từ và tính từ.  
 
-It can be a little tricky to notice nouns every time they come up, but trust me, this is an S-tier strategy, and all you need is practice.   
+Mình bắt đầu “tập trung” (mình ghét sử dụng thuật ngữ này vì đó không phải là điều mình thực sự đang làm, nó kiểu giống "để ý" (noticing) hơn) vào các danh từ trong câu và nhận thấy khả năng hiểu của mình tăng lên rất nhiều mà không hề bị chậm lại.
 
-### Comprehension Tip: Bilingual vs Monolingual: The difference between not knowing what's going on and actually understanding?
+Có thể hơi khó để chú ý đến các danh từ mỗi khi chúng xuất hiện, nhưng tin mình đi, đây là chiến lược "S tier" (Cấp S, ở đây ý là một chiến lược đọc đỉnh của đỉnh) và bạn chỉ cần thực hành thôi.
 
-In many cases, yes.  
+### Mẹo hiểu: Song ngữ và đơn ngữ: Sự khác nhau giữa "không biết cái gì đang diễn ra" và "thực sự hiểu"?
 
-Bilingual definitions can be too ambiguous sometimes, so it is always best to check the monolingual dictionary.  
+Trong nhiều trường hợp, đúng là có sự khác nhau.
 
-## Reading nayamigoto (aka: stuff you worry too much about)  
+Các định nghĩa song ngữ đôi khi quá mơ hồ, vì vậy tốt nhất bạn nên sử dụng thêm cả từ điển đơn ngữ nữa.
 
-### How many words you should I look up?    
+## Đọc nayamigoto (là những thứ khiến bạn lo lắng quá mức)
 
-I don't know because I was looking up every single thing since the beginning, and I think it worked out fine?  
+### Nên tra cứu bao nhiêu từ?
 
-Yomichan makes everything so easy.  
+Mình không biết vì mình đã tra mọi thứ ngay từ đầu và có lẽ nó ổn?
 
-If I had to use copy paste into external apps or write out the word or even worse, use a physical dictionary then I would probably not look up many words.  
+Yomichan khiến mọi thứ trở nên thật dễ dàng.
 
-But YOU are living in 2023. YOU have Yomichan. Take advantage of it.  
+Nếu mình phải copy từ rồi chuyển qua các trang hay ứng dụng bên ngoài khác hay viết ra từ đó hoặc thậm chí tệ hơn, sử dụng từ điển giấy thì có lẽ sẽ không tra được nhiều từ.
 
-Install a frequency dictionary (I recommend JPDB) so you can see what words are actually common. Below 10,000 frequency is a sign that it comes up a lot in books and anime.  
+Nhưng BẠN đang sống vào thời đại công nghệ. BẠN có Yomichan. Hãy tận dụng nó.
 
-### Reading Speed  
+Cài đặt từ điển hiển thị độ phổ biến của từ (Nên chọn JPDB) để bạn có thể xem những từ nào thực sự phổ biến. Nếu nó dưới 10.000 là dấu hiệu cho thấy nó xuất hiện rất nhiều trong sách và anime.
 
-I'm just going to go out and say this right now.  
+### Tốc độ đọc
 
-You will only get faster at reading by reading more.  
+Thành thật thì
 
-You are only able to read at the speed you are reading at right now because that is the speed someone, who has read the amount you have and the material you have, would be reading at in a perfectly normal situation.  
+Bạn sẽ chỉ đọc nhanh hơn bằng cách đọc nhiều hơn.
 
+Bạn chỉ có thể đọc với tốc độ bạn đang đọc hiện tại bởi vì đó là tốc độ mà một người nào đó, người đã đọc số lượng và tài liệu bạn có, sẽ đọc trong một tình huống hoàn toàn bình thường.
 
-### READING SPEED TIPS AND TRICKS  
+### MẸO VÀ THỦ THUẬT TỐC ĐỘ ĐỌC
 
-I have some breaking news for you... the best way to increase your reading speed is to read more.  
+Cách tốt nhất để tăng tốc độ đọc của bạn là đọc nhiều hơn.
 
-But let me explain the magic behind it and the magic behind reading speed.  
+Nhưng hãy để mình giải thích điều kỳ diệu về điều này cũng như chính tốc độ đọc.
 
-Reading speed is comprehension.  
+Tốc độ đọc là khả năng hiểu.
 
-When you read more, you will comprehend more.  
+Khi bạn đọc nhiều hơn, bạn sẽ hiểu nhiều hơn.
 
-Do not be worrying about reading speed if you don't already understand a lot/know all of the words in most books!  
+Đừng lo về tốc độ đọc nếu bạn chưa hiểu nhiều/biết tất cả các từ trong hầu hết các cuốn sách.
 
-#### **Q:** Should I read a lot of manga if I want to improve my Wikipedia reading speed?
+#### **Hỏi:** Có nên đọc nhiều manga để cải thiện tốc độ đọc Wikipedia không?
 
-A: No. Specialization is required to get faster at reading at what you want.  
+Trả lời: Không. Cần có chuyên môn để đọc nhanh hơn.
 
+### Nayamigoto về sự hiểu (Comprehension) Loại 1 
 
-### Comprehension Nayamigoto Type 1  
+Loại 1: “mình đã nhìn vào câu/đoạn văn/từ này rất lâu và không hiểu nổi nó có nghĩa gì.”
 
-Type 1: "I have been staring at this sentence/paragraph/word/thing for ages and I have no idea what it is saying."
+Giải pháp?
 
-Solution?  
+Điều hiển nhiên cần làm là tra từ và ngữ pháp được sử dụng trong câu, đồng thời tham khảo ngữ cảnh (đọc các dòng trước).
 
-The obvious thing to do is to look up the words and grammar used in the sentence, and also refer to the context (read previous lines).  
+Thực hiện điều trên rồi mà vẫn không hiểu được câu?
 
-But what if you've already done that but still don't understand?  
+Câu trả lời đơn giản là hãy đọc nhiều hơn.
 
-The simple answer is to read more.  
+Bởi vì hiểu biết là một quá trình diễn ra từ từ.
 
-Because comprehension is a gradual process.  
+Yếu tố "comprehending/understanding" (sự có khả năng hiểu) rộng hơn nhiều so với chỉ “biết từ” và “học ngữ pháp”.
 
-The factors that go into "comprehending/understanding" are much more broad than "knowing the word" and "having studied the grammar."
+Khi đọc nhiều hơn, bạn sẽ thấy các từ được sử dụng trong rất nhiều ngữ cảnh khác nhau.
 
-When you read more, you will see words used in many, many different contexts.  
+Và thông qua việc tiếp xúc với những từ này trong nhiều ngữ cảnh khác nhau, bạn sẽ học được cách hiểu nhiều câu hơn.
 
-And it is through your exposure to these words in various contexts that you will learn to comprehend more sentences.  
+Dù không muốn thừa nhận nhưng vẫn có một cách khác để rèn luyện khả năng hiểu là phân tích câu bằng cách tham khảo các cấu trúc ngữ pháp, định nghĩa từ điển, câu ví dụ, câu trả lời trên HiNative hoặc Yahoo!知恵袋, v.v. Nếu bạn có đủ động lực để thực hiện tất cả những điều đó, thì ổn thôi, nó cũng không đến nỗi tệ, nhưng đồng thời, không thể nào bạn không tiến bộ bằng cách đọc nhiều hơn, vì vậy mình muốn nói rằng quyết định này hoàn toàn thuộc về bạn. Có lẽ học cách cân bằng việc phân tích với việc đọc nhiều hơn là một kỹ năng hữu ích cần có.
 
-As much as I don't like to admit it, there is another way of training comprehension too. And that is by analyzing the sentence by referring to grammar points, dictionary definitions, example sentences, HiNative and Yahoo!知恵袋 answers, etc. If you have the drive to do all of that, then I'd say you can't go wrong with that, but at the same time, there is no way you aren't improving by just reading more, so I would say this decision is all on you. Perhaps learning to balance analyzing with just reading more is a useful skill to have.  
+Dù sao đi nữa, giải pháp cuối cùng là cố gắng đọc nhiều hơn.
 
-Anyway, the ultimate solution is to try your best and read more.  
+### Nayamigoto về Comprehension Loại 1.5
 
-### Comprehension Nayamigoto Type 1.5   
+Loại 1.5: “Mình cũng có vấn đề như loại 1, thực sự rất khó chịu khi không hiểu được và mình muốn phải hiểu mọi thứ. Mình thực tin rằng cần phải phân tích cả câu. Nhưng có nên làm điều đó thường xuyên không?”
 
-Type 1.5: "I have type 1 comprehension anxiety. I absolutely despise not understanding, I want to understand everything. I am a high believer in analyzing sentences. But how much should I actually do it?"   
+Và với tư cách là người theo khuynh hướng "đọc nhiều hơn" và là người từng rất "sùng bái" việc phân tích câu, khi phân tích những câu không thật sự quen thuộc, bạn chỉ có thể hiểu được ở mức độ nhất định; người đọc nhiều sẽ có thể hiểu được nhiều hơn người chỉ tập trung vào phân tích mọi thứ.
 
-And as a high believer in reading more and an ex-high believer in analyzing sentences, I'd say there is only so much comprehension you can get out of analyzing unfamiliar sentences; the learner that has read a ton will understand a lot more than the learner that just analyzes everything.  
+Việc phân tích câu đấy không hề xấu; bạn chỉ nên làm vậy ở mức bình thường vì đọc nhiều hơn sẽ tốt hơn là tập trung quá nhiều vào chỉ một câu.
 
-Analyzing is by no means bad; I just think you should do it in moderation because reading more sentences will benefit you more than hyperfocusing on the same one.  
+### Loại 1.5 ở trên nhưng là biến thể 2
 
-### Comprehension Nayamigoto Type 1.5 Variation 2  
+Biến thể 2: “Nhưng chẳng phải việc phân tích mọi thứ sẽ giúp tiến bộ nhanh hơn đúng không?”
 
-Variation 2: "But wouldn't analyzing everything make me improve faster!"  
+Sự hối thúc phải phân tích câu khi mình không hiểu là một điều khó tránh khỏi.
 
-In my experience, it is nearly inevitable that you'll have the urge to analyze everything.  
+Xét cho cùng, nó có thể là một chiến lược đọc rất tốt, và ở một mức độ nhất định thì nó đúng như vậy.
 
-After all, it seems like a very good reading strategy, and it is, to a certain extent.  
+Có những cuốn mình đọc 3 lần (Volume 1-3 của 龍ヶ嬢七々々の埋蔵金  mỗi cuốn 3 lần) và một số khác vì mình làm thẻ câu và thực hiện mining với những từ mình chưa biết trong sách với câu đi kèm từ đó nên cuối cùng mình đã đọc đi đọc lại những câu tương tự. Mình đã phân tích nó đấy.
 
-There are books I read 3 times (Volumes 1-3 of 龍ヶ嬢七々々の埋蔵金 each 3 times) and then some because I was doing sentence cards and mined unknown words from the books with their sentences, so I ended up reading the same sentences over and over again.  
+Một điều bất ngờ là, khi mình quay lại đọc cuốn ở trên sau khi đọc những cuốn sách khác, có rất nhiều phần hay đã bị **bỏ lỡ** trong đó.
 
-I analyzed the crap out of those books.  
+Đó chính là “người đọc nhiều sẽ hiểu nhiều hơn người chỉ phân tích cùng một nội dung”.
 
-And guess what? When I went back and read those books after reading a lot of other books, I realized **how much I had missed**.  
+Bạn sẽ gặp rất nhiều câu trong nhiều ngữ cảnh khác nhau khi đọc nhiều hơn và bạn sẽ tiến bộ hơn rất nhiều khi làm như vậy.
 
-This goes back to the whole "the person that reads a lot will understand more than the person that analyzes the same stuff."    
+Bây giờ hãy quay lại câu hỏi, liệu việc “chỉ đọc” nhiều hơn có giúp bạn tiến bộ nhanh hơn không?
 
-You will come across a ton of sentences in a ton of contexts when you read more, and you'll improve a lot when doing so.  
+Khá khó nói, nhưng khi đọc, mình luôn nghĩ về những gì mình đang đọc. mình luôn nghĩ về ý nghĩa của những gì mình đang đọc. Mình nghĩ mọi người cũng làm tương tự, nhưng đôi khi bạn chỉ đọc các từ mà không thực sự nghĩ về nghĩa của chúng. Đó là một vấn đề khác mà mình muốn nói về.  
 
-Now back to the question, would it make you improve faster than "just reading" more?  
+#### **Hỏi:** mình nên làm gì khi lỡ đọc các từ mà không nghĩ đến nghĩa của chúng?
 
-Hard to say, but when reading, I always thought about what I was reading. I always thought about the meaning of what I was reading. I felt like everyone did this though, but sometimes you end up reading words without thinking about their meaning, which is another question I'd like to answer.  
-#### **Q:** What should I do when I end up reading words without thinking about their meaning?  
+Theo mình thì, trong mỗi cuốn sách đều có những đoạn vô dụng/ít quan trọng hơn. Sẽ hoàn toàn ổn nếu không nghĩ quá nhiều về chúng.
 
-I think in every book they have those useless/less important lines, right? I think it is perfectly fine not to think too deeply about them.  
+Và đôi khi sẽ có những dòng khiến bạn muốn ngừng đọc phải không? Sẽ hoàn toàn ổn nếu không nghĩ quá nhiều về chúng.
 
-And there are lines that make you want to stop reading sometimes, right? I think it's fine if you don't think deeply about them either.  
+Tuy nhiên những vấn đề khác lại nằm ở một số những yếu tố khác nhau. Chẳng hạn như khả năng hiểu (Comprehension), sự tập trung hay sự mệt mỏi.
 
-However everything else is a matter of a few different factors. There's comprehension, focus, and fatigue.  
+Với những câu thực sự khó, việc đọc các từ mà không hiểu nghĩa là điều rất bình thường. Đọc lại câu 2 lần. Nếu sau đó vẫn không hiểu thì nó vượt quá khả năng của bạn và bạn nên bỏ qua nó. Nghe có vẻ khá tệ nhưng bạn sẽ đọc những câu khó hơn bằng cách đọc nhiều hơn vì bạn sẽ được tiếp xúc với các từ được sử dụng trong rất nhiều ngữ cảnh khác nhau.
 
-With really hard sentences, it is very common to end up reading the words without taking in the meaning. Read the sentence again 2 times. If you don't understand it after that, it is way above your ability, and you should just move on. I know I sound like a broken record, but I'll say it again, you get better at reading harder sentences by reading more because you see words used in tons of different contexts.  
+Mất tập trung khi đọc thực sự là một vấn đề và cảm thấy mệt cũng là một vấn đề khác. Mặc dù mình không thể đưa ra nhiều lời khuyên về việc duy trì sự tập trung ngoài việc loại bỏ những thứ gây xao nhãng, với mình thì mình thường thấy mệt sau khoảng 20 phút đọc sách. Sau khi nghỉ giữa các hiệp Pomodoro, mình có thể đọc lại những câu tương tự dưới một góc nhìn hoàn toàn khác.
 
-Losing focus when reading is actually a thing. And getting fatigued is also a thing. While I can't give much advice about maintaining focus other than getting rid of distractions, I can say fatigue happens at around 20 minutes of reading for me. After a Pomodoro break, I am able to read the same sentences with a new set of eyes.    
+Bạn cần ghi nhớ điều này:
 
-Anyway, here's what you shouldn't forget:  
+Nó có hay không? ← Đây là câu hỏi quan trọng nhất.
 
-Is it enjoyable? ← This is the most important question.  
+Khó có thể đưa ra kết luận đủ khách quan về việc phân tích mọi thứ và việc chỉ đọc, nhưng điều quan trọng nhất ở đây là bạn thấy thích và muốn đọc.
 
-I am unable to draw an objective conclusion about analyzing everything vs. just reading, but what matters most is that you are having fun, being interested, and wanting to read.  
+### Nayamigoto Loại 2
 
+Loại 2: “Khi mình đọc một lúc, mình cảm thấy loạn, mình đọc quá nhanh và mọi thứ cứ thế mà trôi tuột đi.”
 
-### Comprehension Nayamigoto Type 2  
+Lời khuyên chân thành: Bạn nên đọc chậm lại. Ngoài ra, hãy nghỉ ngắn thường xuyên. Mình thường có những lúc, sau khi nghỉ giải lao, mình có thể hiểu những câu tương tự tốt hơn.
 
-Type 2: "When I am reading for a while, my brain turns to mush, and I read too fast, and things slip through my comprehension."  
+### Nayamigoto Loại 3
 
-Honest advice: I think you should just suck it up and read slower. Also, take breaks. I often have times where, after a break, I comprehend the same sentences more.  
+Loại 3: “Mình có thể đọc và hiểu nghĩa tất cả các từ, nhưng chẳng thể hình dung nổi bối cảnh và không hiểu chuyện gì đang xảy ra. Mình thậm chí phải phân tích nhưng sau đó mình vẫn không thể hiểu nổi. Mình nên làm gì?"
 
-### Comprehension Nayamigoto Type 3
+Đây là những gì bạn cần làm:
 
-Type 3: "I can read all the words, I know all their meanings, but I can't visualize the scene! I don't understand what is actually going on! I have to analyze and even then I have no clue what is happening. What should I do?"  
+- <h3>Đọc nhiều hơn<h3>  
 
-I know this is very hard for you, but here's what you need to do:
+#### **Hỏi:** Thật á? Đùa à. Chắc chắn có thể làm cái gì khác để cải thiện vấn đề này.
 
-- <h3>Read more<h3>  
+A: Thực ra thì mọi thứ đều nên tóm gọn trong chữ “Đọc nhiều hơn”. Câu trả lời “đọc nhiều hơn” là vì lý thuyết của nó là: Khả năng hiểu của bạn kém vì những câu mà bạn gặp khó khăn là những câu mà bạn chưa cảm thấy quen thuộc. Về việc tiếp thu ngôn ngữ, việc nhồi vào đầu những câu quá lạ lẫm sẽ không hiệu quả bằng việc hiểu được câu i+1. (Chỉ có một thứ trong câu vẫn còn mơ hồ; có khi chưa chắc đã có thể hiểu được) Khi đọc nhiều hơn, **bạn sẽ thấy cả đống câu**, và trong đống đấy sẽ có rất cả đống câu i+1. Đây là đỉnh của sự "tiếp thu ngôn ngữ". Nhờ đọc nhiều, bạn sẽ cải thiện được Tiếng Nhật của mình và hiểu những câu khó đó một cách dễ dàng hơn.
 
+### Nayamigoto Loại 4
 
+Loại 4: “Mình học được một thời gian, với phương pháp [x], mình đã học được [x] lượng từ và ngữ pháp. Tuy nhiên, khi mình cố đọc thì mình không hiểu nổi từ nào cả. Việc đọc là một vấn đề quá lớn với mình. Mình nên làm gì?"
 
-#### **Q:** Is that it? Come on! I'm sure there is something else I could do that would really improve my situation right now.  
+Bạn đã có thể hoàn toàn đoán trước được câu trả lời rồi đấy.
 
-A: Well everything boils down to "read more." I answered with "read more" because the theory behind it is: Your comprehension lacks because the kinds of sentences you struggle with are ones you are unfamiliar with. In language acquisition, force feeding yourself too-unfamiliar sentences is not as effective as understanding i+1 sentences. (Only one thing in the sentence that aren't so comfortable with; these "things" may not even be identifiable.) When you read more, **you will come across a crap ton of sentences**, and within these sentences, there will be plenty of i+1 sentences, and this is the peak of your language acquisition gains. As a result of reading a lot, you'll improve your Japanese and find it easier to understand those difficult sentences.  
+Không thể đọc tốt hơn nếu không đọc. Không thể học hầu hết các từ bạn cần để có mức độ hiểu biết cao chỉ với Anki mà không cần đọc.
 
-### Comprehension Nayamigoto Type 4  
+Bạn không thể làm gì khác ngoài việc đọc nhiều hơn.
 
-Type 4: "I've been studying for a while, with [x] method, I've learned [x] amount of words and grammar. However, when I try to read I don't know any of the words. Reading is a huge struggle. What should I do?"  
+Tất nhiên, bạn có thể học thêm ngữ pháp và học thêm từ vựng với Anki, điều này tất nhiên sẽ hữu ích.
 
-I'm sure you can already anticipate the answer.  
+Nhưng bạn sẽ chỉ đọc tốt hơn bằng cách đọc nhiều hơn.
 
-Let me just go ahead and say it: It is impossible to get good at reading without reading. It is impossible to learn most of the words you need to a high degree of understanding just with Anki, without reading.  
+### Việc việc đọc nhanh hơn
 
-There is nothing else you can be doing than reading more.  
+Theo mình thì, việc cố gắng đọc nhanh hơn chỉ khiến bạn hiểu ít hơn. Nhưng tất cả chúng ta đều muốn vừa có thể đọc hiểu vừa đọc nhanh hơn phải không? Bạn chỉ có thể đạt đến trình độ đó nếu bạn đọc rất nhiều.
 
-Of course, you can study more grammar, and learn more vocab with Anki, which will of course help.  
+Nếu bạn đọc nhiều, bạn sẽ đọc thành cụm câu/từ phải không?
 
-But you will only get good at reading by reading more.  
+Mình đã hình thành các khái niệm trong đầu một cách có ý thức về các phần của câu để đọc chúng thành từng cụm (Câu gốc: I consciously made mental conceptualizations of parts of sentences in order to read them in clumps)
 
-### The case for reading faster  
+Đây chỉ là một cách nói hoa mỹ, *“Điều này có nghĩa là [x] và không cần phải đọc từng từ này. mình sẽ ghi nhớ/ghi nhớ trong đầu rằng mình có thể đọc nó dưới dạng một “hình dạng” để hiểu ý nghĩa của nó thay vì đọc từng chữ”*
 
-OK, in my experience, trying to make yourself read faster just makes you understand less. But we all want to be able to keep our comprehension whilst also reading faster, right? Yes, but you can only get to that level if you read a lot.  
+#### **Q:** Không subvocalization = không hiểu?
 
-If you a read a lot, you will end up reading sentences/words in clumps, right?  
+subvocalization = đọc trong đầu, đọc mà không phát ra thành tiếng
 
-I consciously made mental conceptualizations of parts of sentences in order to read them in clumps.  
+Theo kinh nghiệm của mình, khi những từ/câu bạn chọn không phát âm thành tiếng không quen thuộc với bạn (tức là bạn không thể hiểu chúng chỉ bằng cách nhìn lướt qua.) (Một ví dụ mà những người đọc có kinh nghiệm nên hiểu mà không cần đọc từng từ làなければならない) thì cuối cùng bạn sẽ không hiểu nó thực sự đang nói gì.
 
-This is just a fancy way of saying, *"This means [x] and there is no need to read word this for word. I'll keep a mental note/recognition of the fact that I can read this as a "shape" to get its meaning instead of reading it word for word"*
+Subvocalizing là một kỹ thuật đọc hữu ích và hầu hết mọi người đều làm điều đó; nếu bạn đọc nhiều, khả năng subvocalization của bạn sẽ nhanh hơn.
 
-#### **Q:** No subvocalization = no comprehension?  
+Vì vậy, đừng ngừng subvocalization vì bạn nghĩ điều đó đang làm bạn chậm lại. Không phải vậy. Điều duy nhất làm bạn chậm lại là: Bạn lo lắng quá nhiều về tốc độ và số lượng ký tự, thực tế là bạn chưa đọc đủ và thực tế là bạn sẽ không thể đọc văn bản nhanh như chớp. bằng ngôn ngữ mà về cơ bản bạn không có nhiều kinh nghiệm so với ngôn ngữ bản xứ.
 
-In my experience, when the words/sentences you are choosing not to subvocalize are not that familiar to you (i.e., you cannot understand them just by glancing at them.) (An example that experienced readers should understand without reading it word for word is なければならない) then you will end up not understanding what it is actually saying.  
+Đọc nhiều hơn là mấu chốt của việc tăng tốc độ đọc, vì vậy đừng quên!
 
-Subvocalizing is a useful reading technique, and most people do it; if you read a lot, your subvocalization will just get faster.  
+### Mình không thể đọc được. Mình không phải là người đọc nhưng lại là một chú bé đần/người mắc adhd/có khả năng nhớ kém và việc đọc nằm ngoài tầm với của mình.
 
-So don't stop subvocalizing because you think it's slowing you down. It is not. The only things slowing you down are: You worrying too much about speed and character count, the fact that you haven't read enough, and the fact that it is pretty much common sense that you wouldn't be lightning fast at reading a text in a language you basically don't have much experience with when compared to a native.  
+<h2><strong>KỆ BẠN.</strong></h2>  
 
-<h3><strong>Reading more is the crux of increasing reading speed, so don't forget!</strong></h3>  
+Và mình đã phải đối mặt với tất cả cho đến khi mình nhận ra tất cả những gì bạn cần là một cuốn sách đủ hay.
 
+Và timeboxing (hộp thời gian).
 
-### I can't read! I am not a reader in my native lang! I am too dumb/adhd/young/bad memory to read!
-<h2><strong>C O P E.</strong></h2>  
+### NHƯNG mình phải đọc BAO NHIÊU???
 
-And a cope I lived with until I realized all you need is a good book.  
+Đó là một câu hỏi ngớ ngẩn vì bạn không bao giờ ngừng đọc vì bạn luôn có thể cải thiện.
 
-And timeboxing.  
+Nhưng bạn có thể hỏi bạn cần đọc bao nhiêu để thực sự thành thạo?
 
+Mình không biết con số chính xác, nhưng sau 300 cuốn tiểu thuyết, bạn sẽ trở nên khá giỏi đấy.
 
+Nếu bạn "đào" (mining) toàn bộ 30 đến 40 cuốn tiểu thuyết và sử dụng từ điển đơn ngữ, bạn sẽ có vốn từ vựng rất lớn và sẽ hiểu được hơn rất nhiều khi nghe, v.v.
 
+Nhưng biết được từ chỉ là bước khởi đầu để trở thành một người đọc thành thạo.
 
-### OK BUT how MUCH do I have to read???
+Dù sao đi nữa, hãy ngừng lo lắng về việc bạn cần đọc bao nhiêu vì sẽ rất lãng phí thì giờ khi cố tính xem bạn cần đọc bao nhiêu cuốn sách, đến lúc con mắt của bạn không còn có thể nhìn vào văn bản được nữa.
 
-It's a silly question because you never stop reading because you can always improve.
+## Góc vô liêm sỉ
+ 
+Mình làm mọi thứ miễn phí (và có ý định tiếp tục làm mọi thứ miễn phí), và vẫn mong rằng có ai đó sẽ đăng kí Patreon của mình.
 
-But how much do you need to read in order to get really proficient, you may ask?  
-
-I don't know the exact number, but after 300 novels, you would be pretty good.  
-
-If you mine the entirety of 30 to 40 novels and use monolingual dictionaries, you will have a very large vocabulary and will understand a lot more from listening and so on.
-
-But knowing the words is only the beginning of being a proficient reader imo.  
-
-Anyway, stop worrying about how much you need to read because it's a waste of time calculating how many books you need to read until you never look at text again.  
-
-## Shameless plug  
-
-I make everything for free (and intend to continue making everything free), but I would highly appreciate some Patreon subs.
-
-[:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }   
+[:fontawesome-brands-patreon: パトロンになる](https://www.patreon.com/shoui){: .md-button }

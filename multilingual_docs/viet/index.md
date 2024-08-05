@@ -1,8 +1,7 @@
 ![welcome](img/welcome.png){:  style="display: block; margin: 0 auto; max-width:100%; height:auto;" }
 
-#Hello :)
-Hi, welcome to my site. :smirk_cat:
+Chào mừng bạn đến với trang của mình. :smirk_cat:
 
-You can *learn how to learn* Japanese properly here. Click on the button below to get started! ^^
+Bạn có thể *học cách học* Tiếng Nhật đúng ở đây. Bấm vào bên dưới để bắt đầu! ^^
  
 [:fontawesome-solid-book-open: Read the guide! ](/guide){: .md-button .md-button--primary }  

@@ -1,12 +1,12 @@
-# Japanese Subtitles Guide
+# Hướng dẫn về phụ đề Tiếng Nhật
 
-## This guide is outdated.
+## Hướng dẫn này đã cũ (outdated)
 
-Please see below.
+Đọc thêm ở bên dưới.
 
-[Get Japanese Subtitles](https://learnjapanese.moe/resources/#subtitles)  
+[Tìm phụ đề Tiếng Nhật](https://learnjapanese.moe/resources/#subtitles)  
 
-## Guides  
+## Các hướng dẫn  
 
 [Matt vs. Japan: mpv: The Best Video Player for Language Learning](https://youtu.be/bbg6ztWecbU)
 
