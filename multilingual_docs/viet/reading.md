@@ -1,78 +1,72 @@
-# Getting into Reading
+# Bắt đầu đọc
+Việc đọc Tiếng Nhật là ***RẤT QUAN TRỌNG*** . Việc học cách đọc Tiếng Nhật cũng quan trọng không kém. Bạn thường nghe mọi người hỏi “Có thể học Tiếng Nhật mà không cần học cách đọc không?”. Hoàn toàn có thể, nếu bạn không cảm thấy cần phải hiểu ngữ pháp cơ bản và có vốn từ vựng rất khiêm tốn sau nhiều năm học.
 
-Reading Japanese is ***CRUCIAL***. It is important you learn how to read Japanese. Often you get people asking "Well can I learn Japanese without learning how to read it?". You can, provided you don't want to understand basic grammar and have a tiny vocabulary size after years of study.  
+Như đã nói, có thể việc học cách đọc khiến bạn cảm thấy khó khăn, xét cho cùng thì có quá nhiều kanji khác nhau chỉ trong một trang! Lần đầu đọc một quyển sách sẽ rất khó khăn, bạn chỉ cần vượt qua được trở ngại ấy và theo thời gian, bạn sẽ trở nên tự tin hơn và đọc tốt hơn. Và nếu có ai thắc mắc về làm thế nào để tìm cách đọc các từ Tiếng Nhật lẫn nghĩa thì hãy đọc bài này tiếp, có một số công cụ nhất định cho phép bạn làm điều này này một cách dễ dàng.
+Trước khi bắt đầu đọc, bạn cần phải hoàn thiện một bộ thẻ Anki đã được làm sẵn cho bạn chẳng hạn như bộ Kaishi 1.5k và những hướng dẫn ngữ pháp như của Tae Kim hoặc Cure Dolly, điều này giúp quá trình đọc bớt khó khăn hơn vì khi đọc sẽ có kha khá từ bạn biết (Thông qua việc học ở trên). Thứ hai, bạn nên thực hiện immersion nghe trước vì 1. tránh mắc vấn đề về phát âm tệ và 2. nó giúp bạn phân tích câu tốt hơn khi đọc.
 
-With that said, it may seem difficult to learn how to read, after all there are like so much unique kanji on the page! Well yes, reading for the first time will always be painful, you just have to get through it and over time you will become more confident and better at reading. And if anyone is curious on how on earth you're supposed to find out how to read Japanese words and what they mean, just read on, there are certain tools that let you do this easily.  
+### Những key point
+1.  Việc học đọc lúc đầu sẽ luôn có rất nhiều vấn đề. Không nên đợi “cho đến khi mình sẵn sàng” bởi vì bạn sẽ không bao giờ sẵn sàng cho đến khi bạn bắt đầu đọc.
+2.  Bạn không nên bắt đầu đọc ngay khi bạn chưa nghe nhiều trước đó. Bạn nên có trong mình sự cảm nhận về ngôn ngữ, về âm điệu và phát âm thế nào trước khi cố gắng tự tái tạo những phần âm đó trong đầu (đó là những gì bạn làm khi bạn đọc)
+3.  Đừng lo lắng về việc không hiểu một câu cho dù bạn có đọc nó bao nhiêu lần đi chăng nữa, nói cách khác, hãy học cách **chấp nhận sự mù mờ** . Mọi thứ sẽ trở nên rõ ràng hơn khi bạn đọc nhiều hơn.
+4.  Nếu bạn ghét đọc sách nói chung, bạn có thể chơi visual novel hoặc đọc manga, cả hai đều rất tốt cho việc luyện đọc.
+5.  Cuốn sách/tiểu thuyết đầu tiên sẽ luôn luôn khiến bạn "thống khổ". Hãy vượt qua nó cho dù nó có khó khăn đến thế nào đi nữa hay bạn mất bao lâu đi nữa.
+6.  Đừng nóng vội. Hãy dành thêm thời gian của bạn. Đi theo tốc độ của riêng bạn. Bạn sẽ không muốn bản thân mình cảm thấy kiệt sức và không bao giờ còn muốn đọc thêm bất cứ điều gì nữa.
 
-Before you start reading for real, it is important you have already worked through a pre-made Anki deck, such as Kaishi 1.5k and also a grammar guide such as Tae Kim or Cure Dolly, this is to make the process less painful as there will be more words you know. Second, I recommend also having prior listening immersion experience because 1. it prevents you from developing a bad accent and 2. it helps you parse sentences better when reading.   
+## Học cách đọc
+Như đã nói trước đó, hãy đảm bảo bạn có một vốn từ vựng tương đối (giả sử bạn đã hoàn thành bộ Anki lúc đầu đó) và đã hiểu tương đối ngữ pháp Tiếng Nhật trước khi đọc, mọi việc sẽ trở nên dễ dàng hơn nhiều.
 
-### Key Points  
+### phụ đề Tiếng Nhật
 
-1. Learning to read will always be painful in the start. You shouldn't wait "until you're ready" because you will never be ready until you start reading.  
-2. It is not recommended you start reading without prior listening experience. I recommend that you have a feel of what the language sounds like before trying to reproduce the sounds yourself in your head (which is what you're doing when you are reading)
-3. Don't worry about not comprehending a sentence no matter how many times you read it, in other words, learn to **tolerate ambiguity**. Things will become clearer as you read more. 
-4. If you hate reading books in general, you can always play visual novels or read manga, both of which are very good for reading. 
-6. Your first light novel/book whatever will always be the most painful. Get through it no matter how painful it is or how long is takes you. 
-7. Don't rush yourself. Take your time. Go at your own pace. You wouldn't want to burnout and end up never reading again or anything.
-
-## Learning how to read 
-
-As mentioned earlier, make sure you have an adequate vocabulary size (say, you've finished a starter Anki deck) and a grasp of Japanese grammar before reading, this will make things much easier.
-
-### Japanese subtitles
-
-Japanese subtitles are a good way to introduce yourself to reading, trying to read the subtitles can be challenging but fun, and it will also increase your comprehension of the show you're watching. Certain tools let you easily look up words in a dictionary. I recommend you use the [Anacreon MPV Script](https://anacreondjt.gitlab.io/docs/mpvscript/) paired with [Yomichan](/yomichan). 
+Phụ đề Tiếng Nhật là một cách tương đối tốt để mở đầu cho việc luyện đọc, việc cố gắng đọc phụ đề có thể khó khăn đôi chút nhưng tương đối vui và nó cũng sẽ giúp bạn hiểu hơn về những gì bạn đang xem. Một số công cụ nhất định cho phép bạn dễ dàng tra từ trong từ điển. Bạn có thể sử dụng [Anacreon MPV Script](https://anacreondjt.gitlab.io/docs/mpvscript/) kèm với [Yomichan](/yomichan). 
 
 ### Manga
-Manga is probably the best way to get into reading without it being too intimidating as the way its written is similar to spoken Japanese, and assuming you're already quite familiar with that, it won't be much of a trouble getting used to. And if you're not yet familiar, you'll be familiar after reading manga and watching anime in Japanese.  
+
+Manga có lẽ là cách tốt nhất để bắt đầu tập đọc mà không khiến bạn cảm thấy nản vì cách viết của nó tương đối giống như cách nói Tiếng Nhật và giả sử bạn đã cảm thấy khá quen với ngôn ngữ nói rồi thì việc làm quen với Manga sẽ không gặp nhiều khó khăn. Và nếu chưa quen thì bạn sẽ sớm quen thôi, sau khi đọc manga và xem anime bằng Tiếng Nhật.
 
 ![Manga](img/manga1.jpg)
 
-*Manga: Mahou Shoujo Madoka Magica (yeah... as you can tell I'm not a manga reader)*
+*Manga: Mahou Shoujo Madoka Magica
 
-As you can see, manga uses all 3 writing systems, hiragana, katakana and kanji, therefore manga can be a great way to practice your skills in all 3 fields.
-But how about looking up words? That's literally a picture isn't it?
-There's a new program called Poricom that makes looking up words in manga much easier. You can find it [here](https://github.com/bluaxees/Poricom)
-For Android users you can use [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/). For iOS users you can use [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365)  
+Như bạn có thể thấy, manga sử dụng cả 3 hệ thống chữ viết là hiragana, katakana và kanji, do đó manga có thể là một cách tuyệt vời để rèn luyện kỹ năng của bạn trong cả 3 phần. Nhưng còn việc tra từ thì sao? Nó là ảnh mà? Poricom là một phần mềm giúp việc tra từ trong manga dễ dàng hơn. Bạn có thể tìm nó [ở đây](https://github.com/bluaxees/Poricom). Đối với người dùng Android thì có thể sử dụng [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/). Đối với người dùng iOS thì có thể sử dụng [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365)
 
-Expect manga to be pretty hard for you at first, but over time it will smoothen out and get easier. You just need to read more. You just need to read a lot.
+Manga sẽ khá khó trôi về đầu nhưng dần dần nó sẽ trở nên dễ dàng hơn. Bạn chỉ cần đọc thêm nhiều hơn. Bạn chỉ cần đọc nhiều hơn nữa, đọc rất nhiều.
 
-### Novels/Light Novels
-Even if you read like 100 manga, you still need to read novels since there will be words you still won't know a lot of words that are commonly used in written text.  
-Literary Japanese is not that hard as it sounds, it's only slightly different from spoken Japanese and will be easy to get used to.
-For reading light novels, I recommend using *Yomichan*, you can find a detailed Yomichan setup tutorial [[here]](/yomichan)  
-I seriously recommend you read novels on this site: [Itazuraneko Old Library](https://itazuraneko.neocities.org/shousetu/index.html), sort by kanji count, usually 1,000-1,600 kanji count is a good, this just means how long the book is if you actually look at it. If you have an Android you should use [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja) or [Typhon改](https://github.com/dajimenezja/typhon/releases) if the other one does not work with your phone. There are little buttons you can click on the itazuraneko old library to download epubs to load into it. You can also visit the [full epub list](https://yonde.itazuraneko.org/other/kensaku.html) but warning: you need a good phone to load that page because there are a LOT of books! If you cannot find the book you want on Itazuraneko you can try looking on [Boroboro](https://boroboro.neocities.org/listfullepub.html). iOS users can just use the Books app with epub files.
+### Tiểu Thuyết/Light Novels
 
-Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a 1-3 months to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in around 10 hours). Just read more, read a lot.  
-Reading scans or physicals like these is not recommended, because it is hard to look up words from it. 
-Note: I am not against 縦書き, (vertical text), the image below is an example of a *scan*.  
+Ngay cả khi bạn đã đọc khoảng 100 quyển manga, bạn vẫn cần đọc tiểu thuyết vì sẽ có những từ bạn vẫn không biết, đồng thời rất nhiều từ chỉ thường được sử dụng trong văn viết.  
+
+Văn học Tiếng Nhật không khó như bạn nghĩ, nó chỉ khác một chút so với Tiếng Nhật hội thoại và sẽ quen dần thôi. Để đọc Light Novel, bạn có thể sử dụng *Yomichan* , bạn có thể xem hướng dẫn cài đặt [[ở đây]](/yomichan)  
+
+Bạn nên đọc (shoui khuyên bạn nên đọc) tiểu thuyết trên trang này: [Itazuraneko Old Library](https://itazuraneko.neocities.org/shousetu/index.html), sắp xếp theo số lượng Hán tự, thường từ khoảng 1.000-1.600 Hán tự là ổn, điều này chỉ có nghĩa là cuốn sách dài bao nhiêu nếu bạn đi tìm hiểu thêm về nó. Nếu bạn dùng Android, bạn nên dùng [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja) hoặc [Typhon改](https://github.com/dajimenezja/typhon/releases) nếu ứng dụng kia không dùng được. Bạn cũng có thể truy cập [danh sách epub đầy đủ](https://yonde.itazuraneko.org/other/kensaku.html) nhưng cảnh báo: bạn cần một chiếc điện thoại ổn để tải trang đấy vì sẽ có RẤT NHIỀU sách! Nếu bạn không thể tìm được cuốn sách mình muốn trên Itazuraneko, bạn có thể thử tìm trên [Boroboro](https://boroboro.neocities.org/listfullepub.html) . Người dùng iOS có thể sử dụng ứng dụng Books với các tệp epub.
+
+Quyển sách đầu tiên sẽ là trải nghiệm kinh hoàng, nhưng sang quyển thứ hai thì sẽ đỡ mệt hơn. Mới đầu một cuốn light novel sẽ cần khoảng 1-3 tháng để đọc xong khi bạn mới đọc lần đầu, rồi nó sẽ nhanh hơn (mình (shoui) có thể đọc xong một quyển trong khoảng 10 tiếng). Chỉ cần đọc nhiều hơn, đọc nhiều hơn.  
+Không nên đọc bản scan hay sách giấy vì rất khó để tra cứu từ trong đó. 
+Lưu ý: Mình không phản đối 縦書き, (văn bản hiển thị dưới dạng cột dọc, hay thấy ở các sách Tiếng Nhật và Tiếng Trung), hình ảnh bên dưới là một ví dụ về bản *scan* .  
+
 ![LN 1](img/ln1.jpg)
 *Novel: Hibike! Euphonium*
 
 ![LN 2](img/ln2.jpg)
 *Novel: Nichijou no Natsuyasumi*
 
-You need to read stuff like this:
+Bạn cần đọc những thứ như thế này: 
 [![LN 3](img/ln3.jpg)](img/ln3.jpg)
 *Novel: Kimi no Na wa.*  
 *Click to enlarge*
 
-This is **digital**. Very important. I can select the text and use Yomichan with it.
+Đây là **bản điện tử** . Cực kì cần thiết. Mình có thể chọn văn bản và sử dụng Yomichan với nó.
 
 ###Visual Novels
 ![VN 1](img/vn1.jpg)
 *Visual Novel: Angel Beats! -1st beat-*
 
-Visual Novels are very good if you hate reading books. It's helped supercharge my reading. It's similar to watching anime with Japanese subtitles. It is also good for making [AnimeCards](https://www.animecards.site) from and also serve as semi-listening semi-reading immersion. 
+Nếu bạn ghét đọc sách thì có thể bạn sẽ muốn luyện đọc trên Visual Novel. Nó đã giúp mình tăng cường khả năng đọc. Nó cũng tương tự như việc xem anime có phụ đề Nhật. Bạn có thể sẽ muốn tạo [AnimeCards](https://www.animecards.site) từ đó và sử dụng như việc thực hành immersion nửa nghe nửa đọc.
 
-I wholeheartedly recommend VNs for people that have attention span issues when reading novels. 
+Mình thực lòng gợi ý VN cho những người gặp vấn đề về khả năng tập trung khi đọc tiểu thuyết.
 
-Just make sure you have texthooking setup, you can find out how to do that [here](/vn).
-To get good at reading visual novels, you just need to read more, you just need to read a lot
+Chỉ cần đảm bảo rằng bạn đã cài đặt texthooking, bạn có thể đọc cách cài [tại đây](/vn). Để giỏi đọc VN hơn, bạn chỉ cần đọc nhiều, chỉ cần đọc nhiều thôi.
 
-## Conclusion
-Don't worry about how much "kanji" you "know". You can start reading after you have enough listening experience, and have finished a grammar guide or something. That's all. Don't hesitate. Don't feel like you're "not ready yet" because you will never be if you don't start reading.
-Read more, read a lot, that's how you get good at reading.  No hacks, no tricks, sorry.
+## Kết
+Đừng quá lo lắng về việc bạn “biết” bao nhiêu chữ "kanji". Bạn có thể bắt đầu đọc sau khi đã có đủ trải nghiệm nghe và đã hoàn thành phần hướng dẫn ngữ pháp hoặc cái gì đó tương tự. Vậy đó. Đừng ngần ngại. Đừng cảm thấy “chưa sẵn sàng” vì bạn sẽ chẳng bao giờ sẵn sàng nếu bạn không bắt đầu đọc. Đọc nhiều hơn và đọc nhiều hơn là cách để bạn đọc tốt hơn. Không có mẹo vặt, không có đường tắt.
 
 Have fun immersing! :smile:
-

@@ -1,8 +1,8 @@
-# Yomichan Custom CSS
+# CSS tùy chỉnh của Yomichan
 
-!!! info "This is an optional tutorial."
-    If you want to setup Yomichan, you can find that [here](/yomichan)
-!!! info "Yomichan Update"
+!!! info "Đây là một hướng dẫn tùy chọn"
+    Nếu bạn muốn cài đặt Yomichan thì hãy đến trang [này](/yomichan)
+!!! info "Cập nhật Yomichan"
     Yomichan has been updated and since changed old classes and added new ones. This guide will no longer work. Please come back later when this message has been removed.
 
 
