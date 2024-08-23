@@ -152,9 +152,9 @@ JMdict (English)
 
 **大辞林 第三版** - an extension of the 3rd edition of the Daijirin, 2015. It has a wide assortment of words, expressions, proper nouns, grammar and connectives (actually more important than you think!). It is a a great all-rounder and personally my most used dictionary.  
 
-**デジタル大辞泉** - Digital Daijisen, May 2021. The QUEEN of online dictionaries. This is the dictionary hosted on the [Goo Dictionary](https://dictionary.goo.ne.jp), it has a lot of new words, expressions, images and kanji entries. The previous issue where the headword was missing has been fixed. Currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741))  
+**デジタル大辞泉** - Digital Daijisen, May 2021. The QUEEN of online dictionaries. This is the dictionary hosted on the [Goo Dictionary](https://dictionary.goo.ne.jp), it has a lot of new words, expressions, images and kanji entries. The previous issue where the headword was missing has been fixed.
 
-**旺文社国語辞典 第十一版** - Oubunsha Kokugo Dictionary 11th Editon. Short name: Oukoku (旺国) is a monolingual dictionary published by Oubunsha in 2013. This dictionary's main selling point is how precise and easy to understand it is. And rightfully so; comparitively this dictionary has the most easiest to understand definitions. It explains the difference between kanji usages, 逢う, 会う etc. and is also really nice for grammar definitions. It is my #1 recommendation for people new to monolingual dictionaries. This version has images. But currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741])  
+**旺文社国語辞典 第十一版** - Oubunsha Kokugo Dictionary 11th Editon. Short name: Oukoku (旺国) is a monolingual dictionary published by Oubunsha in 2013. This dictionary's main selling point is how precise and easy to understand it is. And rightfully so; comparitively this dictionary has the most easiest to understand definitions. It explains the difference between kanji usages, 逢う, 会う etc. and is also really nice for grammar definitions. It is my #1 recommendation for people new to monolingual dictionaries. This version has images.
 
 **旺文社国語辞典 第十一版 画像無し** - No-image version of the above.
 
