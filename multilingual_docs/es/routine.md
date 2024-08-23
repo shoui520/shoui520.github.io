@@ -528,11 +528,11 @@ Your first reading content will be anime with Japanese subtitles.
 
 It is kind of tricky to set it up, but let's go through it.  
 
-First, you will need Yomichan.
+First, you will need Yomitan.
 
 Click on this [link](/yomitan) to read my guide on it.  
 
-After you have set up Yomichan, follow the rest of these steps. 
+After you have set up Yomitan, follow the rest of these steps. 
 
 In your Chrome extension settings (`chrome://extensions`), enable "**Developer mode**" in the **top right**.  
 
@@ -574,7 +574,7 @@ The subtitles should load and work.
 
 English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Japanese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles, click the CC icon on the video player controls and click Off.  
 
-By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
+By using ++shift++ on a word, Yomitan should pop up with a dictionary definition. 
 
 But there is a problem. The subtitle file for Love Live is horribly **out of sync**!  
 
@@ -635,7 +635,7 @@ A: [Roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+
 
 Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
 
-**Q: Is it possible to understand everything by spending 30 minutes spamming Yomichan on a sentence?**  
+**Q: Is it possible to understand everything by spending 30 minutes spamming Yomitan on a sentence?**  
 
 A: Short answer: No. Comprehension is a gradual process.  
 
@@ -691,7 +691,7 @@ You get better at it over time.
 
 Language learning is just pattern recognition after all.  
 
-Yomichan is a great help because it knows where words start and end with 90% accuracy.  
+Yomitan is a great help because it knows where words start and end with 90% accuracy.  
 
 **Q: Now that I can see the Japanese, can I try to translate it in my head?**  
 
@@ -863,7 +863,7 @@ You can decide everything with a dice and flipping a coin if you're uncertain, o
 
 I apologize if "immersion" is a vague term.  
 
-All of that stuff that you did with the anime and the subtitles and Yomichan is immersion.  
+All of that stuff that you did with the anime and the subtitles and Yomitan is immersion.  
 
 ## Day 9  
 
@@ -995,7 +995,7 @@ But there are many tools out there that make this process easier.
 
 There is a particularly crazy one known as *mokuro* that turns the manga into a HTML page.  
 
-The text bubbles turn into text you can actually use Yomichan on, just like a normal web page!  
+The text bubbles turn into text you can actually use Yomitan on, just like a normal web page!  
 
 よつばと！ has some non-standard ways of writing words that make it tricky to use a dictionary with. Such as そう being written as そー
 
@@ -1025,13 +1025,13 @@ Shoving everything into the same day may be too difficult.
 
 I suggest replacing your reading practice with Yotsubato! instead of Japanese subtitles. It doesn't have to be every day if you don't want to.  
 
-**Word looking up trick: The Yomichan Search Page**  
+**Word looking up trick: The Yomitan Search Page**  
 
-You can use Yomichan to search up words by typing it or copy and pasting it.  
+You can use Yomitan to search up words by typing it or copy and pasting it.  
 
-You will need to use the Yomichan search page to look up words from my Yotsubato Reading Helper.  
+You will need to use the Yomitan search page to look up words from my Yotsubato Reading Helper.  
 
-You can access the search page by clicking on the Yomichan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
+You can access the search page by clicking on the Yomitan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
 
 **Q: How long will it actually take to read 100 pages?**
 

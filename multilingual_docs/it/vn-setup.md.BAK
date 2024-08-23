@@ -89,7 +89,7 @@ You can find an example below.
 
 After that, you should just be able to launch the game! 
 
-Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor with Yomichan.
+Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomitan-and-textractor) to learn how to use Textractor with Yomitan.
 
 ### Steam Games
 
@@ -485,7 +485,7 @@ and viola!
 
 ![Image](img/vnlinux7.jpg)
 
-Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomichan-and-textractor) to learn how to use Textractor, it works perfectly under Wine. Also consider adding Textractor to Lutris for quick access.
+Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#looking-up-words-in-vns-using-yomitan-and-textractor) to learn how to use Textractor, it works perfectly under Wine. Also consider adding Textractor to Lutris for quick access.
 
 ### Troubleshooting: Linux
 
@@ -859,7 +859,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 31. Download your visual novel of choice and drag and drop it to your VM. If it needs to be installed, then install it.
 32. Open ITHVNR and your VN. In ITHVNR, go in "Process", find the process of the VN, then click "Attach" and "OK"
 33. Advance some text in the VN. Now cycle through the hooks in ITHVNR and find the right hook.
-34. ITHVNR will automatically copy text to your clipboard, which is shared with your actual PC. I recommend you use [Yomichan](/yomitan)'s clipboard monitor :)
+34. ITHVNR will automatically copy text to your clipboard, which is shared with your actual PC. I recommend you use [Yomitan](/yomitan)'s clipboard monitor :)
 35. Phew, that's pretty much it, have fun!
 ![Image](img/winxp1.jpg)
 *from vm*

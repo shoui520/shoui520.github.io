@@ -38,7 +38,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
 
-Sorry to overwhelm you with information, but also check out my grammar dictionaries for Yomichan (pop up dictionary browser extension). 
+Sorry to overwhelm you with information, but also check out my grammar dictionaries for Yomitan (pop up dictionary browser extension). 
 
 ## Acquiring Japanese
 
@@ -75,7 +75,7 @@ Refer to the tools section for info on how to make lookups easier for manga.
 
 - ~~[Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.~~  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
-- [BilingualManga](https://bilingualmanga.org/) - Yomichan compatible & one-click translation.   
+- [BilingualManga](https://bilingualmanga.org/) - Yomitan compatible & one-click translation.   
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
@@ -184,13 +184,13 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 
 ### Dictionaries
 
-#### Yomichan
-Yomichan, a browser add-on that allows you to look up Japanese words easily. 
+#### Yomitan
+Yomitan, a browser add-on that allows you to look up Japanese words easily. 
 
-- [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
-- Tutorial: [click here](https://learnjapanese.moe/yomichan)  
-- [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
-- [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
+- [Get Yomitan](https://yomitan.wiki/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
+- Tutorial: [click here](https://learnjapanese.moe/yomitan)  
+- [shoui Yomitan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
+- [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomitan-dictionaries)  
 - Every dictionary explained in the text file.  
 
 #### Online
@@ -198,9 +198,9 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Weblio EJJE (bilingual)](https://ejje.weblio.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for longer phrases that Jisho may not have. 
 - [Eijirou on the WEB (bilingual)](https://eow.alc.co.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for example sentences.         
 - [Sakura-Paris Free Kōjien Search (both)](https://sakura-paris.org/dict/) - Says 広辞苑 but it has every major epwing dictionary. 
-- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomichan and MDX dictionary pack.      
-- [Goo (monolingual)](https://dictionary.goo.ne.jp/) - Uses デジタル大辞泉. The dictionary this site uses is usable in my Yomichan and MDX dictionary pack.  
-- [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary. Available for Yomichan too.
+- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomitan and MDX dictionary pack.      
+- [Goo (monolingual)](https://dictionary.goo.ne.jp/) - Uses デジタル大辞泉. The dictionary this site uses is usable in my Yomitan and MDX dictionary pack.  
+- [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary. Available for Yomitan too.
 - [Fuseji - uncensor 伏せ字 (i.e. words with 〇)](http://fuseji.net/)  
 - [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
 - [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/search) - pitch accent dictionary.  
@@ -234,7 +234,7 @@ See Applications section for an EPWING reader.
 - [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
 - [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
 - [Poricom Manga OCR](https://github.com/kha-white/manga-ocr) - GUI for manga-ocr
-- [mokuro](https://github.com/kha-white/mokuro) - Lets you use yomichan on regular manga! 
+- [mokuro](https://github.com/kha-white/mokuro) - Lets you use Yomitan on regular manga! 
 - [Capture2Text (Windows)](http://capture2text.sourceforge.net/) - recommend download better tessdata from the tesseract github for more accurate results. 
 - [Gazou OCR (Linux)](https://github.com/kamui-7/Gazou-OCR)  
 - [Hakuneko Manga Downloader](https://hakuneko.download/) - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags. 
@@ -263,10 +263,10 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - **[※ jidoujisho](https://github.com/lrorpilla/jidoujisho) - A mobile video player, reader assistant and card creation toolkit tailored for mobile language learners.**  
 - **[※ Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja)** - An EPUB reader for Android that lets you look up a word with one tap. Also supports EPWING monolingual dictionaries.  Does not work correctly on newer phones. 
 - [Typhon改](https://github.com/dajimenezja/typhon/releases) - Fork of Typhon Reader made to work with newer devices.  
-- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.  
+- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomitan on this.  
 - [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/) - Manga scans reader with an OCR to look up words. Supports EPWING monolingual dictionaries.  
 - [Tachiyomi Manga Reader (Get the Japanese sources)](https://tachiyomi.org/) - Manga downloader/reader. Get the Japanese sources.  
-- [Rin](https://github.com/kamui-7/rin) - Adds the iOS "Look Up" feature to Android for Japanese. It also has a standalone app that works like Yomichan, supports 2 bilingual dictionaries and 3 monolingual ones.   
+- [Rin](https://github.com/kamui-7/rin) - Adds the iOS "Look Up" feature to Android for Japanese. It also has a standalone app that works like Yomitan, supports 2 bilingual dictionaries and 3 monolingual ones.   
 - [Kaku](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku) - System-wide OCR.  
 
 
@@ -278,8 +278,8 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - [EBPocket](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes. 
 
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature.
-- [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomichan dictionary and EPWING support!  
-- [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomichan.  
+- [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomitan dictionary and EPWING support!  
+- [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomitan.  
 - [Orion Browser](https://apps.apple.com/us/app/orion-browser-by-kagi/id1484498200) - Less latency with 10ten than just Safari.  
 - [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - A very pretty e-book reader with great Japanese support. 
 
@@ -293,7 +293,7 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
   
 ### Browser Extensions
-- [Yomichan](https://foosoft.net/projects/yomichan/) - Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
+- [Yomitan](https://yomitan.wiki/) - Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
 *Android users can use this on Kiwi Browser.*    
 - [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) - Used for the texthooking page (MPV and visual novels)  
 - [exSTATic](https://github.com/KamWithK/exSTATic) - Japanese language immersion progress tracker.        

@@ -66,15 +66,15 @@ No.
 Morphman is an Anki addon (?) which automatically decides what words to add to Anki for you. And for that reason it is a failure. Don’t leave it up to a silly computer program to help you decide what to add to Anki. Also most of what Morphman decides what to add for you is like “フゥ...”, “(♪～)”, “あっ...” so unless you’re into that I advise you to avoid using Morphman.  
 If you want guidelines on what to mine, then just mine every single word after you have read/watched it. The idea here is, when you are looking up stuff, it is inevitable you are going to remember some things but forget others, so when you go back and read/watch it again, you mine all the words you failed to remember the first time. You may think, “I probably don’t need those words though”. Wrong. Yes you do. You need every word that comes up in your immersion.
 
-## Yomichan - the better way to go monolingual.  
+## Yomitan - the better way to go monolingual.  
 
-**I recommend doing the monolingual transition with Yomichan.**  
+**I recommend doing the monolingual transition with Yomitan.**  
 
 ![Image](img/monodemo1.png)
 
-Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomitan)  
+Yomitan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomitan [here](/yomitan)  
 
-### Optimizing Yomichan Settings 
+### Optimizing Yomitan Settings 
 
 First you need to ensure that Advanced options is enabled.  
 ![Image](img/mono1.jpg)
@@ -86,7 +86,7 @@ Second, we want to remove any and all scan delays because we will be making heav
 Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
 ![Image](img/mono3.jpg)  
 
-You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
+You may want to increase the size of your Yomitan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomitan dictionaries comfortably we are going to edit the following settings.  
 
 ![Image](img/mono4.jpg)  
 
@@ -95,7 +95,7 @@ Here's how our pop up looks now:
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
 
-You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomitan) for more info.  
+You can also add the Forvo audio source in Yomitan. See [Yomitan Setup Tutorial](/yomitan) for more info.  
 
 ![Image](img/mono6.jpg)  
 
@@ -108,9 +108,9 @@ I will touch on dictionaries in the next section.
 
 ### Getting and using monolingual dictionaries
 
-Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
+Again, I recommend you use monolingual dictionaries with Yomitan. I will talk about alternatives later.
 
-You can find my dictionaries collection here: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
+You can find my dictionaries collection here: [shoui Yomitan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
  
 Before we continue, have a read on recommended dictionaries and what they are exactly. 
 
@@ -218,8 +218,8 @@ You’re gonna be learning Japanese for a long time, so it is possible that your
 
 *You download anime right…?*
 
-### Yomichan Offline
-You can still use Yomichan offline. Here’s how.
+### Yomitan Offline
+You can still use Yomitan offline. Here’s how.
 
 ![Image](img/mono9.jpg)
 
@@ -251,7 +251,7 @@ Primarily in the AJATT community, there’s this one piece of advice:
 
 This is something Khatzumoto of AJATT proposed.  
 
-I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out, Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
+I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out, Yomitan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
 
 This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more!”, because that’s exactly what you need to do. 
 
@@ -268,12 +268,12 @@ When I read more novels I got more used to written Japanese, and when I looked u
 
 ### >What did you do when you came across a word you didn’t know in the definition?
 
-I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
-Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
+I looked it up with Yomitan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
+Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomitan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomitan.
 
 ### >Soo… what’s the best way to approach monolingual?
 
-Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.  
+Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomitan.  
 
 ### >What if I don't like reading novels? I hate reading novels!  
 
@@ -297,7 +297,7 @@ It's fascinating in its own right.
 
 (弐). Try to experiment with what dictionary order is the best for you.
 
-(参). If the word you look up with Yomichan is only in a bilingual dictionary, try doing a kana search for it, or a full kanji search (Alt+Insert to get to the Yomichan search page)  
+(参). If the word you look up with Yomitan is only in a bilingual dictionary, try doing a kana search for it, or a full kanji search (Alt+Insert to get to the Yomitan search page)  
 
 (肆). If you don’t understand the definition even if you looked up all the words, just look at/use the bilingual definition (last resort). You will get better at understanding when you use it more.
 

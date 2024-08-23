@@ -1,6 +1,6 @@
-# Yomichan Setup Tutorial
+# Yomitan Setup Tutorial
 
-**New: Yomichan is no longer in development. Its successor is Yomitan.**
+**New: Yomichan is no longer in development. Its successor is [Yomitan](https://yomitan.wiki).**
 
 ## What is Yomitan?
 Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
@@ -42,12 +42,12 @@ I recommend you install the following dictionaries:
 6. Please wait for the dictionaries to import. This could take a while.
 7. Once complete, you can test Yomitan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
 
-![Yomichan Demo](img/yomidemo1.png) 
+![Yomitan Demo](img/yomidemo1.png) 
 
 Click anywhere outside of the box or press the ++esc++ key to dismiss.
 Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 
-You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
+You can click the ![audio](img/yomitan-audio.png) button to hear the word being pronounced by a native speaker.
 
 In your browser extensions toolbar, if you click on the Yomitan logo, then on the ![search icon](img/yomitan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomitan Search, this is where you can use Yomitan as a standalone Japanese to English dictionary. 
 
@@ -90,7 +90,7 @@ Enabling this allows you to use Yomitan on local files such as .HTML files.
     On Chrome, you need to use [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). Click on the diagonal up arrow thingy to load a pdf.  
 
 Chromium:  
-	- Right click the ![yomi icon](img/yomichan-icon.png)  
+	- Right click the ![yomi icon](img/yomitan-icon.png)  
 	- Click "Manage Extensions"  
 	- Enable "Allow access to file URLs"  
 
@@ -101,7 +101,7 @@ Firefox:
 
 You may encounter missing audio with the default Yomitan audio sources, adding [Forvo](https://ja.forvo.com/) will help fill in the gaps.  
 
-Thanks to [jamesnicholas](https://github.com/jamesnicolas/yomichan-forvo-server) for this wonderful add-on!
+Thanks to [jamesnicholas](https://github.com/jamesnicolas/yomitan-forvo-server) for this wonderful add-on!
 
 This requires you to have Anki (2.1 and newer) installed and open on your computer to work.  
 
@@ -116,17 +116,17 @@ This requires you to have Anki (2.1 and newer) installed and open on your comput
 
 ## Bonus: Android use with Kiwi Browser  
 
-Kiwi Browser is a Chromium browser that supports extensions, including Yomichan. You can download it below.  
+Kiwi Browser is a Chromium browser that supports extensions, including Yomitan. You can download it below.  
 [Google Play](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)  
  
-You can access the Yomichan settings page by going in :material-dots-vertical: > Yomichan	![yomi icon](img/yomichan-icon.png) > Settings.  
+You can access the Yomitan settings page by going in :material-dots-vertical: > Yomitan	![yomi icon](img/yomitan-icon.png) > Settings.  
 
 Please see above for link to download the extension, link to the dictionaries collection and recommended starter dictionaries.  
 Importing a dictionary is a very processor intensive process and will take a long time depending on your phone. Please be patient.  
 
 Tap on a word to look it up. In the case that it is not working, you may need to turn off the modifier key.  
 
-![Yomichan Android](img/yomichan_android_alt.png)  
+![Yomitan Android](img/yomitan_android_alt.png)  
 
 ## Anki Setup
 
@@ -134,7 +134,7 @@ See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup)
 
 ## Offline audio server (+ More audios than default)  
 
-[Follow this guide to get local audio.](https://github.com/themoeway/local-audio-yomichan)  
+[Follow this guide to get local audio.](https://github.com/themoeway/local-audio-yomitan)  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 

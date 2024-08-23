@@ -1,12 +1,12 @@
-# Yomichan Custom CSS
+# Yomitan Custom CSS
 
 !!! info "This is an optional tutorial."
-    If you want to setup Yomichan, you can find that [here](/yomitan)
-!!! info "Yomichan Update"
-    Yomichan has been updated and since changed old classes and added new ones. This guide will no longer work. Please come back later when this message has been removed.
+    If you want to setup Yomitan, you can find that [here](/yomitan)
+!!! info "Yomitan Update"
+    Yomitan has been updated and since changed old classes and added new ones. This guide will no longer work. Please come back later when this message has been removed.
 
 
-The appearance of the Yomichan pop-up window can be modified with custom [CSS](https://en.wikipedia.org/wiki/CSS) found in the settings.  
+The appearance of the Yomitan pop-up window can be modified with custom [CSS](https://en.wikipedia.org/wiki/CSS) found in the settings.  
 
 In the v2 settings page, it can be accessed by going into "Appearance" then "Configure custom CSS" and "Popup CSS"  
 
@@ -52,7 +52,7 @@ With the following CSS:
 }
 ```
 The result:  
-![Yomichan CSS Demo](img/yomicss1.jpg)  
+![Yomitan CSS Demo](img/yomicss1.jpg)  
 
 This demonstrates differing font colors for kanji and kana. You may edit this to your heart's content.
 
@@ -69,11 +69,11 @@ The definition can be modified with the class below:
 ### Example: changing font of definitions
 
 !!! info "Custom Fonts"
-	To use a certain font in Yomichan, the font must be installed on your system. You can find installed fonts in:  
+	To use a certain font in Yomitan, the font must be installed on your system. You can find installed fonts in:  
 	Windows: `C:\Windows\Fonts`  
 	Linux: `/usr/share/fonts` or `/usr/share/local/fonts` or `$HOME/.fonts`  
 	macOS: `/System/Library/Fonts` or `$HOME/Library/Fonts`  
-	Newly installed fonts may require a system restart to be detected by Yomichan.  
+	Newly installed fonts may require a system restart to be detected by Yomitan.  
 
 With the following CSS:  
 ```css
@@ -83,7 +83,7 @@ With the following CSS:
 }
 ```  
 The result:
-![Yomichan CSS Demo](img/yomicss2.jpg)  
+![Yomitan CSS Demo](img/yomicss2.jpg)  
 
 This demonstrates the changing of font for definitions to MS Mincho. Linux users may be able to use `Noto Serif CJK JP` as an alternative. 
 
@@ -101,7 +101,7 @@ With the following CSS:
 }
 ```  
 The result:
-![Yomichan CSS Demo](img/yomicss3.jpg)  
+![Yomitan CSS Demo](img/yomicss3.jpg)  
 
 You may edit this to your heart's content.  
 
@@ -137,7 +137,7 @@ With the following CSS:
 ```
 
 The result:    
-![Yomichan CSS Demo](img/yomicss4.jpg)   
+![Yomitan CSS Demo](img/yomicss4.jpg)   
 
 You may edit this to your heart's content.  
 
@@ -168,7 +168,7 @@ You can change the color of tags by changing the following variables below:
 
 ### Example: Full Nord Theme
 
-A full Nord theme I made for Yomichan can be found below:  
+A full Nord theme I made for Yomitan can be found below:  
 
 ```css
 body {
@@ -237,7 +237,7 @@ body {
 ```  
 
 The result:  
-![Yomichan CSS Demo](img/yomicssnord.jpg)  
+![Yomitan CSS Demo](img/yomicssnord.jpg)  
 
 ## Background
 
@@ -260,7 +260,7 @@ body {
 ```
 
 The result:
-![Yomichan CSS Demo](img/yomicss5.jpg)
+![Yomitan CSS Demo](img/yomicss5.jpg)
 
 You may edit this to your heart's content.  
 
@@ -268,18 +268,18 @@ You may edit this to your heart's content.
 
 *Chromium instructions for now*  
 
-To do this, you must install Yomichan dev build from GitHub instead of the Chrome Web Store, this is because we will be tampering with the files of the extension, which will be flagged if you get it from the Chrome Web Store.  
+To do this, you must install Yomitan dev build from GitHub instead of the Chrome Web Store, this is because we will be tampering with the files of the extension, which will be flagged if you get it from the Chrome Web Store.  
 You can find it below.  
-[[GitHub]](https://github.com/FooSoft/yomichan/releases)  
+[[GitHub]](https://github.com/themoeway/yomitan/releases)  
 
-!!! warning "Yomichan Data"
-    All Yomichan data including dictionaries will be reset, you may be able to just copy the files over from your current Yomichan installation though.
+!!! warning "Yomitan Data"
+    All Yomitan data including dictionaries will be reset, you may be able to just copy the files over from your current Yomitan installation though.
 
-Download **yomichan-chrome-dev.zip** and unzip it anywhere on your computer.  
+Download **yomitan-chrome-dev.zip** and unzip it anywhere on your computer.  
 Now go to **chrome://extensions** and enable **Developer Mode** in the top right.  
 Now click "**Load Unpacked**" and select the folder the .zip was extracted to.  
 
-Now go to your Yomichan path which should be the same place you unzipped it and put your desired image in the `fg` folder.  
+Now go to your Yomitan path which should be the same place you unzipped it and put your desired image in the `fg` folder.  
 
 Now you can do the following CSS below.  
 
@@ -291,7 +291,7 @@ body {
 ```
 
 The result:  
-![Yomichan CSS Demo](img/yomicss10.jpg)
+![Yomitan CSS Demo](img/yomicss10.jpg)
 
 ## Miscellaneous 
 
@@ -299,7 +299,7 @@ Some misc. modifications you can do which I found cool.
 
 ### Removing current entry indicator
 
-Since Yomichan was updated, a blue indicator has been added. Which has been an annoyance for many long time Yomichan users.
+Since Yomitan was updated, a blue indicator has been added. Which has been an annoyance for many long time Yomitan users.
 
 With the following CSS:  
 ```css
@@ -310,7 +310,7 @@ With the following CSS:
 ```
 
 The result:
-![Yomichan CSS Demo](img/yomicss6.jpg)  
+![Yomitan CSS Demo](img/yomicss6.jpg)  
 
 ### Removing progress bar
 
@@ -340,7 +340,7 @@ If you are using dark theme you need to have this instead:
 ```  
   
 The result:  
-![Yomichan CSS Demo](img/yomicss7.jpg) 
+![Yomitan CSS Demo](img/yomicss7.jpg) 
 
 ### Removing Edict markers
 
@@ -356,7 +356,7 @@ You can remove it by using the CSS below:
 ```
 
 The result:  
-![Yomichan CSS Demo](img/yomicss8.jpg)
+![Yomitan CSS Demo](img/yomicss8.jpg)
 
 
 ### Light / Dark mode varying CSS

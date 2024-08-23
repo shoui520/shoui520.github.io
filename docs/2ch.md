@@ -212,7 +212,7 @@ It is usually not recommended to use a web browser to use 5ch. This is because 5
 
 Some boards even have restrictions in place where you can only post on a dedicated browser.  
 
-The major downside of this for Japanese learners is that you can't use Yomichan in them.  
+The major downside of this for Japanese learners is that you can't use Yomitan in them.  
 
 Recommended 5ch専用ブラウザ:    
 Windows: [Siki](https://sikiapp.net/)  

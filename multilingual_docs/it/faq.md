@@ -50,7 +50,7 @@ Try to rethink your approach to grammar. You need to immerse while following a g
 ### Is remembering the kanji form of words usually written in kana useful? For example 蒟蒻 is the kanji form of コンニャク
 Yes.
 ### Best dictionary for first-time monolingual users?
-There is no single dictionary I can point to and say it's the best. Every dictionary has their weak points and strong points. Use every dictionary together. If you’re interested in my order of dictionaries in Yomichan, you can find that at [Monolingual Guide](/monolingual)
+There is no single dictionary I can point to and say it's the best. Every dictionary has their weak points and strong points. Use every dictionary together. If you’re interested in my order of dictionaries in Yomitan, you can find that at [Monolingual Guide](/monolingual)
 ### I don’t understand this sentence even though I know all the words.
 Just forget about it for now. Listen more. Read more. It will come to you soon.
 ### When I’m listening I don’t understand but when I looked at the subtitles/transcript I actually knew the words, why is this?
@@ -82,7 +82,7 @@ Please note that the usages of these are not consistent. So I can’t really say
 Around 30k. You may think, but uh with 2k I can understand 80%? Yeah but it gets very steep after that. 10k is around 98%, 20k is around 99% and 30k is like 99.9% because I can’t guarantee that you can understand 100% with 30k. But it is definitely a good number to aim for. I don't understand everything in English so is it really worth the endeavour? That is your decision.
 ### HUH? NO FURIGANA? THAT’S IMPOSSIBLE TO READ THEN!!!
 Furigana has never been necessary and relying on it only holds you back becoming able to read fluently. You should learn how to function without it. In my opinion furigana is pretty useless apart from when it's on names.
-### I don’t have that green + button like you do in Yomichan
+### I don’t have that green + button like you do in Yomitan
 Setup AnkiConnect. <https://foosoft.net/projects/anki-connect/>
 Make sure you also have a proper card type and have filled in the fields correctly.
 ### Should I follow JLPT lists?
@@ -109,7 +109,7 @@ Google Lens and Jisho is your friend
 ### I can’t read kanji yet…
 I absolutely hate it when people say “I can’t read kanji”. People that say this have no idea what they’re talking about. You mean, “words”; you can’t “read the words”? If you mean that then just look up the words then. If you can’t read this sentence “爆発が起こった刹那”, then don't say, “I can’t read the kanji”, say “I can’t read the words”. If you can’t “read kanji” then learn how to; by learning how to read. That’s just it, just learn how to read.
 ### How do I learn how to read?
-By looking up the words. Look at the Japanese sentence I gave above. Chances are you don’t know 刹那. Copy it into a dictionary or use Yomichan, it will show you the reading (せつな) and the meaning (きわめて短い時間)(if you are learning it bilingually it might be *moment; instant*). Congratulations you now know how to read more Japanese.
+By looking up the words. Look at the Japanese sentence I gave above. Chances are you don’t know 刹那. Copy it into a dictionary or use Yomitan, it will show you the reading (せつな) and the meaning (きわめて短い時間)(if you are learning it bilingually it might be *moment; instant*). Congratulations you now know how to read more Japanese.
 ### JLPT Grammar
 It's important to learn them.  
 ### How do you learn how to write Japanese?

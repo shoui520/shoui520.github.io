@@ -18,11 +18,11 @@ This guide will go over how to play visual novels in Japanese and learn Japanese
 Requirements:
 
 [Textractor](https://github.com/Artikash/Textractor/releases)  
-[Yomichan](https://foosoft.net/projects/yomichan/)  
+[Yomitan](https://yomitan.wiki/)  
 [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) ([Firefox Version Here](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/))  
 [Texthooking Page](https://learnjapanese.moe/texthooker.html)  
 
-A detailed Yomichan setup tutorial can be found [here](/yomitan)
+A detailed Yomitan setup tutorial can be found [here](/yomitan)
 
 For most applications, use the x86 executable of Textractor.
 
@@ -60,7 +60,7 @@ Now open your browser, head over to my [texthooking page](https://learnjapanese.
 
 ![Image](img/textractor4.png)  
 
-You can then just press ++shift++ to use Yomichan.  
+You can then just press ++shift++ to use Yomitan.  
 
 ![Image](img/textractor5.png)  
 

@@ -29,7 +29,7 @@ They are easier to approach than novels, difficulty-wise, and therefore they are
 
 See [my visual novel guide](/vn) to learn how to learn Japanese with visual novels.  
 
-### Yomichan + Textractor + Texthooker page  
+### Yomitan + Textractor + Texthooker page  
 
 The holy trinity of Japanese learning (for visual novel enjoyers).  
 
@@ -52,11 +52,11 @@ Read the novel after you watch the anime, or even while watching the anime. And 
 Anyway, this is obviously a God tier reading strategy because, by watching the anime, you have given context to the text on the page, which translates into i+1 Krashen approved effective language learning gains, and the light novel will have multiple volumes, which is great for learners because getting used to one author's writing style is easier than reading a different author every time.  
 
 
-### Yomichan, Itazuraneko, EPUBs+ッツ Reader  
+### Yomitan, Itazuraneko, EPUBs+ッツ Reader  
 
 The holy trinity of Japanese learning (for novel enjoyers).  
 
-- Set up Yomichan [here](/yomitan)  
+- Set up Yomitan [here](/yomitan)  
 - Itazuraneko in [Resources](/resources)  
 - EPUBs... many ways you can get them. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
@@ -69,7 +69,7 @@ But you should kind of be aware that they only have speech and short description
 
 Nevertheless, they are still good for reading, and you can obviously learn tons of words from manga, and you'll get good at reading manga by reading a lot of manga.  
 
-### Yomichan, Mokuro, and a good OCR  
+### Yomitan, Mokuro, and a good OCR  
 
 The holy trinity of Japanese learning (for manga enjoyers).  
 
@@ -111,7 +111,7 @@ Try to read for how long you are willing to read for the day, and then check how
 
 Then take that amount of characters or pages and increase it by a bit (round it up or something) and make that your goal to read every day.  
 
-### The usefulness of grammar study and some specific Yomichan dictionaries.  
+### The usefulness of grammar study and some specific Yomitan dictionaries.  
 
 Honestly grammar study is very useful for reading.  
 
@@ -125,7 +125,7 @@ They are useful to study because they are phrases and structures in Japanese tha
 
 You really can't go wrong studying JLPT grammar.  
 
-Now, the Yomichan dictionaries I really want you to use are:   
+Now, the Yomitan dictionaries I really want you to use are:   
 
 - EVERY GRAMMAR ONE  
 - 実用日本語表現辞典  
@@ -168,11 +168,11 @@ Bilingual definitions can be too ambiguous sometimes, so it is always best to ch
 
 I don't know because I was looking up every single thing since the beginning, and I think it worked out fine?  
 
-Yomichan makes everything so easy.  
+Yomitan makes everything so easy.  
 
 If I had to use copy paste into external apps or write out the word or even worse, use a physical dictionary then I would probably not look up many words.  
 
-But YOU are living in 2023. YOU have Yomichan. Take advantage of it.  
+But YOU are living in 2023. YOU have Yomitan. Take advantage of it.  
 
 Install a frequency dictionary (I recommend JPDB) so you can see what words are actually common. Below 10,000 frequency is a sign that it comes up a lot in books and anime.  
 
