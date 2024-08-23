@@ -1,6 +1,6 @@
 # Yomitan Setup Tutorial
 
-**New: Yomitan is no longer in development. Its successor is Yomitan.**
+**New: Yomichan is no longer in development. Its successor is [Yomitan](https://yomitan.wiki).**
 
 ## What is Yomitan?
 Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
