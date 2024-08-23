@@ -34,7 +34,7 @@ By reading. Just read, look up words. If you can read the words in their kanji i
 ### How much kanji are used in Japanese?
 The 常用 (Jouyou, kanji required to be taught in the Japanese school curriculum) kanji list has 2136 kanji. But don’t let this fool you. Approximately 3000 kanji are used in Japanese, outside of newspapers and JLPT/learner oriented material. Don’t worry too much about how much kanji are used in Japanese. I literally only think about how much kanji are used when I write guides and FAQs such as this one, it’s pretty irrelevant. You should just read.
 ### How do I look up words easier on webpages?
-Yomitan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the ++shift++ key. I went into more detail in [Yomitan Guide](/yomichan) , so check that out.
+Yomitan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the ++shift++ key. I went into more detail in [Yomitan Guide](/yomitan) , so check that out.
 ### How do I look up words easier in manga?
 [Mokuro](https://www.mokuro.moe/)  
 ### How do I look up words?

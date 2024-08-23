@@ -72,7 +72,7 @@ If you want guidelines on what to mine, then just mine every single word after y
 
 ![Image](img/monodemo1.png)
 
-Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
+Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomitan)  
 
 ### Optimizing Yomichan Settings 
 
@@ -95,7 +95,7 @@ Here's how our pop up looks now:
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
 
-You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
+You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomitan) for more info.  
 
 ![Image](img/mono6.jpg)  
 

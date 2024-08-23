@@ -247,7 +247,7 @@ Every language has **a lot** of words, and different words have different meanin
 Japanese has extra steps when it comes to learning how to read; due to kanji you need to constantly refer to a dictionary to learn how to read anything at all.  
 Take this for example, if I showed you the word, **今日**, chances are you wouldn't be able to read it, or know what it means. How you learn how to read it is by looking it up in a dictionary, such as [Jisho.org](https://jisho.org/).  
 The dictionary shows it is read as **きょう**, and means *today*. If we had to look this word up while reading something, we internalise this piece of information and move on.  
-Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this with a single press. 
+Tedious... but there are tools such as [Yomitan](/yomitan) that can do all this with a single press. 
 
 ### A note on studying kanji in isolation
 
@@ -335,7 +335,7 @@ The answer is actually very simple. Fun! Media can be entertaining for reasons o
 
 ### Reading & Dictionaries
 
-To make Japanese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](/yomichan)  
+To make Japanese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](/yomitan)  
 
 To look up words individually, you can use [Jisho.org](https://jisho.org/), apps for your phone include [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) for Android and [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) for iOS.  
 

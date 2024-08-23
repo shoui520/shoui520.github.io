@@ -21,7 +21,7 @@ As mentioned earlier, make sure you have an adequate vocabulary size (say, you'v
 
 ### Japanese subtitles
 
-Japanese subtitles are a good way to introduce yourself to reading, trying to read the subtitles can be challenging but fun, and it will also increase your comprehension of the show you're watching. Certain tools let you easily look up words in a dictionary. I recommend you use the [Anacreon MPV Script](https://anacreondjt.gitlab.io/docs/mpvscript/) paired with [Yomichan](/yomichan). 
+Japanese subtitles are a good way to introduce yourself to reading, trying to read the subtitles can be challenging but fun, and it will also increase your comprehension of the show you're watching. Certain tools let you easily look up words in a dictionary. I recommend you use the [Anacreon MPV Script](https://anacreondjt.gitlab.io/docs/mpvscript/) paired with [Yomichan](/yomitan). 
 
 ### Manga
 Manga is probably the best way to get into reading without it being too intimidating as the way its written is similar to spoken Japanese, and assuming you're already quite familiar with that, it won't be much of a trouble getting used to. And if you're not yet familiar, you'll be familiar after reading manga and watching anime in Japanese.  
@@ -40,7 +40,7 @@ Expect manga to be pretty hard for you at first, but over time it will smoothen 
 ### Novels/Light Novels
 Even if you read like 100 manga, you still need to read novels since there will be words you still won't know a lot of words that are commonly used in written text.  
 Literary Japanese is not that hard as it sounds, it's only slightly different from spoken Japanese and will be easy to get used to.
-For reading light novels, I recommend using *Yomichan*, you can find a detailed Yomichan setup tutorial [[here]](/yomichan)  
+For reading light novels, I recommend using *Yomichan*, you can find a detailed Yomichan setup tutorial [[here]](/yomitan)  
 I seriously recommend you read novels on this site: [Itazuraneko Old Library](https://itazuraneko.neocities.org/shousetu/index.html), sort by kanji count, usually 1,000-1,600 kanji count is a good, this just means how long the book is if you actually look at it. If you have an Android you should use [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja) or [Typhon改](https://github.com/dajimenezja/typhon/releases) if the other one does not work with your phone. There are little buttons you can click on the itazuraneko old library to download epubs to load into it. You can also visit the [full epub list](https://yonde.itazuraneko.org/other/kensaku.html) but warning: you need a good phone to load that page because there are a LOT of books! If you cannot find the book you want on Itazuraneko you can try looking on [Boroboro](https://boroboro.neocities.org/listfullepub.html). iOS users can just use the Books app with epub files.
 
 Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a 1-3 months to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in around 10 hours). Just read more, read a lot.  

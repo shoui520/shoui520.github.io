@@ -56,7 +56,7 @@ Anyway, this is obviously a God tier reading strategy because, by watching the a
 
 The holy trinity of Japanese learning (for novel enjoyers).  
 
-- Set up Yomichan [here](/yomichan)  
+- Set up Yomichan [here](/yomitan)  
 - Itazuraneko in [Resources](/resources)  
 - EPUBs... many ways you can get them. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
 - [ッツ Reader](https://reader.ttsu.app/manage)  

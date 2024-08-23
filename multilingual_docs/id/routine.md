@@ -530,7 +530,7 @@ It is kind of tricky to set it up, but let's go through it.
 
 First, you will need Yomichan.
 
-Click on this [link](/yomichan) to read my guide on it.  
+Click on this [link](/yomitan) to read my guide on it.  
 
 After you have set up Yomichan, follow the rest of these steps. 
 

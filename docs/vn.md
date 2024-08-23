@@ -22,7 +22,7 @@ Requirements:
 [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) ([Firefox Version Here](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/))  
 [Texthooking Page](https://learnjapanese.moe/texthooker.html)  
 
-A detailed Yomichan setup tutorial can be found [here](/yomichan)
+A detailed Yomichan setup tutorial can be found [here](/yomitan)
 
 For most applications, use the x86 executable of Textractor.
 

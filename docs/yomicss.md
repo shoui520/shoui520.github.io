@@ -1,7 +1,7 @@
 # Yomichan Custom CSS
 
 !!! info "This is an optional tutorial."
-    If you want to setup Yomichan, you can find that [here](/yomichan)
+    If you want to setup Yomichan, you can find that [here](/yomitan)
 !!! info "Yomichan Update"
     Yomichan has been updated and since changed old classes and added new ones. This guide will no longer work. Please come back later when this message has been removed.
 

@@ -55,7 +55,7 @@ Here I'll walk you through the entire process. From installing Windows XP to get
 31. Download your visual novel of choice and drag and drop it to your VM. If it needs to be installed, then install it.
 32. Open ITHVNR and your VN. In ITHVNR, go in "Process", find the process of the VN, then click "Attach" and "OK"
 33. Advance some text in the VN. Now cycle through the hooks in ITHVNR and find the right hook.
-34. ITHVNR will automatically copy text to your clipboard, which is shared with your actual PC. I recommend you use [Yomichan](/yomichan)'s clipboard monitor :)
+34. ITHVNR will automatically copy text to your clipboard, which is shared with your actual PC. I recommend you use [Yomichan](/yomitan)'s clipboard monitor :)
 35. Phew, that's pretty much it, have fun!
 ![Image](img/winxp1.jpg)
 *from vm*
