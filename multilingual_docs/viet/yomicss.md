@@ -21,7 +21,7 @@ The headword can be modified with the classes below:
 
 }
 
-/* For kana & alphanumeric characters */
+/* For Kana & alphanumeric characters */
 .source-text {
 
 }
@@ -54,7 +54,7 @@ With the following CSS:
 The result:  
 ![Yomichan CSS Demo](img/yomicss1.jpg)  
 
-This demonstrates differing font colors for Kanji and kana. You may edit this to your heart's content.
+This demonstrates differing font colors for Kanji and Kana. You may edit this to your heart's content.
 
 ## Definition
 

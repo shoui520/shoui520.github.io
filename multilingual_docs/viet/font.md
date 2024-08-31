@@ -112,7 +112,7 @@ Adding the Japanese keyboard (kana or romaji whatever works) should do the trick
 
 ## Anki
 
-I think Chinese fonts on Anki cards looks the worst because kana will be sans-serif and Kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
+I think Chinese fonts on Anki cards looks the worst because Kana will be sans-serif and Kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
 
 <figure>
   <img src="img/font4.png" width="900" />

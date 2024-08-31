@@ -14,7 +14,7 @@ Bài viết cho bạn những lời khuyên và nói về những lo lắng mà 
 
 Mới bắt đầu = không biết Tiếng Nhật? Ghé qua [UsagiSpoon](routine.md).
 
-Luyện đọc cho người mới thông quan anime có phụ đề Tiếng Nhật, được viết trong [UsagiSpoon](routine.md)
+Luyện đọc cho người mới thông quan Anime có phụ đề Tiếng Nhật, được viết trong [UsagiSpoon](routine.md)
 
 Hoặc có thể mới bắt đầu = Mình đã học Tiếng Nhật được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
 
@@ -44,11 +44,11 @@ Bạn có thể áp dụng chiến lược chính xác tương tự cho Tiếng 
 
 Và đó là chiến lược mà mình khuyên mọi người nên thực hiện khi mới bắt đầu tập đọc.
 
-**Đọc bộ Light Novel của anime mà bạn thích.**
+**Đọc bộ Light Novel của Anime mà bạn thích.**
 
-Đọc tiểu thuyết sau khi xem anime hoặc thậm chí trong khi xem anime. Và sau khi bạn đã xem anime, dựa vào anime để giúp bạn trong việc đọc.
+Đọc tiểu thuyết sau khi xem Anime hoặc thậm chí trong khi xem Anime. Và sau khi bạn đã xem Anime, dựa vào Anime để giúp bạn trong việc đọc.
 
-Dù sao đi nữa, đây là một chiến lược đọc cấp "Chúa tể" vì thông qua anime, bạn đã có ngữ cảnh trong đầu rồi nâng lên thành i+1, tăng hiệu quả trong việc học ngôn ngữ. Light Novel sẽ có nhiều volume, tốt cho người học vì việc làm quen với phong cách viết của một tác giả sẽ dễ dàng hơn so với việc đọc của một tác giả khác.
+Dù sao đi nữa, đây là một chiến lược đọc cấp "Chúa tể" vì thông qua Anime, bạn đã có ngữ cảnh trong đầu rồi nâng lên thành i+1, tăng hiệu quả trong việc học ngôn ngữ. Light Novel sẽ có nhiều volume, tốt cho người học vì việc làm quen với phong cách viết của một tác giả sẽ dễ dàng hơn so với việc đọc của một tác giả khác.
 
 ### Yomichan, Itazuraneko, EPUBs+ッツ Reader  
 
@@ -173,7 +173,7 @@ Nếu mình phải copy từ rồi chuyển qua các trang hay ứng dụng bên
 
 Nhưng BẠN đang sống vào thời đại công nghệ. BẠN có Yomichan. Hãy tận dụng nó.
 
-Cài đặt từ điển hiển thị độ phổ biến của từ (Nên chọn JPDB) để bạn có thể xem những từ nào thực sự phổ biến. Nếu nó dưới 10.000 là dấu hiệu cho thấy nó xuất hiện rất nhiều trong sách và anime.
+Cài đặt từ điển hiển thị độ phổ biến của từ (Nên chọn JPDB) để bạn có thể xem những từ nào thực sự phổ biến. Nếu nó dưới 10.000 là dấu hiệu cho thấy nó xuất hiện rất nhiều trong sách và Anime.
 
 ### Tốc độ đọc
 

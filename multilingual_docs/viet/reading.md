@@ -21,7 +21,7 @@ Phụ đề Tiếng Nhật là một cách tương đối tốt để mở đầ
 
 ### Manga
 
-Manga có lẽ là cách tốt nhất để bắt đầu tập đọc mà không khiến bạn cảm thấy nản vì cách viết của nó tương đối giống như cách nói Tiếng Nhật và giả sử bạn đã cảm thấy khá quen với ngôn ngữ nói rồi thì việc làm quen với Manga sẽ không gặp nhiều khó khăn. Và nếu chưa quen thì bạn sẽ sớm quen thôi, sau khi đọc manga và xem anime bằng Tiếng Nhật.
+Manga có lẽ là cách tốt nhất để bắt đầu tập đọc mà không khiến bạn cảm thấy nản vì cách viết của nó tương đối giống như cách nói Tiếng Nhật và giả sử bạn đã cảm thấy khá quen với ngôn ngữ nói rồi thì việc làm quen với Manga sẽ không gặp nhiều khó khăn. Và nếu chưa quen thì bạn sẽ sớm quen thôi, sau khi đọc manga và xem Anime bằng Tiếng Nhật.
 
 ![Manga](img/manga1.jpg)
 
@@ -60,7 +60,7 @@ Bạn cần đọc những thứ như thế này:
 ![VN 1](img/vn1.jpg)
 *Visual Novel: Angel Beats! -1st beat-*
 
-Nếu bạn ghét đọc sách thì có thể bạn sẽ muốn luyện đọc trên Visual Novel. Nó đã giúp mình tăng cường khả năng đọc. Nó cũng tương tự như việc xem anime có phụ đề Nhật. Bạn có thể sẽ muốn tạo [AnimeCards](https://www.animecards.site) từ đó và sử dụng như việc thực hành Immersion nửa nghe nửa đọc.
+Nếu bạn ghét đọc sách thì có thể bạn sẽ muốn luyện đọc trên Visual Novel. Nó đã giúp mình tăng cường khả năng đọc. Nó cũng tương tự như việc xem Anime có phụ đề Nhật. Bạn có thể sẽ muốn tạo [AnimeCards](https://www.animecards.site) từ đó và sử dụng như việc thực hành Immersion nửa nghe nửa đọc.
 
 Mình hoàn toàn gợi ý VN cho những người không muốn đọc light novel.
 

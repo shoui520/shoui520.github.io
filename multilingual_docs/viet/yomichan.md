@@ -81,7 +81,7 @@ A full dark mode can be enabled in the settings too.
 
 Yomitan supports the use of frequency dictionaries that tell you how common a word is.  
 
-**JPDB** - A frequency list made from jpdb.io, which is a site that has analyzed many light novels, visual novels, anime and j-drama. In turn, this is a frequency list from Japanese fictional media.  
+**JPDB** - A frequency list made from jpdb.io, which is a site that has analyzed many light novels, visual novels, Anime and j-drama. In turn, this is a frequency list from Japanese fictional media.  
 
 **CC100** - Frequency list of corpus data from Japanese internet. Formal words will appear more common in this frequency list . Example: 審議会 (council) is 9733 frequency on CC100 and 58730 on JPDB.  
 

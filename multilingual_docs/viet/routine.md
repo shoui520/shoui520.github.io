@@ -10,7 +10,7 @@ Cuối lộ trình 30 ngày này bạn sẽ:
 
 - Hiểu về các mẫu ngữ pháp Tiếng Nhật phổ biến nhất
 - Vốn từ vựng ít nhất 500 từ.
-- Hiểu các câu cơ bản trong anime slice-of-life.
+- Hiểu các câu cơ bản trong Anime slice-of-life.
 - Có thể đọc Hiragana, Katakana và một số Kanji phổ biến.
 - Nền tảng tốt để tiếp tục tự học Tiếng Nhật.
 
@@ -54,9 +54,9 @@ Cần chọn tất cả Kana.
 
 Đưa Tiếng Nhật vào cuộc sống xung quanh là phần quan trọng nhất của phương pháp Immersion.
 
-Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với anime đời thường (slice of life)
+Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với Anime đời thường (slice of life)
  
-Có rất nhiều anime có Tiếng Nhật đơn giản.
+Có rất nhiều Anime có Tiếng Nhật đơn giản.
 
 Dưới đây là một số gợi ý (nhưng bạn có thể xem bất cứ thứ gì bạn muốn):
 
@@ -81,7 +81,7 @@ Kiniro Mosaic
 New Game  
 
 
-Xem [Khu Anime](https://learnjapanese.moe/resources/#anime) để tìm thêm anime. Nên tải anime về máy để có thể dễ dàng xem.
+Xem [Khu Anime](https://learnjapanese.moe/resources/#anime) để tìm thêm Anime. Nên tải Anime về máy để có thể dễ dàng xem.
 
 **Q: Nếu mình muốn xem thứ gì đó mình thấy hay**
 
@@ -91,7 +91,7 @@ A: Immersion là việc dành thời gian cho nội dung mà bạn thích. Vì v
 
 Mình muốn bạn thử Immersion lần đầu tiên với phương pháp subtitle tutor (Thuật ngữ để chỉ việc học thông qua phụ đề ở ngôn ngữ bạn đã biết khi học ngôn ngữ đích).
 
-Phương pháp: xem một tập anime có phụ đề (Ngôn ngữ bạn biết), sau đó xem lại mà không dùng phụ đề. Sau đó, hãy nghe tập anime đấy trong lúc làm việc khác (tai nghe không dây sẽ dễ dùng hơn).
+Phương pháp: xem một tập Anime có phụ đề (Ngôn ngữ bạn biết), sau đó xem lại mà không dùng phụ đề. Sau đó, hãy nghe tập Anime đấy trong lúc làm việc khác (tai nghe không dây sẽ dễ dùng hơn).
 
 Quy trình cơ bản:
 
@@ -103,7 +103,7 @@ Quy trình cơ bản:
 
 Về cơ bản, bằng cách xem tập phim có phụ đề trước, bạn đã tăng khả năng hiểu input của mình.
 
-Khi xem anime không phụ đề, đừng quá lo lắng nếu bạn không hiểu.
+Khi xem Anime không phụ đề, đừng quá lo lắng nếu bạn không hiểu.
 
 Tập trung vào âm điệu, cách nói và bất cứ thứ gì mà bạn có thể hiểu được.
 
@@ -379,7 +379,7 @@ Sau khi xong, đây là những chức năng hữu ích nhất.
 
 ++win++++space++: Chuyển đổi phương thức nhập (nếu bạn có nhiều hơn một phương thức nhập (ví dụ `English (UK) `và `Japanese (Japan)`)
 
-Đã đến lúc Immersion hàng ngày và hãy tự chọn số tập anime. Nếu không thì: [Xúc sắc](https://www.google.com/search?q=roll+a+4+sided+dice)   
+Đã đến lúc Immersion hàng ngày và hãy tự chọn số tập Anime. Nếu không thì: [Xúc sắc](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 ## Ngày 5
 Vào trang [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) và luyện tập Kana trong 10 phút [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
@@ -425,17 +425,17 @@ Xong Anki học ngữ pháp, 3 video Cure Dolly.
 
 Xong ngữ pháp là bắt đầu luyện đọc.
 
-Nội dung đọc đầu tiên sẽ là anime có phụ đề Tiếng Nhật.
+Nội dung đọc đầu tiên sẽ là Anime có phụ đề Tiếng Nhật.
 
 Đầu tiên, cần có Yomichan, bấm vào [liên kết này](yomichan.md) để đọc cách cài đặt.
 
 Sau đó cài đặt asbplayer, có một hướng dẫn cách cài đặt asbplayer khá hay bằng Tiếng Việt mà bạn có thể đọc thông qua [liên kết này]()
 
-Hãy tìm tệp phụ đề cho anime mà mình muốn xem.
+Hãy tìm tệp phụ đề cho Anime mà mình muốn xem.
 
 Thử Love Live (2013).  
 
-Trang [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) có bộ sưu tập phụ đề Tiếng Nhật cho anime lớn nhất.
+Trang [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) có bộ sưu tập phụ đề Tiếng Nhật cho Anime lớn nhất.
 
 **(LƯU Ý: Nếu không truy cập được trang trên thì truy cập trang này: **[**bấm vào liên kết truy cập này**](/kitsubackup.html#/ja)**)**
 
@@ -473,11 +473,11 @@ Tuy nhiên, các câu viết bằng Kana giúp bạn dễ dàng phân biệt đ�
 
 Trang này [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) có thể hiển thị phụ đề trong một danh sách, giúp dễ dàng quay lại câu thoại mà mình đã bỏ lỡ. Nó chỉ hoạt động nếu được mở trước khi thêm phụ đề vào.
 
-**Có thể “đọc” anime và đó là điều nên làm.**
+**Có thể “đọc” Anime và đó là điều nên làm.**
 
 Thói quen cần thực hiện?
 
-**Hãy xem** anime có phụ đề Tiếng Nhật trước.
+**Hãy xem** Anime có phụ đề Tiếng Nhật trước.
 
 Sau đó chỉ tập trung vào **việc đọc** phụ đề.
 
@@ -503,17 +503,17 @@ Trả lời: Không. Chỉ nên tra đúng số từ mà mình đã xúc xắc v
 
 A: Để có thể “thực hành đọc”.
 
-Khi xem anime, là đang nửa đọc nửa nghe.
+Khi xem Anime, là đang nửa đọc nửa nghe.
 
 Khi loại bỏ phần âm thanh và chỉ đọc phụ đề, thì nó tương đương với việc đọc.
 
-**Q: Xúc xắc có quyết định số lượng từ mình tra cứu khi xem anime hoặc khi đọc phụ?**
+**Q: Xúc xắc có quyết định số lượng từ mình tra cứu khi xem Anime hoặc khi đọc phụ?**
 
-A: [Đổ thêm một viên xúc xắc 20 mặt nữa](https://www.google.com/search?q=roll+a+20+sided+dice) khi bạn "đọc anime".
+A: [Đổ thêm một viên xúc xắc 20 mặt nữa](https://www.google.com/search?q=roll+a+20+sided+dice) khi bạn "đọc Anime".
 
 **Q: Nên đọc bao nhiêu tập?**
 
-Tập trung vào việc đọc một tập anime duy nhất cho đến khi bạn tra cứu hết số lượng từ trên phần đổ xúc xắc trước.
+Tập trung vào việc đọc một tập Anime duy nhất cho đến khi bạn tra cứu hết số lượng từ trên phần đổ xúc xắc trước.
 
 **Q: Có thể hiểu mọi thứ bằng cách dành 30 phút để dùng Yomichan cho một câu không?**
 
@@ -545,9 +545,9 @@ Có thể sẽ là chưa đủ để hiểu câu *đó* vào thời điểm *đ�
 
 Càng học và Immersion nhiều hơn (hiểu các thứ trong ngữ cảnh), khả năng hiểu Tiếng Nhật sẽ càng tăng lên.
 
-**Q: Có cần đổi anime mình đang "đọc" sang anime mình đã xem lần cuối không?**
+**Q: Có cần đổi Anime mình đang "đọc" sang Anime mình đã xem lần cuối không?**
 
-Không. Nên đọc cùng một anime cho đến khi đọc hết.
+Không. Nên đọc cùng một Anime cho đến khi đọc hết.
 
 Nhưng bạn không nhất thiết phải luôn sử dụng cùng một thứ nếu nó không còn khiến bạn thấy thoải mái nữa.
 
@@ -627,7 +627,7 @@ Nó chỉ giúp cho việc Immersion hiệu quả hơn ngay từ đầu vì nó 
 
 Loại bỏ các phần dịch đó và rèn luyện bản thân để có thể hiểu ngôn ngữ là cách để giỏi Tiếng Nhật hơn trong tương lai.
 
-Phụ đề Tiếng Nhật tốt hơn vì nó giúp mình học những từ thực tế được sử dụng trong anime. (Có rất nhiều từ)
+Phụ đề Tiếng Nhật tốt hơn vì nó giúp mình học những từ thực tế được sử dụng trong Anime. (Có rất nhiều từ)
 
 ## Ngày 7
 
@@ -737,7 +737,7 @@ Có thể tung xúc xắc hoặc tung đồng xu nếu không chắc hôm nay n�
 
 Thực sự xin lỗi nếu từ “immerse” là gợi cho bạn cảm giác mơ hồ.
 
-Xem anime, đọc phụ đề và Yomichan đều là Immersion.
+Xem Anime, đọc phụ đề và Yomichan đều là Immersion.
 
 ## Ngày 9
 
@@ -830,7 +830,7 @@ Thói quen hàng ngày:
 
 Hãy để hôm nay là ngày luyện đọc.
 
-Tra **25** từ trong bài luyện đọc anime với phụ đề Tiếng Nhật.
+Tra **25** từ trong bài luyện đọc Anime với phụ đề Tiếng Nhật.
 
 ## Ngày 14
 
@@ -936,7 +936,7 @@ Trong một số ngày nhất định, với những ai không muốn đọc qu�
 
 [Đổ xúc xắc 20 mặt](https://www.google.com/search?q=roll+a+20+sided+dice)
 
-Hoặc bạn có thể sử dụng xúc xắc 20 mặt để quyết định xem bạn sẽ đọc bao nhiêu phút giữa các tập anime!
+Hoặc bạn có thể sử dụng xúc xắc 20 mặt để quyết định xem bạn sẽ đọc bao nhiêu phút giữa các tập Anime!
 
 #### Đọc lướt/Bỏ qua
 
@@ -956,7 +956,7 @@ Cho đến ngày thứ 30, những gì cần làm bao gồm:
 
 - Anki
 - Học ngữ pháp.
-- Immersion = (đọc manga ở trên, xem anime thuần (không phụ đề), sử dụng "subtitle tutor", nghe thụ động, sử dụng phụ đề Tiếng Nhật)
+- Immersion = (đọc manga ở trên, xem Anime thuần (không phụ đề), sử dụng "subtitle tutor", nghe thụ động, sử dụng phụ đề Tiếng Nhật)
 
 Chỉ có vậy thôi và sẽ tiếp tục trong vài tuần tới.
 

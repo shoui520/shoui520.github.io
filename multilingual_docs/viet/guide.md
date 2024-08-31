@@ -71,7 +71,7 @@ Ví dụ, một người học có thể gặp vấn đề khi cố học một 
 
 Phải biết buông bỏ và bắt tay vào làm những gì chúng ta thực sự cần làm.
 
-Đúng, sẽ khó có thể hiểu hết quyển sách hay một bộ anime đó ngay lần đầu (đương nhiên là cần nhiều hơn một lần rồi). Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
+Đúng, sẽ khó có thể hiểu hết quyển sách hay một bộ Anime đó ngay lần đầu (đương nhiên là cần nhiều hơn một lần rồi). Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
 
 ## 1.5 "Immersion" là cái gì?
 
@@ -326,7 +326,7 @@ Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều 
 
 ### Lựa chọn nội dung Immersion
 
-Chọn bất cứ nội dung gì bạn muốn. Nó có thể là Anime, phim, J-Drama, tiểu thuyết, light novel, manga, visual novel, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [bộ anime yêu thích của mình - Love Live](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để Immersion.
+Chọn bất cứ nội dung gì bạn muốn. Nó có thể là Anime, phim, J-Drama, tiểu thuyết, light novel, manga, visual novel, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [bộ Anime yêu thích của mình - Love Live](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để Immersion.
 
 ### Cách để thực hiện Listening Immersion 
 
@@ -346,7 +346,7 @@ Nghe "thụ động" là khi bạn làm việc khác và nghe ở chế độ n�
 
 Ngược lại với việc nghe, đọc là một cách tiếp cận đòi hỏi "phân tích" và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ. Vòng lặp quy trình về cơ bản là **đọc → tra từ → phản ứng (reaction) → đọc thêm → tra từ → (lặp lại)**. Lúc đầu, điều này có vẻ giống như việc bạn tự đập đầu mình vào tường, nhưng đây thực sự chỉ là cách mà bạn xây dựng khả năng đọc.
 
-Đọc nội dung có yếu tố trực quan như anime có phụ đề Tiếng Nhật (chi tiết trong [UsagiSpoon](routine.md)), manga và visual novels có thể sẽ dễ đọc hơn.
+Đọc nội dung có yếu tố trực quan như Anime có phụ đề Tiếng Nhật (chi tiết trong [UsagiSpoon](routine.md)), manga và visual novels có thể sẽ dễ đọc hơn.
 
 ### Tỷ lệ lý tưởng giữa nghe và đọc
 
@@ -394,9 +394,9 @@ Những người học muốn tiến xa hơn có thể muốn xem xét việc h�
 
 Cho những ai tò mò, đây là cấp độ Tiếng Nhật ước tính bạn có thể đạt được sau khi đạt đến những cột mốc này.
 
--   10 bộ anime: Bạn thực sự bắt đầu quen với việc nghe Tiếng Nhật. Có lẽ bây giờ bạn đã có thể hiểu được một đoạn câu khá hay rồi. Anime bạn đã xem khi bắt đầu hành trình học tập sẽ khiến bạn thấy khác biệt rất nhiều!
--   25 bộ anime: Việc nghe Tiếng Nhật sẽ trở nên tự nhiên hơn bao giờ hết.
--   50 bộ anime: Nếu bạn vẫn tiếp tục Immerse, bạn không còn là người mới bắt đầu nữa. Tại thời điểm này, sẽ có sự khác biệt rất lớn giữa khả năng của bạn bây giờ so với khi bạn mới bắt đầu.
+-   10 bộ Anime: Bạn thực sự bắt đầu quen với việc nghe Tiếng Nhật. Có lẽ bây giờ bạn đã có thể hiểu được một đoạn câu khá hay rồi. Anime bạn đã xem khi bắt đầu hành trình học tập sẽ khiến bạn thấy khác biệt rất nhiều!
+-   25 bộ Anime: Việc nghe Tiếng Nhật sẽ trở nên tự nhiên hơn bao giờ hết.
+-   50 bộ Anime: Nếu bạn vẫn tiếp tục Immerse, bạn không còn là người mới bắt đầu nữa. Tại thời điểm này, sẽ có sự khác biệt rất lớn giữa khả năng của bạn bây giờ so với khi bạn mới bắt đầu.
 -   1 cuốn tiểu thuyết: Mặc dù bạn đã có một khoảng thời gian thực sự khó khăn để cố gắng hiểu cuốn sách này, nhưng bạn đang bắt đầu thực sự vượt qua giai đoạn mới bắt đầu. Cuốn sách tiếp theo bạn đọc sẽ dễ dàng hơn đáng kể.
 -   5 tiểu thuyết đã hoàn thành / 1 bộ VN: bạn không còn là người mới bắt đầu nữa. Bạn đang thực sự bắt đầu xây dựng khả năng đọc Tiếng Nhật tốt.
 -   10 tiểu thuyết/2 bộ VN: Ở điểm này thì hoàn toàn đạt đến cấp độ trung cấp.

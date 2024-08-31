@@ -1,6 +1,6 @@
 ### Visual Novel là gì?
 
-Visual Novel (thường được viết tắt là **VN**) là sự kết hợp giữa tiểu thuyết và trò chơi, chúng chỉ có rất ít sự tương tác từ người chơi. Hầu hết các VN đều có hoạt họa giống anime và thường có lồng tiếng, nhạc nền với hiệu ứng âm thanh. Trong suốt trò chơi, người chơi có thể được đưa ra các lựa chọn, điều này sẽ ảnh hưởng đến cách câu chuyện sẽ diễn ra, vì vậy nếu bạn chơi lần thứ hai, với các lựa chọn khác nhau, bạn có thể sẽ trải nghiệm một cốt truyện hoàn toàn khác.
+Visual Novel (thường được viết tắt là **VN**) là sự kết hợp giữa tiểu thuyết và trò chơi, chúng chỉ có rất ít sự tương tác từ người chơi. Hầu hết các VN đều có hoạt họa giống Anime và thường có lồng tiếng, nhạc nền với hiệu ứng âm thanh. Trong suốt trò chơi, người chơi có thể được đưa ra các lựa chọn, điều này sẽ ảnh hưởng đến cách câu chuyện sẽ diễn ra, vì vậy nếu bạn chơi lần thứ hai, với các lựa chọn khác nhau, bạn có thể sẽ trải nghiệm một cốt truyện hoàn toàn khác.
 
 ![Image](img/vn1.jpg)
 

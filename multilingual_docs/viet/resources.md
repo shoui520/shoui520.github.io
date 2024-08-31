@@ -44,11 +44,11 @@
 
 ### Anime
 
-- [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker với raw anime (anime không phụ đề), đây là nơi tốt nhất để tải anime. Bạn nên sử dụng **qBittorrent**! 
-- [Hianime.to](https://hianime.to/) - trang xen anime có thể tắt phụ đề và chuyển sang audio 日本語.
+- [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker với raw Anime (anime không phụ đề), đây là nơi tốt nhất để tải Anime. Bạn nên sử dụng **qBittorrent**! 
+- [Hianime.to](https://hianime.to/) - trang xen Anime có thể tắt phụ đề và chuyển sang audio 日本語.
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Tiện ích mở rộng của Chrome cho phép bạn kéo và thả các tệp phụ đề (Xem [Phụ đề](#subtitles)) trên video bạn đang phát trực tuyến. Có thể dùng với hianime.to cũng như các trang web khác. 
-- ~~[Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - kho anime.~~   
-- [Animelon](https://animelon.com/) - xem anime có phụ đề Tiếng Nhật.  
+- ~~[Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - kho Anime.~~   
+- [Animelon](https://animelon.com/) - xem Anime có phụ đề Tiếng Nhật.  
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Hướng dẫn cách tải phụ đề Tiếng Nhật và cách đồng bộ phụ đề cho video. 
 - [Crunchyroll](https://www.crunchyroll.com) - miễn phí nhưng có quảng cáo và có thể tắt phụ đề.  
 
@@ -123,7 +123,7 @@ Note: Gaining the Student rank or above in our Discord channel grants you access
 - [Softcobra Nint#ndo Sw!tch Games](https://www.softcobra.com/) - Nint#ndo Sw!tch R#Ms  
 - [RoyalRoms (Gameboy, SNES, Genesis etc.) | Sort region by "Japan")](https://www.royalroms.com/roms/)  
 - [Emuparadise Workaround Tampermonkey Script](https://greasyfork.org/en/scripts/407947-emuparadise-download-workaround) - You can still download from emuparadise!   
-- [Jo-mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=0)- This has video game and anime difficulty ratings and also video game scripts. This can come in handy when you want to play a retro game and the text may be too pixelated for an OCR.  
+- [Jo-mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=0)- This has video game and Anime difficulty ratings and also video game scripts. This can come in handy when you want to play a retro game and the text may be too pixelated for an OCR.  
 
 Mẹo Immersion trong game Nhật: PlayStation Vita rất dễ hack và tải các trò chơi của Nhật. Nó có một thư viện trò chơi khổng lồ của Nhật nên có thể hữu ích cho quá trình Immersion của bạn, đặc biệt nếu bạn muốn chơi các trò chơi độc quyền trên console.   
 
@@ -137,7 +137,7 @@ Mẹo Immersion trong game Nhật: PlayStation Vita rất dễ hack và tải c�
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
 
 ### Subtitles
-- [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). **(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**  
+- [Kitsunekko Japanese subtitles for Anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). **(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**  
 - [Jimaku.cc](https://jimaku.cc/) - new site as a more secure alternative to kitsunekko    
 - ~~[Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)~~  
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
@@ -145,7 +145,7 @@ Mẹo Immersion trong game Nhật: PlayStation Vita rất dễ hack và tải c�
 - [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)   
 - **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**  
 ### Sentence Search
-- [Immersion Kit](https://www.immersionkit.com/) - Search sentences from anime, games etc. with translation. Made by Game Gengo. 
+- [Immersion Kit](https://www.immersionkit.com/) - Search sentences from Anime, games etc. with translation. Made by Game Gengo. 
 - [Youglish](https://youglish.com/japanese) - Tìm câu từ Youtube, là một cách tốt để cải thiện phát âm vì nó lấy nguồn trực tiếp từ người bản ngữ
 - [Massif](https://massif.la/) - Tìm câu từ syosetu
 - [Yourei.jp](http://yourei.jp/) Công cụ tra câu Tiếng Nhật lớn nhất thế giới 

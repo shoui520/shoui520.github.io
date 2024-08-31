@@ -228,7 +228,7 @@ Google: Tìm “[từ cần tìm] 意味” e.g. “侮る 意味” (Dùng 岩�
 
 Bạn sẽ học Tiếng Nhật trong một thời gian dài nên có thể Internet của bạn sẽ mất vào thời điểm bạn đang thực hiện Immersion trong nihongo! Rơi vào tình thế khó rồi phải không? Không!
 
-*Bạn đã tải anime về máy rồi phải không…?*
+*Bạn đã tải Anime về máy rồi phải không…?*
 
 ### Sử dụng Yomichan ngoại tuyến
 
@@ -264,7 +264,7 @@ Chủ yếu trong cộng đồng AJATT, có lời khuyên như này:
 
 Đây là điều mà Khatzumoto từ AJATT gợi ý.
 
-Nếu bạn đọc tiểu thuyết, đây có thể là một cách tiếp cận khá hay, vì bạn đã quen với từ ngữ rồi, vì tiểu thuyết thường có nhiều từ hơn anime và manga. Nếu bạn chỉ xem anime và đọc manga, điều này có thể khá khó chịu. Yomichan vẫn chưa được ra mắt ở thời điểm đề xuất này được đưa ra. Vì vậy, người học vào thời điểm đó sẽ thấy lời khuyên này rất tệ và luôn cảm thấy mệt mỏi khi phải liên tục tra cứu mọi thứ từ chính định nghĩa đó (Định nghĩa bằng Tiếng Nhật).
+Nếu bạn đọc tiểu thuyết, đây có thể là một cách tiếp cận khá hay, vì bạn đã quen với từ ngữ rồi, vì tiểu thuyết thường có nhiều từ hơn Anime và manga. Nếu bạn chỉ xem Anime và đọc manga, điều này có thể khá khó chịu. Yomichan vẫn chưa được ra mắt ở thời điểm đề xuất này được đưa ra. Vì vậy, người học vào thời điểm đó sẽ thấy lời khuyên này rất tệ và luôn cảm thấy mệt mỏi khi phải liên tục tra cứu mọi thứ từ chính định nghĩa đó (Định nghĩa bằng Tiếng Nhật).
 
 Về cơ bản, đây không phải là một cách tiếp cận sai, sẽ hay hơn khi nói “chỉ cần đọc từ điển nhiều hơn!”, bởi vì đó chính xác là những gì bạn cần làm.
 
@@ -312,7 +312,7 @@ Nó hấp dẫn theo đúng nghĩa của nó.
 
 (弐). Hãy thử xem thứ tự sắp xếp từ điển nào là tốt nhất với bạn.
 
-(参). Nếu từ bạn tra bằng Yomichan mà chỉ có trong từ điển song ngữ, hãy thử thực hiện tìm kiếm bằng kana hoặc tìm kiếm bằng toàn Kanji  (Alt+Insert để truy cập trang tìm kiếm Yomichan)
+(参). Nếu từ bạn tra bằng Yomichan mà chỉ có trong từ điển song ngữ, hãy thử thực hiện tìm kiếm bằng Kana hoặc tìm kiếm bằng toàn Kanji  (Alt+Insert để truy cập trang tìm kiếm Yomichan)
 
 (肆). Nếu bạn không hiểu định nghĩa ngay cả khi bạn tra cứu tất cả các từ, hãy sử dụng từ điển song ngữ (cách cuối). Bạn sẽ hiểu rõ hơn khi sử dụng từ điển đơn ngữ nhiều hơn.
 
