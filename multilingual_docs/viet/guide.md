@@ -1,436 +1,427 @@
-# Japanese Guide
+# Để học Tiếng Nhật
 
-*If you don't need a preface, please skip to [2.1 How to learn Japanese](#21-how-to-learn-japanese)*  
+*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần [2.1 Cách để học Tiếng Nhật](#21-how-to-learn-japanese)*  
 
-## 1.1 Why many people "fail" to learn Japanese
-  
-Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. You'll hear everyone say something along those lines when asked about their learning goals. However, many also fail to reach these goals even after years of study. Is the language just too hard? Are they just not studying hard enough?
-  
-I believe it's actually not their fault, but rather the method's. In language learning, the method behind your learning makes a huge difference in the kind of progress you make.
+## 1.1 Nhiều người học Tiếng Nhật "thất bại" là do đâu? 
 
-As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient, **immersion**, into their study routines. **Immersion** refers to listening to or reading native content made for native speakers. For example, anime is originally in Japanese without subtitles, so when consumed in this form, we call it immersion.   
+Có một số lượng không nhỏ những người bắt đầu học Tiếng Nhật để có thể trải nghiệm nội dung bằng Tiếng Nhật hoặc nói Tiếng Nhật trôi chảy và tương tự. Tuy nhiên, cũng không ít người dù sau nhiều năm học tập vẫn không thể đạt được mục tiêu. Do học một ngôn ngữ quá khó? Hay do chưa đủ chăm?
 
-## 1.2 Problems with traditional methods
+Có lẽ vấn đề không phải nằm ở họ, mà là ở phương pháp. Trong việc học ngôn ngữ, phương pháp học của bạn tạo ra sự khác biệt rất lớn trong khả năng tiến bộ.
+
+Thực ra, khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học Tiếng Nhật "truyền thống". Nhiều người thất bại vì thiếu vào một phần quan trọng, **Immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung bản địa dành cho người bản ngữ. Ví dụ: Anime vốn là Tiếng Nhật không có phụ đề nên khi xem Anime theo cách này (Không sử dụng phụ đề), thì đó là Immersion.
+
+## 1.2 Vấn đề với phương pháp truyền thống
 
 ![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
-A Japanese learner following a “traditional” study method would usually go through the following steps:
+Học Tiếng Nhật theo phương pháp học "truyền thống" thì nó thường sẽ kiểu như này:
 
-- Learning the alphabet(s).
-- Learning basic sentences such as greetings and self-introductions.
-- Learning basic grammar structure and vocabulary.
-- Coming up with sentences either by having conversations with a tutor or study partner, or by writing.
-- Translating example sentences from their native language to their target language and vice versa.
-- Looking up further material about grammar structures and vocabulary in textbooks or YouTube videos recommended by a tutor.
-- Practising conversation using knowledge from their study.
-- Accumulating more vocabulary and grammar structures, which becomes a measure of one’s own progress
-- And finally, in the endgame, moving to or visiting Japan in hopes of having opportunities to practise their skills.
+-   Học bảng chữ cái.
+-   Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+-   Học cấu trúc ngữ pháp và từ vựng cơ bản.
+-   Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+-   Dịch các câu ví dụ từ tiếng mẹ đẻ sang ngôn ngữ đích (TL - Target Language, ở đây là Tiếng Nhật) và ngược lại.
+-   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+-   Thực hành hội thoại sử dụng kiến ​​thức đã học.
+-   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy chúng làm thước đo cho sự tiến bộ của bản thân
+-   Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch Nhật Bản với hy vọng có cơ hội rèn luyện kỹ năng của mình.
 
-None of that is bad in itself, it is actually sufficient study, but it's not enough to get you to a high level of proficiency. The problem is they aren't actually engaging with the real language—but what do I mean by that?
+Bản thân những điều này không có gì là xấu, thực tế việc học như vậy là ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không thực sự tương tác với ngôn ngữ thực - nghĩa là gì?
 
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in a real pool. This won’t make you a good swimmer. You also can't expect to become a good swimmer just by learning the theory behind the techniques in isolation and practising them without actually swimming in a real pool.
+Hãy lấy việc bơi làm ví dụ. Bạn không thể chỉ ở trong bể bơi trẻ em với phao nổi và dành thời gian để trở thành trùm bể bơi trẻ em trước khi thử bơi trong bể bơi thật. Điều này sẽ không giúp bạn trở thành người bơi lội giỏi. Bạn cũng không nên mong rằng bạn có thể trở thành một vận động viên bơi lội giỏi chỉ bằng cách học lý thuyết đằng sau các kỹ thuật bơi một cách riêng biệt và thực hành chúng mà không thực sự bơi trong một bể bơi.
 
-How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. This is "playing the real game", with no strings attached.  
-
+Hãy lấy một ví dụ có vẻ liên quan hơn: game cạnh tranh (competitive video games). Sẽ khó để có thể chơi tốt hơn nếu chỉ chơi với AI và luyện tập cả ngày. Phải đấu với những người khác ngay cả khi mình biết mình sẽ thua. Đây mới chính là "playing the real game".
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
-  It's important to learn how to move on!
+  Điều quan trọng ở đây là học cách bước lên!
 </div>
 
-A common trap students fall into in language learning is staying on beginner resources for too long.  
+Một cạm bẫy thường thấy ở nhiều người học là sử dụng tài liệu học quá lâu.
 
-They want to ensure they know every single detail of their basics and refuse to move on to the real language. They refuse to engage in anything they aren't already comfortable with, because they're too afraid of not understanding anything. They may feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.  
+Họ muốn chắc mình phải biết rất rõ phần kiến thức đấy. Họ không muốn thực hiện Immersion vì chưa cảm thấy thoải mái, "sẵn sàng". Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới bắt đầu càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
 
-Perfectionism can be a double-edged sword in language learning. As a perfectionist myself, I've suffered more than I've gained wanting to make sure I've gotten every single detail down of trivial things that didn't really matter in the big picture.  
+Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
 
-Learning a language is like climbing a mountain. You can try to climb that mountain without anything assisting your ascent, and though it will take lots of struggle, you will eventually make it if you persist. Traditional study is like building a rope so that it's easier to climb that mountain, but you can't climb the mountain just by making a rope! You eventually have to climb it, because no matter how much rope you decide to make climbing that mountain is still going to be difficult and time-consuming.
+Học một ngôn ngữ cũng giống như leo lên một ngọn núi. Hoàn toàn có thể leo núi mà không cần bất cứ thứ gì hỗ trợ dù sẽ phải rất vất vả và cần nhiều kiên trì với nỗ lực. Học theo cách "truyền thống" chẳng khác gì làm dây thừng để leo núi dễ hơn, nhưng chỉ làm dây thừng thì vẫn chưa hoàn thành việc leo núi. Cuối cùng thì vẫn sẽ phải leo lên nó, bởi vì dù có thêm bao nhiêu dây để leo núi thì việc thực hiện vẫn sẽ tốn nhiều thời gian và công sức.
 
-## 1.3 The scale of language
+## 1.3 Quy mô của ngôn ngữ
 
-Language is… huge. There's so much to it that far exceeds the limitations of a classroom or app-based approach that tries to teach in an "x means y" or "x does y" format. Mastering a language to a higher level requires enormous amounts of experience reading and listening to what native speakers say.
+Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
 
-It's often difficult to grasp why they tend to use *that* phrase in *this* context, or *this* word instead of *that* other one… This creates a barrier for us learners as we can't just study grammar and vocabulary to achieve native-like fluency.
+Không dễ để hiểu tại sao họ lại dùng từ *đó* trong ngữ cảnh *này*, hoặc từ *này* thay vì từ *kia*. Điều này tạo ra một rào cản rất lớn, vì không thể chỉ học ngữ pháp và từ vựng mà có thể đạt được trình độ như người bản ngữ.
 
-Without the prerequisite experience, attempting to construct sentences in your target language often leads to unnatural, or difficult to understand phrasing. In turn, lack of experience with how native speakers use their language makes it difficult to understand them, due to unfamiliarity with phrasing outside of a learning resource's scope.
+Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ  cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
 
-This is why in your learning routine, **you do what we call "immersion"—read and listen to what natives write and speak.**
+Đây là lý do tại sao trong việc học ngoại ngữ cần có **"Immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
 
-Language learning is a process of subconsciously memorising patterns with comprehensible input. What this means is, when you understand something (comprehensible) in your immersion (input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have so much experience reading English in the past that, when you read this, your brain thinks something like, "Oh, there's pattern #234 used with pattern #82 and pattern #10!".    
+Học ngôn ngữ là một quá trình ghi nhớ các thành phần trong vô thức thông qua Comprehensible Input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình Immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào để có thể sử dụng trong tương lai. Việc bạn có thể đọc hướng dẫn này một cách không hề khó khăn nhờ vào việc bạn đã có rất nhiều kinh nghiệm đọc Tiếng Anh trước đây (Bài viết gốc viết bằng Tiếng Anh) nên khi đọc hướng dẫn này, bộ não sẽ kiểu "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và mẫu số 10 kìa".
 
-And since you are a proficient English reader, this is done effortlessly. You can understand the words in these sentences. You can understand what links the sentences together. You can even detect the tone and degree of formality in my writing, and it's all thanks to your brain storing the context, and other information of all the language patterns that you've come across.
+Và vì bạn đã có thể đọc Tiếng Anh thành thạo nên đọc được hướng dẫn này không hề khó khăn với bạn. Bạn có thể hiểu các từ trong những câu này. Bạn có thể hiểu những gì liên kết các câu lại với nhau. Bạn thậm chí có thể hiểu thêm về tông giọng và mức độ trang trọng (formal) trong bài viết này của mình. Tất cả đều nhờ bộ não của bạn lưu lại ngữ cảnh và các thông tin khác của tất cả các mẫu câu mà bạn đã gặp.
 
-Notice how I haven't mentioned "knowing the grammar" or "having memorised the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they're actively thinking about it when coming into contact with English every day.
+Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người đọc thậm chí có thể không phải là người nói Tiếng Anh bản ngữ và có thể đã từng học ngữ pháp Tiếng Anh trước đó, nhưng tỉ lệ cao là họ không thực sự "chủ động suy nghĩ" về ngữ pháp khi tiếp xúc với Tiếng Anh hàng ngày.
 
-## 1.4 Coming to terms with sucking 
+## 1.4 Chấp nhận sự mù mờ
 
-![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
-In language learning, and in anything that requires skill, you are always going to start off struggling for a long time until you get better. As mentioned earlier, many learners (I am guilty of this too) fall into the trap of attempting to master something before ever trying to engage in practice with what they need to work on.  
+Trong việc học ngôn ngữ và trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng thực tế.
 
-For example, a student might fuss over a certain aspect of grammar for way too long and never find the time to move on to something else they are better off spending their time with.
+Ví dụ, một người học có thể gặp vấn đề khi cố học một cấu trúc ngữ pháp nào đó quá lâu và không chuyển sang những nội dung khác mà họ nên học.
 
 <div style="text-align: center; font-weight:bold">
-<h3>↑ This here is what we want to avoid.</h3 >  </div>
-We have to get into the habit of letting go and start doing what we actually need to do. 
+<h3>↑ Đây là điều chúng ta muốn tránh.</h3 >  </div>
 
-Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
+Phải biết buông bỏ và bắt tay vào làm những gì chúng ta thực sự cần làm.
 
-## 1.5 What even is "immersion"?  
+Đúng, sẽ khó có thể hiểu hết quyển sách hay một bộ anime đó ngay lần đầu (đương nhiên là cần nhiều hơn một lần rồi). Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
 
-Immersion is when you interact with natural content in the target language. This means, content that is NOT made for or cherry picked for learners. Content that a native speaker of the language would also consume.  
+## 1.5 "Immersion" là cái gì?
 
-If you were an English learner, reading this guide right now would be "doing your English immersion", because this guide is not watered down or aimed at English learners. It is written for a native/proficient English speaking audience.  
+Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu. Điều này có nghĩa là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học. Nội dung mà người bản ngữ của ngôn ngữ đó sẽ tiêu thụ.
 
-Thus, when you listen to, or read Japanese content that a Japanese person would also normally consume, you are doing immersion.  
+Nếu bạn là người học Tiếng Anh (bài viết gốc được viết bằng Tiếng Anh), việc đọc hướng dẫn này ngay bây giờ sẽ được tính là bạn đang "thực hành Immersion trong Tiếng Anh", bởi vì hướng dẫn này không hề được đơn giản hóa hay giúp cho người học Tiếng Anh. Nó được viết cho những người nói Tiếng Anh ở mức độ bản ngữ/thành thạo.
 
-Technically, we would refer to this as *input*, but I like the term *immersion* more. 
+Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Nhật mà người Nhật cũng thường sử dụng, bạn đang thực hành Immersion
 
-## 1.6 A top-down approach to learning  
+Theo thuật ngữ thì được gọi là *Input*, nhưng mình thích dùng *Immersion* hơn.
 
-Learning a language requires you to be content with not understanding everything.  
+## 1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học 
 
-It is drastically different from conventional ways of learning experienced at school where perfectionism is rewarded and you are graded according to an arbitrary criteria or through exams.  
+Cần phải học cách chấp nhận sự mù mờ khi học một ngôn ngữ.
 
-Usually, what happens when language learners try to interact with the real language, whether it is a TV series in that language, or a book, or even just having a normal conversation with natives, is they tend to get discouraged extremely quickly due to not understanding everything, or much at all. After all, it can seem counter-intuitive to keep going at it when you understand so little, but as explained earlier, learning a language is like jumping in the deep end.  
+Nó khác hoàn toàn so với cách học ở trường lớp, nơi được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi.
 
-What sets language learning apart from school-like subjects is it's too based on real-world and natural use that cannot conceivably be covered by study material.  
+Những người học ở trên dễ cảm thấy nản vì không hiểu được tất cả hoặc phần nhiều khi tương tác với ngôn ngữ thực tế, cho dù đó là một bộ phim truyền hình, hay một quyển sách hoặc thậm chí chỉ là một cuộc hội thoại bình thường với người bản ngữ. Việc tiếp tục như vậy khi bạn hiểu rất ít nghe có vẻ không hợp lí, nhưng như đã nói ở các phần trước, học một ngôn ngữ cũng giống như nhảy vào hố đen bất tận vậy (learning a language is like jumping in the deep end).
 
-So, the only way you are going to get used to everything is by coming to terms with having low comprehension, because the more we interact with the language, the more we improve.  
+Điều khiến việc học ngôn ngữ trở nên quá khác biệt so với các môn học ở trường là nó dựa trên việc sử dụng ngôn ngữ một cách tự nhiên và thực tế, thứ mà tài liệu học tập không thể truyền tải được.
 
-Of course, you will not be *only* doing immersion with no aid at all. You will study things like grammar and starter vocabulary on the side, and use dictionaries to learn the words from your immersion.  
+Vì vậy, cách duy nhất để làm quen với mọi thứ là chấp nhận sự mù mờ (low comprehension), vì càng tương tác với ngôn ngữ nhiều thì sẽ càng tiến bộ hơn.
 
-## 2.1 How to learn Japanese
+Chúng ta không *chỉ* thực hiện Immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình Immersion.
 
-### Beginner study process 
-The learning process for the beginner consists of:
+## 2.1 Cách học Tiếng Nhật
 
-- Learning the *hiragana* and *katakana*, which are two of the writing systems of Japanese. 
-- Learning basic vocabulary and their *kanji* with a program called *Anki*.
-- Learning grammar through a *YouTube* playlist.
-- Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
+### Quá trình học tập ban đầu
 
-## 2.2 Hiragana and Katakana  
+Quá trình học tập mở đầu bao gồm bao gồm:
 
-<figure>
-  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS">
-  <figcaption>"Hiragana" and "Katakana" written in their scripts respectively.</figcaption>
-</figure> 
+-   Học bảng *Hiragana* Và *Katakana*, đó là hai bảng chữ cái cơ bản của Tiếng Nhật.
+-   Học từ vựng cơ bản và *Kanji* sử dụng *Anki*.
+-   Học ngữ pháp thông qua một danh sách phát trên *YouTube*.
+-   Bắt đầu Immersion với Comprehensible Input cường độ cao. Đây là nhiệm vụ cần phần lớn thời gian học của mình.
 
-*Hiragana* and *katakana* are two parts of the Japanese writing system with the third part being *kanji*
+## 2.2 Hiragana và Katakana
 
-Japanese's writing system can be described as more of a "syllabary" than an alphabet. It is technically wrong to call these alphabets, as each character represents a syllable rather than a vowel or consonant. Take for example, 「か」, which reads as "ka".  
+![](img/kana3.png)
 
-*Hiragana* and *katakana* are collectively referred to as the "**kana**".  
+*Hiragana* và *Katakana* là hai phần của hệ thống viết trong Tiếng Nhật với phần thứ ba là *Kanji* (Kanji)
 
-*Hiragana* and *katakana* represent every sound in the Japanese language. While you can technically write Japanese entirely in *kana*, this isn't how real Japanese is usually written, as it uses a combination of *kana* (*hiragana* and *katakana*), and *kanji*.  
+Hệ thống chữ viết của Tiếng Nhật có thể được mô tả giống như một "âm tiết" hơn là một chữ cái. Về mặt thuật ngữ, dùng từ "bảng chữ cái" là sai vì mỗi ký tự đại diện cho một âm tiết chứ không phải là nguyên âm hoặc phụ âm. Lấy ví dụ, 「か」, đọc là "ka".
 
-### Hiragana 
-<figure>
-  <img src="/img/hiragana.png" / alt="HIRAGANA">
-  <figcaption>An example of a couple hiragana. This isn't all of them.</figcaption>
-</figure> 
+*Hiragana* và *Katakana* được gọi chung là "**Kana**".
 
-*Hiragana* can be described as the "main alphabet" of Japanese. It's the curly and cute variant of *kana*.  
-It is usually used in:  
+*Hiragana* và *Katakana* đại diện cho mọi âm trong Tiếng Nhật. Tuy có thể viết Tiếng Nhật hoàn toàn bằng *Kana* nhưng đây không phải là cách viết Tiếng Nhật thường được viết vì nó còn bao gồm cả *Kanji* nữa.
 
-- Grammatical things
-- Parts of words with Japanese origin
-- Words that aren't usually written in *kanji*
+### Hiragana
 
-It may also be used in:
+![](img/hiragana.png) 
 
-- Names
+*Hiragana* được coi như "bảng chữ cái chính" của Tiếng Nhật. Là một biến thể cong và "dễ thương" của *Kana*.
+
+Thường được sử dụng trong:
+
+-   Những thứ liên quan đến ngữ pháp
+-   Các phần từ có gốc Tiếng Nhật
+-   Những từ thường không được viết bằng *Kanji*
+
+Nó cũng có thể được sử dụng trong tên.
 
 ### Katakana
-<figure>
-  <img src="/img/katakana.png" / alt="KATAKANA">
-  <figcaption>An example of a couple katakana. This isn't all of them.</figcaption>
-</figure> 
 
-*Katakana* is the angular and pointy version of kana. It has the exact same sounds as *hiragana*. 
-It is usually used in:  
+![](img/katakana.png)
 
-- Foreign, loan words (words borrowed from other languages like English)
-- Onomatopoeia words (Japanese is full of these!)
-- Slang words
+*Katakana* thì trông góc cạnh và nhọn. Nó có âm giống như *Hiragana*. Thường được sử dụng trong:
 
-It may also be used in:  
+-   Từ mượn từ nước ngoài (Từ các ngôn ngữ khác như Tiếng Anh)
+-   Từ tượng thanh (Tiếng Nhật có rất nhiều từ như này)
+-   Từ lóng
 
-- Names, mainly foreign names
+Nó cũng có thể được sử dụng trong: Tên (nhưng chủ yếu là tên nước ngoài)
 
-### How to learn the kana
+### Cách học Kana
 
-#### Step 1 - the chart
+#### Bước 1 - Sử dụng biểu đồ
 
-First I want you to take a good look at this *kana* chart.
+Đọc sơ đồ này.
 
-<figure>
-  <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
-  <figcaption>
-      Full chart of singular kana<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
-<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
-  </figcaption>
-</figure>
+![](img/hiragana_katakana_LARGE.png)
 
+Biểu đồ này sẽ rất hữu ích khi học *Kana*, bạn nên lưu lại.
 
-This chart will come in really handy when you are learning to read the *kana*. I recommend you save it.  
+Sử dụng biểu đồ này để:
 
-Things you can do with the chart:
+-   Tập đọc *kana* bằng cách tham khảo bảng. Các cột thể hiện nguyên âm và các hàng thể hiện phụ âm. Vì 「か」 nằm ở hàng K và cột A nên được phát âm là "ka".
+-   Tìm hiểu cách viết chúng bằng cách nhìn vào thứ tự các nét (mũi tên nhỏ màu xanh và số trên các ký tự).
+-   Sử dụng nó như một tài liệu tham khảo chính cho tất cả các số ít *kana*. Điều này sẽ giúp ích cho bạn rất nhiều khi bạn học đọc Tiếng Nhật.
 
-- Learn to read *kana* by referring to the table. The columns represent vowel sounds, and the rows represent consonant sounds. Since 「か」 is in the K row and in the A column, it is pronounced "ka".  
-- Learn how they are written by looking at the stroke orders (the little blue arrows and numbers on the characters).  
-- Use it as a master reference for all singular *kana*. This will help you a lot when you are learning how to read Japanese.  
+#### Bước 2 - Xem Video trên YouTube
 
-#### Step 2 - the YouTube video
-<h3><a href="https://youtu.be/_wZHqOghvSs" target="_blank">Watch this YouTube video</a></h3>
-It's a 2 hour long video about *hiragana* and *katakana*. It is a great introduction into the *kana*.
+<h4><a href="https://youtu.be/_wZHqOghvSs" target="_blank">Xem video YouTube này (2 giờ)</a></h4>
 
-#### Step 3 - the grinding
-Once you have done that, play this *kana* grinding game.  
-<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">The kana grinding game</a></h3>
+1 video 2 tiếng giới thiệu về *Hiragana* Và *Katakana*.
 
-<h4>How to play</h4>
+#### Bước 3 - Cày
+Làm xong bước số 2 thì chơi "game" này để ôn tập
 
-1. Click "show/hide options".
-2. Click "check all" for *Hiragana*.
-3. Start guessing how the *hiragana* are *pronounced*.
-4. Repeat until confident (may take a few days or weeks), and then do the same thing but with all "Hiragana combinations" also checked.
-5. Repeat until confident, then do it with all "Katakana" also checked, and then with all "Katakana combinations" also checked.
+<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">Game cày Kana</a></h3>
 
-This whole process can take up to 3 weeks to a month depending on the person. Do not feel discouraged if this part of learning Japanese is taking a while, as there are other things to do such as beginner level immersion.
+<h4>Cách cày</h4>
 
-#### Step 4 - reading practice
+1.  Nhấp vào "show/hide options".
+2.  Nhấp vào "check all" cho *Hiragana*.
+3.  Bắt đầu kiểm tra *Hiragana* *phát âm* như thế nào.
+4.  Lặp lại cho đến khi cảm thấy tự tin về chủ đề này (có thể mất vài ngày hoặc vài tuần), sau đó thực hiện tương tự nhưng với tất cả "kết hợp Hiragana" cũng được chọn.
+5.  Lặp lại cho đến khi tự tin, sau đó thực hiện tương tự với bảng "Katakana" và sau đó nữa là "Katakana combinations".
 
-What also helps immensely in memorising the *kana* is reading sentences in kana.   
-Not everything in Japanese is written in kana, and you will have trouble trying to read most things at this point without *kanji* knowledge, but sometimes in Japanese, kana is put over *kanji* to help you read. This is known as *furigana*. An example can be seen here! 
+Toàn bộ quá trình này có thể mất tới 3 tuần đến một tháng tùy theo từng người. Đừng cảm thấy nản nếu phần học này của Tiếng Nhật mất thời gian, vì còn có những việc khác mà ta cần làm chẳng hạn như Immersion ở cấp độ mới bắt đầu.
+
+#### Bước 4 - Luyện đọc
+
+Việc đọc các câu bằng bằng Kana cũng sẽ giúp bạn rất nhiều trong việc ghi nhớ chúng.
+Không phải mọi thứ trong Tiếng Nhật đều được viết bằng Kana và bạn sẽ gặp khó khăn khi cố đọc hầu hết mọi thứ vào thời điểm này mà không có kiến thức về *Kanji*, nhưng đôi khi trong Tiếng Nhật, Kana được hiển thị nhỏ nhỏ trên *Kanji* để giúp bạn đọc. Cái này được gọi là *furigana*. Một ví dụ có thể được nhìn thấy ở đây! 
 <ruby>
   日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp>
-</ruby>. This just means the Japanese language ("nihongo"). I wrote it in its *kanji* form and put *hiragana* over it.
+</ruby>. Từ này có nghĩa là Tiếng Nhật ("nihongo"). mình đã viết nó bằng *Kanji* hình thức và đặt *Hiragana* trên đó.
 
-I recommend practising your *kana* by trying to read some Tadoku graded readers, which you can find [here](https://tadoku.org/japanese/free-books/#l0).
+Bạn nên thực hành *kana* bằng cách thử đọc Tadoku thông qua [đường dẫn này](https://tadoku.org/japanese/free-books/#l0).
 
-<strong><h3>You do not need to be able to understand anything right now. This is just for getting better at reading kana.</h3></strong><br>
+<strong><h3>Bạn chưa cần phải hiểu bất cứ điều gì ngay bây giờ. Mục tiêu chính ở đây là giúp bạn cải thiện khả năng đọc Kana.</h3></strong><br>
 
-## 2.3 Vocabulary & Kanji
+## 2.3 Từ Vựng & Kanji
 
-### Kanji, the oddball
+### Kanji
 
-<figure>
-  <img src="/img/kanji2.jpg" / alt="FIRST 80 KANJI">
-  <figcaption>The first 80 kanji taught to Japanese 1st graders.</figcaption>
-</figure> 
+![FIRST 80 KANJI](img/kanji2.jpg)
+_80 chữ Kanji đầu tiên dạy cho học sinh lớp 1 ở Nhật Bản_.
 
-*Kanji*, meaning "Chinese characters", is another one of the writing systems used in Japanese. They are logographic and are much more complex and wider in variety than *kana*. There are around 2000 to 3000 of them used in Japanese, however, do not let this number demotivate you, because *kanji* are not to be studied and grinded like *kana* are.  
 
-*Kana* are **phonetically consistent** and few in number so they can be studied in isolation and mastered in a short amount of time, however, *kanji* are not. They aren't used in the same way either, and aren't exactly logical. What do I mean by that?
+*Kanji*, có nghĩa là "Hán tự", là một hệ thống chữ viết khác được sử dụng trong Tiếng Nhật. Chúng có tính biểu tượng và phức tạp hơn và đa dạng hơn nhiều so với *kana*. Có khoảng 2000 đến 3000 trong số đó được sử dụng trong Tiếng Nhật, tuy nhiên, đừng để con số này làm bạn nản, bởi vì cách học của *Kanji* không tương tự như *kana*.
 
-Let's take this as an example. Because *kana* represents the sounds in Japanese, we can write whatever we want according to the sounds as long as a kana exists for it, this includes writing English words. 
+*Kana* thì **nhất quán về mặt ngữ âm** và số lượng ít nên ta có thể học riêng và thành thạo trong một khoảng thời gian ngắn nhưng với *Kanji* thì không. Chúng cũng không được sử dụng theo cùng một cách và không hoàn toàn logic. Nghĩa là gì?
 
-Now imagine I wrote the **English** sentence "I am learning Japanese" but using *kana*, it would be:
-> "あい　あむ　らあにんぐ　じゃぱにいず"  
+Hãy lấy điều này làm ví dụ. Vì *Kana* đại diện cho các âm trong Tiếng Nhật, chúng ta có thể viết bất cứ điều gì chúng ta muốn tùy theo âm đó miễn là có âm Kana tương ứng cho nó, điều này bao gồm cả việc viết các từ Tiếng Anh.
 
-Of course, this is ridiculous and there is no reason why you would ever want to do that, but the point being: you aren't exactly able to do this with kanji without it being completely unreadable and incomprehensible. But why then, do we use kanji? **Because of words.** Words use kanji, and therefore...    
+Bây giờ hãy tưởng tượng cách phát âm **Tiếng Anh** của câu "mình đang học Tiếng Nhật" nhưng sử dụng *Kana*, thử đọc xem:
+> "あい あむ らあにんぐ じゃぱにいず"
 
-Kanji only make sense when they are used in words.  
+Tất nhiên, cái này khá là dị và không có lý do gì bạn lại muốn làm điều này, nhưng vấn đề là: nếu bạn làm điều tương tự với Kanji thì nó hoàn toàn không thể đọc được và hiểu được. Nhưng tại sao sau đó chúng ta lại sử dụng Kanji? **Vì từ vựng.** Các từ sử dụng kanji, vậy nên..
 
-I repeat,
+Kanji chỉ có ý nghĩa khi chúng được sử dụng trong từ vựng.
+
+Nhắc lại
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
-  Kanji only make sense when they are used in words!
+  Kanji chỉ có ý nghĩa khi chúng được sử dụng trong từ vựng.
 </div> 
 
-Every language has **a lot** of words, and different words have different meanings. Chinese, and Japanese for whatever reason decided they are going to use kanji to piece together different words and their different meanings. That is why there are so many of them and why you shouldn't let them scare you as they are meant to be learned along with the words that use them. After all... no one is going to think to front-load all the words before they learn how to read! That's ridiculous.  
+Ngôn ngữ nào cũng có **nhiều** từ và các từ khác nhau có nghĩa khác nhau. Tiếng Trung và Tiếng Nhật vì lý do trời ơi đất hỡi gì đó đã quyết định sử dụng Kanji để ghép các từ khác nhau và ý nghĩa khác nhau của chúng lại với nhau. Đó là lý do tại sao lại có rất nhiều từ vựng như vậy và bạn không nên sợ Kanji vì bạn sẽ học được Kanji thông qua từ vựng. Suy cho cùng, sẽ không ai nghĩ đến việc tải trước tất cả các từ trước khi học cách đọc! 
 
 <div style="border: 1px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 18px; font-weight: bold; text-align: center; font-style: italic;">
-  Kanji aren't words, but they make up the building blocks.  
+  Kanji không phải là từ vựng, nhưng chúng là nền tảng 
 </div> 
 
-Japanese has extra steps when it comes to learning how to read; due to kanji you need to constantly refer to a dictionary to learn how to read anything at all.  
-Take this for example, if I showed you the word, **今日**, chances are you wouldn't be able to read it, or know what it means. How you learn how to read it is by looking it up in a dictionary, such as [Jisho.org](https://jisho.org/).  
-The dictionary shows it is read as **きょう**, and means *today*. If we had to look this word up while reading something, we internalise this piece of information and move on.  
-Tedious... but there are tools such as [Yomitan](/yomichan) that can do all this with a single press. 
+Có những bước thêm khi học đọc Tiếng Nhật; do Kanji nên bạn cần phải liên tục tra từ điển để học cách đọc bất cứ thứ gì.
 
-### A note on studying kanji in isolation
+Lấy ví dụ này, nếu mình cho bạn xem từ, **今日**, rất có thể bạn sẽ không thể đọc được nó hoặc biết nghĩa của nó là gì. Cách bạn học cách đọc nó là tra nó trong từ điển, chẳng hạn như [Jisho.org](https://jisho.org/).
+Theo từ điển, nó được đọc là **きょう**, và có nghĩa là *hôm nay*. Nếu chúng ta phải tra từ này trong khi đọc thứ gì đó, chúng ta sẽ tiếp thu chúng và tiếp tục.
+Cách này khá chán. Nhưng có những công cụ như [Yomitan](yomichan.md) có thể thực hiện tất cả điều này chỉ với một lần di chuột.
 
-Kanji study methods have been a matter of debate for as long as learning Japanese has been a thing. One of the common problems that arise when beginners try to read Japanese is that kanji can look too similar to each other and that their shapes don't make sense.  
+### Về việc học Kanji một cách đơn lẻ
 
-While they may look like random shapes, kanji are actually formed from common components. Take for example the kanji **萌**, that is being used as the icon for this website. It is actually made up from 3 common kanji components that are used in lots of other kanji as well. 
+Phương pháp học Kanji từ lâu đã là một vấn đề gây tranh cãi. Một trong những vấn đề phổ biến nảy sinh khi người mới bắt đầu cố gắng đọc Tiếng Nhật là có những Kanji trông quá giống nhau và các nét trông quá rối.
+
+Dù Kanji trông giống như những hình thù ngẫu nhiên, chúng được hình thành từ các bộ thủ phổ biến. Lấy ví dụ Kanji **萌**, biểu tượng của trang này, được tạo thành từ 3 thành phần Kanji phổ biến khác được sử dụng trong nhiều Kanji khác.
 
 ![Kanji](img/kanji.png)   
 
-While optional, learners that are struggling to tell apart different kanji may want to try studying kanji by their components in isolation. An additional *Anki deck* (explained in the next section) can be used to do this. You can find the deck [here.](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
+Những người đang gặp khó khăn trong việc phân biệt các Kanji có thể thử học Kanji đơn lẻ theo các bộ thủ. Bạn có thể sử dụng một *bộ thẻ Anki* bổ sung (sẽ được giải thích trong phần tiếp theo) để hỗ trợ quá trình học này, tải bộ thẻ [ở đây](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)
 
+## 2.4 Học từ vựng
 
-## 2.4 Learning Vocabulary
-To get a feel for kanji and how they are used together in words, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around *1500* words aimed at teaching you the most common Japanese words to jumpstart your Japanese learning.  
+Để hiểu được chữ Kanji và cách chúng được sử dụng cùng nhau trong từ, bạn nên học bộ thẻ từ vựng Anki dành cho người mới bắt đầu. Đây là một bộ thẻ bao gồm khoảng *1500* từ, giúp bạn học những từ Tiếng Nhật thông dụng nhất để khởi đầu quá trình học Tiếng Nhật của mình.
 
-### Quick Anki Setup
-Anki is a flashcard program designed to help you remember large amounts of information, such as vocabulary.  
+### Cài đặt Anki nhanh
 
-Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it. 
-<figure>
-  <img src="/img/ankidownload.png" / alt="Anki Download Page">
-  <figcaption>Download the one for your system.</figcaption>
-</figure>  
+Anki là một phần mềm flashcard được thiết kế để giúp bạn ghi nhớ lượng lớn thông tin, chẳng hạn như từ vựng.
 
-When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).    
+Truy cập vào [Trang tải xuống của Anki](https://apps.ankiweb.net/), và tải phiên bản Anki cho hệ thống của bạn (Windows, MacOS, Linux) và chạy tệp cài đặt.
 
-The beginner deck I recommend is [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases) which can be downloaded [here](https://github.com/donkuri/Kaishi/releases) (click the .apkg link)  
+![](img/ankidownload.png)
 
-After the download is complete, import the deck by clicking "Import file" and navigating to the downloaded file (.apkg) and then click Import on the top right.  
-### Quick Anki Usage Guide
+Khi mở Anki lần đầu tiên bạn sẽ được yêu cầu cài đặt ngôn ngữ hiển thị, hãy đặt theo mặc định (English). 
 
-Before studying, I recommend changing some settings first. Click the cog icon next to the deck, and go on *Options*.  
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases) có thể tải xuống thông qua [đường dẫn này](https://github.com/donkuri/Kaishi/releases) (chọn tệp có đuôi `.apkg`)
 
-Change the *Maximum reviews/day* from `200` to `9999`. Don't be alarmed by this number, your reviews probably won't ever reach that high, it's just uncapping your daily review limit for the optimal experience.  
+Sau khi quá trình tải xuống hoàn tất, hãy thêm bộ thẻ vào Anki bằng cách chọn "Import file" và điều hướng đến chỗ mà bạn đã tải tệp xuống (.apkg) rồi chọn "Import" ở trên cùng bên phải.
 
-As for *New cards/day*, I think `20` might be too big of a commitment for some. If you aren't feeling confident learning 20 new words per day, try dropping the number down to `10` or lower.   
+### Hướng dẫn sử dụng Anki nhanh
 
-When you first start studying the *Kaishi 1.5k* deck, the first card will be an explanation card. You can delete this by going in "More" and clicking "Delete Note"
+Trước khi bắt đầu học, bạn nên thay đổi một số cài đặt. Nhấp vào biểu tượng răng cưa bên cạnh bộ thẻ và tiếp tục *Options*.
 
-Anki helps you remember things by testing your knowledge of what is on the back of the card. What you are being tested for here is whether you know the meaning and how to read the word. Everything else on the card is only there for aid.  
-Please note that while *Kaishi 1.5k* includes sentences, it is only designed to teach you single words.   
+Thay đổi *Maximum reviews/day* từ `200` ĐẾN `9999`. Đừng lo lắng về con số này, số lượng Reviews (Thẻ bạn cần ôn tập trong Anki) của bạn có thể sẽ không bao giờ đạt đến mức cao như vậy, nó chỉ giúp bạn vượt qua giới hạn đánh giá hàng ngày để có trải nghiệm tối ưu.
 
-When seeing an unfamiliar Anki card for the first time, the general rule of thumb is to click *Show Answer* so you can see what's on the back of the card.   
-<figure>
-  <img src="/img/ankikaishi.png" / alt="Anki Kaishi Deck">
-  <figcaption>The pieces of information you need to memorise.</figcaption>
-</figure>  
-Once you have had a good look, press *Again* (this is short for try again). You will be on the next card, do the same thing as it is also a card you are seeing for the first time.  
-The next time you see the card, it is knowledge testing time. Try your best to remember the meaning and reading that was on the back of the card and grade yourself! 
+Đối với *New cards/day*, `20` có thể hơi quá khó với một số người. Nếu bạn cảm thấy áp lực khi học 20 từ mới mỗi ngày, hãy thử giảm con số xuống còn `10` hoặc thấp hơn.
 
-This, in essence, is how we are going to learn vocabulary in the beginner stage.  
+Khi bạn bắt đầu học bộ thẻ *Kaishi 1.5k*, thẻ đầu tiên là thẻ giới thiệu bộ thẻ. Bạn có thể xóa thẻ này bằng cách chọn "More" và chọn "Delete Note"
 
-Once you have completed your new cards for the day, make sure you come back the next day to check your reviews!   
+Anki giúp bạn ghi nhớ mọi thứ bằng cách kiểm tra khả năng nhớ nội dung ở mặt sau thẻ của bạn. Kiểm tra xem liệu bạn có biết nghĩa và cách đọc từ đó hay không. Mọi thứ khác trên thẻ chỉ để hỗ trợ bạn trong quá trình học.
 
-## 2.5 Grammar
+Hãy nhớ là dù *Kaishi 1.5k* có các câu ví dụ, nó chỉ được thiết kế để dạy những từ đơn lẻ.
 
-Learning grammar can be straightforward and complex at the same time. It's quite essential to learning Japanese and while it might seem daunting at first, 
-there are resources out there that help make the learning process easier. The grammar learning process is relatively simple; just pick up a guide and read/watch it.    
+Khi thấy một thẻ Anki bạn chưa học (thẻ mới), nên chọn *Show Answer* để có thể thấy những gì ở mặt sau của thẻ.
 
-There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
+![](img/ankikaishi.png)
 
-Below are a list of grammar resources in order of how much I recommend them. You do not need to do every single one, just find the one that works well for you.
+Khi đã xem xong nội dung thẻ rồi, hãy nhấn *Again* (Bằng với việc "Ôn lại"). Với những thẻ tiếp theo, hãy làm tương tự vì đây cũng là thẻ mà bạn thấy lần đầu.
+
+Lần tiếp theo bạn nhìn thấy thẻ đó là khi kiểm tra lại nội dung mặt sau của thẻ. Hãy cố gắng hết sức để nhớ lại nghĩa và cách đọc ở mặt sau thẻ và tự chấm điểm!
+
+Về cơ bản, đây là cách chúng ta học từ vựng ở giai đoạn mới bắt đầu.
+
+Khi bạn đã hoàn thành các thẻ mới trong ngày, hãy nhớ quay lại vào ngày hôm sau để xử lý các Reviews.
+
+## 2.5 Ngữ pháp
+
+Học ngữ pháp vừa đơn giản lại vừa phức tạp. Việc học ngữ pháp tương đối quan trọng trong việc học Tiếng Nhật. Ban đầu sẽ khó khăn chút nhưng có những tài nguyên giúp quá trình học tập trở nên dễ dàng hơn. Quá trình học ngữ pháp tương đối đơn giản; chỉ cần chọn một trong những hướng dẫn bên dưới và đọc/xem nó.
+
+Có rất nhiều tài liệu ngữ pháp, tốt cũng có mà không tốt cũng có. Chỉ có một nguồn học ngữ pháp là không đủ cho tất cả mọi người.
+
+Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho tất cả những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn phù hợp với bản thân.
 
 [Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
 [Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
 [Sakubi](https://gohoneko.neocities.org/learn/anon/sakubi)  
-[IMABI](https://imabi.org/)    
+[IMABI](https://imabi.org/)  
 
-It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.   
+Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
-## 2.6 Beginner immersion: an uphill battle
+## 2.6 Immersion cho beginner
 
-If you recall from section 1.3, I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
+Ở phần 1.3, mình đã nói về Comprehensible Input. Đây là Input mà bạn có thể hiểu được, cứ mỗi vài câu lại có một số mảnh ghép bị thiếu. Với kiểu Immersion này, trong tiềm thức bạn sẽ tự điền thêm vào những phần bạn thấy chưa hiểu bằng cách đoán ý dựa trên ngữ cảnh, đó là điều giúp cho Input trở nên hữu ích cho việc học ngôn ngữ.
 
-Now you may have noticed a problem here. What do you do if you don’t have access to comprehensible input? As a complete beginner, there is no content that is easy. In fact, this is why people often fall into the endless cycle of reading from beginner resource to beginner resource. Though incomprehensible input is by no means useless—it does have its benefits and assists with learning—it is very difficult to get past that initial hurdle. 
+Bây giờ bạn có thể đã nhận thấy một vấn đề ở đây. Bạn sẽ làm gì nếu không có nguồn comprehensible Input? Là người mới bắt đầu hoàn toàn, không có nội dung nào là dễ dàng. Trên thực tế, đây là lý do tại sao mọi người thường lạc lối và bắt đầu đọc từ tài liệu này sang tài liệu khác. Mặc dù Incomprehensible Input cũng có những tác dụng nhất định và hỗ trợ cho việc học, nhưng sẽ rất khó để có thể vượt qua rào cản ban đầu ấy.
 
-Failing to understand the content you want to enjoy inherently sucks unless you take a specific mindset to it—taking pleasure in the knowledge that you are making gradual progress, even if that progress is immediately imperceptible. However, it’s difficult to maintain this mindset all the time, so it isn’t reliable as the sole motivator for consistency—the number one key of mastering any skill!
+Việc không hiểu được nội dung mình muốn tiêu thụ khá khó chịu, trừ khi bạn có một hướng tư duy cụ thể về nó - cảm thấy vui khi biết rằng mình đang tiến bộ dần dần kể cả khi khó có thể thấy một cách rõ rệt. Tuy nhiên, để duy trì tư duy này mọi lúc không hề dễ dàng, không nên dựa vào nó để làm động lực thúc đẩy cho sự kiên trì trong học tập - chìa khóa số một để thành thạo bất kỳ kỹ năng nào.
 
-So how can we make it so we don’t constantly dread having to parse through content that is difficult to understand?
+Vậy làm cách nào để không phải cảm thấy áp lực khi phải tiêu thụ các nội dung khó hiểu?
 
-The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.  
+Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể Level ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục thực hiện Immersion. Và dần dần, khi trải nghiệm ngôn ngữ phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm Comprehensible Input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
 
-## 2.7 How to immerse
+## 2.7 Cách Immersion
 
-### Reading & Dictionaries
+### Đọc & Từ điển
 
-To make Japanese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](/yomichan)  
+Để giúp cho việc đọc Tiếng Nhật trở lên dễ dàng hơn thì có thể Yomitan trên trình duyệt. Đọc hướng dẫn tải xuống thông qua [đường dẫn này](yomichan.md) 
 
-To look up words individually, you can use [Jisho.org](https://jisho.org/), apps for your phone include [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) for Android and [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) for iOS.  
+Để tra cứu từng từ riêng lẻ, bạn có thể sử dụng [Jisho.org](https://jisho.org/), ứng dụng cho điện thoại thì có [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) cho Android và [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) cho iOS.
 
-### Choosing immersion content
+### Lựa chọn nội dung Immersion
 
-Honestly, pick whatever you want. It can be any anime, movie, J-drama, novel, light novel, manga, visual novel, game or YouTube video. If you don't have anything in mind you can just watch [my favourite anime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Just make sure you're actually interested in whatever you're choosing to immerse with!  
+Chọn bất cứ nội dung gì bạn muốn. Nó có thể là Anime, phim, J-Drama, tiểu thuyết, light novel, manga, visual novel, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [bộ anime yêu thích của mình - Love Live](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để Immersion.
 
-### How to immerse with listening  
+### Cách để thực hiện Listening Immersion 
 
-Listening is almost entirely a top-down, "intuitive" approach. We don't want to think too hard over things when we are listening. Go with the flow until you find a really good oppportunity to pause and look something up.  
-There are certain levels to listening. Level one would be free-flow listening, where you let the listening flow without looking things up. Level two would be looking things up that pop out at you but still letting the listening play. Level three would be pausing at every single unknown word and looking them up.   
-In the beginner to intermediate stages, listening is entirely level one and level two listening. Don't think too hard about it and cherish all the little opportunities you get.   
+Chúng ta không muốn suy nghĩ quá nhiều về mọi thứ khi đang nghe. Thả mình theo dòng chảy (flow) cho đến khi bạn nghe thấy thứ mà bạn muốn tra.
 
-#### "Active" and "Passive" listening
+Có một số cấp độ nhất định khi nghe. Cấp độ một sẽ là nghe free-flow, nghe theo flow mà không tra từ. Cấp độ hai sẽ là tra những phần bạn muốn tra nhưng vẫn để bài listening chạy. Cấp độ ba sẽ dừng ở mỗi từ chưa biết và tra.
 
-Active listening is when you are paying full attention to your listening. You are engaging with all aspects of it like looking at the screen and listening to the anime. This is the type of listening where you are making the most gains.  
+Ở giai đoạn sơ cấp đến trung cấp, kỹ năng nghe hoàn toàn nằm ở cấp độ một và cấp độ hai. Đừng suy nghĩ quá nhiều về điều đó và hãy để ý tất cả những cơ hội nhỏ mà bạn bắt được trong khi nghe.
 
-Passive listening is where you do something else and have the listening on in the background. This helps when you intermittently listen in on your listening for brief moments, it can hugely benefit you if you have a busy lifestyle. I actually recommend doing passive immersion to fill in the gaps where you're usually not doing Japanese.  
+#### Nghe "chủ động" và "thụ động"
 
-### How to immerse with reading
+Nghe "chủ động" là khi bạn tập trung hoàn toàn vào việc nghe của mình. Bạn đang thực hiện Immersion tất cả các khía cạnh của nó như là nhìn vào màn hình và nghe Anime. Đây là kiểu nghe có lợi nhất.
 
-In contrast to listening, reading is sort of a bottom-up, take-your-time, "analytical" approach. You can take as much time as you'd like reading sentences and looking up words. The process loop is essentially **read → look up word → reaction → read more → look up word → (repeat)**. For a while, it is going to seem like banging your head against a wall, but this is really just how you're going to build up reading ability.  
-Reading content with a visual component such as anime with Japanese subtitles (detailed in [UsagiSpoon](/routine)), manga and visual novels can help ease you into reading.  
+Nghe "thụ động" là khi bạn làm việc khác và nghe ở chế độ nền. Điều này giúp ích khi bạn thỉnh thoảng nghe phần nghe của mình trong những khoảnh khắc ngắn ngủi, nó có thể mang lại lợi ích to lớn cho bạn nếu bạn có lối sống bận rộn. mình thực sự khuyên bạn nên thực hành thực hiện Immersion "thụ động" để lấp đầy những khoảng trống mà bạn thường không học Tiếng Nhật trong lúc đó.
 
-### Ideal ratio between listening and reading  
+### Làm thế nào để thực hành Immersion với việc đọc
 
-In the beginner stage I recommend a 7:3 listening to reading ratio. This is mainly because listening is the most natural form of the language, so I believe it is essential to prioritise it to make your brain process Japanese more naturally.  
-You can start to lower the amount of listening to an equal 5:5 ratio when you get better at Japanese.  
+Ngược lại với việc nghe, đọc là một cách tiếp cận đòi hỏi "phân tích" và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ. Vòng lặp quy trình về cơ bản là **đọc → tra từ → phản ứng (reaction) → đọc thêm → tra từ → (lặp lại)**. Lúc đầu, điều này có vẻ giống như việc bạn tự đập đầu mình vào tường, nhưng đây thực sự chỉ là cách mà bạn xây dựng khả năng đọc.
 
-## 2.8 Beginner learning loop
+Đọc nội dung có yếu tố trực quan như anime có phụ đề Tiếng Nhật (chi tiết trong [UsagiSpoon](routine.md)), manga và visual novels có thể sẽ dễ đọc hơn.
 
-### The wrong way to do it
+### Tỷ lệ lý tưởng giữa nghe và đọc
 
-!!! failure "The wrong way"
-    Learn ALL the kana, then learn ALL the 1500 words in Kaishi, then learn ALL the grammar before you finally try immersion for the first time...  
+Ở giai đoạn đầu, bạn nên theo tỷ lệ nghe và đọc là 7:3. Do nghe là hình thức tự nhiên nhất của ngôn ngữ, vì vậy mình tin rằng việc ưu tiên nó là điều cần thiết để khiến bộ não của bạn xử lý Tiếng Nhật một cách tự nhiên hơn.
 
-This is a terrible approach. You need to do a bit of everything.  
+Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ đều 5:5 khi Tiếng Nhật của bạn đã tốt hơn.
 
-### The right way to do it  
+## 2.8 Vòng lặp học tập của người mới bắt đầu
 
-While you are learning the kana, I suggest you get into the immersion spirit by trying to watch something in Japanese without subtitles. It can be anything you like, and you don't need to understand anything.  
-After that should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day?  And in the same day, try to get some immersion in.  
+### Cách làm sai
 
-!!! question "How long should I do immersion per day?"
-    I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.  
+!!! failure "Cách học sai"
+    Học TẤT CẢ chữ Kana, sau đó học TẤT CẢ 1500 từ trong Kaishi, sau đó học TẤT CẢ ngữ pháp trước khi bạn thử hòa nhập lần đầu tiên..
+ 
+Đây là một cách tiếp cận rất tệ. Cần thực hiện mỗi thứ một chút.
 
-## 3.1 Regarding speaking and writing (output)  
+### Cách làm đúng 
 
-People often have the misconception that speaking the language a lot is how you get better at the language, but this isn't really the case, as the input we receive from hearing and seeing natives use their language is what actually benefits us. While output won't directly improve your proficiency at the language, it is still quite important to be practicing output, whether it is by texting or with speech, because input and output go hand in hand. Doing output effectively forces your brain to make sure it is correctly understanding the words you are hearing and you may start to subconsciously look for opportunities to use what you hear in input.  
-Regular output along with regular input is recommended.     
+Khi bạn vẫn đang học Kana, bạn nên thử bằng xem thứ gì đó bằng Tiếng Nhật mà không có phụ đề để xây dựng tinh thần Immersion. Nó có thể là bất cứ điều gì bạn thích và bạn không cần phải hiểu bất cứ điều gì.
 
-Contrary to what many immersion-based learning methods say, I do not believe it is a smart idea to delay your output until you are "really good" for reasons such as "saying things incorrectly is going to "cripple" or "ruin" your Japanese". Doing this makes you miss out on so many opportunities to pick up on things to use in your output earlier and brainwashes you into a toxic perfectionist mindset, becoming extremely protective of your Japanese. 
+Sau đó bạn nên học từ vựng và ngữ pháp cùng một lúc. Bạn nghĩ thế nào về việc học 10 từ mới và học 2 cấu trúc ngữ pháp mỗi ngày? Và trong cùng ngày đó, hãy thực hiện Immersion các nội dung thêm.
 
-Throughout my 4+ years of running TheMoeWay and talking to all sorts of immersion learners, I haven't seen many that are confident in output. Why is that? Well for most of them, they don't even want to try outputting at all because they're scared of saying something broken, or scared that it's going to ruin their Japanese, or scared that somebody may laugh at them etc. All of this is a product of a toxic perfectionist mindset that hurts immersion learning.  
+!!! question "Mình nên thực hành Immersion bao lâu mỗi ngày?"
+    Mình khuyên bạn nên dành khoảng 1 giờ đến 2 giờ khi bạn mới bắt đầu thực hành Immersion. Bạn hoàn toàn có thể dành nhiều thời gian hơn thế và bạn sẽ tiến bộ nhanh hơn khi thực hiện Immersion nhiều hơn mỗi ngày.
 
-## 3.2 Pronunciation & Pitch Accent
+## 3.1 Về nói và viết (đầu ra - output)
 
-Compared to language communities and resources for literally every other language out there, Japanese resources, tutors and learners always tend to make pronunciation an afterthought because Japanese pronunciation is simple. Yes it is simple, and yes you don't need to worry about being misunderstood but it may be in some learners' goals to have good pronunciation.  
+Mọi người thường có quan niệm sai lầm rằng việc tập nói nhiều là cách cải thiện khả năng ngôn ngữ, nhưng thực tế không phải vậy, vì "Input" mà chúng ta có được từ việc nghe và thấy người bản ngữ sử dụng ngôn ngữ mới thực sự hữu ích. Mặc dù đầu ra (Output) không trực tiếp cải thiện trình độ ngôn ngữ của bạn, nhưng việc luyện tập đầu ra vẫn khá quan trọng, cho dù đó là bằng cách nhắn tin hay tập nói, bởi vì Input và đầu ra luôn song hành với nhau. Việc thực hiện đầu ra một cách hiệu quả buộc bộ não của bạn phải đảm bảo rằng nó hiểu chính xác những từ bạn đang nghe và trong tiềm thức, bạn có thể bắt đầu tìm kiếm cơ hội để có thể sử dụng những gì bạn nghe được trong khối lượng Input đó.
 
-I am going to add this guide to the list of resources that say you don't need to study pronunciation by saying: if you don't really care about sounding amazing, then don't bother fussing over your pronunciation. 
+Nạp Input thường xuyên song song với việc output thường xuyên.
 
-Learners that want to go the extra mile may want to look into learning *pitch accent* and the correct IPA pronunciation on their own, ideally as early as possible.
+Trái lại với những gì mà nhiều phương pháp học tập dựa trên Immersion nói, mình không tin rằng việc không thực hiện "output" của bạn cho đến khi bạn "thực sự giỏi" là một điều tốt vì những lý do như "nói sai sẽ hủy hoại Tiếng Nhật của mình". Điều này khiến bạn bỏ lỡ rất nhiều cơ hội để tiếp thu những thứ sẽ sử dụng trong việc output của mình sớm hơn và khiến bạn mang trong mình chủ nghĩa hoàn hảo "độc hại", trở nên quá "bảo vệ" (protective) Tiếng Nhật của mình.
 
-## 3.3 Learning milestones
+Trong suốt hơn 4 năm hoạt động TheMoeWay và trò chuyện với đủ loại người học theo Immersion, mình chưa thấy nhiều người tự tin Output. Tại sao vậy? Đối với hầu hết họ, họ thậm chí không hề muốn output vì họ sợ nói sai, hoặc sợ rằng điều đó sẽ làm hỏng Tiếng Nhật của họ, hoặc sợ ai đó có thể cười họ, v.v. là thành quả của chủ nghĩa hoàn hảo "độc hại" ảnh hưởng xấu đến việc Immersion.
 
-For those that are curious, here is the level of Japanese ability you can expect to have after reaching these milestones.  
+## 3.2 Phát âm & Pitch Accent
 
-- 10 raw anime series: You are really starting to get the hang of listening to Japanese. You are probably able to understand a good chunk of sentences now. Anime you watched at the beginning of your learning journey are going to feel so much different!  
-- 25 raw anime series: At this point listening to Japanese is going to feel more natural than ever before.
-- 50 raw anime series: If you have been keeping up with your study... then I can't really consider you a beginner anymore at this point. There's going to be a huge difference between your abilty now compared to when you were starting out!  
-- 1 full novel finished: While you had a really rough time trying to understand this book, you are beginning to really shoot out of the beginner stage. The next book you read will be noticeably easier.  
-- 5 novels finished: I wouldn't consider you are a beginner anymore. You are really beginning to build up good Japanese reading proficiency.  
-- 10 novels: Completely intermediate at this point. Congratulations!   
+So với các cộng đồng học và tài nguyên ngoại ngữ dành cho các ngôn ngữ khác ngoài kia, các tài nguyên, giáo viên và người học Tiếng Nhật thường có xu hướng đẩy việc học phát âm ra sau cùng vì cách phát âm Tiếng Nhật rất đơn giản. Nó thực sự đơn giản và bạn không cần phải lo lắng về việc bị hiểu lầm nhưng có thể với một số người học thì phát âm tốt là mục tiêu của họ.
 
+Mình nghĩ sẽ tốt hơn khi nói rằng nếu bạn không thực sự quan tâm đến việc phát âm hay, thì đừng bận tâm đến việc phát âm của mình.
 
-## 3.4 Closing notes: post-beginner stage and beyond  
+Những người học muốn tiến xa hơn có thể muốn xem xét việc học *pitch accent* và IPA chính xác, lý tưởng nhất là càng sớm càng tốt.
 
-There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Japanese with this method. But one thing does change when you leave the beginner stage.  
+## 3.3 Các cột mốc trong quá trình học.
 
-Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call *mining*. The recommended mining guide is [Donkuri's mining guide](https://donkuri.github.io/learn-japanese/mining/). Mining will essentially become the heart of your Japanese *study*.  
+Cho những ai tò mò, đây là cấp độ Tiếng Nhật ước tính bạn có thể đạt được sau khi đạt đến những cột mốc này.
 
-Thank you so much for taking your time to read this guide and I wish you good luck on your Japanese learning journey! 
+-   10 bộ anime: Bạn thực sự bắt đầu quen với việc nghe Tiếng Nhật. Có lẽ bây giờ bạn đã có thể hiểu được một đoạn câu khá hay rồi. Anime bạn đã xem khi bắt đầu hành trình học tập sẽ khiến bạn thấy khác biệt rất nhiều!
+-   25 bộ anime: Việc nghe Tiếng Nhật sẽ trở nên tự nhiên hơn bao giờ hết.
+-   50 bộ anime: Nếu bạn vẫn tiếp tục Immerse, bạn không còn là người mới bắt đầu nữa. Tại thời điểm này, sẽ có sự khác biệt rất lớn giữa khả năng của bạn bây giờ so với khi bạn mới bắt đầu.
+-   1 cuốn tiểu thuyết: Mặc dù bạn đã có một khoảng thời gian thực sự khó khăn để cố gắng hiểu cuốn sách này, nhưng bạn đang bắt đầu thực sự vượt qua giai đoạn mới bắt đầu. Cuốn sách tiếp theo bạn đọc sẽ dễ dàng hơn đáng kể.
+-   5 tiểu thuyết đã hoàn thành / 1 bộ VN: bạn không còn là người mới bắt đầu nữa. Bạn đang thực sự bắt đầu xây dựng khả năng đọc Tiếng Nhật tốt.
+-   10 tiểu thuyết/2 bộ VN: Ở điểm này thì hoàn toàn đạt đến cấp độ trung cấp.
 
-If you have any questions, you can ask away at our Discord server. 
+## 3.4 Kết thúc hướng dẫn: giai đoạn sau và hơn thế nữa
 
-[Join the Discord :fontawesome-brands-discord:](/join){: .md-button } 
+Thực sự không có gì khác trong quá trình học tập ngoài việc thực hiện Immersion thật nhiều và học từ và ngữ pháp. Bạn thực sự có thể thông thạo Tiếng Nhật bằng phương pháp này. Nhưng có một điều sẽ thay đổi khi bạn không còn ở giai đoạn mới bắt đầu.
+
+Việc học từ vựng với Anki sẽ trở nên cá nhân hóa hơn nhiều vì bạn sẽ tự làm những thẻ của mình từ những từ mình tìm được trong quá trình học, được gọi là *mining*. Bạn có thể đọc [Hướng dẫn mining của Donkuri](https://donkuri.github.io/learn-japanese/mining/). Mining về cơ bản sẽ trở thành phần cốt lõi của *việc học* Tiếng Nhật.
+
+Cảm ơn bạn rất nhiều vì đã dành thời gian đọc hướng dẫn này. Chúc bạn may mắn trên hành trình học Tiếng Nhật của mình!
+
+Nếu bạn có bất kỳ câu hỏi nào, bạn có thể hỏi trên kênh Discord của chúng mình.
+
+[Tham gia Discord :fontawesome-brands-discord:](join.md){: .md-button } 
 
 ### Patreon
 
-If you found this guide useful in your Japanese learning journey, a Patreon donation would be highly appreciated!  
+Nếu bạn thấy hướng dẫn này hữu ích trong hành trình học Tiếng Nhật của bạn có thể cân nhắc tham gia Patreon!
 
-[:fontawesome-brands-patreon: Become a patron](https://www.patreon.com/shoui){: .md-button }  
-### Contributors
+[:fontawesome-brands-patreon: Become a patron](https://www.patreon.com/shoui){: .md-button }
+  
+### Những người đóng góp
 
-I'd like to thank everyone that has contributed to the making of this guide:  
+Mình muốn cảm ơn tất cả những người đã đóng góp vào việc thực hiện hướng dẫn này:
 
 iamatryhard  
 shigatsunoraion  

@@ -1,122 +1,135 @@
-# Monolingual Guide  
+# Hướng dẫn học đơn ngữ
+!!! info "Nhắc nhỏ"
+	Đây là hướng dẫn dành cho người học trung cấp
 
-!!! info "Intermediate Learners"
-	This is a guide targeted at "intermediate" learners.
+Ghi chú từ người dịch: 
 
-This guide will go through what the monolingual transition is and why you should do it, different mediums to access monolingual dictionaries and also ways to approach getting used to monolingual dictionaries. 
-This guide is **long.** But it is still simple, it’s just the initial setup that just feels long.
+- Ở đây khi dùng "quá trình đơn ngữ hóa" để chỉ việc học Tiếng Nhật bằng Tiếng Nhật. Ví dụ như việc sử dụng từ điển Nhật - Nhật thay vì Nhật - Việt (Có thể là Mazii) như bạn dùng thông thường.
+- Từ "mine" ở đây là động từ Tiếng Anh, có nghĩa là "Đào" trong "đào câu" - sentence mining. Mình xin phép giữ nguyên bản gốc.
 
-### What is the monolingual transition
 
-The monolingual transition is when you “transition" into getting used to a monolingual dictionary, often with the help of a bilingual dictionary as an aid. A monolingual dictionary is a dictionary that defines words of the language in that language. For example, the Oxford Dictionary is a monolingual English dictionary. The Kōjien (広辞苑) is a monolingual Japanese dictionary.
-Sites such as Jisho.org use the Japanese-English *bilingual* dictionary known as “JMdict (English)”. Jisho.org is not its own dictionary, it is only a portal that accesses JMdict. So keep that in mind.
+Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ. 
 
-### Why you should use a monolingual dictionary
-Monolingual dictionaries help you avoid making false associations with words from your native language (probably English) to Japanese. You may think, oh, what if I’m not even English? If you don’t use a monolingual dictionary, then you will make false associations anyway, no matter what your native language is. What if I’m German and I use the Wadoku (Japanese-German bilingual dictionary)? Same thing. You will still have this problem. There is no language that can express Japanese better than Japanese itself.
+Hướng dẫn này tương đối **dài**. Nhưng nó vẫn rất đơn giản, chỉ là ban đầu có cảm giác dài thôi.
 
-### What exactly do you mean by “false associations”?
-Bilingual definitions, 90% of the time are very vague, and do not capture the true feeling of the word. You may not think so, but I’ve been using monolingual dictionaries for a long time now and I can confirm bilingual definitions (especially those from the JMdict) do not capture the true feel of the word.
-Here’s an example: 
-> 悔しい [くやしい]  
 
-If you have been learning Japanese for a few months, you would know this word. And chances are you learned it using a bilingual dictionary. Let’s look at the bilingual definition.
+### Quá trình đơn ngữ hóa là gì
 
-> vexing; annoying  
+"Quá trình đơn ngữ hóa" là khi bạn chuyển sang làm quen với từ điển đơn ngữ, thường với trợ giúp từ điển song ngữ. Từ điển đơn ngữ là từ điển định nghĩa các từ của ngôn ngữ được định nghĩa ở chính ngôn ngữ ấy. Ví dụ: Từ điển Oxford là từ điển tiếng Anh đơn ngữ. Kōjien (広辞苑) là một từ điển đơn ngữ Tiếng Nhật. 
+Các trang như Jisho.org sử dụng từ điển *song ngữ Nhật-Anh* được gọi là “JMdict”. Hãy nhớ rằng Jisho.org không phải là từ điển riêng mà chỉ đơn giản là cách để tra từ điển JMdict. 
 
-You may think, “what’s wrong with it?” I’ll tell you what’s wrong with it. It’s so vague to the point that it is literally wrong. Now let’s look at the monolingual definition.
+### Tại sao bạn nên sử dụng từ điển đơn ngữ
+Từ điển đơn ngữ giúp bạn tránh tạo ra những "liên tưởng sai lầm" (false associations) với các từ trong tiếng mẹ đẻ của bạn sang Tiếng Nhật. Nếu bạn không sử dụng từ điển đơn ngữ thì dù ngôn ngữ gốc của bạn là gì đi nữa, việc bạn mắc phải những liên tưởng sai lầm là điều khó tránh khỏi. Sẽ thế nào nếu mình là người Đức và mình sử dụng Wadoku (từ điển song ngữ Nhật-Đức)? Tương tự như vậy. Không có ngôn ngữ nào có thể thể hiện Tiếng Nhật tốt hơn Tiếng Nhật.
 
-*Taken from the Hybrid Shinjirin (ハイブリッド新辞林)*
+### “Những liên tưởng sai lầm” nghĩa là gì?
 
-> 失敗や恥辱を経験して，あきらめたり忘れたりできないさま。
+Các định nghĩa trong các từ điển đơn ngữ thường rất mơ hồ (lên tới 90%) và không thể hiện đúng cảm giác về nghĩa thực sự của từ này. Có thể bạn không nghĩ vậy, nhưng mình đã sử dụng từ điển đơn ngữ từ lâu và có thể khẳng định rằng các định nghĩa song ngữ (đặc biệt là những định nghĩa từ JMdict) không cho thấy cảm giác thực sự về từ.
+Đây là một ví dụ: 
+> 悔しい [くやしい]
 
-My translation of the definition:
+Nếu bạn đã học Tiếng Nhật được vài tháng thì khả năng cao bạn sẽ biết từ này. Và rất có thể bạn đã học nó bằng từ điển song ngữ. Chúng ta hãy thử nhìn vào định nghĩa song ngữ của từ này.
 
-> Go through failure and dishonour and not being able to give up nor forget (about it).
+> vexing; annoying
 
-*And this gets less accurate when you put it into English.*
+(Lấy trực tiếp từ JMDict)
 
-Did you get that from “vexing, annoying”? No. Probably not.
+Có thể bạn sẽ nghĩ, "Sai ở chỗ nào?" Mình sẽ nói cho bạn biết nó có vấn đề gì. Nó mơ hồ đến mức thậm chí còn sai về mặt nghĩa đen. Bây giờ chúng ta hãy xem định nghĩa đơn ngữ.
 
-Not convinced? Let’s go through another example.
+*Lấy từ Hybrid Shinjirin (ハイブリッド新辞林)*
+
+> 失敗や恥辱を経験して,あきらめたり忘れたりできないさま。
+
+Nghĩa của câu này (Bản dịch của mình):
+
+> Go through failure and dishonour and not being able to give up nor forget (about it) (Dịch Tiếng Việt: Trải qua thất bại và nhục nhã mà không thể bỏ cuộc hay quên đi).
+
+*Và điều này trở nên kém chính xác hơn khi bạn dịch nó sang tiếng Anh.*
+
+Bạn có hiểu được định nghĩa đó từ “vexing; annoying” không? Không. Có lẽ là không.
+
+Chưa cảm thấy thuyết phục? Chúng ta hãy xem một ví dụ khác. 
 > 悪い [わるい]
 
-Let me ask you one thing. What do you think this word means? If you answered, “bad”. Then you’re only half wrong. This word is not equal to the English word “bad”.
+Hãy để mình thử hỏi là, bạn nghĩ từ này nghĩa là gì? Nếu bạn trả lời là “bad” thì bạn chỉ sai một nửa thôi. Từ này không tương đương với từ “bad” trong tiếng Anh.
 
-You can’t use 悪い to say that your skill at something is inferior/poor, like you can in English. You use a completely different word in Japanese, and that’s 下手 [へた]. See? And this is only scratching the surface of this problem.
+Bạn không thể sử dụng 悪い để nói rằng kỹ năng của bạn kém cho một kĩ năng nhất định, không giống như bên tiếng Anh. Bạn cần sử dụng một từ hoàn toàn khác trong Tiếng Nhật và đó là 下手 [へた]. Đúng không? Và đây chỉ là bề nổi của vấn đề này.
 
-The other reason why you should use monolingual definitions is because they help you think in Japanese. Like I said before, there is no language that can express Japanese as well as Japanese itself can. Dictionary definitions are a way of thinking about words. I’m sure dictionary authors (who are native speakers) put thought into each of their definitions when they wrote their definition, so by reading the definition and memorising it, you will have something *at least close* to what a native speaker may think of the word. If you learn words using a Japanese-English bilingual dictionary (such as JMdict) then you will have a GAIJIN way of thinking about things, and not even close to what a native may think about the word. This will set you back in getting a true understanding of the word. Don’t get me wrong, you can still get a true understanding with immersion, it just takes a lot longer than if you learned those words monolingually.
+Một lý do khác khiến bạn nên sử dụng các định nghĩa đơn ngữ là vì chúng giúp bạn nghĩ bằng Tiếng Nhật. Như đã nói ở phần trước, không có ngôn ngữ nào có thể mô tả Tiếng Nhật tốt như chính Tiếng Nhật. Định nghĩa từ điển là một cách suy nghĩ về từ. Mình chắc rằng các tác giả của những cuốn từ điển đó (là người Nhật) đã suy nghĩ kỹ về từng định nghĩa trước khi viết ra nó, vì vậy bằng cách đọc định nghĩa và ghi nhớ nó, bạn sẽ có được cảm giác gì đó *ít nhất gần* giống với những gì người bản xứ khi nghĩ về từ đó. Nếu bạn học từ bằng từ điển song ngữ Nhật-Anh (chẳng hạn như JMdict) thì bạn sẽ mang trong mình cách suy nghĩ như GAIJIN về mọi thứ, và thậm chí không tới được mức mà người bản xứ có thể nghĩ về từ đó. Điều này sẽ khiến bạn không hiểu được nghĩa thực sự của từ. Đừng hiểu sai ý mình, bạn vẫn có thể hiểu thực sự bằng cách thực hành Immersion, chỉ mất nhiều thời gian hơn so với việc bạn học những từ đó thông qua chính định nghĩa Tiếng Nhật.
 
-Monolingual dictionaries are very powerful, and you will only realise this once they become second nature to you.
+Từ điển đơn ngữ thực sự rất tuyệt, và bạn sẽ chỉ nhận ra điều này khi chúng trở thành lẽ thường tình với chính bạn.
 
-### Why people find it hard to go monolingual.
-Two reasons:  
+### Tại sao mọi người cảm thấy khó khăn khi bắt đầu chuyển quan đơn ngữ
+Hai lý do:
 
-- They don’t know the words.  
-- Are not used to the written Japanese.
+-   Không biết "đủ nhiều" từ vựng.
+-   Chưa quen với Tiếng Nhật viết (written Japanese).
 
-### Monolingual transition myths
+### Hiểu nhầm về quá trình chuyển sang đơn ngữ
 
-- A profound belief that "dictionary vocabulary" exist. 
-  
-**The truth:** “Dictionary vocabulary” = words you don’t know because you don’t read enough.
+-   Một niềm tin sâu sắc rằng “từ vựng từ điển” (Dictionary vocabulary) tồn tại.
 
-### Using Morphman to assist the monolingual transition
-No.
+**Thực tế thì:** “Từ vựng từ điển” = những từ bạn không biết vì bạn không đọc đủ nhiều.
 
-Morphman is an Anki addon (?) which automatically decides what words to add to Anki for you. And for that reason it is a failure. Don’t leave it up to a silly computer program to help you decide what to add to Anki. Also most of what Morphman decides what to add for you is like “フゥ...”, “(♪～)”, “あっ...” so unless you’re into that I advise you to avoid using Morphman.  
-If you want guidelines on what to mine, then just mine every single word after you have read/watched it. The idea here is, when you are looking up stuff, it is inevitable you are going to remember some things but forget others, so when you go back and read/watch it again, you mine all the words you failed to remember the first time. You may think, “I probably don’t need those words though”. Wrong. Yes you do. You need every word that comes up in your immersion.
+### Sử dụng Morphman để hỗ trợ quá trình đơn ngữ hóa
 
-## Yomichan - the better way to go monolingual.  
+KHÔNG.
 
-**I recommend doing the monolingual transition with Yomichan.**  
+Morphman là một add-on trong Anki tự động lựa ra những từ nào cần thêm vào Anki. Và nó là một thất bại thảm hại. Đừng để một chương trình máy tính giúp bạn quyết định nên thêm gì vào Anki. Thêm nữa, hầu hết những gì Morphman thêm cho bạn sẽ trông kiểu như thế này: “フゥ…”, “(♪～)”, “あっ…” vì vậy trừ khi bạn thực sự muốn điều đó, bạn nên tránh sử dụng Morphman.  
+Nếu bạn thực sự cần một hướng dẫn sentence mining thì, chỉ cần mine từng từ một sau khi bạn đã đọc/xem nó. Tức là, khi bạn đang tra cứu, chắc chắn bạn sẽ có thể nhớ được một số thứ nhưng lại quên những thứ khác, vì vậy khi bạn quay lại và đọc/xem lại, bạn sẽ mine được tất cả những từ mà bạn không nhớ được trong lần đầu tiên. Bạn có thể sẽ nghĩ: “Có lẽ mình không cần những từ đó”. Sai. Bạn cần mọi từ xuất hiện trong quá trình Immersion của mình.
+
+## Yomichan - Một cách tốt hơn để chuyển qua đơn ngữ.
+
+**Bạn nên thực hiện chuyển qua đơn ngữ với Yomichan.**
 
 ![Image](img/monodemo1.png)
 
-Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
+Yomichan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Nhật trên trang web bằng cách giữ ++shift++ và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomichan [ở đây](yomichan.md)
 
-### Optimizing Yomichan Settings 
+### Tối ưu hóa cài đặt Yomichan
 
-First you need to ensure that Advanced options is enabled.  
+Trước tiên, bạn cần đảm bảo rằng "Advanced" đã được bật.  
 ![Image](img/mono1.jpg)
 
-Second, we want to remove any and all scan delays because we will be making heavy use of this extension and wouldn't want to be slowed down by anything.  
+Thứ hai, đưa scan delay về 0 vì bạn sẽ sử dụng tiện ích mở rộng này rất nhiều và không muốn nó bị chậm lại vì bất kỳ điều gì.
 
 ![Image](img/mono2.jpg)
 
-Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
+Bây giờ chúng mình sẽ kích hoạt tính năng quét trong cửa sổ bật lên, điều này rất quan trọng vì chúng mình muốn có thể tra cứu bất kỳ từ nào mà chúng mình không biết trong một **định nghĩa.** 
+ 
 ![Image](img/mono3.jpg)  
 
-You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
+Bạn có thể muốn tăng kích thước cửa sổ pop-up (Hiện lên một hộp thoại chỗ bạn di chuột tra từ để cho bạn thấy định nghĩa của từ) của Yomichan vì nó khá nhỏ theo mặc định và sẽ khá vấn đề khi sử dụng từ điển đơn ngữ. Để có đủ khoảng trống trên màn hình và sử dụng Yomichan một cách dễ dàng, ta cần chỉnh sửa các cài đặt sau.
 
 ![Image](img/mono4.jpg)  
 
-Here's how our pop up looks now:  
+Đây là giao diện pop-up bây giờ:  
+
 ![Image](img/mono5.jpg) 
 
-Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
+Tiếp theo, gợi ý nhưng tùy chọn, bạn nên bật tính năng phát âm tự động (automatic audio playback) để chúng ta có thể biết cách phát âm chính xác của một từ ngay khi tra cứu. Đồng thời thêm nguồn âm thanh bổ sung (extra audio source) vì nó sẽ bổ sung thêm rất nhiều các nguồn âm thanh khác.
 
-You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
+Bạn cũng có thể thêm nguồn âm thanh Forvo (Phát âm từ bởi người bản ngữ) vào Yomichan. Xem [Hướng dẫn cài đặt Yomichan](yomichan.md) để biết thêm chi tiết.
 
-![Image](img/mono6.jpg)  
+![Image](img/mono6.jpg) 
 
-**Update December 2021:** You should also add a text replacement rule for words with kanji repetition marks, they usually do not appear in monolingual dictionaries unless you repeat the kanji itself. Example:　囂々 won't appear in most monolingual dictionaries but 囂囂 will.
-Go to Settings -> Translation -> Custom Text Replacement Patterns and add the following rule:  
+**Cập nhật 12/2021:** Bạn cũng nên thêm quy tắc thay thế văn bản cho những từ có dấu lặp kanji, chúng thường không xuất hiện trong từ điển đơn ngữ trừ khi bạn lặp lại chính Kanji. Ví dụ: 囂々 sẽ không xuất hiện trong hầu hết các từ điển đơn ngữ nhưng 囂囂 thì có. Di chuyển tớt Settings -> Translation -> Custom Text Replacement Patterns và thêm cái này:
+  
 Pattern: `(.)々`   
 Replacement: `$1$1`    
 
-I will touch on dictionaries in the next section.  
+Mình sẽ đề cập đến các loại từ điển trong phần tiếp theo.
 
-### Getting and using monolingual dictionaries
+### Chọn và sử dụng từ điển đơn ngữ
 
-Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
+Một lần nữa, mình khuyên bạn nên sử dụng từ điển đơn ngữ với Yomichan. Mình sẽ nói về các lựa chọn thay thế sau.
 
-You can find my dictionaries collection here: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
- 
-Before we continue, have a read on recommended dictionaries and what they are exactly. 
+Bạn có thể truy cập bộ sưu tập từ điển của mình ở đây: [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries) 
 
-### Recommended Dictionaries
+Trước khi tiếp tục, hãy đọc tiếp các từ điển được gợi ý.
 
-#### Here’s what I recommend for first time monolingual users:
+### Từ điển được gợi ý
+
+#### Đây là những gì mình người thực hành đơn ngữ lần đầu tiên nên dùng:
 
 旺文社国語辞典 第十一版  
 明鏡国語辞典  
@@ -125,9 +138,9 @@ Before we continue, have a read on recommended dictionaries and what they are ex
 新明解国語辞典 第五版    
 JMdict (English)  
 研究社 新和英大辞典 第５版  
-デジタル大辞泉             
+デジタル大辞泉   
 
-#### My personal order, for 100% monolingual coverage:  
+#### Cách sắp xếp của cá nhân mình, với độ bao phủ định nghĩa đơn ngữ đạt 100%:
 
 実用日本語表現辞典  
 大辞林 第三版  
@@ -145,173 +158,175 @@ JMdict (English)
 新明解四字熟語辞典  
 学研 四字熟語辞典  
 漢字遣い参考  
-  
-### Every Dictionary Explained.
 
-**広辞苑 第六版** - 6th edition of Koujien, 2008. It is quite an authoritative dictionary in Japan, however it is not the most popular. This dictionary sorts its definitions from oldest to newest, which is not useful to learners of modern Japanese. Nevertheless, this dictionary has its own charm that I like.  
+### Giải thích về từng từ điển một.
 
-**大辞林 第三版** - an extension of the 3rd edition of the Daijirin, 2015. It has a wide assortment of words, expressions, proper nouns, grammar and connectives (actually more important than you think!). It is a a great all-rounder and personally my most used dictionary.  
+**広辞苑 第六版** - Ấn bản thứ 6 của Koujien, 2008. Đây là một cuốn từ điển khá có uy tín ở Nhật Bản tuy nó không phải là cuốn phổ biến nhất. Từ điển này sắp xếp các định nghĩa từ cũ nhất đến mới nhất, điều mà không thực sự hữu ích cho người học Tiếng Nhật hiện đại. Tuy nhiên, cuốn từ điển này có điểm đặc biệt riêng mà mình thích.
 
-**デジタル大辞泉** - Digital Daijisen, May 2021. The QUEEN of online dictionaries. This is the dictionary hosted on the [Goo Dictionary](https://dictionary.goo.ne.jp), it has a lot of new words, expressions, images and kanji entries. The previous issue where the headword was missing has been fixed. Currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741))  
+**大辞林 第三版** - Bản mở rộng của ấn bản thứ 3 Daijirin, 2015. Nó có rất nhiều từ, cách diễn đạt, danh từ riêng, ngữ pháp và từ nối (thực sự quan trọng hơn bạn nghĩ!). Đó là một cuốn từ điển tốt và toàn diện, được cá nhân mình sử dụng nhiều nhất.
 
-**旺文社国語辞典 第十一版** - Oubunsha Kokugo Dictionary 11th Editon. Short name: Oukoku (旺国) is a monolingual dictionary published by Oubunsha in 2013. This dictionary's main selling point is how precise and easy to understand it is. And rightfully so; comparitively this dictionary has the most easiest to understand definitions. It explains the difference between kanji usages, 逢う, 会う etc. and is also really nice for grammar definitions. It is my #1 recommendation for people new to monolingual dictionaries. This version has images. But currently images won't work for Anki cards. (See [Yomichan Issue #1741](https://github.com/FooSoft/yomichan/issues/1741])  
+**デジタル大辞泉** - Digital Daijisen, May 2021. là bà hoàng trong làng từ điển trực tuyến. Đây là từ điển được lưu trên [Goo Dictionary](https://dictionary.goo.ne.jp), nó có rất nhiều từ mới, cách diễn đạt, hình ảnh và mục kanji. Vấn đề thiếu headword đã được khắc phục. Hiện tại hình ảnh từ Yomichan sẽ không thể thêm được vào thẻ Anki. (Xem [Yomichan Issue #1741](https://github.com/FooSoftyomichan.md/issues/1741))  
 
-**旺文社国語辞典 第十一版 画像無し** - No-image version of the above.
+**旺文社国語辞典 第十一版** - Từ điển Oubunsha Kokugo Phiên bản thứ 11 hoặc Oukoku (旺国) là một từ điển đơn ngữ được xuất bản bởi Oubunsha vào năm 2013. Điểm nổi bật chính của từ điển này là độ chính xác và dễ hiểu của nó. Và thực sự là; từ điển này có các định nghĩa dễ hiểu nhất. Nó giải thích sự khác biệt giữa các cách sử dụng kanji, 逢う, 会う, v.v. và cũng thực sự tốt về  mặt định nghĩa ngữ pháp. Đó là gợi ý số 1 của mình dành cho những người mới làm quen với từ điển đơn ngữ. Phiên bản này có hình ảnh.
 
-**ハイブリッド新辞林** - Hybrid Shinjirin, 1998. This is based on the second edition of the Daijirin, but simplified. (actually was based on the 辞林21, which was also based on the Daijirin 2nd edition). It explains the difference between different kanji usages which is nice. My #3 recommendation for beginners. 
+**旺文社国語辞典 第十一版 画像無し** - Phiên bản không có hình ảnh của cái trên.
 
-**精選版 日本国語大辞典** - Seisenban Nihonkokugodaijiten, 2016(?). Short name: Nikkoku (日国) is the biggest Japanese monolingual dictionary ever published, the physical version has multiple fascicles. This dictionary is the great for how much 漢語 it has, expressions, proper nouns, and specializes in classical Japanese. The example sentences look quite archaic because they are, they show the first known use of the word. This is the dictionary found on [Kotobank](https://kotobank.jp) . Not recommended at all for beginners but you'll love this when you're advanced.  
+**ハイブリッド新辞林** - Hybrid Shinjirin, 1998. Dựa trên ấn bản thứ hai của Daijirin, nhưng đã được đơn giản hóa. (thực ra là dựa trên 辞林21, thứ mà cũng dựa trên ấn bản thứ 2 của Daijirin). Nó giải thích sự khác biệt giữa các cách sử dụng các Kanji khác nhau. Gợi ý số 3 của mình dành cho người mới bắt đầu.
 
-**明鏡国語辞典** - Meikyou Kokugo Dictionary is a Japanese monolingual dictionary published in 2002 and this is the first edition. What I like about the Meikyou is how it is easier to understand than dictionaries like the Daijirin and Daijsen, and also talks about the difference between kanji usage etc. 撃つ 打つ. It is also really nice for basic grammar definitions. This is my #2 recommendation for people new to monolingual dictionaries.   
+**精選版 日本国語大辞典** - Seisenban Nihonkokugodaijiten, 2016(?). Viết tắt là Nikkoku (日国) là từ điển đơn ngữ Tiếng Nhật lớn nhất từng được xuất bản, phiên bản vật lý được chia thành nhiều quyển. Từ điển này rất xịn vì nó có rất nhiều 漢語, cách diễn đạt, danh từ riêng và chuyên về Tiếng Nhật cổ điển. Các câu ví dụ trông khá cổ vì chúng thể hiện cách sử dụng đầu tiên của từ này. Bạn có thể truy cập từ điển này trên trang [Kotobank](https://kotobank.jp). Không hoàn toàn gợi ý cho người mới bắt đầu nhưng có thể bạn sẽ thích khi bạn học ở trình độ cao.
 
-**岩波国語辞典** - Iwanami Kokugo Dictionary, 6th edition, 2000. I have not used this dictionary enough to know it's strong points but it has a similar feeling to the Meikyou.  
+**明鏡国語辞典** - Từ điển Meikyou Kokugo là từ điển đơn ngữ Tiếng Nhật được xuất bản năm 2002 và đây là ấn bản đầu tiên. Điều mình thích ở Meikyou là nó dễ hiểu hơn các từ điển như Daijirin và Daijsen, đồng thời thể hiện sự khác biệt giữa các cách sử dụng kanji, v.v. 撃つ 打つ. Nó cũng thực sự hữu ích cho các định nghĩa ngữ pháp cơ bản. Đây là gợi ý số 2 của mình dành cho những người mới làm quen với từ điển đơn ngữ.
 
-**新明解国語辞典 第五版** - Shinmeikai Kokugo Dictionary, 5th edition, 1999. This dictionary is widely known for it's unique style of defining words. It also uses simple-er language for definitions, but the explanations can get まわりくどい, and thus hard to understand for learners.  #4 recommendation for beginners.  
+**岩波国語辞典** - Từ điển Iwanami Kokugo, ấn bản thứ 6, 2000. Mình chưa dùng từ điển này đủ nhiều để biết điểm mạnh của nó nhưng nó có cảm giác tương tự như Meikyou.
 
-**新明解国語辞典 第七版** - Shinmeikai Kokugo Dictionary, 7th edition, 2017. Newer version of the above but can have troublesome formatting so I left the old version in the pack. This is the most popular dictionary in Japan. 
+**新明解国語辞典 第五版** - Từ điển Shinmeikai Kokugo, tái bản lần thứ 5, 1999. Từ điển này được biết đến rộng rãi nhờ phong cách định nghĩa từ độc đáo. Nó cũng sử dụng ngôn ngữ đơn giản hơn cho các định nghĩa, nhưng phần giải thích có thể まわりくどい, điều đó có thể khiến người học thấy khó hiểu. Gợi ý số 4 cho người mới bắt đầu.
 
-**実用日本語表現辞典** - Jitsuyou Nihongo Hyougen Jiten. This dictionary absolutely rocks! You need this! It will save your life! 
+**新明解国語辞典 第七版** - Từ điển Shinmeikai Kokugo, ấn bản thứ 7, 2017. Phiên bản mới hơn của phiên bản trên nhưng có thể có vấn đề về định dạng nên chỉ có bản cũ là ở trong gói từ điển trên. Đây là từ điển phổ biến nhất ở Nhật.
 
-**新明解四字熟語辞典** - A yojijukugo dictionary from the Shinmeikai line of dictionaries.  
+**実用日本語表現辞典** - Jitsuyou Nihongo Hyougen Jiten. Từ điển cực xịn, cần dùng ngay bây giờ
 
-**学研 四字熟語辞典** - A yojijukugo dictionary published by Gakken.  
+**新明解四字熟語辞典** - Từ điển yojijukugo thuộc dòng từ điển Shinmeikai.
 
-**故事ことわざの辞典** - A proverbs/idioms dictionary.
+**学研 四字熟語辞典** - Từ điển yojijukugo do Gakken xuất bản.
 
-**Weblio古語辞典** - A classical Japanese dictionary.  
- 
-### Continuation: Getting and using monolingual dictionaries  
+**故事ことわざの辞典** - Từ điển tục ngữ/thành ngữ.
 
-Let's continue. 
-Import the set of dictionaries that best suits you in [Recommended Dictionaries](#recommended-dictionaries).  
+**Weblio古語辞典** - Từ điển cổ điển Tiếng Nhật.
 
-※ You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
+### Tiếp tục: Chọn và sử dụng từ điển đơn ngữ
 
-![Image](img/mono8.jpg)  
+Tiếp tục. 
 
-### Why do you say use a lot of dictionaries?
+"Import" bộ từ điển phù hợp nhất với bạn vào [Từ điển được gợi ý](#từ-điển-được-gợi-ý).
 
-You need to have a lot of dictionaries and have every one of them enabled because there will always be some words that are in some dictionaries and not in others. Take for example 禿同, that is only in 実用日本語表現辞典, and 夢海鼠, which is only in 日本国語大辞典. We want to use monolingual dictionaries as much as possible here. Another reason is that different dictionaries will describe a word in a different way, and in many cases you may not understand one dictionary's definition, but understand another.  
+### Tại sao cần sử dụng nhiều từ điển?
+
+Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ có trong một số từ điển này nhưng không có trong các từ điển khác. Lấy ví dụ là từ 禿同, chỉ có trong 実用日本語表現辞典, và từ 夢海鼠, chỉ có trong 日本国語大辞典. Chúng ta muốn sử dụng từ điển đơn ngữ nhiều nhất có thể ở đây. Một lý do khác là các từ điển khác nhau sẽ mô tả một từ theo một cách khác nhau và trong nhiều trường hợp, bạn có thể không hiểu định nghĩa của một từ điển nhưng lại hiểu một từ khác.
+
+!!! câu hỏi “Nhưng bạn sẽ phải cuộn rất nhiều để đến từ tiếp theo?” Bạn nên sử dụng phím tắt ++alt+down++
 
 !!! question "But you would have to do a lot of scrolling to get to the next word?" 
 	You should use the keyboard shortcut ++alt+down++  
 
-## Alternatives
 
-### Online Dictionaries
+## Lựa chọn thay thế
 
+### Từ điển trực tuyến
 [Sakura-Paris Kojien Free Search](https://sakura-paris.org/dict/)
 
-This site has **all** the major dictionaries, for free and online. You can’t view all the definitions at the same time though.  
+Trang web này có **tất cả** các từ điển lớn, miễn phí và trực tuyến tuy không thể xem tất cả các định nghĩa cùng một lúc.
 
-Weblio: <https://www.weblio.jp/> (Uses デジタル大辞泉, 実用日本語表現辞典)
+Weblio: <https://www.weblio.jp/> (Dùng デジタル大辞泉, 実用日本語表現辞典)
 
-Goo: <https://dictionary.goo.ne.jp/> (Uses デジタル大辞泉)
+Goo: <https://dictionary.goo.ne.jp/> (Dùng デジタル大辞泉)
 
-Kotobank: <https://kotobank.jp/> (Uses デジタル大辞泉 and 精選版 日本国語大辞典) 
+Kotobank: <https://kotobank.jp/> (Dùng デジタル大辞泉 and 精選版 日本国語大辞典) 
 
-Google: search “[word] 意味” e.g. “侮る 意味” (Uses 岩波国語辞典)
-  
-### Offline Alternatives
+Google: Tìm “[từ cần tìm] 意味” e.g. “侮る 意味” (Dùng 岩波国語辞典)
 
-You’re gonna be learning Japanese for a long time, so it is possible that your internet may go out when you’re tryna nihongo grind! So you’re basically screwed right? Nope! 
+### Các lựa chọn ngoại tuyến thay thế 
 
-*You download anime right…?*
+Bạn sẽ học Tiếng Nhật trong một thời gian dài nên có thể Internet của bạn sẽ mất vào thời điểm bạn đang thực hiện Immersion trong nihongo! Rơi vào tình thế khó rồi phải không? Không!
 
-### Yomichan Offline
-You can still use Yomichan offline. Here’s how.
+*Bạn đã tải anime về máy rồi phải không…?*
+
+### Sử dụng Yomichan ngoại tuyến
+
+Bạn vẫn có thể sử dụng Yomichan ngoại tuyến. Đây là cách thực hiện.
 
 ![Image](img/mono9.jpg)
 
-That’s how.
+Như thế đấy.
 
-### Digital Dictionary Formats
+### Định dạng từ điển kỹ thuật số
 
-You can see:  
+Bạn có thể sử dụng:
 
-[Japanese MDict (MDX) Dictionaries](https://learnjapanese.moe/resources/#mdict-mdx) - newer, open source, up to date and lower in size. Encoded in UTF-8 which is a nice bonus for anyone wanting to convert these to other formats.  
+[Từ điển MDict (MDX) cho Tiếng Nhật](https://learnjapanese.moe/resources/#mdict-mdx) - mới hơn, mã nguồn mở và có kích thước nhỏ hơn. Được mã hóa bằng UTF-8, điểm cộng cho bất kỳ ai muốn chuyển sang các định dạng khác.
 
-[Japanese EPWING Dictionaries](https://learnjapanese.moe/resources/#epwing) - old, extremely esoteric but popular in 電子辞書's from the 90's. Some are 
-extremely bloated in file size. Encoded in EUC-JP which is a big spit in the face for anyone wanting to do any conversion with them.  
+[Từ điển EPWING Tiếng Nhật](https://learnjapanese.moe/resources/#epwing) - cũ, cực kỳ cổ đại nhưng phổ biến trong 電子辞書  từ những năm 90. Một số có kích thước nặng quá thể đáng. Được mã hóa bằng EUC-JP, ác mộng cho bất kỳ ai muốn chuyển sang các định dạng khác.
 
-### Mobile  
+### Điện thoại
 
-If you are using Android, you can download [EBPocket](https://learnjapanese.moe/resources/#android), and load [EPWING](https://learnjapanese.moe/resources/#epwing) or [MDict](https://learnjapanese.moe/resources/#mdict-mdx) dictionaries into the app.  
-[Typhon Reader](https://learnjapanese.moe/resources/#android) is a great ebook reader for Japanese learners that supports [EPWING](https://learnjapanese.moe/resources/#epwing) dictionaries.  
+Nếu bạn đang sử dụng Android, bạn có thể tải [EBPocket](https://learnjapanese.moe/resources/#android) và tải từ điển [EPWING](https://learnjapanese.moe/resources/#epwing) hoặc [MDict](https://learnjapanese.moe/resources/#mdict-mdx) vào ứng dụng.  
 
-If you are using iOS, you can download [EBPocket](https://learnjapanese.moe/resources/ios), and load [EPWING](https://learnjapanese.moe/resources/#epwing) or [MDict](https://learnjapanese.moe/resources/#mdict-mdx) dictionaries into the app using iTunes.  
+[Typhon Reader](https://learnjapanese.moe/resources/#android) là một trình đọc ebook tuyệt vời dành cho người học Tiếng Nhật hỗ trợ từ điển [EPWING](https://learnjapanese.moe/resources/#epwing) .
 
-## Approaching Monolingual Dictionaries
+Nếu bạn đang sử dụng iOS, bạn có thể tải xuống [EBPocket](https://learnjapanese.moe/resources/ios) và tải từ điển [EPWING](https://learnjapanese.moe/resources/#epwing) hoặc [MDict](https://learnjapanese.moe/resources/#mdict-mdx) vào ứng dụng thông qua iTunes.
 
-There’s a few ways to approach getting used to monolingual dictionaries. I’ll go through each one of them.
+## Tiếp cận từ điển đơn ngữ
 
-Primarily in the AJATT community, there’s this one piece of advice:
+Có một số cách để làm quen với từ điển đơn ngữ. Mình sẽ giới thiệu từng cách một.
 
-### The “Throw away the bilingual dictionary forever, and start using the monolingual dictionary straight away!” Approach  
+Chủ yếu trong cộng đồng AJATT, có lời khuyên như này:
 
-This is something Khatzumoto of AJATT proposed.  
+### Hướng tiếp cận “Vứt bỏ từ điển song ngữ mãi mãi và bắt đầu sử dụng từ điển đơn ngữ luôn” 
 
-I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than anime and manga. If you only watch anime and read manga, this may prove to be quite frustrating. When this piece of advice was put out, Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
+Đây là điều mà Khatzumoto từ AJATT gợi ý.
 
-This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more!”, because that’s exactly what you need to do. 
+Nếu bạn đọc tiểu thuyết, đây có thể là một cách tiếp cận khá hay, vì bạn đã quen với từ ngữ rồi, vì tiểu thuyết thường có nhiều từ hơn anime và manga. Nếu bạn chỉ xem anime và đọc manga, điều này có thể khá khó chịu. Yomichan vẫn chưa được ra mắt ở thời điểm đề xuất này được đưa ra. Vì vậy, người học vào thời điểm đó sẽ thấy lời khuyên này rất tệ và luôn cảm thấy mệt mỏi khi phải liên tục tra cứu mọi thứ từ chính định nghĩa đó (Định nghĩa bằng Tiếng Nhật).
 
-I just disagree with throwing away the bilingual dictionary completely, because you still need it in the beginning of the monolingual transition. 
+Về cơ bản, đây không phải là một cách tiếp cận sai, sẽ hay hơn khi nói “chỉ cần đọc từ điển nhiều hơn!”, bởi vì đó chính xác là những gì bạn cần làm.
 
-### The Morphman Approach
-no  
+Mình chỉ không đồng ý với việc vứt bỏ hoàn toàn từ điển song ngữ vì bạn vẫn cần nó khi bắt đầu quá trình đơn ngữ hóa.
 
-### What you SHOULD do
+### Phương pháp tiếp cận theo Morphman
 
-How did I learn how to be comfortable with monolingual dictionaries? I read more. (novels, light novels, visual novels)  
+KHÔNG
 
-When I read more novels I got more used to written Japanese, and when I looked up words, they were in monolingual, so when I learned more words, I got better at using the monolingual dictionary. Huh? Yeah. It’s really that simple. Read more. Read the novel more = reading the dictionary more because you need a dictionary to read novels :)
+### Bạn NÊN làm gì
 
-### >What did you do when you came across a word you didn’t know in the definition?
+Làm thế nào để mình có thể quen với việc sử dụng từ điển đơn ngữ? Mình đọc nhiều hơn. (tiểu thuyết, light novels, visual novels)  
 
-I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
-Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
+Càng đọc nhiều tiểu thuyết mình càng quen với Tiếng Nhật viết, khi tra từ thì toàn là đơn ngữ từ đó học được nhiều từ hơn, rồi từ đó khả năng sử dụng từ điển đơn ngữ cũng tốt hơn. Thật luôn? Thật. Nó thực sự chỉ đơn giản như vậy. Đọc nhiều hơn. Đọc tiểu thuyết nhiều hơn = đọc từ điển nhiều hơn vì bạn cần từ điển để đọc tiểu thuyết :)
 
-### >Soo… what’s the best way to approach monolingual?
+### >Bạn đã làm gì khi gặp một từ mà bạn không biết khi đọc định nghĩa?
 
-Read more novels with a monolingual dictionary. I recommend reading novels on [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) using Yomichan.  
+Mình đã tra từ đó bằng Yomichan. Mình đã đọc định nghĩa đơn ngữ và trong trường hợp có quá nhiều từ mình không biết trong định nghĩa, mình sẽ xem định nghĩa tiếng Anh (như một giải pháp cuối cùng) và tiếp tục. Bạn chỉ cần tiếp tục thực hiện điều này. LẶP ĐI LẶP LẠI.  
 
-### >What if I don't like reading novels? I hate reading novels!  
+Đọc nhiều sách hơn. Bạn sẽ cảm thấy quen với từ điển đơn ngữ nếu bạn đọc nhiều. Thật. Đọc nhiều hơn. Đọc thật nhiều. Đó là tất cả. Yomichan chỉ làm cho quá trình này trở nên dễ dàng hơn, bạn  đỡ tốn công tự tìm kiếm trên mạng hay chỗ nào đấy, thay vào đó công sức của mình sẽ dành cho việc đọc. Đó là lý do tại sao bạn nên sử dụng Yomichan.
 
-Find something you like. It can be a light novel or visual novel too you know. I "hate" novels in English, I have never tried to read more than 1 page of them, why do I "hate" them? Because I haven't experienced how good they actually might be, and I don't care really. But in Japanese, not only am I better at reading novels in Japanese, I also really enjoy reading novels in this language, I can't say the same for English. So even though you may despise novels in whatever your native language is, if you give it a shot (it will be difficult at first, as is everything), you may find yourself actually enjoying reading novels.  
+### >Vậy thì... cách tốt nhất để bắt đầu thực hành đơn ngữ là gì?
 
-### >shoui have you completely 卒業'd the bilingual dictionary?
+Đọc thêm tiểu thuyết với từ điển đơn ngữ. Bạn nên đọc tiểu thuyết trên [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) bằng Yomichan.
 
-Yes indeed. I haven't used the JMdict or anything since last year. 
+### >Nếu mình không thích đọc tiểu thuyết thì sao? Mình ghét đọc tiểu thuyết
 
-### >But wouldn’t I be reading the dictionary more than the actual novel?
+Tìm thứ gì đó bạn thích. Nó có thể là một cuốn light novel hoặc visual novel. Mình “ghét” tiểu thuyết tiếng Anh, mình chưa bao giờ đọc quá 1 trang trong đó, tại sao vậy? Bởi vì mình chẳng biết được chúng thực sự hay đến mức nào và mình cũng không quan tâm. Nhưng đối với Tiếng Nhật, mình không chỉ đọc tiểu thuyết bằng Tiếng Nhật tốt hơn mà mình còn rất thích đọc tiểu thuyết bằng ngôn ngữ này, đối với tiếng Anh thì không thực sự. Vì vậy, mặc dù bạn có thể ghét việc đọc tiểu thuyết dù ngôn ngữ gốc của bạn là gì, nhưng nếu bạn thử (ban đầu sẽ khó khăn, mọi thứ đều như vậy), bạn có thể sẽ thực sự thích đọc tiểu thuyết.
 
-So what? It’s good that you are reading the dictionary more. Think of the dictionary as something FUN. 
-It's fascinating in its own right.  
+### >shoui, vậy là bạn đã hoàn toàn 卒業'd khỏi từ điển song ngữ rồi à?
+
+Đúng rồi. Mình đã không sử dụng JMdict hay bất cứ thứ gì kể từ năm ngoái.
+
+### >Thế là mình sẽ đọc từ điển nhiều hơn là đọc tiểu thuyết?
+
+Vậy thì sao? Đọc từ điển nhiều hơn cũng tốt mà. Hãy coi từ điển như một thứ gì đó khiến bạn cảm thấy vui. 
+
+Nó hấp dẫn theo đúng nghĩa của nó.
 
 ![Image](img/mono10.jpg)  
 
+#### 10 mẹo và thủ thuật quan trọng
 
-#### 10 Important Tips and Tricks
+(壱). Đọc ít nhất 1 cuốn tiểu thuyết (nó có thể là light novel hoặc visual novel) trước khi chuyển qua đơn ngữ.
 
-(壱). Read at least 1 novel (it can be a light novel or visual novel) before going monolingual.
+(弐). Hãy thử xem thứ tự sắp xếp từ điển nào là tốt nhất với bạn.
 
-(弐). Try to experiment with what dictionary order is the best for you.
+(参). Nếu từ bạn tra bằng Yomichan mà chỉ có trong từ điển song ngữ, hãy thử thực hiện tìm kiếm bằng kana hoặc tìm kiếm bằng toàn Kanji  (Alt+Insert để truy cập trang tìm kiếm Yomichan)
 
-(参). If the word you look up with Yomichan is only in a bilingual dictionary, try doing a kana search for it, or a full kanji search (Alt+Insert to get to the Yomichan search page)  
+(肆). Nếu bạn không hiểu định nghĩa ngay cả khi bạn tra cứu tất cả các từ, hãy sử dụng từ điển song ngữ (cách cuối). Bạn sẽ hiểu rõ hơn khi sử dụng từ điển đơn ngữ nhiều hơn.
 
-(肆). If you don’t understand the definition even if you looked up all the words, just look at/use the bilingual definition (last resort). You will get better at understanding when you use it more.
+(伍). Bạn có thể xem từ từ điển song ngữ để kiểm tra xem bạn có hiểu đúng nghĩa cơ bản của từ hay không.
 
-(伍). It is okay to check the bilingual definition to check that you’re getting the right basic idea.
+(陸). Đừng quá lo lắng về việc sẽ mất bao lâu để “chuyển qua” đơn ngữ.
 
-(陸). Don’t worry about how much time it will take to “transition”
+(漆). Đối với thẻ Anki mà sử dụng định nghĩa đơn ngữ, chỉ cần cố nhớ ý chính của định nghĩa. Đọc thêm trong [Japanese FAQ](faq.md)
 
-(漆). For monolingual Anki cards, just try to remember the gist of the definition. I tried to demonstrate this in [Japanese FAQ](/faq)  
+(捌). Hãy thử tra cứu những từ bạn đã biết trong từ điển đơn ngữ để làm quen với từ điển đơn ngữ lúc đầu.
 
-(捌). Try to look up words you already know, in the monolingual dictionary, this is just to try to get accustomed to the dictionary at first hand.
+(玖). Bỏ qua việc tra cứu những danh từ cụ thể như động vật trong từ điển đơn ngữ, thay vào đó sẽ tốt hơn nếu bạn sử dụng Google Hình ảnh.
 
-(玖). Forget looking up very concrete nouns such as animals in the monolingual dictionary, you are better off just using Google Images instead.
-
-(拾). Don’t overdo yourself! If it's too hard, try to use the bilingual dictionary until you feel confident again!
+(拾). Đừng cố quá sức! Nếu khó quá, hãy sử dụng từ điển song ngữ lại cho đến khi bạn cảm thấy tự tin trở lại.
 
 Have fun immersing!
 
@@ -319,10 +334,8 @@ Have fun immersing!
 
 [:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button } 
 
-#### Walkthrough  
+#### Hướng dẫn
 
-Need help with monolingual definitions? Not sure what all the symbols mean? I have written a guide for my Patreon. (Basic tier and over)  
+Cần trợ giúp với các định nghĩa đơn ngữ? Không chắc chắn tất cả các biểu tượng đó có nghĩa là gì? Mình đã viết một hướng dẫn cho Patreon của mình. (Đăng kí từ Basic tier trở lên)
 
 [:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
-
-

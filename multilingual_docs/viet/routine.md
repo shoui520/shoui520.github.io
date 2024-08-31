@@ -1,81 +1,64 @@
-# 30 Day Japanese (UsagiSpoon)  
+# 30 ngày Tiếng Nhật (UsagiSpoon)
 
-A guide/routine to help people learn Japanese from scratch with the immersion method.  
+Giúp mọi người học Tiếng Nhật từ đầu thông qua Immersion.
 
-This guide was made to be followed in order. Most of the decisions have already been made for you.   
+Cần thực hiện theo thứ tự. Đa phần các quyết định đã được đưa ra cho bạn.
 
-The routines are split into days. Each day has tasks that you need to do.  
+Trong bảng thói quen học 30 ngày này, mỗi ngày đều có những nhiệm vụ bạn cần phải làm.
 
-What you'll expect to know at the end of the 30 days:
+Cuối lộ trình 30 ngày này bạn sẽ:
 
-- An understanding of the most common Japanese grammar patterns
-- A vocabulary of at least 500 words.  
-- An understanding of basic sentences in slice of life anime.  
-- The ability to read hiragana, katakana and some common kanji.  
-- A good foundation to continue learning Japanese on your own.  
+- Hiểu về các mẫu ngữ pháp Tiếng Nhật phổ biến nhất
+- Vốn từ vựng ít nhất 500 từ.
+- Hiểu các câu cơ bản trong anime slice-of-life.
+- Có thể đọc Hiragana, Katakana và một số Kanji phổ biến.
+- Nền tảng tốt để tiếp tục tự học Tiếng Nhật.
 
-What I expect from you: 
+Bạn cần:
 
-- **the will to learn**    
-- 3+ hours of your free time per day available for Japanese.  
-- a computer (sorry phone users)  
+- **Có tinh thần học hỏi**
+- Dành ra 3 giờ mỗi ngày cho Tiếng Nhật
+- Một chiếc máy tính (xin lỗi người dùng điện thoại)
 
-## Day 1  
+## Ngày 1:
+### Giai đoạn: Bắt đầu học Kana
+Điều đầu tiên bạn cần làm khi học Tiếng Nhật là học Kana. Kana là viết tắt của hiragana và katakana.
 
-### Stage: Starting kana stage  
-The absolute first thing you need to do when you learn Japanese is to learn the kana. Kana is short for hiragana and katakana.  
+Tại sao và cách mà chúng được sử dụng có thể dễ gây nhầm lẫn cho những người mới học.
 
-Why and how they are used can get confusing for newcomers to Japanese.  
+Bạn nên đọc [bài viết này](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) (Bài viết bằng Tiếng Anh).
 
-So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+Đọc hết phần Hiragana và Katakana. Phần hướng dẫn đấy khá dài và chưa phần phải cố ghi nhớ hết Kana từ bài đọc đấy.
 
-Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.    
+Khi đọc xong, hãy tải [bảng Kana này](img/hiragana_katakana_LARGE.png).   
 
-It is quite a hefty amount of text. It could take some time.  
+Cần học cách viết Kana để có thể phân biệt Kana dễ dàng hơn. Viết tay không nhất thiết phải cố viết đẹp và có thể viết trên giấy hoặc trên màn hình.
 
-By the way you aren't memorizing the kana with that link. I will explain how you will do that below.  
+Sau đó xem video này: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs) 
 
+Đây là một video của JapanesePod. Có lẽ đây nên là video duy nhất bạn nên xem từ kênh này.
 
-When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
+Bây giờ, hãy vào trang này. [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html)  
 
-It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty.  
+Nhấn vào "show/hide options"  rồi nhấn vào "check all" để chọn tất cả các mục. Sau đó bắt đầu kiểm tra, nhập romaji chính xác vào hộp văn bản. Đây là cách ôn Kana. (Thời lượng 10 phút)
 
-You can do it on a paper or a screen, it doesn't matter really.   
+Nếu cần đồng hồ bấm giờ thì: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
-Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
+## Ngày 2
+### Giai đoạn: Xây dựng môi trường Tiếng Nhật ngay tại nhà
 
-It is a video by JapanesePod. This should probably be the only Japanese Pod video you should watch though, just sayin'.  
+Thực hành trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.  
+Hẹn giờ tại đây: [https://www.online-stopwatch.com/timer/10 Minutes](https://www.online-stopwatch.com/timer/10minutes/)
 
-Now, go on this website. [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html)  
+Cần chọn tất cả Kana.
 
-Click "show/hide options"  
+Đưa Tiếng Nhật vào cuộc sống xung quanh là phần quan trọng nhất của phương pháp Immersion.
 
-Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
+Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với anime đời thường (slice of life)
+ 
+Có rất nhiều anime có Tiếng Nhật đơn giản.
 
-Type the correct romaji in the text box. This is how you'll practice your kana.  
-
-Do this for 10 minutes.  
-
-You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
-
-
-## Day 2  
-
-### Stage: Creating your own Japan at home  
-
-Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).
-Do not forget that all kana must be enabled.  
-
-Surrounding your daily life with Japanese is the most important part of the immersion method.  
-
-It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit.  
-
-Slice of life is a good place to start.  
-
-There are many, many anime that have simple Japanese.  
-
-Here are some suggestions (but you can use anything you want):  
+Dưới đây là một số gợi ý (nhưng bạn có thể xem bất cứ thứ gì bạn muốn):
 
 Love Live! (Any)  
 Non Non Biyori  
@@ -97,1059 +80,914 @@ Byousoku 5 Centimeter
 Kiniro Mosaic  
 New Game  
 
-See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
 
-**Q: Everything here is so boooooring!!!! I'd rather watch something actually good!**
+Xem [Khu Anime](https://learnjapanese.moe/resources/#anime) để tìm thêm anime. Nên tải anime về máy để có thể dễ dàng xem.
 
-A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
+**Q: Nếu mình muốn xem thứ gì đó mình thấy hay**
 
-**Your task:**  
+A: Immersion là việc dành thời gian cho nội dung mà bạn thích. Vì vậy, đừng giới hạn bản thân trong những gợi ý trên.
 
-I want you to try immersing for the first time with the "subtitle tutor" method.  
+**Nhiệm vụ của bạn:**
 
-The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier).  
+Mình muốn bạn thử Immersion lần đầu tiên với phương pháp subtitle tutor (Thuật ngữ để chỉ việc học thông qua phụ đề ở ngôn ngữ bạn đã biết khi học ngôn ngữ đích).
 
-The flowchart process:
+Phương pháp: xem một tập anime có phụ đề (Ngôn ngữ bạn biết), sau đó xem lại mà không dùng phụ đề. Sau đó, hãy nghe tập anime đấy trong lúc làm việc khác (tai nghe không dây sẽ dễ dùng hơn).
 
-1. Watch with English subtitles  
-2. Watch without any subtitles (also known as raw listening)  
-3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
+Quy trình cơ bản:
 
-Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.  
+1.  Xem với phụ đề Tiếng Việt (Hoặc Tiếng Anh)
+2.  Xem không có phụ đề (raw listening)
+3.  Đã xong? 
+    - Rồi = Nghe trong khi làm việc khác. 
+    - Chưa = Quay lại bước 1.
 
-While watching the episode raw, don't worry if you can't understand.  
+Về cơ bản, bằng cách xem tập phim có phụ đề trước, bạn đã tăng khả năng hiểu input của mình.
 
-Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
+Khi xem anime không phụ đề, đừng quá lo lắng nếu bạn không hiểu.
 
-Becoming able to understand Japanese is a skill that takes a long time.  
+Tập trung vào âm điệu, cách nói và bất cứ thứ gì mà bạn có thể hiểu được.
 
-But it all begins with raw listening and trying to make that listening comprehensible.  
+Để có thể hiểu được Tiếng Nhật là một kỹ năng cần rất nhiều thời gian.
 
-The subtitle tutor method is only meant to provide context for the audio you are listening to.   
+Nhưng tất cả đều bắt đầu bằng việc nghe thuần (raw listening) và cố gắng làm cho việc nghe đó trở nên comprehensible (dễ hiểu).
 
-I also recommend listening to the audio when doing other things.  
+Phương pháp subtitle tutor chỉ để cung cấp ngữ cảnh cho phần mà bạn đang nghe.
 
-By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
+Bạn cũng nên nghe lại tập phim trong lúc làm việc khác.
 
-Note: Listening while doing other things = **passive immersion**.  
-Listening with undivided attention = **active immersion**.  
+Bằng cách đó, bạn sẽ lấp đầy khoảng lặng (trong lúc làm việc khác) bằng Tiếng Nhật.
 
+Ghi chú nhỏ: 
 
-**Q: Why immersion before any grammar or vocabulary study?** 
+- Listening "khi làm việc khác" = **passive Immersion**.  
+- Listening "tập trung hoàn toàn" = **active Immersion**. 
 
-A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
+**Q: Tại sao phải Immersion trước khi học ngữ pháp hoặc từ vựng?**
 
-**Q: So, I've completed my first episode, what should I do now?**
+A: Một số bạn có thể thắc mắc tại sao mình lại muốn bạn immerse trong khi không biết ngữ pháp hay bất cứ thứ gì. Và đó là vì nghe là mấu chốt của việc học một ngôn ngữ. Người bản xứ rất giỏi ngôn ngữ của họ nhờ vào môi trường của họ (ngôn ngữ luôn ở đó bất kể nơi họ đi) và bằng cách tái tạo lại môi trường đấy, bạn có thể đạt được kết quả tương tự. Nghe nhiều ngay cả khi bạn không hiểu sẽ giúp bạn học từ mới trong Tiếng Nhật dễ dàng hơn và giúp có một cảm nhận sâu sắc hơn về ngôn ngữ.
 
-A: You can consider your immersion done for the day but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
+**Q: Hoàn thành tập đầu tiên rồi thì nên làm gì giờ?**
 
-[Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+A: Coi như việc Immersion trong ngày đã xong. Nhưng nếu muốn xem thêm (quá được luôn) thì bạn có thể để xúc xắc quyết định số lượng tập thay bạn.
 
-I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
-## Day 3
+[Lắc xúc xắc](https://www.google.com/search?q=roll+a+4+sided+dice)
 
-### Stage: Just starting grammar
+Việc học ngữ pháp sẽ được bắt đầu từ ngày mai.
+  
+## Ngày thứ 3
 
-Do your daily kana practice on this site! [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+### Giai đoạn: Bắt đầu học ngữ pháp
 
-Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
+Thực hành trên trang này [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.  
+Hẹn giờ tại đây: [https://www.online-stopwatch.com/timer/10 Minutes](https://www.online-stopwatch.com/timer/10minutes/)
 
-Now here's where you'll start grammar.  
+Bây giờ sẽ là lúc bắt đầu học ngữ pháp.
 
-You don't need to do any drills or anything.    
+Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định hay bất cứ cái gì khác. Những thứ sẽ được học dưới đây đều cực kỳ phổ biến và sẽ được cải thiện dần thông qua quá trình học tập hàng ngày.
 
-You don't need to choose the correct patterns or anything like that.   
+Đây là hướng dẫn ngữ pháp **Cure Dolly's Organic Japanese** (Tiếng Nhật "hữu cơ" của Cure Dolly).
 
-Everything you will be learning is insanely common and will be reinforced with your daily immersion.     
+Danh sách phát trên YouTube: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
 
-The grammar guide I want you to use is Cure Dolly's Organic Japanese.  
+Cho những người thích đọc: [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
 
-The YouTube playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+Tất cả những gì bạn cần làm là **xem bài giảng** và **ghi chú lại**
 
-For folks out there that prefer reading, here is the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!  
+**Nên bật phụ đề cho các video của Cure Dolly.**
 
-All I want you to do is **watch the videos** and **take notes**
+***Xem 3 video mỗi ngày***
 
-(Google Keep note taking site here: [https://keep.google.com/](https://keep.google.com/))  
+Dự kiến sẽ xong toàn bộ khóa học của Cure Dolly trong khoảng hơn 30 ngày.
 
-**Note: I recommend turning on the subtitles for Cure Dolly's videos.**    
+***Ghi chú.***
 
-***Watch 3 videos a day***  
+**Q: Nên ghi gì vào?**
 
-That is a good number, you will be near the end of her guide after 30 days at that pace.  
+A: Những gì bạn thấy cần
 
-***Take notes.***  
+Hãy dựa vào trực giác của bản thân và ghi lại những gì mình thấy cần.
 
-**Q: What should I even put in my notes?**  
+Nếu Cure Dolly nói [X] có nghĩa là [Y] thì có thể bạn sẽ muốn ghi chú lại.
 
-A: You should put information that you feel is important.  
+Ghi chú không cần quá chi tiết và chỉ đơn giản là viết cho mình đọc.
 
-Rely on your instincts.  
+**Q: Tại sao phải ghi chú nếu (mình) có thể tự nhớ được**
 
-If Cure Dolly says this means that, then you might want to take a note of it.  
+A: Ghi lại để có thể xem lại khi cần. (Từ khóa: khi **cần**)
 
-Your notes do not need to be detailed, and you don't need to show them to anyone.  
+Về cơ bản, bạn đang tạo phiên bản mini từ những video bài giảng trên. Vì vậy, nếu lỡ *quên* gì, chỉ cần xem lại ghi chú.
 
-Your notes are YOUR notes, make them your notes.  
+**Q: Không ghi có được không?**  
+A: Được. Điều này phụ thuộc vào bạn
 
-**Q: Why should I even do notes! I can probably remember everything anyway!**
+### Giai đoạn: Vừa học xong bài ngữ pháp đầu tiên
+Sau khi xem 3 video Cure Dolly đầu tiên, **việc học ngữ pháp ngày hôm nay coi như đã xong.**
 
-A: I want you to take notes so you can go over them whenever you need to. (Keyword: when **you** need to!)  
+Đã đến lúc tiếp tục Immersion.
 
-You are essentially making your own little mini version of the videos in your notes.  
+[Đổ xúc xắc 4 mặt](https://www.google.com/search?q=roll+a+4+sided+dice)
 
-So, if you *do* forget something, you can always just look at your notes.  
+**Q: Có cần áp dụng phương pháp subtitle tutor không?**
 
-**Q: I really don't want to take notes...**  
-A: And that is fine!  
+A: Nó **không bắt buộc** và chỉ đơn thuần là một cách để làm cho việc Immersion trở nên vui hơn lúc đầu.
 
-Note-taking is an area where I do think personal preference is involved.  
+**Q: Cần làm gì nếu liên tục nghe thấy một từ và muốn biết nghĩa từ đó?**
 
-### Stage: Just done your first grammar lessons
+A: Bạn có thể sử dụng [Jisho.org](https://jisho.org/) để tìm kiếm từ này. 
 
-After you watched your first 3 Cure Dolly videos, you can consider that your **"grammar session done for the day".**  
+Có khả năng bạn đã nghe nhầm nên không tìm được từ.
 
-Now what I want you to do is immerse.  
+## Ngày 4
+### Giai đoạn: Học Kanji và từ mới: sử dụng Anki lần đầu.
 
-You know the drill.  
+Việc hôm nay là:
 
-[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+- Kiểm tra Kana.
+- Học ngữ pháp.
+- Sử dụng Anki lần đầu tiên.
+- Học từ mới và Kanji trong Anki.
+- Cài đặt bộ gõ Tiếng Nhật trên máy tính.
+- Thực hiện việc Immersion  hàng ngày.
 
-**Q: Do I need to do the "subtitle tutor" method?**  
 
-A: The subtitle tutor method is **not required**. It is merely a way to make immersion more interesting in the beginning. 
-I merely presented it to you as a method that is available to you.  
+Thực hành Kana trên trang này  [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) trong 10 phút.
 
-**Q: What do I do if I keep hearing a word that interests me and want to know what it means?**
+[Hẹn giờ 10 phút](https://www.online-stopwatch.com/timer/10minutes/)
 
-A: First of all, that's great!  
-You can use [Jisho.org](https://jisho.org/) to search up the word. 
-There's a chance you might be mishearing it so you may not be able to find out.  
+Sau đó, hãy học các phần ngữ pháp như hàng ngày. **3 video của Cure Dolly** !
 
-Tomorrow will get more complex. So, uh, look forward to it...?  
+Sau khi học xong thì cài đặt Anki.
 
-## Day 4  
+Đầu tiên hãy xem video này: [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
 
-### Stage: Learning kanji and new words: Using Anki for the first time.  
+Giờ thì tải Anki.
 
-Today you'll be:  
+Bạn có thể tải Anki bằng cách truy cập trang chủ ([tại đây](https://apps.ankiweb.net/)) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên.
 
-- Practicing kana  
-- Studying grammar  
-- Using Anki for the first time
-- Learning new words and kanji in Anki. 
-- Setting up a Japanese keyboard on your pc 
-- Doing your daily immersion.  
+Tải xuống bộ thẻ cần dùng [tại đây](https://github.com/donkuri/Kaishi/releases) (tệp `.apkg`)
 
-It is a lot. Please make sure you have enough time today.   
+Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
 
-Practice your kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+Vào **Tools** trên thanh trên cùng và chọn **Preferences (Ctrl+P)**.
 
-[10 Minute Timer Here](https://www.online-stopwatch.com/timer/10minutes/)  
+Và đổi **Learn ahead limit** thành `900`.
 
-After that, do your daily grammar study.  
+Bây giờ hãy chọn Close.
 
-Remember the routine from the previous day: **3 Cure Dolly videos**!   
+Trong Anki, có 3 button ở cuối cửa sổ. Chọn **Import File** để thêm bộ thẻ mình đã tải. Sau khi chọn, nó sẽ mở cửa sổ chọn tập tin.
 
-After you've done that, let's set up Anki.  
+Chọn bộ thẻ mà mình đã tải.
 
-First, I want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
+Khi nào xong thì nó hiện cái hộp toàn chữ, bấm Ok là xong
 
-Now let's download Anki.  
+Số màu xanh da trời đó là số lượng thẻ mới bạn sẽ học trong một ngày. 20 thẻ mỗi ngày là mặc định và 20 thẻ có thể là quá nhiều hoặc quá ít. Bạn có thể muốn giảm số lượng thẻ nếu cảm thấy quá khó để hoàn thành 'Reviews' trong Anki.
 
-You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
+Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Kaishi 1,5k*.
 
-Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)  
+Bấm vào *Options*.
 
-When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
+Thay đổi **Maximum reviews/day** thành `9999`. Đồng nghĩa với không có giới hạn.
 
-Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
+Mặc định là 200 và số thẻ phải ôn tập sẽ không nhiều tới mức vậy nếu bạn ôn hàng ngày. Đó là một cách kể giải quyết giới hạn ôn tập của bạn.
 
-In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*".  
+Bạn cũng cần thay đổi **Learning steps** thành `1m 5m 10m`.
 
-And change the **Learn ahead limit** to `900`.  
+Thay đổi **Insertion order** , thành **Sequential (oldest cards first)**
 
-Now click Close.  
+Trong phần **Lapses**, thay đổi *Relearning Steps* thành `10m`.
 
-In Anki, there are 3 buttons on the bottom of the window. The button **Import File** is how you'll be importing your downloaded deck. 
-Once clicked, it should open the file picker window.   
+Trong phần **Thứ tự hiển thị** , thay đổi *Display Order* thành **Show before reviews**.
 
-Choose your downloaded deck.  
+Bây giờ hãy bấm *Save*.
 
+Bạn nên tải thêm tiện ích bổ sung cho Anki tên là *Speed Focus Mode* (Anki addons). 
 
-When it finishes importing it should show you a box with bunch of text. Just press ok.  
+Nhấp vào *Tools* ở đầu Anki và chọn *Add-ons*.
 
-Now you'll see the deck and a blue number next to it.  
+Nhấp vào **Get Add-ons...**.
 
-The blue number is how many new cards you will be doing in a day.  
+Paste mã này vào ô code: `1046608507 `và nhấn **OK**.
 
-20 cards is the default.  
+Bạn cần khởi động lại Anki. Đóng cửa sổ ứng dụng Anki và mở lại.
 
-20 cards may or not be manageable.  
+Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Kaishi 1,5k*.
 
-You might want to lower the number of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
+Giữ phím ++shift++ và chọn *Options*.
 
-Click the cog icon next to the *Kaishi 1.5k* deck.  
+Một menu kiểu khác với một đoạn chữ màu đỏ sẽ hiện lên (Nếu không, hãy giữ ++shift++ khi nhấn vào *Options*).  
 
-Click *Options*.  
+Trong tab *General*, có một số cài đặt bạn cần thay đổi.
 
-Change **Maximum reviews/day** to `9999`. This just means "uncapped".  
+Đổi *Automatically play alert* thành `15` seconds.  
 
-The default is 200 and I don't think your cards will pile up that high if you do Anki every day but,  
+Đổi *Automatically show answer* thành `30` seconds.  
 
-It is good practice to uncap your review limit.  
+Đổi *Automatically rate 'again'* thành `180` seconds. 
 
-Just some Anki know-how.  
+Bây giờ chúng ta hãy bắt đầu học bộ thẻ.
 
-You also need to change the **Learning steps** to `1m 5m 10m`.  
+Khi chọn tên bộ thẻ, bạn sẽ có thể bắt đầu học bằng cách chọn *Học ngay*
 
-Change **Insertion order**, to **Sequential (oldest cards first)**  
+Điều đầu tiên bạn sẽ thấy là một thẻ giải thích. Hãy xóa cái này.
 
-Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
+Thẻ tiếp theo là một từ có Kanji.
 
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  
+Nếu bạn chọn “Show answer”, nó sẽ hiển thị mặt *sau* của thẻ và bạn sẽ biết cách đọc từ đã hiện ở mặt trước thẻ.
 
-Now click *Save*.  
+Có nhiều thứ khác trong bộ thẻ như nghĩa của từ, âm thanh, câu và bản dịch.
 
-I also want you to install the *Speed Focus Mode* Anki add-on. I will explain why later, but let's just install it now.  
+NHƯNG điều duy nhất cần nhớ là **từ vựng ở mặt trước** , **cách đọc** và **nghĩa của từ**. Không cần để ý những phần khác
 
-Click on *Tools* at the top of Anki, and click *Add-ons*.  
+Nhìn vào thanh dưới cùng. Có 4 lựa chọn. Đây là những lựa chọn chấm điểm của bạn.
 
-Click **Get Add-ons...**.   
+Trong Anki, bạn phải tự chấm điểm. Hãy coi **Again** là “Sai”. **Easy** như "game là dễ", **Good** là kiểu "bình thường", và **Khó** như “Hơi vất mới nhớ lại được”.
 
-Paste this code into the box: `1046608507` and click **OK**.
+Vì đây là thẻ mình **thấy lần đầu** nên hãy nhấn “Again”.
 
-You need to restart Anki. Close Anki, and launch it back up.  
+Khi nhìn thấy “unseen cards” (thẻ mà bạn chưa chấm điểm), bạn nên bấm "Show Answer" để hiển thị mặt sau của thẻ, sau đó đọc những thông tin quan trọng (Cách đọc và nghĩa) rồi nhấn **Again**.
 
-Click the cog icon next to the *Kaishi 1.5k* deck.  
+Việc này sẽ đưa thẻ vào khu thẻ "Learning".
 
-Hold the ++shift++ key and click *Options*.  
+Bạn có thấy con số màu đỏ ở thanh dưới cùng chuyển từ 0 thành 1 không?
 
-A different looking menu with some red text should open. (If it did not, you did it wrong. You need to hold ++shift++ while clicking *Options*).  
+- Xanh lam: New pile (Khu thẻ từ mới)  
+- Đỏ: Learning pile (Khu thẻ từ cần học)
+- Xanh lá cây: Review pile  (Khu thẻ từ cần ôn tập)
 
-In the *General* tab, there are a few settings you need to change.  
+"Learning pile" có nghĩa là Anki sẽ cho bạn xem lại thẻ nhiều lần để bạn có thể ghi nhớ.
 
-Change *Automatically play alert* to `15` seconds.  
+Khi đủ số lần chấm điểm “Good” thì thẻ sẽ "học xong". Điều này có nghĩa là bạn sẽ thấy nó sau *X* ngày (Thường là 1 ngày đối với thẻ mới). (Chuyển thẻ đã "học xong" đó sang "Review pile")
 
-Change *Automatically show answer* to `30` seconds.  
+Learning pile (số màu đỏ) giảm = thẻ đã "học xong".
 
-Change *Automatically rate 'again'* to `180` seconds.  
+**Đừng dành quá nhiều thời gian để học một thẻ**
 
-Now let's get to studying the deck.  
+Khi bạn không biết từ đó ngay cả sau 15 giây nhìn vào nó, thì việc nhìn nó lâu hơn sẽ chẳng có ích gì. Vì vậy, mục đích của addon *Speed Focus Mode* là ngăn bạn dành quá nhiều thời gian cho một thẻ.
 
-When you click on the name of the deck, you'll be able to start learning by clicking *Study now*  
+**Phương pháp học thẻ của shoui**
 
-First thing you'll see is an explanation card. Feel free to delete this one.
+Bước 1: Đọc thẻ.  
+Bước 2: Có phải thẻ mới hay không?  
+Bước 3: Thẻ mới -> Bấm vào "Show Answer" để xem thẻ.  
+Bước 4: Đọc cách đọc từ vựng.  
+Bước 5: Đọc nghĩa của từ.  
+Bước 6: Bật Audio.  
+Bước 7: Bấm “Again”  
+Bước 8: 7 bước trên sẽ tương tự nếu thẻ tiếp theo cũng là thẻ mới.
+Bước 9: Nếu thẻ tiếp theo mình đã học, cần kiểm tra xem mình có nhớ không.  
+Bước 10: Cố gắng nhớ lại nghĩa và cách đọc của từ.  
+Bước 11: Đôi khi có nhiều hơn 1 nghĩa. Chỉ cần 1 ý nghĩa là đủ.  
+Bước 12: Nhấn "Show Answer" để hiện mặt sau.  
+Bước 13: Tự mình chấm điểm tùy theo ý nghĩa *và* cách đọc.  
+Bước 14: Mình thường sử dụng nút "Good" nếu đúng và "Again" nếu sai.
 
-The next card is a word that is using kanji.  
+Sau khi học thành công 20 thẻ, bạn có thể coi mình đã hoàn thành xong "nhiệm vụ Anki" trong ngày. Ngày hôm sau, sẽ có một số màu xanh lá cây ở khối "Review". Bạn cũng sẽ có thêm 20 thẻ mới!
 
-If you click "Show answer", it reveals the *back* of the card, and you will be able to find out how to read the word on the front.  
+Hãy chắc chắn rằng bạn làm Anki mỗi ngày!
 
-The deck has other features, such as word meaning, audio, sentence and translations.  
+**Q: Nếu quên nhiều thì sao?**
 
-BUT the only things you should be memorising is the **word on the front**, **reading** and **word meaning**.
+Anki được tạo ra cho những thứ bạn có thể quên.
 
-Do not waste your brain power on thinking about anything else.  
+Khi mới bắt đầu, việc quên từ vựng là chuyện bình thường, kể cả khi bạn quên hơn một nửa đống đó sau một ngày.
 
-Look at the bottom bar. There are 4 buttons. These are your grading options. 
+Bạn có thể sẽ quên những từ này nếu không có Anki, đó là lý do tại sao cần tiếp tục sử dụng Anki để có thể học xong từ đó. Nói cách khác, dùng Anki hàng ngày. Nếu bạn vẫn quên từ thì xem lại cách bạn sử dụng Anki và cách bạn chấm điểm thẻ
 
-In Anki, you have to manually grade yourself.   
+**Q: Leeches (Từ mà không nhớ nổi)**
 
-Think of **Again** as "I GOT IT WRONG". **Easy** as SUPER EASY, **Good** as normal/usual/eh, and **Hard** as "I struggled with this it took me a while BUT I still got it right".  
+Leeches là khi bạn cứ quên từ đó dù thế nào đi nữa.
 
-Because this is a card that is **seen for the first time**, press "Again".  
+Trí nhớ hoạt động bằng cách thu thập các tín hiệu.
 
-When seeing "unseen cards" (cards that you haven't graded yet.) it is common and best practice to reveal the back (by pressing Show answer), then read the important information (Reading and Meaning) and then pressing **Again**.  
+Khi các từ không vào đầu, điều đó có nghĩa là có nhiều thứ trong phạm vi rộng hơn của từ đó khiến tâm trí bạn không thể bắt nổi bất kỳ tín hiệu nào. Nói một cách dễ hiểu hơn, bạn cần thêm những thông tin khác ngoài những thứ trong thẻ. 
 
-This will send the card to the "Learning" pile. 
+Về Leeches, nên dùng các câu ví dụ. Bạn có thể sử dụng [Jisho.org với tag #sentence](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) để xem các câu ví dụ với phần dịch Tiếng Anh. 
+ 
+**Cài đặt bàn phím Tiếng Nhật**
 
-You see the red number on the bottom bar turned from 0 to 1?  
+Bây giờ hãy cài đặt bàn phím Tiếng Nhật.
 
-The red number is the learning pile.  
+Đọc bài viết này: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
 
-Blue: New pile  
-Red: Learning pile  
-Green: Review pile  
+Sau khi xong, đây là những chức năng hữu ích nhất.
 
-The learning pile means Anki will show you the card multiple times so you can remember it. 
+++alt++++grave++ (backquote) (Phím bên trái phím số 1): Chuyển từ chỉ nhập các chữ cái như thế này sang Kana như thế này: かな. nếu bạn gõ “kana” khi ký trên Taskbar hiện là “A” thì nó sẽ chỉ là “kana” nhưng nếu ký hiệu là あ  thì nó sẽ trở thành “かな”
 
-Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards).  
+++space++: Chuyển đổi. Khi muốn gõ một Kanji, bạn phải gõ cách đọc của nó, sau đó sử dụng dấu cách để chuyển sang Kanji. Nhưng sẽ thường có nhiều hơn 1 kiểu chuyển đổi cho Kana bạn đã nhâp. Hãy thử dùng một từ có thể bạn vừa mới học được, chẳng hạn như 言う. Để nhập chữ đó bằng Kanji, bạn phải chuyển sang chế độ nhập Kana (ký hiệu あ) và nhập いう, sau đó nhấn phím cách cho đến khi 言う được chọn, rồi nhấn ++enter++. Nếu bạn muốn nhập Kana vậy, chỉ cần gõ và nhấn enter.
 
-When the learning pile (red number) goes down that means the card has graduated.  
+++f7++: Chuyển sang Katakana. 
 
-**Do not spend a long time looking at the same card**  
+++win++++space++: Chuyển đổi phương thức nhập (nếu bạn có nhiều hơn một phương thức nhập (ví dụ `English (UK) `và `Japanese (Japan)`)
 
-When you don't know the word even after 15 seconds of looking at it, then looking at it for even longer doesn't mean you'll suddenly remember it.  
+Đã đến lúc Immersion hàng ngày và hãy tự chọn số tập anime. Nếu không thì: [Xúc sắc](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
-So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
+## Ngày 5
+Vào trang [https://gohoneko.neocities.org/learn/Kana.html](https://gohoneko.neocities.org/learn/Kana.html) và luyện tập Kana trong 10 phút [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
 
-**My card learning method**  
+Chạy Anki cho ngày hôm nay. Việc sử dụng Anki mới đầu sẽ khá mệt nhưng càng dùng thì càng dễ thành thói quen. Hãy nhìn vào khu bộ thẻ, có số xanh da trời và cả số màu xanh lá bên cạnh bộ thẻ từ vựng.
 
-Step 1: Look at the card.  
-Step 2: Recognize whether it is a new card or not.  
-Step 3: Reveal the back (Show answer) after realizing it is a new card.  
-Step 4: Read the reading.  
-Step 5: Read the meaning.  
-Step 6: Let the audio play.  
-Step 7: For now, press "Again"  
-Step 8: Above 7 steps will be the same if the next card is also a new card but...  
-Step 9: If the next card is one I've already seen before, I test my knowledge.  
-Step 10: I try to recall the word's meaning and the reading.  
-Step 11: There are sometimes more than 1 meaning. Only 1 meaning is enough.  
-Step 12: I reveal the back.  
-Step 13: I grade myself depending on if the meaning *and* reading I thought it was, was correct.  
-Step 14: I usually use the Good button if I got it correct. Again if it wasn't correct.  
+Con số **màu xanh lá** là phần **ôn tập**. Hãy luôn ôn tập hàng ngày
 
+Gợi ý: Nếu không ôn tập kịp được, hãy giảm lượng thẻ mới hàng ngày xuống.
 
-After you have successfully learned 20 cards, you can consider your Anki done for the day.  
+Sau khi hoàn thành xong phần Anki trong ngày, hãy học ngữ pháp.
 
-The next day you can expect to see some cards in the green (Review) pile. 
+**3 video của Cure Dolly**
 
-You will also have a fresh batch of 20 new cards!  
+Sau đó là Immersion hàng ngày.
 
-Please make sure you do Anki every day!   
-
-**Q: Should I worry if I forget a lot?**  
-
-A: No.  
-
-Anki is made for things you're likely to forget.  
-
-You are very likely to forget words of a language you just started learning.  
-
-I don't think it is strange if you forget more than half of what you learn when a day passes by.  
-
-You're likely to forget these words without Anki, so that's why you need to keep Anki'ing them so you can finally learn the word.  
-
-In other words, just keep doing Anki.  
-
-If this continues for a while then you might want to think back on your method of doing Anki.   
-
-**Q: Leeches (Words not sticking)**  
-
-Leeches are when you keep forgetting the word no matter what.  
-
-Memory works by picking up on cues.  
-
-When words don't stick, it means there are multiple things in the wider scope of the word that makes it so your mind isn't picking on any cues. 
-
-In easier terms, you need more, or different information than the information on the card.  
-
-For these leeches, I recommend looking at them in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with an English translation.  
-
-
-**Setting up a Japanese Keyboard**  
-
-Now let's set up a Japanese keyboard. 
-
-Read this article: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
-
-The article is very good. 
-
-After you've done that lemme teach you the most useful functions.
-
-++alt++++grave++ (backquote)(the key left of 1): Switch from entering just letters like these to kana like this: かな. if you type "kana" when the symbol on the taskbar is an "A" it will just be "kana" but if the symbol is あ then it will become "かな"
-
-++space++: Conversion. When you want to type a kanji, you have to type its reading, and then use space to convert it. Due to Japanese's... japanesesiness, there are multiple conversion candidates for the kana you entered. Let's try a word you probably just learned, like 言う. To type that in kanji you have to switch to kana input mode (the あ symbol) and type いう, then press space until 言う is selected, and then press ++enter++. If you want to enter kana without converting, just type what you want and press enter.  
-
-++f7++: Katakana conversion. 
-
-++win++++space++: Switch input methods (only effective if you have more than one input method (example `English (UK)` and `Japanese (Japan)`)  
-
-
-Now I think it is about time you do your daily immersion.  
-
-I hope the dice game helped you get used to immersing.  
-
-I recommend you decide on a set number of anime episodes to use for immersion per day.  
-
-If you can't decide, then by all means, let a dice decide for you! 
-
-[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
-
-## Day 5  
-
-Go on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) and practice kana for 10 minutes. [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
-
-Now do your daily Anki.  
-
-Anki is tough in the beginning.  
-
-But it gets better I promise!  
-
-Your Anki today will be slightly different. You'll have a blue number AND a green number next to the deck.  
-
-The **green** number is your **reviews**.  
-
-Make sure you stay on top of your reviews!  
-
-Important word of advice: If you ever become unable to keep up with piling reviews, then reduce your new cards per day limit!  
-
-After you've done your Anki for the day, you should get onto your daily grammar study.  
-
-**3 Cure Dolly videos!**  
-
-After that, it's just your daily immersion.  
-
-**Q: How many episodes will it be???**  
-
+**Q: Hôm nay cày bao nhiêu tập???**
 A: [Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
-**Q: What should I be looking out for when listening?**
+**Q: Cần chú ý gì khi nghe?**
 
-A: The sounds of it, the speaking patterns, the "words" that pop up a lot, the words that you learned, the grammar that you learned etc.  
+A: Phần phát âm, kiểu nói, những “từ” xuất hiện thường xuyên, những từ đã học, ngữ pháp đã học, v.v.
 
-Every little bit counts.  
+Một chữ là thầy, nửa chữ cũng là thầy.
 
-## Day 6  
+## Ngày 6
 
-### Stage: First ever reading practice: Japanese subtitles! 
+### Giai đoạn: Luyện đọc lần đầu: phụ đề Tiếng Nhật
 
-Today you'll start reading practice for the first time!  
+Hôm nay sẽ bắt đầu luyện đọc!
 
-It is going to be quite tough.  
+Tương đối khó nhằn.
 
-But don't worry if you don't understand it!  
+Đừng quá căng thẳng nếu không hiểu!
 
-Every bit counts!  
+Như đã nói ở trên, một chữ là thầy, nửa chữ cũng là thầy. Dù chỉ là một chút nhưng vẫn sẽ có giá trị
 
-First, practice kana for 10 minutes.  
+Luyện tập Kana trong 10 phút [trên đây](https://gohoneko.neocities.org/learn/Kana.html). Bấm vào để [Hẹn giờ 10 phút](https://www.online-stopwatch.com/timer/10minutes/)
 
-[Kana Practice Site](https://gohoneko.neocities.org/learn/kana.html)  
-[10 Minute Timer](https://www.online-stopwatch.com/timer/10minutes/)  
+Sau đó, hoàn thành Anki hàng ngày.
 
-After that, go on to doing your Anki.  
+Xong Anki học ngữ pháp, 3 video Cure Dolly.
 
-After your Anki, do your 3 Cure Dolly videos.  
+Xong ngữ pháp là bắt đầu luyện đọc.
 
-Then let's get on to reading.  
+Nội dung đọc đầu tiên sẽ là anime có phụ đề Tiếng Nhật.
 
-Your first reading content will be anime with Japanese subtitles.  
+Đầu tiên, cần có Yomichan, bấm vào [liên kết này](yomichan.md) để đọc cách cài đặt.
 
-It is kind of tricky to set it up, but let's go through it.  
+Sau đó cài đặt asbplayer, có một hướng dẫn cách cài đặt asbplayer khá hay bằng Tiếng Việt mà bạn có thể đọc thông qua [liên kết này]()
 
-First, you will need Yomichan.
+Hãy tìm tệp phụ đề cho anime mà mình muốn xem.
 
-Click on this [link](/yomichan) to read my guide on it.  
+Thử Love Live (2013).  
 
-After you have set up Yomichan, follow the rest of these steps. 
+Trang [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) có bộ sưu tập phụ đề Tiếng Nhật cho anime lớn nhất.
 
-In your Chrome extension settings (`chrome://extensions`), enable "**Developer mode**" in the **top right**.  
+**(LƯU Ý: Nếu không truy cập được trang trên thì truy cập trang này: **[**bấm vào liên kết truy cập này**](/kitsubackup.html#/ja)**)**
 
-Now download the [asbplayer Extension](https://github.com/killergerbah/asbplayer/releases)  
+Tìm “Love Live!” (Bạn bấm Ctrl + F để tìm trên trình duyệt - máy tính) và tải tệp nén “Love Live! (01-13) (Webrip).zip”.
 
-It has to be installed manually; it is not on the Chrome Web Store.  
+Sau khi giải nén tệp, sẽ có một số tệp .SRT.
 
-You need to unzip the .zip file first.  
+Tệp .SRT là tệp phụ đề.
 
-Now you go in your Chrome extension settings and click "Load unzipped"  
+Bây giờ những gì bạn cần làm là kéo và thả tệp .SRT vào video.
 
-Choose the unzipped folder.  
+asbplayer có thể dùng với [Hianime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404).
 
-Restart your browser.  
+Trước khi bắt đầu phát một tập, nhớ phải truy cập vào trang [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/)  
 
-Now you need to get subtitle files for the anime you want to watch.  
+Khi một tập bắt đầu phát, bạn có thể kéo và thả tệp .SRT vào trang đó.
 
-Let's just use... Love Live (2013) as an example.  
+Phụ đề Tiếng Anh sẽ được hiển thị cùng lúc, điều này không tốt cho việc học Tiếng Nhật vì phụ đề Tiếng Anh có thể khiến người học hiểu không thể hiểu cấu trúc thực tế của Tiếng Nhật thông qua phần dịch nghĩa đó. Nếu chỉ để cung cấp ngữ cảnh cho video thì không vấn đề gì. Để tắt phụ đề Tiếng Anh, chọn biểu tượng CC trên trình phát video và chọn "Off".
 
-The site [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) has the biggest collection of Japanese subtitles for anime.   
+Bằng cách sử dụng ++shift++ trên một từ, Yomichan sẽ hiện ra định nghĩa của từ đó.
 
-**(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**    
+Nhưng mà tệp phụ đề của Love Live **bị lỗi timing**.
 
-I scrolled down to "Love Live!", and downloaded the "Love Live! (01-13) (Webrip).zip" file.  
+Điều này có nghĩa là phụ đề không khớp với khung thời gian trong video.
 
-After unzipping the file, I got a bunch of .SRT files. 
+asbplayer có hỗ trợ xử lý vấn đề này.
 
-.SRT files are subtitle files.  
+Dùng tổ hợp phím ++ctrl++++shift++++left++ hoặc ++right++. Đôi khi nó không chạy nếu chưa bấm vào video trước.
+  
+Bạn sẽ cần phải thử nghiệm để tìm ra timing thích hợp. Đối với Love Live là -8400ms.
 
-Now what you need to do is drag and drop an .SRT file onto a video.  
+Có thể sẽ khá khó để có thể biết phụ đề nào sử dụng cho phần âm thanh nào khi chưa quen với việc đọc.
 
-The asbplayer extension works with [Hianime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
+Tuy nhiên, các câu viết bằng Kana giúp bạn dễ dàng phân biệt đâu là câu nào.
 
-Before you start playing an episode, make sure you have this page open: [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/)  
+Trang này [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) có thể hiển thị phụ đề trong một danh sách, giúp dễ dàng quay lại câu thoại mà mình đã bỏ lỡ. Nó chỉ hoạt động nếu được mở trước khi thêm phụ đề vào.
 
-When an episode starts playing, you can drag and drop an .SRT file onto it.  
+**Có thể “đọc” anime và đó là điều nên làm.**
 
-The subtitles should load and work.  
+Thói quen cần thực hiện?
 
-English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Japanese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles, click the CC icon on the video player controls and click Off.  
+**Hãy xem** anime có phụ đề Tiếng Nhật trước.
 
-By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
+Sau đó chỉ tập trung vào **việc đọc** phụ đề.
 
-But there is a problem. The subtitle file for Love Live is horribly **out of sync**!  
+**Q: Nên tra cứu bao nhiêu từ?**
 
-This means the subtitles don't match the timing of the audio.  
-
-Luckily, asbplayer supports adjusting the timing.  
-
-You can do that with ++ctrl++++shift++++left++ or ++right++. Sometimes it doesn't work if you don't click on the video first.  
-You will need to experiment to find the right timing. For Love Live it was -8400ms.  
-
-It might be hard to figure out what subtitle belongs to what audio when reading is so difficult. 
-
-Sentences written in kana make it easier to tell which is which though.  
-
-This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) displays the subtitles in a list. This makes it easier to go back to a line you missed. It only works if you had it open before loading the subtitle.  
-
-**This also enables you to "read" the anime! Which I recommend you do!!!**    
-
-So, what's the routine?  
-
-**Watch** the anime with Japanese subtitles first.  
-
-Then focus your attention on **just reading** it.  
-
-**Q: How many words do I look up?**  
-
-A: I think you should decide this using a 20-sided dice, per episode.  
+A: Thử sử dụng xúc xắc 20 mặt cho mỗi tập phim.
 
 [Click here for 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
 
-Roll!  
+Sau khi tra cứu hết số lượt thì hãy *xem* phần còn lại với phụ đề Nhật vậy thôi.
 
-After you've looked up your amount just *watch* the rest with Japanese subs.  
+Nếu bắt gặp từ gì muốn tra thì hãy tra từ đó.
 
-If anything piques your interest, then feel free to look it up!  
+**Q: Khi xem với phụ đề Nhật, có nên cố gắng đọc mọi thứ trên màn hình không?**
 
-**Q: When watching with Japanese subs, do I try to read everything on the screen?**
+Trả lời: Không. Chỉ nên tra đúng số từ mà mình đã xúc xắc và sau đó xem phần còn lại của tập phim mà không tra từ hoặc dừng lại để đọc hay làm gì khác, nhưng nên tập trung vào cách phát âm Kana, v.v.
 
-A: No. I generally recommend looking up the number of words the dice decided and then just watch the rest of the episode without looking anything up or stopping to read anything, but you should focus on how the kana are pronounced etc.  
+**Q: Nếu cần tra cứu hoặc đọc nội dung nào đó, có cần tạm dừng video không?**
 
-**Q: When I look up something, or need to read something, do I pause the video?**  
+Đ: Hãy tạm dừng video nếu cần tra từ hoặc gì đó.
 
-A: Yes! Pause the video when you need to look up!  
+**Q: Mục đích của phụ đề trong này là gì?**
 
-**Q: What is the point of the subtitles in a list?**  
+A: Để có thể “thực hành đọc”.
 
-A: You do it so you can do "raw reading practice".  
+Khi xem anime, là đang nửa đọc nửa nghe.
 
-When the anime playing, you are doing half-reading half-listening.  
+Khi loại bỏ phần âm thanh và chỉ đọc phụ đề, thì nó tương đương với việc đọc.
 
-When you remove the audio part and just read the subtitles in a list, you are doing the equivalent of real reading!  
+**Q: Xúc xắc có quyết định số lượng từ mình tra cứu khi xem anime hoặc khi đọc phụ?**
 
-**Q: Does the dice decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
+A: [Đổ thêm một viên xúc xắc 20 mặt nữa](https://www.google.com/search?q=roll+a+20+sided+dice) khi bạn "đọc anime".
 
-A: [Roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.  
-   
-**Q: How many episodes should I read?**  
+**Q: Nên đọc bao nhiêu tập?**
 
-Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
+Tập trung vào việc đọc một tập anime duy nhất cho đến khi bạn tra cứu hết số lượng từ trên phần đổ xúc xắc trước.
 
-**Q: Is it possible to understand everything by spending 30 minutes spamming Yomichan on a sentence?**  
+**Q: Có thể hiểu mọi thứ bằng cách dành 30 phút để dùng Yomichan cho một câu không?**
 
-A: Short answer: No. Comprehension is a gradual process.  
+A: Tóm gọn là: Không. Comprehension là một quá trình cần thời gian.
 
-Long answer:  
+Câu trả lời dài hơn:
 
-There are many things you will not understand just by using a dictionary.  
+Có rất nhiều thứ không thể được hiểu nếu chỉ sử dụng từ điển.
 
-There are many factors that go into understanding something.  
+Có nhiều yếu tố.
 
-There are obvious factors such as vocabulary and grammar.
+Có những yếu tố hiển nhiên như từ vựng và ngữ pháp.
 
-But there are also less obvious ones such as the contexts that that piece of language is often used in, which in turns leads to its meaning.  
+Nhưng cũng có những thứ ít rõ ràng hơn, chẳng hạn như ngữ cảnh (context) mà đoạn ngôn ngữ đó thường được sử dụng, từ đó thể hiện nghĩa của nó.
 
-In a vacuum, studying vocabulary and grammar increases your ability to understand things.  
+Học từ vựng và ngữ pháp sẽ tăng khả năng hiểu của bạn.
 
-But understanding the use of the vocabulary and grammar in contexts further increases your understanding of the sentence.  
+Nhưng việc hiểu cách sử dụng từ vựng và ngữ pháp trong ngữ cảnh sẽ làm tăng thêm nhiều khả hiểu của bạn về một câu.
 
-This works especially well for sentences that have only one piece of language that you aren't comfortable with.  
+Điều này đặc biệt hiệu quả nếu những câu đó chỉ có một từ ngữ mà bạn không hiểu.
 
-This doesn't work well for hard sentences though.  
+Tuy nhiên, điều này không hiệu quả cho lắm đối với những câu khó.
 
-Because there is too much language information in the sentence that you are too unfamiliar with.  
+Có quá nhiều thứ lạ với bạn.
 
-The best you can do for hard sentences is to look up the vocabulary in them.  
+Điều tốt nhất có thể làm với những câu khó là tra từ có trong đó.
 
-While it may not be enough to understand *that* sentence at *that* time, your newly found knowledge of the word can help you connect it to some meaning in a later context.  
+Có thể sẽ là chưa đủ để hiểu câu *đó* vào thời điểm *đó* nhưng nó sẽ giúp mình sau này. 
 
-With more study and immersion (understanding things in context), your understanding of Japanese will increase.  
+Càng học và Immersion nhiều hơn (hiểu các thứ trong ngữ cảnh), khả năng hiểu Tiếng Nhật sẽ càng tăng lên.
 
+**Q: Có cần đổi anime mình đang "đọc" sang anime mình đã xem lần cuối không?**
 
+Không. Nên đọc cùng một anime cho đến khi đọc hết.
 
-**Q: Do I have to change the anime I'm reading to the one I last watched?**  
+Nhưng bạn không nhất thiết phải luôn sử dụng cùng một thứ nếu nó không còn khiến bạn thấy thoải mái nữa.
 
-No. I actually recommend reading the same one until you read the end.  
+**Q: Làm thế nào để có thể nhớ được những từ mình đã tra cứu?**
 
-But you don't have to always use the same one if it no longer interests you.  
+A: Đơn giản là "sự lặp lại". Càng đọc nhiều sẽ càng nhớ được nhiều từ hơn.
 
-**Q: How can I expect to remember the words I look up?**  
+Nói cách khác, đừng bận tâm đến những từ vựng đang tra bây giờ.
 
-A: Great question! It all comes down to repetition. The more reading you do, the more words you will remember.  
+Nhìn lại thêm nhiều lần nữa cũng không phải là cách hiệu quả.
 
-In other words, don't fuss over the words you look up right now.  
+Điều thực sự nên làm là: Nhìn vào nghĩa từ, cách đọc. Sau đó tiếp tục chuyển qua cái khác.
 
-Looking over them a gajillion times isn't a productive use of your time.  
+**Q: Làm cách nào để biết một từ bắt đầu và kết thúc ở đâu? Tiếng Nhật không có dấu cách!**
 
-What you should actually do is: Look at the meaning, look at the reading. Then go like "Oh, right!". And move on.  
+A: Câu trả lời đơn giản là, khá khó với người mới bắt đầu.
 
-**Q: How do I figure out where a word starts and ends? Japanese has no spaces!**  
+Nhưng khả năng nhận biết điều này sẽ trở nên tốt hơn theo thời gian.
 
-A: The simple answer is, it is hard to tell as a beginner.  
+Rốt cuộc, việc học ngôn ngữ chỉ là nhận dạng các mẫu (pattern recognition).
 
-You get better at it over time.  
+Yomichan có thể hỗ trợ bạn phân biệt từ bắt đầu ở đâu và kết thúc ở đâu với độ chính xác lên tới 90%.
 
-Language learning is just pattern recognition after all.  
+**Q: Bây giờ mình có thể "nhìn ra được" Tiếng Nhật, mình có thể thử dịch nó trong đầu không?**
 
-Yomichan is a great help because it knows where words start and end with 90% accuracy.  
+A: Khá khó để trả lời câu này
 
-**Q: Now that I can see the Japanese, can I try to translate it in my head?**  
+Luôn có những thứ không thể diễn đạt giữa hai ngôn ngữ.
 
-A: It's complicated...   
+Cách suy nghĩ giữa hai ngôn ngữ vốn đã rất khác.
 
-There are always forms of expression that just aren't compatible between English and Japanese.  
+Đó là lý do chính tại sao phương pháp này (và những phương pháp tương tự) có xu hướng khuyên bạn không nên cố gắng dịch phần Immersion của mình.
 
-The way of thinking is a lot different.  
+Vì Tiếng Nhật không phải là Tiếng Anh hay Tiếng Việt.
 
-That is the main reason why this method (and similar ones) tends to advise against trying to translate your immersion.  
+Tiếng Nhật là Tiếng Nhật.
 
-Because Japanese is not English.  
+Dù vậy nhưng bạn có thể thực hiện một số kiểu "dịch nôm na", trong đó chỉ cần cố gắng ghép một số ý nghĩa cơ bản lại với nhau.
 
-You are advised to think of Japanese as Japanese.  
+*Thực sự là không cần dịch luôn?*
 
-Be the language!  
+Không phải lúc nào cũng vậy, sẽ có những điều bạn không hiểu được do nhiều yếu tố. (Thiếu kiến thức về: nghĩa của từ, nghĩa của từ khó hiểu nếu chỉ đọc từ từ điển, cách sử dụng ngữ pháp, cách sử dụng ngữ pháp nâng cao, ngữ cảnh, cách sử dụng từ đó trong phạm vi ngôn ngữ rộng hơn, v.v.)
 
-You can do some sort of "loose translation", where you just try to piece together some sort of basic meaning.  
+Sẽ khá mệt khi phải dịch liên tục nên hãy thực hiện có chừng mực.
 
-*Do I need to translate at all?*  
+**Q: Mình nên xem bao nhiêu tập có phụ đề Tiếng Nhật để chuyển qua xem không có phụ đề?**
 
-Not always, it is inevitable that there are things you will just not understand due to many factors. (Missing knowledge of: word meaning, word meaning that's hard to understand just from the dictionary, grammar usage, advanced grammar usage, context, how the word is generally used in the wider scope of language etc.)  
+A: 1 tập phụ đề Tiếng Nhật mỗi ngày là một con số tốt. 2 hoặc 3 nếu bạn muốn hết mình.
 
-It is also tiring, so do it in moderation.  
+**Q: Nên xem sub Tiếng Nhật hay xem raw (Xem thuần Tiếng Nhật, không phụ đề)?**
 
-**Q: How many episodes should I watch with Japanese subs until I go back to no subs?**  
+A: Mỗi cách chọn đều phục vụ cho những mục đích khác nhau.
 
-A: 1 Japanese subtitled episode per day is a good number. 2 or 3 if you want to go all out.  
+Không thể nói cái nào tốt hơn vì chúng có những ưu nhược điểm riêng.
 
-**Q: Should I watch Japanese subs or raw?**  
-
-A: They exist for different purposes.  
-
-I can't say which one is better because they have their own benefits and drawbacks.  
-
-Japanese subs: 
-Good: learn new words, reading practice  
-Bad: doesn't train raw listening ability, you might not pick up on things said in the audio  
+Phụ đề Tiếng Nhật: 
+Điểm cộng: học từ mới, luyện đọc  
+Điểm trừ: không rèn luyện khả năng nghe thuần, bạn có thể không hiểu được những điều được nói trong audio
 
 Raw:  
-Good: trains raw listening ability and can attribute to speaking ability too. You will notice more than just watching with Japanese subtitles.  
-Bad: the words you dont know you just don't know.  
+Điểm cộng: rèn luyện khả năng nghe thuần và cũng đóng góp cho khả năng nói. Bạn sẽ phát hiện thêm được nhiều điều hơn là chỉ xem với phụ đề Tiếng Nhật.  
+Điểm trừ: những từ bạn không biết thì bạn không biết.
 
-**Q: What about subtitle tutor?**  
+**Q: Còn subtitle tutor thì sao?**
 
-A: You shouldn't be doing it all the time.  
+A: Bạn không nên làm điều đó quá nhiều.
 
-The only purpose is to give you an idea; context of what the audio is saying.  
+Mục đích duy nhất là cung cấp ngữ cảnh cho video.
 
-It gets tedious watching the same episode twice too.
+Sẽ rất chán khi phải xem cùng một tập hai lần.
 
-Without watching the episode in Japanese after you watch it in English, there is no point.  
+Không xem tập phim bằng Tiếng Nhật sau khi bạn xem nó có phụ đề Tiếng Anh thì chẳng có ích lợi gì.
 
-And using English subs as a crutch forever isn't a good idea.  
+Và việc sử dụng phụ đề Tiếng Anh mãi không phải là một ý hay.
 
-It just makes your immersion more effective in the beginning because immersion works better **when you have an idea of what is going on**.  
+Nó chỉ giúp cho việc Immersion hiệu quả hơn ngay từ đầu vì nó sẽ tốt hơn **khi bạn hiểu những gì đang diễn ra trong video**.
 
-Getting rid of translations and training yourself to understand the language on its own is how you'll get better at Japanese in the future.  
+Loại bỏ các phần dịch đó và rèn luyện bản thân để có thể hiểu ngôn ngữ là cách để giỏi Tiếng Nhật hơn trong tương lai.
 
-Japanese subs are better because they give you the opportunity to learn the actual words that are being used in the anime. (Which is a lot of words, btw.)  
+Phụ đề Tiếng Nhật tốt hơn vì nó giúp mình học những từ thực tế được sử dụng trong anime. (Có rất nhiều từ)
 
+## Ngày 7
 
-## Day 7  
+**Ghi chú về việc thực hành Kana:**
 
-**Note about kana practice:**  
+Sẽ tùy từng người
 
-Experience differs greatly from person to person. 
+Một số người có thể đã cảm thấy thoải mái với Kana chỉ sau 6 ngày.
 
-Some of you may already be comfortable with the kana after just 6 days.  
+Những người khác có thể cần thực hành nhiều hơn.
 
-Others may need more practice.  
+Giờ nên giảm thời gian luyện tập Kana từ **10 phút** xuống còn **5 phút**.
 
-I think you should reduce the time spent on kana practice from **10 minutes** to **5 minutes**.  
+Bạn sẽ được tiếp xúc với văn bản Tiếng Nhật nhiều hơn trong tương lai.
 
-You will be exposed to Japanese text a lot more going forward.  
+### Giai đoạn: Học cách cân bằng khi mới bắt đầu.
 
-### Stage: Learning how to balance as a beginner.    
+Nhiệm vụ cho ngày hôm nay:
 
-Your tasks for today are as follows.  
+Bước 1. Hoàn thành Anki trong ngày.  
+Bước 2. 3 video Cure Dolly.  
+Bước 3. thực hiện Immersion ngôn ngữ (Chi tiết bên dưới)
 
-Step 1. Do your Anki.  
-Step 2. Cure Dolly routine.  
-Step 3. Immerse!! (Details below)  
+Tập trung vào một kĩ năng Tiếng Nhật cụ thể của bạn (ví dụ: nghe hoặc đọc) là một điều tốt.
 
-Focusing on a particular area of your Japanese (e.g., listening or reading) is good.  
+Nhưng làm thế nào để có thể quyết định liệu hôm nay là ngày tập trung vào nghe ngay tập trung đọc?
 
-But how will you decide whether today is a day where you'll focus on listening or reading?  
+Đối với một người học nâng cao đã có thể đọc sách và hiểu được nhiều thứ thì điều này đã rõ ràng.
 
-For an advanced learner that can already read books and understand a lot of things, this is more obvious.  
+Nhưng đối với người mới bắt đầu, sẽ khá khó để có thể chọn.
 
-But for a beginner, it can be tough to decide.  
+Cách chọn?
 
-The simple answer?  
+[Lật một đồng xu](https://www.google.com/search?q=flip+a+coin).
 
-[Flip a coin](https://www.google.com/search?q=flip+a+coin).  
+Mặt ngửa = Ngày nghe  
+Mặt sấp = Ngày đọc
 
-Heads = Listening day  
-Tails = Reading day  
+## Ngày 8
 
-## Day 8
+### Giai đoạn: Kanji
 
-### Stage: The elephant in the room... kanji!  
+Kanji trông giống như những nét vẽ nguệch ngoạc.
 
-Kanji look like scribbles, don't they?  
+Đối với người mới học, đống Kanji đấy trông không có ý nghĩa gì cả.
 
-For a beginner, they look nonsensical.  
+Nhưng đối với một người học đã lâu, chúng trông như những hình dạng thực tế, những gương mặt quen thuộc.
 
-But for an experienced learner, they look like actual shapes and familiar faces.  
+Mỗi chữ Kanji có thể được chia thành các bộ cơ bản hay. Hoặc “primitives” (thuật ngữ dùng trong Remembering the Kanji).
 
-Every kanji can be broken down into fundamental shapes. Also known as radicals. Or "primitives" (term used in Remembering the Kanji).
+Ví dụ: 萌 = 艹+日+月  
+Ví dụ: 踏 = 足+水+日  
+Ví dụ: 足 = 口+龰  
+Ví dụ: 将 = 丬+爫+寸
 
-Example: 萌 = 艹+日+月  
-Example: 踏 = 足+水+日  
-Example: 足 = 口+龰  
-Example: 将 = 丬+爫+寸  
-
-
-I recommend you do the "Recognition Remembering the Kanji 450" Anki deck.  
+Bạn nên sử dụng bộ thẻ Anki “Recognition Remembering the Kanji 450”.
 
 [Download it here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
-The purpose of the deck is to steadily give you the ability to see kanji as a combination of consistent shapes.  
+Mục đích của bộ thẻ là giúp bạn dần dần có khả năng nhận dạng Kanji như sự kết hợp giữa các bộ phận nhất quán.
 
-Click the cog icon next to the 日本語 parent deck.  
+Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ gốc 日本語.
 
-Now click Options.  
+Bây giờ hãy chọn Options.
 
-There is a drop-down menu at the top of this window.  
+Sẽ có một thanh menu hiện ở đầu cửa sổ.
 
-Change Default to *Recognition RTK*.  
+Đổi Default thành *Recognition RTK*.
 
-Change **New cards/day** to `10`  
+Đổi **New cards/day** thành `10`
 
-Change the **Learning steps** to `1m 5m 10m`.  
+Thay đổi **Learning steps** thành `1m 5m 10m `.
 
-Change **Insertion order**, to *Sequential (oldest cards first)*  
+Thay đổi **Insertion order**, thành *Sequential (oldest cards first)*  
 
-Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
+Trong phần **Lapses** , thay đổi *Relearning Steps* thành `10m `.
 
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
+Trong phần **Display Order**, thay đổi *New/review order* thành **Show before reviews**.  
 
-Click Save.  
+Bấm Save.
 
-When you click Study now, the first cards will be explanation cards.  
+Khi nhấn vào "Study now", thẻ đầu tiên sẽ là thẻ giải thích.
 
-After you read them, and understood the usage of the deck, I recommend suspending them.  
+Sau khi bạn đọc thẻ đó và hiểu cách sử dụng bộ thẻ, bạn nên "suspend" thẻ (Bạn tự tìm trên Google về điều này nha).
 
-You will be working on this deck alongside the Kaishi 1.5k deck.  
+Bạn sẽ học bộ thẻ này với bộ Kaishi 1.5k.
 
-This deck will NOT help you read kanji.  
-This deck will NOT help you write kanji from memory.  
-This deck will NOT help you guess the meanings of words.  
+Bộ thẻ này sẽ KHÔNG giúp bạn đọc Kanji.  
+Bộ thẻ này sẽ KHÔNG giúp bạn viết chữ Kanji từ trí nhớ.
+Bộ thẻ này sẽ KHÔNG giúp bạn đoán nghĩa của từ.
 
-This deck WILL help you see kanji as compositions of consistent shapes.  
+Bộ thẻ này SẼ giúp bạn nhận diện Kanji - sự kết hợp giữa các hình dạng nhất quán.
 
-It is an important skill to have, because when you are learning Japanese for a long time you will come across a ton of words and you may confuse them if the kanji look too similar for you.  
+Đây là một kỹ năng quan trọng cần phải có, bởi vì khi học Tiếng Nhật trong một thời gian dài, bạn sẽ gặp rất nhiều từ và bạn có thể nhầm nếu Kanji của hai từ đấy trông quá giống nhau.
 
-**Q: So, what do I need to do today?**
+**Q: Vậy nhiệm vụ hôm nay là gì?**
 
-1. Anki. Your Kaishi 1.5k deck and the RRTK deck.  
-2. Grammar. Watch 3 Cure Dolly videos.
-3. Immersion.  
+1.  Anki. Học bộ thẻ Kaishi 1,5k và bộ thẻ RRTK.
+2.  Ngữ pháp. Xem 3 video của Cure Dolly.
+3.  Immersion.
 
 **Q: Immersion...?**
 
-Yes, you can do reading/watch with Japanese subs/raw listening/subtitle tutor.  
+Bạn có thể đọc/xem phù đề Tiếng Nhật/nghe thuần hay sử dụng phương pháp subtitle tutor.
 
-You can decide everything with a dice and flipping a coin if you're uncertain, of course.  
+Có thể tung xúc xắc hoặc tung đồng xu nếu không chắc hôm nay nên làm gì.
 
-I apologize if "immersion" is a vague term.  
+Thực sự xin lỗi nếu từ “immerse” là gợi cho bạn cảm giác mơ hồ.
 
-All of that stuff that you did with the anime and the subtitles and Yomichan is immersion.  
+Xem anime, đọc phụ đề và Yomichan đều là Immersion.
 
-## Day 9  
+## Ngày 9
 
-### Stage: Repetition starts to settle in  
+### Giai đoạn: Ổn định "Vòng lặp"
 
-Daily routine:
+Thói quen hàng ngày:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+1.  Anki
+2.  Ngữ pháp
+3.  Immersion
 
-This is the fundamental process of the method. Keep doing what you're doing.  
+Đây là quá trình cơ bản của phương pháp. Hãy tiếp tục làm những gì bạn đang làm.
 
-But longer hours = more improvement!  
-So, try and aim for longer immersion hours!  
+Càng nhiều thời gian = càng cải thiện.
+ 
+Hãy đặt mục tiêu tăng lượng thời gian Immerse lên.
 
-**Q: I've been thinking about looking up a lot of words in reading, is this bad or good?**
+**Q: việc tra từ nhiều trong khi đọc là tốt hay xấu?**
 
-A: It's good! But please note if you make yourself look up a ton of words all the time, there is a risk of **burning out** and loss of enjoyment. 
+Đ: Điều này không xấu. Nhưng hãy lưu ý rằng nếu bạn tra quá nhiều từ liên tục, bạn sẽ có nguy cơ **kiệt sức** và mất hứng thú.
 
-This method relies on **your consistency**.  
+Phương pháp này phụ thuộc vào **sự kiên trì**.
 
-To stay consistent, you need to make sure you're setting yourself manageable goals.  
+Để luôn kiên trì, cần đảm bảo rằng những mục tiêu được đặt ra có thể xử lý và hoàn thành được.
 
-## Day 10  
+## Ngày 10
 
-Daily routine:
+Thói quen hàng ngày:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+1.  Anki
+2.  Ngữ pháp
+3.  Immersion
 
-You may want to look into [Condensed Audio](/resources#condensed-audio), this is a way to maximize the efficiency of passive listening.  
+Có thể bạn sẽ muốn thử [Condensed Audio](resources.md) , đây là một cách giúp phát huy tối đa hiệu quả của việc nghe thụ động.
 
-Passive listening is when you listen to Japanese audio when you are doing other things.  
+Nghe thụ động là khi bạn nghe Tiếng Nhật trong khi đang làm việc khác.
 
-While passive listening there are moments where you may be paying attention to the Japanese.  
+Trong khi nghe thụ động, sẽ có những lúc bạn chú ý đến Tiếng Nhật trong đó.
 
-Think of it as filling in the silence with Japanese.  
+Hãy coi nó như việc lấp đầy khoảng trống bằng Tiếng Nhật.
 
-Or, listening to Japanese at every possible opportunity. 
+Hoặc, nghe Tiếng Nhật mọi lúc có thể.
 
-Condensed audio removes non-speech parts of the audio, making it more efficient.  
+Phần âm thanh cô đọng (Condensed audio) sẽ loại bỏ các phần không phải lời nói trong âm thanh, giúp việc nghe hiệu quả hơn.
 
-If you have wireless earbuds, listening all the time becomes a lot easier.  
+Nếu bạn có tai nghe không dây, việc nghe mọi lúc sẽ trở nên dễ dàng hơn rất nhiều.
 
-If you've been watching *Love Live! (2013)*, I made condensed audio for it a long while ago, which you can find [here](https://mega.nz/folder/sdB1mC6T#X_fYeasMb64i3tAf3LeYEA)  
+Nếu bạn đã xem *Love Live! (2013)*, bạn có thể tải phần âm thanh này [ở đây](https://mega.nz/folder/sdB1mC6T#X_fYeasMb64i3tAf3LeYEA)
 
-## Day 11  
+## Ngày 11
 
-Daily routine:
+Thói quen hàng ngày:
+1.  Anki
+2.  Ngữ pháp
+3.  Immersion
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+**Q: Có cần PHẢI thực hiện tất cả các những việc hàng ngày theo đúng thứ tự?**
 
+A: Chắc chắn là không
 
-**Q: MUST I do all my daily tasks in this exact order you have written?**  
+Bạn thậm chí có thể thực hiện Immersion trước tiên, hoặc ngữ pháp đầu tiên, hoặc thậm chí Anki vào cuối ngày. Đây là nơi mà mọi người lựa chọn theo thứ mình muốn học và thứ phù hợp hơn với mình.
 
-A: Nononono! Absolutely not.  
+**Lưu ý: Đừng quên hoàn thành Anki hàng ngày.**
 
-You can even do immersion first thing, or grammar first thing, or even Anki right at the end of the day. This is an area where people just have preferences and things that work better for them.  
+## Ngày 12
 
-**Note: Just make sure you don't miss Anki!**  
+Thói quen hàng ngày:
 
-## Day 12  
+1.  Anki
+2.  Ngữ pháp
+3.  Immersion
 
-Daily routine:
+Một ngày thực hiện Immersion ngôn ngữ nữa. Có lẽ ngày thứ 12 là ngày mình xem *Non-Non Biyori*.
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+**Q: Có thể nghe đi nghe lại cùng một thứ không?**
 
-Yes, another day of immersing. Maybe day 12 can be *Non-Non Biyori* day. (Unless you've already immersed with it :P)     
+Đ: Hoàn toàn được. Nhưng nếu nó quá chán thì hãy chuyển sang nội dung mới.
 
-**Q: Can I listen to the same things over and over again?**  
+Nghe đi nghe lại cùng một nội dung có nhiều lợi ích nhưng nó sẽ khá chán và có thể mình cũng sẽ bỏ lỡ cơ hội nghe những điều mới mẻ và hữu ích.
 
-A: Absolutely! But if it gets boring, then switch to new content.  
+## Ngày 13
 
-Listening to the same content has huge benefits, but it can get boring and also you miss opportunities to hear new, useful things.   
+Thói quen hàng ngày:
 
-## Day 13  
+1.  Anki
+2.  Ngữ pháp
+3.  Immersion
 
-Daily routine:
+Đây là một thử thách dành cho bạn.
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+Hãy để hôm nay là ngày luyện đọc.
 
-Here's an interesting challenge for you today.  
+Tra **25** từ trong bài luyện đọc anime với phụ đề Tiếng Nhật.
 
-Let today be a reading practice day.  
+## Ngày 14
 
-Look up **25** words in your Japanese subtitled anime reading practice.  
+Chào mừng đồng chí đã đến cửa ải tiếp theo
 
-## Day 14
+Giai đoạn mới bắt đầu luôn là phần khó nhất khi học bất kỳ ngôn ngữ nào và mọi thứ sẽ chỉ trở nên dễ dàng hơn khi bạn học lâu hơn và nhiều hơn.
 
-Congratulations on making it this far!  
+Với nhiều thời gian dành cho việc thực hiện các phương pháp phù hợp, bạn chắc chắn sẽ tiến bộ.
 
-I know it has been tough (especially Anki and reading!), but the beginner stage is always the hardest part of learning any language, and things will only get easier the longer you do it.  
+Bạn có thể nghi ngờ về tác dụng thực sự của phương pháp này, sau đây sẽ là giải giải thích.
 
-With more time spent doing the right methods, you'll certainly improve.  
+Anki, **ngữ pháp** và **tra từ** là những việc giúp nâng cao *kiến thức* ngôn ngữ.
 
-You may have your doubts on what this method is actually doing, so allow me to explain.  
+luyện lập **nghe** và **đọc** là khi bạn **áp dụng** *kiến thức* thông qua việc tiếp xúc với cách người bản xứ sử dụng những phần ngôn ngữ này.
 
-Your **Anki**, **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language.  
+Phương pháp **subtitle tutor** để nâng cao **khả năng hiểu** của bạn trong **quá trình nghe** bằng cách cung cấp cho bạn ngữ cảnh của những gì đang được nói thông qua phụ đề ngôn ngữ bạn đã biết (Ở đây có thể là Tiếng Việt hoặc Tiếng Anh).
 
-Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives.  
+Việc **nghe với phụ đề Tiếng Nhật** giúp bạn: liên kết Kana với âm thanh, tìm hiểu những từ đang được nói và giúp bạn dễ đọc hơn.
 
-The **subtitle tutor method** aims to boost the **comprehensibility** of your **listening immersion** by giving you context of what is being said in the audio.  
+Việc **Thực hành nghe thuần (không có phụ)** là nơi bạn xây dựng mô hình về cách ngôn ngữ thực sự được nghe. Lý do chính cho điều này là để có được phát âm tốt và khả năng nghe được những từ đã biết. Nghe không rõ ràng như đọc, nó có thể rất nhanh và khó theo kịp. Bằng cách làm quen với việc nghe thuần, bạn có thể rèn luyện bản thân để nghe những điều không rõ ràng này tốt hơn.
 
-Your **Japanese subtitle listening** helps you: associate kana with sounds, figure out what words are being said and ease you into reading.  
+Khi khả năng nghe thuần (raw listening Immersion) của bạn đã trở nên tốt hơn và bạn có thể hiểu được, việc nghe thuần hàng loạt (mass raw listening) là cách duy nhất để trở nên thành thạo.
 
-Your **raw (no subs) listening practice** is where you build a mental model of how the language actually sounds. This is good for a number of reasons. The main reasons being getting a good accent, and also being able to hear the words that you know. Listening isn't as clear as reading, it can be very fast and hard to keep up with. By getting used to raw listening you can train yourself to hear these unclear things better.  
+**Việc nghe thụ động** của bạn sẽ lấp đầy những khoảng trống khi bạn không học Tiếng Nhật một cách chủ động
 
-When you get advanced at Japanese and understand your raw listening immersion, mass raw listening is the only way to get fluent.  
+### Giai đoạn: thử thách Yotsubato 100 trang
+ 
+Từ hôm nay cho đến ngày 30. Mình muốn bạn thử thách bản thân đọc 100 trang của manga よつばと!.
 
-Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Japanese.  
+よつばと! là một bộ manga về cuộc sống đời thường siu hay và có furigana (Kana hiện trên chữ Kanji).
 
-### Stage: 100-page Yotsubato! challenge  
+Rất khó tra từ trên Manga vì về cơ bản nó là văn bản trên hình ảnh.
 
-From today until the 30th day. I want you to challenge yourself to read 100 pages of the よつばと！ manga.  
+Nhưng có rất nhiều công cụ giúp quá trình này trở nên dễ dàng hơn.
 
-よつばと！ is a great slice of life manga that features furigana (kana on the top of kanji).  
+Có một công cụ tên là *mokuro* có thể biến manga thành trang HTML.
 
-Manga are tricky to look up words on because they are essentially, text on images.  
+Các bong bóng hội thoại sẽ chuyển thành văn bản mà có thể sử dụng được Yomichan, giống như một trang bình thường!
 
-But there are many tools out there that make this process easier.  
+よつばと! có một số cách viết từ không chuẩn, điều mà khiến cho việc sử dụng từ điển trở nên khó khăn. Chẳng hạn như そう được viết là そー
 
-There is a particularly crazy one known as *mokuro* that turns the manga into a HTML page.  
+Chữ “ー” này không phải là Kanji 一 (NHẤT). Nó chỉ là một dấu kéo dài nguyên âm.
 
-The text bubbles turn into text you can actually use Yomichan on, just like a normal web page!  
+Được gọi là “長音” (ちょうおん). Chữ Kanji này giúp kéo dài âm. とー sẽ là とう. びー sẽ là びい. vân vân.
 
-よつばと！ has some non-standard ways of writing words that make it tricky to use a dictionary with. Such as そう being written as そー
+Có một công cụ hỗ trợ việc đọc Yotsubato khi gặp những từ oái ăm như trên.
 
-This "ー" is not the kanji 一 (one). It is actually a vowel elongation mark.  
+**Tất cả những gì bạn cần là tải tệp .zip này về: [(Tải xuống tại đây)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**  
 
-It is known as "長音" (ちょうおん). The kanji of this mean long, sound!.    
+*Ghi chú: Có lỗi đánh máy trong phần hỗ trợ  đọc: おいてくぞ  thực ra phải là おいていくぞ, chứ không phải là おいておくぞ*
 
-とー would be とう. びー would be びい. etc.    
+Manga hiển thị ở dạng văn bản dọc. Điều này có nghĩa là văn bản được đọc từ phải sang trái và đọc từ trên xuống dưới (Từ góc trên bên phải trở xuống)
 
-I have made a Yotsubato reading helper to help you with words like these.  
+**Q: Cần phải làm gì từ hôm nay cho đến ngày thứ 30?**
 
-**Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**   
+Như mọi khi, bạn sẽ cần chạy Anki và hoàn thành các bài ngữ pháp hàng ngày.
 
-*Note: A typo I made in the reading helper: おいてくぞ is actually おいていくぞ, not おいておくぞ*
+Việc Immersion sẽ trở nên... phức tạp hơn một chút.
 
-Japanese manga is in vertical text. This means the text is read **downwards** from the **rightmost** line to the **leftmost** line.  
+Bạn sẽ cần phải cân bằng giữa việc đọc bộ Manga trên và việc immerse như thường lệ.
 
-**Q: So, what will I need to be doing from today until the 30th day?**  
+Dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn
 
-As always you will need to do your Anki and grammar study.  
+Có thể luyện đọc bằng _Yotsubato!_ thay vì đọc phụ đề Tiếng Nhật. Không nhất thiết phải đọc phụ đề nếu mình không muốn.
 
-Your immersion will get more... complicated.  
+**Mẹo tra từ: Trang tìm kiếm Yomichan**
 
-You will need to balance reading that manga and your usual immersion.  
+Bạn có thể sử dụng Yomichan để tìm kiếm từ bằng cách gõ hoặc sao chép và dán từ vào ô tìm kiếm.
 
-Shoving everything into the same day may be too difficult.  
+Bạn sẽ cần sử dụng trang tìm kiếm Yomichan để tra cứu các từ từ Trình trợ giúp đọc Yotsubato của mình.
 
-I suggest replacing your reading practice with Yotsubato! instead of Japanese subtitles. It doesn't have to be every day if you don't want to.  
+Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomichan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt ++alt++++insert++
 
-**Word looking up trick: The Yomichan Search Page**  
+**Q: Sẽ mất khoảng bao lâu để đọc được 100 trang?**
 
-You can use Yomichan to search up words by typing it or copy and pasting it.  
+A: Với tốc độ khoảng 10 phút mỗi trang, sẽ mất khoảng 16 giờ 40 phút. Nếu bạn dành 1 giờ đọc mỗi ngày thì trong 15 ngày còn lại, bạn sẽ đọc xong. Đấy là khi tốc độ đọc vẫn ở mức 10 phút một trang. Tốc độ đọc có thể sẽ tăng lên khi đã quen với việc đọc Yotsubato.
 
-You will need to use the Yomichan search page to look up words from my Yotsubato Reading Helper.  
+**Q: Tra cứu từng từ trong manga hay dùng xúc xắc để quyết định số lượng?**
 
-You can access the search page by clicking on the Yomichan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
+A: Bạn nên tra cứu càng nhiều càng tốt.
 
-**Q: How long will it actually take to read 100 pages?**
+**Q: không hiểu câu này?**
 
-A: At a pace of 10 minutes per page, it will take 16 hours and 40 minutes.  
+Đừng lo lắng nếu bạn không hiểu một câu bất kì. Bạn không hiểu vì nó không phải là kiểu câu i+1 (Chỉ có 1 thành phần trong câu mà bạn chưa hiểu hoặc biết rõ). Càng đọc nhiều hơn, sẽ càng có nhiều câu i+1 xuất hiện hơn. Và khi đọc, tra cứu từ và hiểu được các câu i+1, độ hiệu (comprehension) Tiếng Nhật sẽ tăng lên.
 
-If you read it for 1 hour every day for the rest of the 30 days, you can finish it in time.  
+Và khi đọc đủ, bạn sẽ có thể quay lại những câu khó trước đó và có thể hiểu câu đấy tốt hơn một chút. Nói cách khác, chỉ có thể học cách hiểu được một câu khi đọc nhiều hơn
 
-This is assuming your pace stays at 10 minutes per page though!  
+### Nhắc nhỏ: Học cách đọc trong nhiều giờ và khiến việc đọc bớt chán.
 
-Your pace can increase the more you get used to reading Yotsubato.  
+#### Sử dụng các "hộp thời gian" (Timeboxing)
 
-**Q: Am I looking up every word in the manga or am I using a dice to decide?**  
+**Pomodoro**
 
-A: I want you to look up as much as you can.  
+Pomodoro: Tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút) cho đến khi đồng hồ reo, sau đó nghỉ ngơi trong 5 phút. Hết 5 phút lại quay lại tập trung tiếp.
 
-**Q: I don't understand the sentences!**  
+Sử dụng trang Pomodoro này: [https://pomofocus.io/](https://pomofocus.io/)    
 
-Don't worry if you don't understand sentences.  
+Bạn nên giảm thời gian xuống còn 15 phút nếu bạn thấy 25 phút quá dài.
 
-You don't understand them because they aren't i+1.  (Only 1 component of the sentence that you aren't already quite comfortable with)
+**Xúc xắc 20 mặt**
 
-With more reading, more i+1 opportunities arise.  
+Trong một số ngày nhất định, với những ai không muốn đọc quá lâu thì có thể tung xúc xắc 20 mặt để quyết định thời lượng đọc (phút).
 
-And when you read, look up, and understand i+1 sentences, your Japanese comprehension level increases.  
+[Đổ xúc xắc 20 mặt](https://www.google.com/search?q=roll+a+20+sided+dice)
 
-And with enough reading, you'll be able to go back to those difficult sentences and understand them at least a little better.  
-In other words, you'll only learn to understand sentences with more reading!!!   
+Hoặc bạn có thể sử dụng xúc xắc 20 mặt để quyết định xem bạn sẽ đọc bao nhiêu phút giữa các tập anime!
 
+#### Đọc lướt/Bỏ qua
 
-### Important! Learning how to read for long hours and making it enjoyable.  
-#### Timeboxing
+Việc đọc ở đây không phải là đọc hết nội dung trong sách.
 
-**Pomodoro**  
+Bạn cần học cách bỏ qua và đọc lướt những thứ bạn không quan tâm/khiến bạn thấy phiền, v.v.
 
-The Pomodoro timer method is where you focus on a task for a set time (usually 25 minutes) until the timer rings, then you take a break for 5 minutes. When your 5 minutes are up, you go back to focusing.  
+Luôn có thể quay lại phần "khiến bạn thấy phiền" đó sau khi đã đọc xong những đoạn hay (Nếu bạn muốn).
 
-Use this Pomodoro timer: [https://pomofocus.io/](https://pomofocus.io/)    
+#### Nghỉ giải lao!
 
-You should reduce the time to 15 minutes if 25 minutes is too long.  
+Hãy nghỉ giải lao nếu thấy mệt.
 
-**20-sided dice**
+## Ngày 15 đến ngày 30: Học Tiếng Nhật hàng ngày và Immersion [悪戦苦闘](https://jisho.org/word/%E6%82%AA%E6%88%A6%E8%8B%A6%E9%97%98)!
 
-For anyone that isn't feeling like reading for too long on a particular day, you can roll a 20-sided dice to decide how many minutes you're gonna read.  
-
-[Roll a 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
-
-Or you could use the 20-sided dice to decide how many minutes reading you're gonna do between anime episodes!  
-
-#### Skimming/Skipping  
-
-Reading isn't about reading all of the text in the book.  
-
-You need to learn how to skip and skim things that don't interest you/annoy you etc.  
-
-If that annoying part of the book was any good then it would make you wanna read it right?  
-
-You can always go back to that one annoying part after you've read the good bits after all.  
-
-If you want to, of course.  
-
-
-#### Take breaks!  
-
-Take breaks if you feel tired/fatigued!  
-
-## Day 15 to Day 30: Daily Japanese Study and Immersion [悪戦苦闘](https://jisho.org/word/%E6%82%AA%E6%88%A6%E8%8B%A6%E9%97%98)!  
-
-Until the 30th day, all I want you to do is:
+Cho đến ngày thứ 30, những gì cần làm bao gồm:
 
 - Anki
-- your grammar study
-- "Immersion" = (reading that manga, raw listening anime, subtitle tutor, passive listening, Japanese subtitles)
+- Học ngữ pháp.
+- Immersion = (đọc manga ở trên, xem anime thuần (không phụ đề), sử dụng "subtitle tutor", nghe thụ động, sử dụng phụ đề Tiếng Nhật)
 
-The method is pretty much that.  
+Chỉ có vậy thôi và sẽ tiếp tục trong vài tuần tới.
 
-You will be doing the same thing for the next few weeks.  
+**Q: Trong thời gian này mình có thể đọc và xem những thứ khác mà không được đề cập trong đây không?**
+Được, vì đấy mới chính là những gì mà phương pháp này hướng tới.
 
-Keep up with it.  
+Đọc những gì bạn quan tâm!
 
-You're doing great!  
+Xem những gì bạn quan tâm!
 
-**Q: During this period can I read and watch other things that you haven't talked about?**  
+Hướng dẫn học này (UsagiSpoon) chỉ thay bạn quyết định một số phần.
 
-Of course!  
+**Q: Lối sống lý tưởng theo kiểu UsagiSpoon là gì?**
 
-Read what interests you!  
+A: [https://www.youtube.com/watch?v=r5Qxr8OGkaA](https://www.youtube.com/watch?v=r5Qxr8OGkaA) 
 
-Watch what interests you!  
+## Ngày 31 trở đi: Sau UsagiSpoon?
+Giờ đây, bạn đã có đủ nền tảng để tự mình tiếp tục học tập.
 
-This study guide (UsagiSpoon) was just making a few of the decisions for you.  
+Có một số “nhiệm vụ học Tiếng Nhật” cho bạn đây. Không có giới hạn thời gian cho những nhiệm vụ này. Với một số nhiệm vụ khác có thể sẽ cần đến đến vài tháng hoặc vài năm. Tuy vậy, vẫn nên hoàn thành chúng.
 
-**Q: What is the ideal UsagiSpoon lifesyle?**  
-
-A: [https://www.youtube.com/watch?v=r5Qxr8OGkaA](https://www.youtube.com/watch?v=r5Qxr8OGkaA)  
-
-
-## Day 31 and beyond: After UsagiSpoon?  
-
-At this point, you will have enough of a foundation to proceed with learning on your own.  
-
-There are a few "Japanese learning tasks" I'd like to set you.  
-
-There is no time limit for these tasks.  
-
-Some you might not even be able to do until months or years down the line!  
-
-Nevertheless, I highly recommend you do them.  
-
-- Finish the entirety of Yotsubato volume 1
-- Finish the Kaishi 1.5k deck   
-- Finish the RRTK450 deck  
-- Do the [Kanji Phonetics](/kanjiphonetics) deck.  
-- Finish Cure Dolly's grammar guide  
-- Study all the Japanese grammar from the Dictionary of Japanese Grammar. There is an Anki deck for that [here](https://ankiweb.net/shared/info/1013111837). There are 629 grammar points ranging from beginner to advanced.     
-- Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
-- Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
-- Train your ability to recognize and read Japanese numbers, with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).   
-- Start a "mining" Anki deck sometime after you finish the Kaishi 1.5k deck.  
-- Finish a visual novel in under 6 months after starting it.   
-- Try using a monolingual dictionary after you finish a visual novel.  
-- Increase your immersion hours.  
+- Đọc hết Volume 1 của Yotsubato
+- Hoàn thành bộ thẻ Kaishi 1,5k
+- Hoàn thành bộ thẻ RRTK450
+- Hoàn thành bộ thẻ [Ngữ âm Kanji](kanjiphonetics.md).
+- Hoàn thành hướng dẫn ngữ pháp của Cure Dolly
+- Học tất cả ngữ pháp Tiếng Nhật từ "Dictionary of Japanese Grammar". Có thể sử dụng bộ thẻ Anki [này](https://ankiweb.net/shared/info/1013111837). Có 629 cấu trúc ngữ pháp từ cơ bản đến nâng cao.
+- Bắt đầu học cách phát âm và pitch accent Tiếng Nhật với [hướng dẫn này](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
+- Bắt đầu đọc những nội dung dài hơn, như visual novel chẳng hạn. Lên TheMoeWay Discord và tham gia CLB Visual Novel để giao lưu với những người có cùng sở thích.
+- Rèn luyện khả năng nhận biết và đọc số Tiếng Nhật của bạn với tài nguyên này: [Thực hành số Tiếng Nhật](https://langpractice.com/japanese/).
+- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ Kaishi 1,5k.
+- Hoàn thành một visual novel trong khoảng 6 tháng sau khi bắt đầu chơi.
+- Hãy thử sử dụng từ điển đơn ngữ sau khi chơi xong một visual novel.
+- Tăng số giờ Immersion của bạn.

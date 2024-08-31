@@ -1,8 +1,8 @@
-# Yomichan Custom CSS
+# CSS tùy chỉnh của Yomichan
 
-!!! info "This is an optional tutorial."
-    If you want to setup Yomichan, you can find that [here](/yomichan)
-!!! info "Yomichan Update"
+!!! info "Đây là một hướng dẫn tùy chọn"
+    Nếu bạn muốn cài đặt Yomichan thì hãy đến trang [này](yomichan.md)
+!!! info "Cập nhật Yomichan"
     Yomichan has been updated and since changed old classes and added new ones. This guide will no longer work. Please come back later when this message has been removed.
 
 
@@ -16,7 +16,7 @@ There are many, many advanced modifications you can make with custom CSS, howeve
 
 The headword can be modified with the classes below:  
 ```css
-/* For kanji */
+/* For Kanji */
 .kanji-link {
 
 }
@@ -54,7 +54,7 @@ With the following CSS:
 The result:  
 ![Yomichan CSS Demo](img/yomicss1.jpg)  
 
-This demonstrates differing font colors for kanji and kana. You may edit this to your heart's content.
+This demonstrates differing font colors for Kanji and kana. You may edit this to your heart's content.
 
 ## Definition
 
@@ -270,7 +270,7 @@ You may edit this to your heart's content.
 
 To do this, you must install Yomichan dev build from GitHub instead of the Chrome Web Store, this is because we will be tampering with the files of the extension, which will be flagged if you get it from the Chrome Web Store.  
 You can find it below.  
-[[GitHub]](https://github.com/FooSoft/yomichan/releases)  
+[[GitHub]](https://github.com/FooSoftyomichan.md/releases)  
 
 !!! warning "Yomichan Data"
     All Yomichan data including dictionaries will be reset, you may be able to just copy the files over from your current Yomichan installation though.

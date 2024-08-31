@@ -1,39 +1,40 @@
-# Cross Platform Visual Novel Setup   
+# Cài đặt Visual Novel đa nền tảng 
 
-<h2> Acquiring visual novels </h2>
+<h2> Mua Visual Novel </h2>
 
-Visual novels are sold either on optical disc or as digital download. You can buy visual novels on DLsite, DMM or even Steam in some cases. Please note that you need a DVD compatible optical drive if you buy your visual novels on optical disc.    
-If your computer does not have a DVD drive, you will need an another computer that has one to create a rip of the DVD disc to a disc image file or use an external USB DVD drive.  
-Alternatively, you may not buy the VNs, and download them using the links found in [Resources](/resources). Please note that **this is piracy** and if you enjoy the VN, consider supporting the creators and buy it.  
+Visual Novel được bán trên đĩa quang (optical disc) hoặc dưới dạng tải xuống kỹ thuật số. Bạn có thể mua Visual Novel trên DLsite, DMM hoặc thậm chí Steam trong một số trường hợp. Hãy nhớ là bạn cần có ổ đĩa quang tương thích với DVD nếu bạn mua Visual Novel dạng đĩa quang.
 
-On mobile however, VNs will be distributed as digital download through its respective app store.  
+Nếu máy tính không có ổ đĩa DVD, bạn sẽ cần một máy tính khác có ổ đĩa DVD để tạo bản sao đĩa DVD thành tệp ảnh đĩa (disc image file) hoặc sử dụng ổ đĩa DVD USB ngoài.
 
-!!! question "Glossary: disc image file"
-	A disc image file does not refer to a picture of a disc, rather it is a file (usually `.iso`) that contains an exact copy of what was on a disc. You can use tools such as WinCDEmu or Alcohol 120% to make an exact copy of what was on the disc onto an `.iso` or `.mdf/.mds` file.  
+Ngoài ra, có thể bạn sẽ không mua VN và tải thông qua các liên kết có trong [Resources](https://learnjapanese.moe/resources). Hãy nhớ là **đây là vi phạm bản quyền** (piracy) và nếu bạn thích VN, hãy cân nhắc mua nó và ủng hộ người sáng tạo.
 
- 
+Tuy nhiên, trên thiết bị di động, VN sẽ được phân phối dưới dạng tải xuống kỹ thuật số thông qua cửa hàng ứng dụng tương ứng.
 
-Once you have acquired a visual novel, please select your platform below.  
+!!! question "Thuật ngữ: disc image file"
+	Tệp ảnh đĩa hay disc image file không đề cập đến hình ảnh của cái đĩa mà nó là một tệp (thường có đuôi là `.iso`) chứa bản sao chính xác của những gì có trên đĩa. Bạn có thể sử dụng các công cụ như "WinCDEmu" hoặc "Alcohol 120%" để tạo một bản sao chính xác những gì có trên đĩa vào một máy tính thành tệp `.iso` hoặc `.mdf/.mds`.
 
-<h2>Desktop</h2>  
 
-[:fontawesome-brands-windows: Windows](/vn-win/){: .md-button .windows}
+Có Visual Novel rồi thì chọn cách cài đặt ở dưới đây cho từng nền tảng.
 
-[:fontawesome-brands-apple: macOS](/vn-mac/){: .md-button .mac}	
+<h2>Máy tính</h2>  
 
-[:fontawesome-brands-linux: Linux](/vn-linux/){: .md-button .linux}  
+[:fontawesome-brands-windows: Windows](vn-win.md){: .md-button .windows}
 
-[:fontawesome-brands-freebsd: FreeBSD](/vn-bsd/){: .md-button .freebsd}
+[:fontawesome-brands-apple: macOS](vn-mac.md){: .md-button .mac}	
 
-<h2>Mobile</h2>  
+[:fontawesome-brands-linux: Linux](vn-linux.md){: .md-button .linux}  
 
-[:fontawesome-brands-android: Android](/vn-android/){: .md-button } 	
+[:fontawesome-brands-freebsd: FreeBSD](vn-bsd.md){: .md-button .freebsd}
 
-[:material-apple-ios: iOS](/vn-ios/){: .md-button }  
+<h2>Điện thoại</h2>  
+
+[:fontawesome-brands-android: Android](vn-android.md){: .md-button } 	
+
+[:material-apple-ios: iOS](vn-ios.md){: .md-button }  
 
 <h2>Legacy</h2>  
 
-[:material-microsoft-windows-classic: Windows XP VM](/vn-winxp/){: .md-button } 
+[:material-microsoft-windows-classic: Windows XP VM](vn-winxp.md){: .md-button } 
 
 
  

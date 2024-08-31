@@ -1,36 +1,31 @@
-# Are you using the right font? 
+# Bạn có đang sử dụng đúng phông chữ không?
 
-![Chinese vs Japanese font](img/font1.png)
+Phông chữ tiếng Trung và Tiếng Nhật
 
-By default, your computer / phone will display kanji in a Chinese font. Japanese kanji look slightly different, and it can be damaging if you learn the Chinese appearance of kanji rather than the Japanese ones.  
+Mặc định máy tính/điện thoại của bạn sẽ hiển thị chữ Kanji theo phông chữ tiếng Trung. Chữ Kanji trong Tiếng Nhật trông hơi khác một chút và sẽ khá vấn đề nếu bạn học Kanji kiểu tiếng Trung thay vì kiểu chữ Nhật.
 
-**Verifying if your browser is currently using a Japanese font**
+Kiểm tra xem trình duyệt của bạn hiện có đang sử dụng phông chữ Tiếng Nhật không
 
-The one character that looks strikingly different between Japanese and Chinese fonts is [直](https://jisho.org/search/%E7%9B%B4%20%23kanji) which is used in the word [直す](https://jpdb.io/search?q=%E7%9B%B4%E3%81%99) (*naosu*) which means *cure, heal, fix*.  
+Một ký tự trông khác biệt rõ rệt giữa phông chữ Tiếng Nhật và tiếng Trung là [直](https://jisho.org/search/%E7%9B%B4%20%23kanji) được sử dụng trong từ [直す](https://jpdb.io/search?q=%E7%9B%B4%E3%81%99) (naosu) nghĩa là chữa bệnh, chữa lành, sửa chữa.
 
-<figure>
-  <img src="/img/font2.png" width="300" />
-  <figcaption>Naosu in a Chinese font (DengXian)</figcaption>
-</figure>
+![](img/font2.png)
+_Naosu in a Chinese font (DengXian)_
 
+![](img/font3.png)
+_Naosu in a Japanese font (IPAex Gothic)_
 
-<figure>
-  <img src="/img/font3.png" width="300" />
-  <figcaption>Naosu in a Japanese font (IPAex Gothic)</figcaption>
-</figure>
-
-If your 直 looks like the second image, congrats! You are using a Japanese font, if not, change your font.  
+Nếu 直 của bạn trông giống như hình ảnh thứ hai, thì bạn đang dùng font Tiếng Nhật, nếu không thì nhớ đổi phông chữ nha.
 
 ## Windows 10
 
-++win+i++ to open **Settings** > **Apps** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** and **Install**  
+++win+i++ để mở **Settings** > **Apps** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** và **Install**  
 
-??? tip "Advanced Users: Powershell"
-	Japanese fonts can also be installed using **Windows Powershell (Administrator)**:
+??? tip "Cho người dùng nâng cao: Powershell"
+	Tải phông chữ thông qua **Windows Powershell (Administrator)**:
 	```powershell
 	Get-WindowsCapability -Online -Name Language.Fonts.Jpan~~~und-JPAN* | Add-WindowsCapability -Online
 	```  
-	This does not require a restart.
+	Không cần khởi động lại máy.
 ??? question "Also have Chinese supplemental fonts already installed?"
 	You will need to set your locale to Japanese (Japan).
 	!!! abstract "Setting Japanese locale"
@@ -38,27 +33,34 @@ If your 直 looks like the second image, congrats! You are using a Japanese font
 		2. Type `intl.cpl` and press ++enter++
 		3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.
 		
-Now if you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.  
 
-Standard font: Meiryo UI  
-Serif font: Yu Mincho  
-Sans-serif font: Meiryo	  
-Monospace: MS Gothic   
+Bây giờ nếu bạn đang sử dụng trình duyệt dựa trên Chrome (VD: Google Chrome, Brave), hãy chọn Menu :material-dots-vertical: > **Settings** > chọn **Appearance** ở bên trái > **Customize fonts**. Đây là nơi bạn cần đặt phông chữ của mình.
 
-If you're using Firefox it is already pre-configured. 
+Phông chữ tiêu chuẩn: Meiryo UI
+
+Phông chữ Serif: Yu Mincho
+
+Phông chữ Sans-serif: Meiryo
+
+Monospace: MS Gothic
+
+Nếu bạn đang sử dụng Firefox thì nó đã được làm sẵn cho bạn
 
 ## macOS
 
-You just need to add Japanese as a preferred language in System Preferences.  
- > System Preferences, then click Language & Region. Click General, then Add a language and choose Japanese 日本語  
+Bạn chỉ cần thêm Tiếng Nhật làm ngôn ngữ trong Tùy chọn hệ thống.
+
+ > System Preferences, sau đó chọn "Language & Region". Bấm vào "General", sau đó "Add a language" và chọn "Japanese 日本語"
 
 ## Linux
 
-You should have `ja_JP.UTF-8` as one of your locales. If not, uncomment the line `#ja_JP.UTF-8 UTF-8` in `/etc/locale.gen` and run:
+Cần có locale `ja_JP.UTF-8`. Nếu không thì bỏ dấu thăng ở dòng `#ja_JP.UTF-8 UTF-8` trong `/etc/locale.gen` và chạy:
 
 ```bash
 sudo locale-gen
 ```
+
+Bây giờ hãy cài đặt gói [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/).
 
 Now install the [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/) package. It is available on the official Arch repositories and it's known to set up the necessary fontconfig rules when installed in Arch.  
 
@@ -110,10 +112,10 @@ Adding the Japanese keyboard (kana or romaji whatever works) should do the trick
 
 ## Anki
 
-I think Chinese fonts on Anki cards looks the worst because kana will be sans-serif and kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
+I think Chinese fonts on Anki cards looks the worst because kana will be sans-serif and Kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
 
 <figure>
-  <img src="/img/font4.png" width="900" />
+  <img src="img/font4.png" width="900" />
   <figcaption>Oh god. Unironically a lot of people's cards look like this.</figcaption>
 </figure>
 
@@ -163,12 +165,12 @@ Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your
 Preview:
 
 <figure>
-  <img src="/img/font5.png" width="900" />
+  <img src="img/font5.png" width="900" />
   <figcaption>With a full Japanese definition.</figcaption>
 </figure>
 
 <figure>
-  <img src="/img/font6.png" width="900" />
+  <img src="img/font6.png" width="900" />
   <figcaption>With a bilingual definition.</figcaption>
 </figure>
 
@@ -207,7 +209,7 @@ Using Popup CSS...
 
 
 <figure>
-  <img src="/img/font7.png" width="900" />
+  <img src="img/font7.png" width="900" />
   <figcaption>Japanese to Japanese defintion with IPAexゴシック font.</figcaption>
 </figure>
 

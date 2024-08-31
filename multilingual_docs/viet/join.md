@@ -1,7 +1,9 @@
-# Before you do that...
+# Trước khi tham gia
 
-Have you read the site? Please read the site before joining the Discord.
+Lưu ý: TheMoeWay là một cộng đồng Discord sử dụng Tiếng Anh. Vậy nên hãy lưu ý trước khi tham gia nha! (À mà có một kênh Tiếng Việt đấy, nhưng chủ yếu vẫn là Tiếng Anh).
 
-Have a read of the site before asking any questions in the Discord. **We have a search bar.** If you couldn't find your answer then by all means, ask away in our Discord.
+Bạn đã đọc trang hướng dẫn chưa? Hãy đọc các hướng dẫn trên trang trước khi tham gia vào Discord.
 
-**[I understand, take me to the Discord!](https://discord.gg/nhqjydaR8j)**
+Đọc các hướng dẫn trên trang trước khi hỏi trên Discord. **Có thanh tìm kiếm để bạn tìm nó.** Nếu bạn vẫn không thể tìm được câu trả lời thông qua thanh tìm kiếm, hãy hỏi trên Discord
+
+**[Bấm vào đây để tham gia cộng đồng trên Discord!](https://discord.gg/nhqjydaR8j)**
