@@ -175,7 +175,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
 - **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**  
 - [stegatxins0's super fast mining guide](https://rentry.co/mining)  
-- [Xelieu's lazy Anki guide](https://rentry.co/lazyXel)    
+- [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)    
 - [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)  
 
 ### Japanese Fonts
