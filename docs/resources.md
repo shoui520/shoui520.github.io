@@ -81,9 +81,11 @@ Refer to the tools section for info on how to make lookups easier for manga.
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
 - [mangareader.to](https://mangareader.to) - mangareader, read manga online.
-- [Rawkuma](https://rawkuma.com/) - Also lets you read manga online. 
+- [Rawkuma](https://rawkuma.com/) - Also lets you read manga online.
+
 The websites below have the best collection but can be a pain to download from.  
-**Use a debrid service to generate premium full speed download links!**   
+**Use a debrid service to generate premium full speed download links!**
+
 - [A-zmanga](http://www.a-zmanga.net/) - Has the most content. You need a debrid service though.  
 - [DLRaw](https://dlraw.net/) - Starting to catch up to A-zmanga. You may need a debrid service though.
 - [13dl.to](http://13dl.to/) - Similar to a-zmanga. 
