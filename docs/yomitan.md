@@ -134,7 +134,7 @@ See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup)
 
 ## Offline audio server (+ More audios than default)  
 
-[Follow this guide to get local audio.](https://github.com/themoeway/local-audio-yomitan)  
+[Follow this guide to get local audio.](https://github.com/yomidevs/local-audio-yomichan)  
 
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 

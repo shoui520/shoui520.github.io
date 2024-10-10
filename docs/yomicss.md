@@ -270,7 +270,7 @@ You may edit this to your heart's content.
 
 To do this, you must install Yomitan dev build from GitHub instead of the Chrome Web Store, this is because we will be tampering with the files of the extension, which will be flagged if you get it from the Chrome Web Store.  
 You can find it below.  
-[[GitHub]](https://github.com/themoeway/yomitan/releases)  
+[[GitHub]](https://github.com/yomidevs/yomitan/releases)  
 
 !!! warning "Yomitan Data"
     All Yomitan data including dictionaries will be reset, you may be able to just copy the files over from your current Yomitan installation though.
