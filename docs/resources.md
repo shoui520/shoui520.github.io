@@ -32,7 +32,9 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 ### Grammar
 - **[※ - Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Cure Dolly is a new grammar guide that has sparked recent attention because of its unique way of teaching Japanese grammar. It aims to teach Japanese grammar in a way that sticks true to the roots of the language, in contrast to other grammar guides that take shortcuts that could cause confusion later on. For that reason, I recommend you start with this. Because of Cure Dolly's speech, and the audio quality presented in the videos, you may find it difficult to understand. However there are subtitles available for all videos that may alleviate this issue, which I recommend you turn on. 
 - [Cure Dolly Complete Transcript by dinuz UPDATED](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) - A complete transcript of Cure Dolly videos. 
+- **[※ Japanese Ammo by Misa Grammar Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)** - recommend sleeper way of grinding grammar.  
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html) - Tae Kim's grammar guide has been around for as long as anyone can remember. It is often recommended as a good grammar guide however you may want to use Cure Dolly instead, for a more optimized approach. 
+
 - [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
@@ -149,7 +151,8 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - ~~[Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)~~  
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
 - [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
-- [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)   
+- [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)  
+- **[Whisper AI subtitle generator hugging face space](https://huggingface.co/spaces/Nick088/Fast-Subtitle-Maker)   
 - **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**  
 ### Sentence Search
 - [Immersion Kit](https://www.immersionkit.com/) - Search sentences from anime, games etc. with translation. Made by Game Gengo. 
