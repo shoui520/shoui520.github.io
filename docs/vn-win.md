@@ -93,7 +93,7 @@ You can find an example below.
 
 After that, you should just be able to launch the game! 
 
-Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual-novels-to-learn-japanese) to learn how to use Textractor with Yomichan.
+Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual-novels-to-learn-japanese) to learn how to use Textractor with Yomitan.
 
 ## Steam Games
 
