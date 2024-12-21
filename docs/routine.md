@@ -265,9 +265,7 @@ When you first open Anki, the first thing you'll see is the "interface language 
 
 Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
 
-In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*".  
-
-And change the **Learn ahead limit** to `900`.  
+In this window, click on the **Review** tab and change the **Learn ahead limit** to `900`.  
 
 Now click Close.  
 
