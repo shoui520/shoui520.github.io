@@ -1,0 +1,1333 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Moe Moe Moe Moe Moe Moe Moe">
+      
+      
+        <meta name="author" content="shoui">
+      
+      
+        <link rel="canonical" href="https://learnjapanese.moe/vn-bsd/">
+      
+      
+      
+      
+      <link rel="icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Visual novels on FreeBSD - TheMoeWay</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f8fc17f.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6M8XGSMGX2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6M8XGSMGX2');
+</script>
+
+
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7374918663808833"
+     crossorigin="anonymous"></script>
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="cyan">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#visual-novels-on-freebsd" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Header -->
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="header.title">
+    
+    <!-- Link to home -->
+    <a href=".." title="TheMoeWay"
+      class="md-header__button md-logo" aria-label="TheMoeWay" data-md-component="logo">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+
+    <!-- Button to open drawer -->
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            TheMoeWay
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+            Visual novels on FreeBSD
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Discord icon that links to discord-->
+    <label class="md-header__button md-icon">
+      <a href="/join">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485 485 0 0 0 404.081 32.03a1.82 1.82 0 0 0-1.923.91 338 338 0 0 0-14.9 30.6 447.9 447.9 0 0 0-134.426 0 310 310 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.7 483.7 0 0 0-119.688 37.107 1.7 1.7 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.02 2.02 0 0 0 .765 1.375 487.7 487.7 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348 348 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321 321 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251 251 0 0 0 9.109-7.137 1.82 1.82 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.81 1.81 0 0 1 1.924.233 235 235 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.4 301.4 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391 391 0 0 0 30.014 48.815 1.86 1.86 0 0 0 2.063.7A486 486 0 0 0 610.7 405.729a1.88 1.88 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541M222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241m195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241"/></svg>
+      </a>
+    </label>
+
+    <!-- Heart emoji that links to patreon -->
+    <label class="md-header__button md-icon">
+      <a href="/donate">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.957 7.21c-.004-3.064-2.391-5.576-5.191-6.482-3.478-1.125-8.064-.962-11.384.604C2.357 3.231 1.093 7.391 1.046 11.54c-.039 3.411.302 12.396 5.369 12.46 3.765.047 4.326-4.804 6.068-7.141 1.24-1.662 2.836-2.132 4.801-2.618 3.376-.836 5.678-3.501 5.673-7.031"/></svg>
+      </a>
+    </label>
+
+
+
+    <!-- Color palette -->
+    
+    <form class="md-header__option" data-md-component="palette">
+      
+      
+      
+      <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default"
+        data-md-color-primary="purple" data-md-color-accent="cyan" type="radio" name="__palette"
+        id="__palette_1" />
+      
+      <label class="md-header__button md-icon" title="Switch to dark mode"
+        for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+      
+      
+      
+      
+      <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate"
+        data-md-color-primary="deep-purple" data-md-color-accent="cyan" type="radio" name="__palette"
+        id="__palette_2" />
+      
+      <label class="md-header__button md-icon" title="Switch to light mode"
+        for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+      
+      
+    </form>
+    
+
+    <!-- Site language selector -->
+    
+
+    <!-- Button to open search modal -->
+    
+    <label class="md-header__button md-icon" for="__search">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+    </label>
+
+    <!-- Search interface -->
+    <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    <!-- Repository information -->
+    
+    <div class="md-header__source">
+      <a href="https://github.com/shoui520/shoui520.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Open a pull request
+  </div>
+</a>
+    </div>
+    
+  </nav>
+
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+
+
+
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="TheMoeWay" class="md-nav__button md-logo" aria-label="TheMoeWay" data-md-component="logo">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+    TheMoeWay
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/shoui520/shoui520.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Open a pull request
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Guides
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Guides
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Japanese Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../routine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    30 Day Japanese
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speaking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speaking Japanese
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../animejp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anime Japanese
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kanji/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning Kanji
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../readingtips/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reading Techniques and Strategies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monolingual/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monolingual Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Japanese FAQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../font/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fixing your font
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2ch/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to use 5ch
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Visual Novels
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Visual Novels
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning Japanese with VNs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn-setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visual Novel Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Yomitan
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Yomitan
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomichan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Yomichan Setup Tutorial
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Other
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Other
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../donate/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Donate
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" >
+    <div class="md-sidebar__scrollwrap">
+        <a href="/join"><img width="100%" src="/img/discord.png"></a>
+       <!-- <a href="/donate"><img width="100%" src="/img/donate.png"></a> -->
+        <div class="md-sidebar__inner">
+            <br>
+            
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#japanese-and-utf-8-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      Japanese and UTF-8 support
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Japanese and UTF-8 support">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#installing-a-japanese-font" class="md-nav__link">
+    <span class="md-ellipsis">
+      Installing a Japanese font
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#enabling-unicode-utf-8" class="md-nav__link">
+    <span class="md-ellipsis">
+      Enabling Unicode UTF-8
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#graphics-drivers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graphics Drivers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installing-wine-and-dependencies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Installing Wine and dependencies
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configuring-wine-and-installing-runtimes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Configuring Wine and installing runtimes
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Configuring Wine and installing runtimes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-the-wineprefix" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating the Wineprefix
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-winetricks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Using Winetricks
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#japanese-fonts-in-wine" class="md-nav__link">
+    <span class="md-ellipsis">
+      Japanese fonts in Wine
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installing-the-visual-novel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Installing the visual novel
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Installing the visual novel">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#extracting-the-iso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Extracting the ISO
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#running-the-installer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Running the installer
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#launching-the-visual-novel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Launching the visual novel
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#troubleshooting-fuguriya-vns" class="md-nav__link">
+    <span class="md-ellipsis">
+      Troubleshooting: Fuguriya VNs
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="visual-novels-on-freebsd">Visual novels on FreeBSD<a class="headerlink" href="#visual-novels-on-freebsd" title="Permanent link">&para;</a></h1>
+<p>Visual novels are only Microsoft Windows programs, therefore you must use <em>Wine</em> in order to run them.  </p>
+<p>Follow the steps below to run VNs on FreeBSD.  </p>
+<h2 id="japanese-and-utf-8-support">Japanese and UTF-8 support<a class="headerlink" href="#japanese-and-utf-8-support" title="Permanent link">&para;</a></h2>
+<p>By default, FreeBSD is unable to display Japanese text. </p>
+<h3 id="installing-a-japanese-font">Installing a Japanese font<a class="headerlink" href="#installing-a-japanese-font" title="Permanent link">&para;</a></h3>
+<p>Make sure you have a Japanese font before proceeding.
+I recommend the following fonts:<br />
+<strong>ja-font-ipa</strong> <br />
+<strong>ja-font-koruri</strong><br />
+<strong>ja-font-sazanami</strong><br />
+<strong>ja-font-kochi</strong><br />
+<strong>ja-font-mplus-ipa</strong><br />
+<strong>ja-font-vlgothic</strong><br />
+<strong>hanazono-fonts-ttf</strong>  </p>
+<p>You can install them from binary package by doing:<br />
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pkg<span class="w"> </span>install<span class="w"> </span>ja-font-ipa<span class="w"> </span>ja-font-koruri<span class="w"> </span>ja-font-sazanami<span class="w"> </span>ja-font-kochi<span class="w"> </span>ja-font-mplus-ipa<span class="w"> </span>ja-font-vlgothic<span class="w"> </span>hanazono-fonts-ttf
+</code></pre></div>
+You can verify that your FreeBSD system is able to display Japanese text if you can see the Japanese text below:  </p>
+<blockquote>
+<p>てすとテスト試験  </p>
+</blockquote>
+<h3 id="enabling-unicode-utf-8">Enabling Unicode UTF-8<a class="headerlink" href="#enabling-unicode-utf-8" title="Permanent link">&para;</a></h3>
+<p>FreeBSD also does not use Unicode by default. So Japanese filenames will be broken. You need to add these lines to your <code>/etc/login.conf</code>  </p>
+<p><div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">25</span>
+<span class="normal">26</span>
+<span class="normal">27</span>
+<span class="normal">28</span></pre></div></td><td class="code"><div><pre><span></span><code>default:\
+            [...]
+<span class="hll">            :charset=UTF-8:\
+</span><span class="hll">            :lang=en_US.UTF-8:
+</span></code></pre></div></td></tr></table></div>
+Now rebuild database for this file:  </p>
+<p><div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>cap_mkdb<span class="w"> </span>/etc/login.conf
+</code></pre></div>
+Log out by using <code>pkill -u $USER</code> and log back in.  </p>
+<div class="admonition info">
+<p class="admonition-title">KDE5/SDDM</p>
+<p>If you are using KDE, create a file called <code>locale.sh</code> in <code>$HOME/.config/plasma-workspace/env/</code>. If the directory doesn't exist then just make it. Add the following contents:<br />
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="hll">export LANG=en_US.UTF-8
+</span><span class="hll">export MM_CHARSET=UTF-8
+</span></code></pre></div></td></tr></table></div></p>
+</div>
+<h2 id="graphics-drivers">Graphics Drivers<a class="headerlink" href="#graphics-drivers" title="Permanent link">&para;</a></h2>
+<p>This is important as we will need hardware acceleration. If you haven't already installed graphics drivers on your FreeBSD system, please do that now.  </p>
+<p><a href="https://wiki.freebsd.org/Graphics">[AMD/ATI Radeon and Intel Graphics]</a><br />
+<a href="https://wiki.ghostbsd.org/index.php/Nvidia_driver_installation">[NVIDIA Graphics]</a>  </p>
+<h2 id="installing-wine-and-dependencies">Installing Wine and dependencies<a class="headerlink" href="#installing-wine-and-dependencies" title="Permanent link">&para;</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>If you are having issues with the binary packages, try compiling from the ports.  </p>
+</div>
+<p>Wine on FreeBSD has limited functionality compared to its Linux counterpart. For example, you are not able to use WOW64 (64 bit Windows but able to run 32-bit applications) and you also must use the <code>i386-wine</code> package of Wine if on an amd64 system. Do not be fooled by this name, if you are on a 32-bit system, use the regular <code>wine</code> package. However. lack of WOW64 support is not an issue for visual novels, as they are all 32-bit anyway.  <br />
+First install all the needed dependencies for Wine first, this is to ensure you don't end up in "Wine dependency hell":  </p>
+<div class="admonition warning">
+<p class="admonition-title">lib32</p>
+<p>You need to have lib32 for this to work! Check if <code>/usr/lib32</code> exists! If you did not get it when installing FreeBSD, get it now.<br />
+Get <code>lib32.txz</code> for your FreeBSD version <a href="https://download.freebsd.org/ftp/releases/amd64/">[here]</a><br />
+Then run <code>sudo tar -C / -xpf lib32.txz</code> and then run <code>sudo freebsd-update</code>  </p>
+</div>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pkg<span class="w"> </span>install<span class="w"> </span>p7zip<span class="w"> </span>cabextract<span class="w"> </span>freetype<span class="w"> </span>libosmesa<span class="w"> </span>libpcap<span class="w"> </span>libjpeg-turbo<span class="w"> </span>sane-backends<span class="w"> </span>ncurses<span class="w"> </span>ocl-icd<span class="w"> </span>liberation-fonts-ttf<span class="w"> </span>libgphoto2<span class="w"> </span>json-c<span class="w"> </span>unixODBC<span class="w"> </span>nss_mdns<span class="w"> </span>gstreamer1<span class="w"> </span>gstreamer1-plugins-good<span class="w"> </span>gstreamer1-plugins-ugly<span class="w"> </span>gstreamer-plugins-bad<span class="w"> </span>alsa-plugins<span class="w"> </span>libx11<span class="w"> </span>libXcursor<span class="w"> </span>libXi<span class="w"> </span>libXext<span class="w"> </span>libXxf86vm<span class="w"> </span>libXrandr<span class="w"> </span>libXinerama<span class="w"> </span>libGLU<span class="w"> </span>libXrender<span class="w"> </span>libzip<span class="w"> </span>lcms2<span class="w"> </span>cups<span class="w"> </span>libxml2<span class="w"> </span>libxslt<span class="w"> </span>flac<span class="w"> </span>libICE<span class="w"> </span>libSM<span class="w"> </span>libXtst<span class="w"> </span>libXcomposite<span class="w"> </span>openal-soft<span class="w"> </span>gtk3<span class="w"> </span>libva<span class="w"> </span>libexif<span class="w"> </span>mpg123
+</code></pre></div>
+<p>Now, we need to install Wine:  </p>
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>pkg<span class="w"> </span>install<span class="w"> </span>i386-wine-devel
+</code></pre></div>
+<p>We will now need <code>winetricks</code>, do not use the one on the FreeBSD repository as it is outdated and WILL cause headaches.<br />
+Using, <code>curl</code>, download the latest winetricks binary.<br />
+<div class="highlight"><pre><span></span><code>curl<span class="w"> </span>https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks<span class="w"> </span>--output<span class="w"> </span>winetricks
+</code></pre></div>
+Using <code>chmod</code>, make it executable.<br />
+<div class="highlight"><pre><span></span><code>chmod<span class="w"> </span>+x<span class="w"> </span>winetricks
+</code></pre></div>
+Now copy it to your <code>/usr/local/bin</code> so it can be used in a command line.<br />
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>cp<span class="w"> </span>winetricks<span class="w"> </span>/usr/local/bin
+</code></pre></div></p>
+<h2 id="configuring-wine-and-installing-runtimes">Configuring Wine and installing runtimes<a class="headerlink" href="#configuring-wine-and-installing-runtimes" title="Permanent link">&para;</a></h2>
+<h3 id="creating-the-wineprefix">Creating the Wineprefix<a class="headerlink" href="#creating-the-wineprefix" title="Permanent link">&para;</a></h3>
+<p>First we need to create a 32 bit Wine prefix, this has the best compatibility and all visual novels are 32-bit anyway.</p>
+<div class="highlight"><pre><span></span><code><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span><span class="nv">WINEARCH</span><span class="o">=</span>win32<span class="w"> </span>wineboot
+</code></pre></div>
+<p>When Wine is started for the first time, you will need to let it install Gecko and Mono packages.  </p>
+<h3 id="using-winetricks">Using Winetricks<a class="headerlink" href="#using-winetricks" title="Permanent link">&para;</a></h3>
+<p>Now we need to install the common redistributables such as DirectX, Visual C++ Runtimes and .NET Framework 3.5 and other things that make video cutscenes work. </p>
+<div class="admonition tip">
+<p class="admonition-title">Optional: Font smoothing</p>
+<p>You can do <code>winetricks fontsmooth=rgb</code> because without it, the font is simply awful.  </p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Optional: GUI Improvments</p>
+<p>You can open the Registry Editor using <code>wine regedit</code> and import <a href="https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg">this .reg file</a>, the GUI should look nice and clean then.  </p>
+</div>
+<p>First, please update Winetricks, or else it will not work. 
+<div class="highlight"><pre><span></span><code>sudo<span class="w"> </span>winetricks<span class="w"> </span>--self-update
+</code></pre></div>
+Now we can use Winetricks:  </p>
+<div class="highlight"><pre><span></span><code><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>winetricks<span class="w"> </span>ffdshow<span class="w"> </span>quartz<span class="w"> </span>wmp10<span class="w"> </span>d3dx9<span class="w"> </span>dotnet35<span class="w"> </span>vcrun2003<span class="w"> </span>vcrun2005<span class="w"> </span>vcrun2008<span class="w"> </span>vcrun2010<span class="w"> </span>vcrun2012<span class="w"> </span>vcrun2013<span class="w"> </span>vcrun2015
+</code></pre></div>
+<div class="admonition tip">
+<p class="admonition-title">ffdshow</p>
+<p>When installing ffdshow, make sure you check (tick) ☑ every single codec/format or else it will not work!  </p>
+</div>
+<p>For some VNs, such as TYPE-MOON's, LAVFilters may be needed to playback video.<br />
+<div class="highlight"><pre><span></span><code><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>winetricks<span class="w"> </span>lavfilters
+</code></pre></div></p>
+<div class="admonition failure">
+<p class="admonition-title">ffdshow and LAVFilters</p>
+<p>Some games may break if you have both ffdshow and LAVFilters installed! Make sure you experiment!  </p>
+</div>
+<p>Then, run this command to disable DLL overrides, and use the native DLLs instead:</p>
+<div class="highlight"><pre><span></span><code><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>winetricks<span class="w"> </span><span class="nv">alldlls</span><span class="o">=</span>default
+</code></pre></div>
+<h3 id="japanese-fonts-in-wine">Japanese fonts in Wine<a class="headerlink" href="#japanese-fonts-in-wine" title="Permanent link">&para;</a></h3>
+<p>You need to install Japanese fonts to Wine now. Please download the pack below.<br />
+<a href="https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk">[Google Drive]</a><br />
+Unzip the file and move the font files to your <code>Fonts</code> folder in <code>~/.winevn/drive_c/windows/Fonts</code>    </p>
+<div class="admonition question">
+<p class="admonition-title">Why not install <code>cjkfonts</code> in winetricks?</p>
+<p>Because it doesn't work properly for VNs.</p>
+</div>
+<h2 id="installing-the-visual-novel">Installing the visual novel<a class="headerlink" href="#installing-the-visual-novel" title="Permanent link">&para;</a></h2>
+<p>FreeBSD does not have CDEmu, FUSEISO or anything similar, so you'll need to mount the disc image file regularly. Luckily, FreeBSD doesn't make the distinction between virtual drives and physical drives.<br />
+BUT... FreeBSD does not support the simple mounting of drives without using mdconfig and EXECUTING AS ROOT! Even accessing a mounted disc image requires you to have root privileges. <br />
+You cannot execute Wine as root so we will not be mounting image files. So we will be using 7zip. </p>
+<h3 id="extracting-the-iso">Extracting the ISO<a class="headerlink" href="#extracting-the-iso" title="Permanent link">&para;</a></h3>
+<div class="admonition info">
+<p class="admonition-title">MDS/MDF</p>
+<p>If you have Alcohol 120% CD/DVD Images (MDS/MDF), you need to use tools such as <code>mdf2iso</code>. Common syntax is
+<div class="highlight"><pre><span></span><code>mdf2iso<span class="w"> </span>&lt;source&gt;.MDF<span class="w"> </span>&lt;output&gt;.ISO
+</code></pre></div>
+In other cases you may be able to rename the .MDF file to use the .ISO extension and it will just work.  </p>
+</div>
+<p>Let's first make our destination folder and <code>cd</code> into it.<br />
+<div class="highlight"><pre><span></span><code>mkdir<span class="w"> </span>~/extracted
+<span class="nb">cd</span><span class="w"> </span>~/extracted
+</code></pre></div></p>
+<p>Now, extract it with <code>7z</code>:  </p>
+<div class="highlight"><pre><span></span><code>7z<span class="w"> </span>-x<span class="w"> </span>/path/to/&lt;disc_image&gt;.ISO
+</code></pre></div>
+<h3 id="running-the-installer">Running the installer<a class="headerlink" href="#running-the-installer" title="Permanent link">&para;</a></h3>
+<p>Now we can finally launch the installer with Wine.  </p>
+<div class="highlight"><pre><span></span><code><span class="nv">LC_ALL</span><span class="o">=</span><span class="s2">&quot;ja_JP.UTF-8&quot;</span><span class="w"> </span><span class="nv">TZ</span><span class="o">=</span><span class="s2">&quot;Asia/Tokyo&quot;</span><span class="w"> </span><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>wine<span class="w"> </span>&lt;setup_executable&gt;.exe
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">.msi installer</p>
+<p>If the installer executable is an .msi, run with <code>msiexec</code> instead of <code>wine</code>.  </p>
+</div>
+<p>Proceed with the installation. You may want to take note of the installation directory. <code>C:\</code> is relative to <code>$WINEPREFIX/drive_c</code>.  </p>
+<h3 id="launching-the-visual-novel">Launching the visual novel<a class="headerlink" href="#launching-the-visual-novel" title="Permanent link">&para;</a></h3>
+<p>I used Kanon Memorial Edition for this guide. I can <code>cd</code> into <code>$WINEPREFIX/drive_c/KEY/KANON_ME_ALL</code> and then run <code>REALLIVE.EXE</code> with Wine to launch the VN at any time.  </p>
+<div class="highlight"><pre><span></span><code><span class="nb">cd</span><span class="w"> </span>/path/to/visualnovelfolder
+<span class="nv">LC_ALL</span><span class="o">=</span><span class="s2">&quot;ja_JP.UTF-8&quot;</span><span class="w"> </span><span class="nv">TZ</span><span class="o">=</span><span class="s2">&quot;Asia/Tokyo&quot;</span><span class="w"> </span><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>wine<span class="w"> </span>&lt;vn_executable.exe&gt;
+</code></pre></div>
+<div class="admonition info">
+<p class="admonition-title">AlphaROMdiE</p>
+<p>For AlphaROMdiE, you need to run it with Wine and the VN executable as an argument. It should look like this:<br />
+<div class="highlight"><pre><span></span><code><span class="nv">LC_ALL</span><span class="o">=</span><span class="s2">&quot;ja_JP.UTF-8&quot;</span><span class="w"> </span><span class="nv">TZ</span><span class="o">=</span><span class="s2">&quot;Asia/Tokyo&quot;</span><span class="w"> </span><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>wine<span class="w"> </span>AlphaROMdiE.exe<span class="w"> </span>&lt;VN_executable.exe&gt;
+</code></pre></div>
+For the 1st option, you must create an empty file <code>disable_conv</code> in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file <code>other_engine</code> in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
+<div class="highlight"><pre><span></span><code>touch<span class="w"> </span>disable_conv<span class="w"> </span>other_engine
+</code></pre></div></p>
+</div>
+<p>And viola! Here's a demonstration of 2 VNs working at the same time:</p>
+<p><img alt="Image" src="../img/vnbsd1.jpg" />  </p>
+<p>And the actual games work see:  </p>
+<p><img alt="Image" src="../img/vnbsd2.jpg" />  </p>
+<p>Now go back to <a href="https://learnjapanese.moe/vn/#playing-visual-novels-to-learn-japanese">Visual Novel Guide</a> to learn how to use Textractor, it works perfectly under Wine. Please note that it needs to be launched with <code>LC_ALL=ja_JP.UTF-8</code> environment variable.</p>
+<div class="admonition tip">
+<p class="admonition-title">Need shortcuts?</p>
+<p>You can add shortcuts to your <code>${HOME}/Desktop</code>. Create a file such as "[vn].desktop". You can also put it in <code>/usr/local/share/applications</code> so it appears in application launchers. Here's how I am launching Kanon from a shortcut (with the icon too!)<br />
+<div class="highlight"><pre><span></span><code>#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Kanon Memorial Edition
+Name[ja]=Kanon メモリアルエディション 全年齢対象版
+Icon=/home/shoui/.winevn/drive_c/KEY/KANON_ME_ALL/KANON_ME_ALL.ICO
+Exec=LC_ALL=ja_JP.UTF-8 TZ=Asia/Tokyo wine ~/.winevn/drive_c/KEY/KANON_ME_ALL/RealLive.exe
+Terminal=false
+Type=Application
+Categories=Game
+</code></pre></div>
+Remember, paths to icons must be absolute!</p>
+</div>
+<details class="tip">
+<summary>Preview</summary>
+<p><img alt="Image" src="../img/vnbsd3.gif" />  </p>
+</details>
+<h3 id="troubleshooting-fuguriya-vns">Troubleshooting: Fuguriya VNs<a class="headerlink" href="#troubleshooting-fuguriya-vns" title="Permanent link">&para;</a></h3>
+<p>VNs made by Fuguriya such as Sono <em>Hanabira ni Kuchizuke o</em> and <em>Hanahira</em>  will not launch with Wine by default. Follow the steps below to fix this.  </p>
+<p>Download fjfix <a href="https://cdn.discordapp.com/attachments/813105334763126814/832650409167945798/fjfix.tar.gz">[here]</a>. <br />
+Extract the archive. <br />
+Now in the terminal, run:<br />
+<div class="highlight"><pre><span></span><code><span class="nv">LC_ALL</span><span class="o">=</span>ja_JP.UTF-8<span class="w"> </span><span class="nv">WINEPREFIX</span><span class="o">=</span>~/.winevn<span class="w"> </span>wine<span class="w"> </span>fjfix.exe<span class="w"> </span>-f<span class="w"> </span>/path/to/MGD
+</code></pre></div></p>
+<p>Now it should just work.  </p>
+<h3>Found this useful? Consider supporting me on Patreon!</h3>
+
+<p><a class="md-button" href="https://www.patreon.com/shoui"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M489.7 153.8c-.1-65.4-51-119-110.7-138.3C304.8-8.5 207-5 136.1 28.4 50.3 68.9 23.3 157.7 22.3 246.2 21.5 319 28.7 510.6 136.9 512c80.3 1 92.3-102.5 129.5-152.3 26.4-35.5 60.5-45.5 102.4-55.9 72-17.8 121.1-74.7 121-150z"/></svg></span> Support me on Patreon</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.sections", "navigation.expand", "search.suggest", "search.highlighting", "search.share"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="../javascripts/lang.js"></script>
+      
+        <script src="../js/open_in_new_tab.js"></script>
+      
+    
+  </body>
+</html>

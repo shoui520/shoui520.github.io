@@ -1,0 +1,1457 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Moe Moe Moe Moe Moe Moe Moe">
+      
+      
+        <meta name="author" content="shoui">
+      
+      
+        <link rel="canonical" href="https://learnjapanese.moe/vn-linux/">
+      
+      
+      
+      
+      <link rel="icon" href="../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Visual novels on Linux - TheMoeWay</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f8fc17f.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6M8XGSMGX2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6M8XGSMGX2');
+</script>
+
+
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7374918663808833"
+     crossorigin="anonymous"></script>
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="cyan">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#visual-novels-on-linux" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Header -->
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="header.title">
+    
+    <!-- Link to home -->
+    <a href=".." title="TheMoeWay"
+      class="md-header__button md-logo" aria-label="TheMoeWay" data-md-component="logo">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+
+    <!-- Button to open drawer -->
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            TheMoeWay
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+            Visual novels on Linux
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Discord icon that links to discord-->
+    <label class="md-header__button md-icon">
+      <a href="/join">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485 485 0 0 0 404.081 32.03a1.82 1.82 0 0 0-1.923.91 338 338 0 0 0-14.9 30.6 447.9 447.9 0 0 0-134.426 0 310 310 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.7 483.7 0 0 0-119.688 37.107 1.7 1.7 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.02 2.02 0 0 0 .765 1.375 487.7 487.7 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348 348 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321 321 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251 251 0 0 0 9.109-7.137 1.82 1.82 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.81 1.81 0 0 1 1.924.233 235 235 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.4 301.4 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391 391 0 0 0 30.014 48.815 1.86 1.86 0 0 0 2.063.7A486 486 0 0 0 610.7 405.729a1.88 1.88 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541M222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241m195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241"/></svg>
+      </a>
+    </label>
+
+    <!-- Heart emoji that links to patreon -->
+    <label class="md-header__button md-icon">
+      <a href="/donate">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.957 7.21c-.004-3.064-2.391-5.576-5.191-6.482-3.478-1.125-8.064-.962-11.384.604C2.357 3.231 1.093 7.391 1.046 11.54c-.039 3.411.302 12.396 5.369 12.46 3.765.047 4.326-4.804 6.068-7.141 1.24-1.662 2.836-2.132 4.801-2.618 3.376-.836 5.678-3.501 5.673-7.031"/></svg>
+      </a>
+    </label>
+
+
+
+    <!-- Color palette -->
+    
+    <form class="md-header__option" data-md-component="palette">
+      
+      
+      
+      <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default"
+        data-md-color-primary="purple" data-md-color-accent="cyan" type="radio" name="__palette"
+        id="__palette_1" />
+      
+      <label class="md-header__button md-icon" title="Switch to dark mode"
+        for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+      
+      
+      
+      
+      <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate"
+        data-md-color-primary="deep-purple" data-md-color-accent="cyan" type="radio" name="__palette"
+        id="__palette_2" />
+      
+      <label class="md-header__button md-icon" title="Switch to light mode"
+        for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+      
+      
+    </form>
+    
+
+    <!-- Site language selector -->
+    
+
+    <!-- Button to open search modal -->
+    
+    <label class="md-header__button md-icon" for="__search">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+    </label>
+
+    <!-- Search interface -->
+    <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    <!-- Repository information -->
+    
+    <div class="md-header__source">
+      <a href="https://github.com/shoui520/shoui520.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Open a pull request
+  </div>
+</a>
+    </div>
+    
+  </nav>
+
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+
+
+
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+    <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+            
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="TheMoeWay" class="md-nav__button md-logo" aria-label="TheMoeWay" data-md-component="logo">
+      
+  <img src="../img/moe.svg" alt="logo">
+
+    </a>
+    TheMoeWay
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/shoui520/shoui520.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Open a pull request
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Guides
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Guides
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Japanese Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../routine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    30 Day Japanese
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speaking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speaking Japanese
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../animejp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anime Japanese
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kanji/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning Kanji
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../readingtips/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reading Techniques and Strategies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monolingual/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monolingual Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Japanese FAQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../font/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fixing your font
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2ch/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to use 5ch
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Visual Novels
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Visual Novels
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learning Japanese with VNs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vn-setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visual Novel Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Yomitan
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Yomitan
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../yomichan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Yomichan Setup Tutorial
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Other
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Other
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../donate/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Donate
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" >
+    <div class="md-sidebar__scrollwrap">
+        <a href="/join"><img width="100%" src="/img/discord.png"></a>
+       <!-- <a href="/donate"><img width="100%" src="/img/donate.png"></a> -->
+        <div class="md-sidebar__inner">
+            <br>
+            
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requirements
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Requirements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vulkan-drivers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vulkan Drivers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wine-with-all-dependencies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Wine with all dependencies
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#steam-runtime" class="md-nav__link">
+    <span class="md-ellipsis">
+      Steam Runtime
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lutris" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lutris
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#protonup-qt" class="md-nav__link">
+    <span class="md-ellipsis">
+      ProtonUp-Qt
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#virtual-cd-rom-utility-cdemu" class="md-nav__link">
+    <span class="md-ellipsis">
+      Virtual CD-ROM utility: CDemu
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#generate-ja_jputf-8-locale" class="md-nav__link">
+    <span class="md-ellipsis">
+      Generate ja_JP.UTF-8 locale
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setup
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#install-proton-ge" class="md-nav__link">
+    <span class="md-ellipsis">
+      Install Proton-GE
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install-run-the-visual-novel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Install / Run the Visual Novel
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#textractor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Textractor
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Textractor">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#download-textractor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Download Textractor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install-textractor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Install Textractor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#set-up-textractor-to-launch-with-vn" class="md-nav__link">
+    <span class="md-ellipsis">
+      Set Up Textractor to launch with VN
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#alpharomdie" class="md-nav__link">
+    <span class="md-ellipsis">
+      AlphaROMdiE
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#troubleshooting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Troubleshooting
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Troubleshooting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nitroplus-games-very-slow-other-vn-is-very-slow" class="md-nav__link">
+    <span class="md-ellipsis">
+      Nitroplus Games Very Slow / other VN is very slow
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fonts-do-not-look-right" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fonts do not look right
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#game-not-installed-error" class="md-nav__link">
+    <span class="md-ellipsis">
+      ゲームがインストールされていません / Game not installed error
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#weird-scaling-stretched-mouse-input-not-followed-correctly" class="md-nav__link">
+    <span class="md-ellipsis">
+      Weird scaling / stretched / mouse input not followed correctly.
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+        </div>
+    </div>
+</div>
+
+
+
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="visual-novels-on-linux">Visual novels on Linux<a class="headerlink" href="#visual-novels-on-linux" title="Permanent link">&para;</a></h1>
+<p>Visual novels are Microsoft Windows-only programs, therefore you must use Wine in order to run them on Linux. With huge progress and development being made in Linux gaming in recent years, this has gotten a lot easier and consistent.  </p>
+<p>Follow the steps below. </p>
+<h2 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h2>
+<p>The general requirements for running visual novels (which are Windows games, and thus are best ran with a version of Proton) include the following:</p>
+<ul>
+<li>Vulkan support</li>
+<li>Wine with all dependencies satisfied (including lib32 ones)</li>
+<li>Steam</li>
+<li>Lutris</li>
+<li>Proton-GE installed into Lutris</li>
+<li>A virtual CD-ROM utility if manual installation is required and/or no crack is available. </li>
+<li>ja_JP.UTF-8 locale generated</li>
+</ul>
+<h3 id="vulkan-drivers">Vulkan Drivers<a class="headerlink" href="#vulkan-drivers" title="Permanent link">&para;</a></h3>
+<p>In order to run visual novels, or any game on Linux through Wine/Proton, your GPU must support Vulkan, and you must have the appropriate Vulkan drivers installed for your distribution and hardware. Refer to your distribution's wiki for more information on setting up Vulkan drivers.  </p>
+<p>Relevant Links:  </p>
+<ul>
+<li><a href="https://wiki.archlinux.org/title/Vulkan">Vulkan - ArchWiki</a>  </li>
+<li><a href="https://wiki.gentoo.org/wiki/Vulkan">Vulkan - Gentoo Wiki</a>  </li>
+</ul>
+<h3 id="wine-with-all-dependencies">Wine with all dependencies<a class="headerlink" href="#wine-with-all-dependencies" title="Permanent link">&para;</a></h3>
+<p>You need to follow Glorious-Eggroll's How To Get Out Of Wine Dependency Hell guide.</p>
+<p>Relevant Links:  </p>
+<ul>
+<li><a href="https://www.gloriouseggroll.tv/how-to-get-out-of-wine-dependency-hell/">How to get out of Wine Dependency hell - GloriousEggroll's Blog</a>  </li>
+</ul>
+<p>Refer to your distribution's package repository if instructions for your distribution are not listed.<br />
+Do not forget about lib32 dependencies!</p>
+<h3 id="steam-runtime">Steam Runtime<a class="headerlink" href="#steam-runtime" title="Permanent link">&para;</a></h3>
+<p>Install Steam if you haven't already. Refer to your distribution's package manager for more information.  </p>
+<p>Relevant Links:</p>
+<ul>
+<li><a href="https://wiki.archlinux.org/title/Steam">Steam - ArchWiki</a>  </li>
+</ul>
+<h3 id="lutris">Lutris<a class="headerlink" href="#lutris" title="Permanent link">&para;</a></h3>
+<p>Lutris is a games launcher that will help us launch our visual novels. You can find instructions for how to install it on your distribution <a href="https://lutris.net/downloads">here</a>.    </p>
+<h3 id="protonup-qt">ProtonUp-Qt<a class="headerlink" href="#protonup-qt" title="Permanent link">&para;</a></h3>
+<p>ProtonUp-Qt helps download, install and manage Proton versions. </p>
+<p>Relevant Links:</p>
+<ul>
+<li><a href="https://davidotek.github.io/protonup-qt/">Download ProtonUp-Qt</a>  </li>
+<li><a href="https://aur.archlinux.org/packages/protonup-qt">AUR (en) protonup-qt</a>  </li>
+</ul>
+<h3 id="virtual-cd-rom-utility-cdemu">Virtual CD-ROM utility: CDemu<a class="headerlink" href="#virtual-cd-rom-utility-cdemu" title="Permanent link">&para;</a></h3>
+<p>This step is optional and is only required if:</p>
+<ul>
+<li>Your VN installation files are dumped to a disc image file (such as .mds, or .cdi) that is not mountable with standard tools.</li>
+<li>There is no NoDVD patch available for your VN</li>
+<li>You are trying to play your own ripped VNs and don't have access to the original disc(s) or a DVD drive.  </li>
+<li>Similar to point #1 but, your game requires a reinstallation into the Wine prefix due to it requiring install info written to the Windows registry in order to run.  </li>
+</ul>
+<p>Relevant Links:</p>
+<ul>
+<li><a href="https://wiki.archlinux.org/title/CDemu">CDemu - ArchWiki</a>  </li>
+</ul>
+<h3 id="generate-ja_jputf-8-locale">Generate ja_JP.UTF-8 locale<a class="headerlink" href="#generate-ja_jputf-8-locale" title="Permanent link">&para;</a></h3>
+<p>Uncomment the line <code>ja_JP.UTF-8 UTF-8</code> in <code>/etc/locale.gen</code> and run <code>sudo locale-gen</code>.  </p>
+<p><img alt="Uncomment line" src="../img/new_vn_linux6.png" />  </p>
+<p>Relevant Links:  </p>
+<ul>
+<li><a href="https://wiki.archlinux.org/title/locale">Locale - ArchWiki</a>  </li>
+</ul>
+<h2 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">&para;</a></h2>
+<h3 id="install-proton-ge">Install Proton-GE<a class="headerlink" href="#install-proton-ge" title="Permanent link">&para;</a></h3>
+<p>After you have installed all the required packages, install Proton-GE with ProtonUp-Qt. Lutris will be able to see Proton versions installed into Steam, so don't worry about where to install it.  </p>
+<p>As compatibility with games can vary with different Proton-GE versions, use Proton-GE 9.10 for the same environment as this guide was tested on. </p>
+<p><img alt="Protonup-qt" src="../img/new_vn_linux1.png" /></p>
+<h3 id="install-run-the-visual-novel">Install / Run the Visual Novel<a class="headerlink" href="#install-run-the-visual-novel" title="Permanent link">&para;</a></h3>
+<p>What you need to do in Lutris now depends on whether the VN is already installed or not.  </p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">VN needs installation</label><label for="__tabbed_1_2">VN already installed</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><img src="/img/disc.png" style="display: block; margin: 0 auto;" / alt="Disc">
+  <figcaption>These instructions will assume the files are on some sort of disc or disc image file.</figcaption>
+</figure> <br></p>
+<p>First, you need to mount the disc. If you own the disc, insert it into your DVD drive now. I recommend mounting through your desktop environment, but if you don't use a desktop environment, use <code>mount</code> to mount it to <code>/media/cdrom</code>.  </p>
+<p>If you have a copy of the disc dumped to either an .ISO, .MDS, .CDI or something similar, you need CDemu installed.<br />
+Mount your disc image with the following command:<br />
+<div class="highlight"><pre><span></span><code>cdemu<span class="w"> </span>load<span class="w"> </span><span class="m">0</span><span class="w"> </span>/path/to/disc_image.mds
+</code></pre></div>
+The disc image will now be loaded into a virtual DVD drive. You can mount it through your desktop environment, or mount manually with <code>mount</code> e.g. <code>mount /dev/sr0 /media/cdrom</code><br />
+<img alt="Mount Image" src="../img/new_vn_linux3.png" />  </p>
+<p>In Lutris, make sure you set the default Wine version for the Wine runner to the Proton-GE version you installed with ProtonUp-Qt.</p>
+<p><img alt="Lutris runners 1" src="../img/new_vn_linux7.png" />
+<img alt="Lutris runners 2" src="../img/new_vn_linux8.png" /></p>
+<p>Then you need to set the correct environment variables.<br />
+<img alt="Lutris environment variables" src="../img/new_vn_linux12.png" /></p>
+<table>
+<thead>
+<tr>
+<th>Key</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LC_ALL</td>
+<td>ja_JP.UTF-8</td>
+</tr>
+<tr>
+<td>TZ</td>
+<td>Asia/Tokyo</td>
+</tr>
+</tbody>
+</table>
+<p>Now in Lutris, click the <code>+</code> in the top left corner to add a game, then in the window that pops up, choose <code>Install a Windows game from an executable</code></p>
+<p><img alt="Lutris menu" src="../img/new_vn_linux2.png" /></p>
+<p>It is recommended to use Japanese locale when running visual novels, even on Windows.  </p>
+<p><img alt="Lutris - set locale" src="../img/new_vn_linux4.png" /></p>
+<p>Set the Wine prefix directory. This is not the path for the install files.  </p>
+<p><strong>USE A BLANK PREFIX.</strong> I suggest <code>~/Games/VNs</code>. This prefix can be used for all your other VNs as long as <strong>the same Wine version is used</strong>- using a different Wine version on a prefix that was made with another version can actually render the prefix unusable!  </p>
+<p><img alt="Lutris - wine prefix" src="../img/new_vn_linux5.png" /></p>
+<p>Choose the setup executable for the VN's installer.
+<img alt="Lutris - choose executable" src="../img/new_vn_linux9.png" /></p>
+<p>Proceed with the installation. I do not recommend installing DirectX from the VN installer, always say no to that. When complete, Lutris should automatically set the game executable path to the game's run executable defined in the installer info/registry. </p>
+<p>After that you are all done and are ready to play the visual novel on Linux!  </p>
+</div>
+<div class="tabbed-block">
+<p>In Lutris, make sure you set the default Wine version for the Wine runner to the Proton-GE version you installed with ProtonUp-Qt.</p>
+<p>Click the cog icon next to Wine under "Runners"  </p>
+<p><img alt="Lutris runners 1" src="../img/new_vn_linux7.png" /></p>
+<p>Set the Wine version to GE-Proton9-10.</p>
+<p><img alt="Lutris runners 2" src="../img/new_vn_linux8.png" /></p>
+<p>Then you need to set the correct environment variables. </p>
+<p><img alt="Lutris environment variables" src="../img/new_vn_linux12.png" /></p>
+<table>
+<thead>
+<tr>
+<th>Key</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LC_ALL</td>
+<td>ja_JP.UTF-8</td>
+</tr>
+<tr>
+<td>TZ</td>
+<td>Asia/Tokyo</td>
+</tr>
+</tbody>
+</table>
+<p>Now in Lutris, click the <code>+</code> icon in the top left corner, and choose <code>Add locally installed game</code></p>
+<p><img alt="Lutris add local game" src="../img/new_vn_linux13.png" /></p>
+<p>Set the runner to Wine. The runner settings should automatically be correct if you followed the previous steps.  </p>
+<p><img alt="Lutris set runner" src="../img/new_vn_linux14.png" /></p>
+<p>Now set the path to the game executable, and set the Wine prefix. This Wine prefix has to be a blank one if using Proton-GE on a prefix for the first time. After you run one VN in that prefix using that Proton-GE version, you can share the prefix for other VNs too.
+<img alt="Lutris set exe and prefix" src="../img/new_vn_linux15.png" />  </p>
+<p>After that you are ready to play your VN on Linux!</p>
+</div>
+</div>
+</div>
+<h2 id="textractor">Textractor<a class="headerlink" href="#textractor" title="Permanent link">&para;</a></h2>
+<p>This is where things can get a little finnicky. There is no good way to launch 2 .exe's at the same time and have the two processes know of each other using Proton because of the way Proton is designed to only launch 1 program at a time in a single prefix. There are ways to get around this, and by far the best way I have found involves using a batch script with a custom Command Prompt.  </p>
+<h3 id="download-textractor">Download Textractor<a class="headerlink" href="#download-textractor" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Download Textractor at its <a href="https://github.com/Artikash/Textractor/releases">GitHub Repository</a>  </li>
+</ul>
+<h3 id="install-textractor">Install Textractor<a class="headerlink" href="#install-textractor" title="Permanent link">&para;</a></h3>
+<p>I used the "Run EXE inside Wine prefix" option in Lutris to install Textractor to the prefix. For some reason, trying to install it like a new game just doesn't work for me.  </p>
+<p><img alt="Lutris run exe in prefix" src="../img/new_vn_linux16.png" />  </p>
+<p>I used the "Install for all users" option when installing. </p>
+<h3 id="set-up-textractor-to-launch-with-vn">Set Up Textractor to launch with VN<a class="headerlink" href="#set-up-textractor-to-launch-with-vn" title="Permanent link">&para;</a></h3>
+<p>This is a little complicated due to the nature of Proton, but you can get it working with a custom <code>cmd.exe</code> and a <code>.bat</code> file. You will need to use a <code>.bat</code> script for each VN you add to Lutris.  </p>
+<p>The <code>cmd.exe</code> in Wine does not function in the exact same way the Windows one does, however, the <code>cmd.exe</code> from <a href="https://en.wikipedia.org/wiki/ReactOS">ReactOS</a>, in fact, does. So we will be downloading the <code>cmd.exe</code> from ReactOS and running that in Wine. You can take the <code>.exe</code> yourself from a ReactOS system at <code>C:\ReactOS\system32\cmd.exe</code> or download the one I have prepared below.  </p>
+<ul>
+<li><a href="https://drive.proton.me/urls/N3V2A1KY1W#dgCG2T5mQaGQ">Download ReactOS's cmd.exe</a>  </li>
+</ul>
+<p>I recommend you put this at the root of your Wine prefix for easy access. 
+For example, <code>/home/&lt;user&gt;/Games/VNs/cmd.exe</code><br />
+This guide will assume the <code>cmd.exe</code> is placed at the root of your Wine prefix.  </p>
+<p>Now, we need to edit a .bat script. 
+<div class="highlight"><pre><span></span><code><span class="p">@</span><span class="k">echo</span> off
+
+<span class="p">:</span><span class="c1">: Without this, Japanese file paths don&#39;t work correctly.</span>
+<span class="k">echo</span> <span class="s2">&quot;Setting UTF-8...&quot;</span>
+chcp 65001 <span class="p">&gt;</span> nul
+
+<span class="k">echo</span> <span class="s2">&quot;Launching VN...&quot;</span>
+<span class="p">:</span><span class="c1">: Edit the following lines to match your file paths. The Z:\ drive is mounted as your Linux filesystem.</span>
+<span class="k">cd</span> /d <span class="s2">&quot;Z:/path/to/vn/folder/&quot;</span>
+<span class="k">start</span> <span class="p">&lt;</span>VN EXECUTABLE NAME<span class="p">&gt;</span>.exe
+
+<span class="k">echo</span> Launching Textractor...
+<span class="p">:</span><span class="c1">: This will work as is without editing if you installed Textractor to the prefix. </span>
+<span class="p">:</span><span class="c1">: Use x86 for 32-bit executables and x64 for 64-bit executables.</span>
+<span class="k">cd</span> /d <span class="s2">&quot;C:\users\steamuser\Desktop\Textractor\x86&quot;</span>
+<span class="k">start</span> Textractor.exe
+
+<span class="k">exit</span>
+</code></pre></div></p>
+<p>You need to edit the lines under "Launching VN..." to match your file paths. After that, you can save this as a <code>.bat</code> file in any directory and as any name you wish.<br />
+I suggest making a folder called <code>scripts</code> or something in your Wine prefix.</p>
+<div class="admonition info">
+<p class="admonition-title">Unsure what architecture your VN is?</p>
+<p>Use the Linux command <a href="https://man7.org/linux/man-pages/man1/file.1.html">file</a> on the executable to find out if it is 32-bit or 64-bit.
+Example: <code>file VN.exe</code><br />
+If the output is: 
+<div class="highlight"><pre><span></span><code>VN.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+</code></pre></div>
+Then it is 32-bit.<br />
+If the output is:
+<div class="highlight"><pre><span></span><code>VN.exe: PE32+ executable (GUI) x86-64, for MS Windows
+</code></pre></div>
+Then it is 64-bit.</p>
+</div>
+<p>In Lutris, go on "Game Options" for the VN, change the executable to the ReactOS <code>cmd.exe</code> you downloaded, add the argument to start your <code>.bat</code> file in <em>Arguments</em>:<br />
+<div class="highlight"><pre><span></span><code>/k /path/to/startup_script.bat
+</code></pre></div>
+I recommend creating a folder called <code>scripts/</code> or something in the root of your Wine prefix for easy access.<br />
+<img alt="Lutris run bat file" src="../img/new_vn_linux17.png" />  </p>
+<p>You will need to create a startup script for every VN you add, but this isn't complicated as it just involves editing file paths.  </p>
+<p>With this setup, the VN and Textractor should launch together.  </p>
+<p>Proceed to <a href="/vn">Learning Japanese with VNs</a> for more information on how to use Textractor.  </p>
+<h2 id="alpharomdie">AlphaROMdiE<a class="headerlink" href="#alpharomdie" title="Permanent link">&para;</a></h2>
+<p>AlphaROMdiE is sort of an all-purpose NoDVD patch mainly for KEY visual novels. You can try using it when you can't find a NoDVD patch specifically for your visual novel. To use it, set the executable path to the AlphaROMdiE exe to set the options. After that, close it, and then edit the executable path to run AlphaROMdiE but with the VN's executable as an argument. For example: <code>/path/to/vn/AlphaROMdiE.exe &lt;VN_executable.exe&gt;</code>. </p>
+<p>Alternatively you can configure AlphaROMdiE without running it on its own.<br />
+For the 1st option, you must create an empty file <code>disable_conv</code> in the same location as AlphaROMdiE.exe, for the 3rd option, you must create an empty file <code>other_engine</code> in the same location as AlphaROMdiE.exe. You can do this easily by doing: 
+    <div class="highlight"><pre><span></span><code>touch<span class="w"> </span>disable_conv<span class="w"> </span>other_engine
+</code></pre></div></p>
+<h2 id="troubleshooting">Troubleshooting<a class="headerlink" href="#troubleshooting" title="Permanent link">&para;</a></h2>
+<h3 id="nitroplus-games-very-slow-other-vn-is-very-slow">Nitroplus Games Very Slow / other VN is very slow<a class="headerlink" href="#nitroplus-games-very-slow-other-vn-is-very-slow" title="Permanent link">&para;</a></h3>
+<p>Nitroplus VNs, such as Soukou Akki Muramasa, Phenomeno, Totono, Saya no Uta (untested) etc. may run very slowly when you run them with Proton.<br />
+You can run these games just fine using standard Wine. I tested these games with <code>System (9.12)</code> in Lutris on a new prefix. They ran fine, but the fonts weren't right. You can fix that by downloading and copying these fonts into your Wine prefix's fonts folder (<code>drive_c/windows/Fonts</code>).</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view">Windows Japanese Fonts.zip - Google Drive</a>  </li>
+</ul>
+<p>Alternatively, you can continue to use Proton to run them, but usually, you have to disable Esync, Fsync and install <code>xact</code> into the Wine prefix using Winetricks.  <br />
+Nitroplus VNs generally require some sort of special config to work properly, check ProtonDB for more information. If the game is on Steam, you can use the <code>GAMEID=&lt;steam game id&gt;</code> and <code>STORE=steam</code> in your Command prefix to make UMU automatically find patches for your VN.  </p>
+<p>Relevant Links:</p>
+<ul>
+<li><a href="https://www.protondb.com/">ProtonDB</a>  </li>
+<li><a href="https://github.com/Open-Wine-Components/umu-protonfixes/tree/master/gamefixes-steam">UMU Proton Fixes</a>  </li>
+</ul>
+<h3 id="fonts-do-not-look-right">Fonts do not look right<a class="headerlink" href="#fonts-do-not-look-right" title="Permanent link">&para;</a></h3>
+<p>If this is the case, you need to download and import the fonts from Windows into your Wine prefix's font folder (<code>drive_c/windows/Fonts</code>).<br />
+You can download them here:</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view">Windows Japanese Fonts.zip - Google Drive</a>  </li>
+</ul>
+<h3 id="game-not-installed-error">ゲームがインストールされていません / Game not installed error<a class="headerlink" href="#game-not-installed-error" title="Permanent link">&para;</a></h3>
+<p>This happens on games that rely on reading values in the Windows registry to check if the game is installed in the directory set at install time. If you see this error, perhaps the game files were moved, breaking the directory check, or you are using a different Wine prefix that does not have these registry values present. There is no good manual way to repair these values, or add them on an environment that doesn't already have them, therefore, I recommend backing up your savedata and re-installing the game using the Wine prefix you wish to play the game on.   </p>
+<p>It is actually not a Wine specific error, it happens on Windows too! These games are just made that way. </p>
+<p><img alt="Game not installed - Wine" src="../img/new_vn_linux10.png" /><br />
+<img alt="Game not installed - Windows" src="../img/new_vn_linux11.png" /></p>
+<h3 id="weird-scaling-stretched-mouse-input-not-followed-correctly">Weird scaling / stretched / mouse input not followed correctly.<a class="headerlink" href="#weird-scaling-stretched-mouse-input-not-followed-correctly" title="Permanent link">&para;</a></h3>
+<p>Try putting the game into windowed mode and relaunching it.  </p>
+<h3>Found this useful? Consider supporting me on Patreon!</h3>
+
+<p><a class="md-button" href="https://www.patreon.com/shoui"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M489.7 153.8c-.1-65.4-51-119-110.7-138.3C304.8-8.5 207-5 136.1 28.4 50.3 68.9 23.3 157.7 22.3 246.2 21.5 319 28.7 510.6 136.9 512c80.3 1 92.3-102.5 129.5-152.3 26.4-35.5 60.5-45.5 102.4-55.9 72-17.8 121.1-74.7 121-150z"/></svg></span> Support me on Patreon</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.sections", "navigation.expand", "search.suggest", "search.highlighting", "search.share"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="../javascripts/lang.js"></script>
+      
+        <script src="../js/open_in_new_tab.js"></script>
+      
+    
+  </body>
+</html>
