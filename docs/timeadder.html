@@ -96,6 +96,7 @@
             <input type="number" id="secondsInput" placeholder="秒" min="0" max="59" step="1">
         </div>
         <button id="addTime">時間を追加</button>
+        <button id="undoTime">元に戻す</button>
         <button id="clearStorage">合計をリセット</button>
         <div class="output">
             合計時間: <span id="totalMinutes">0.00</span> 分
@@ -107,11 +108,13 @@
         const minutesInput = document.getElementById('minutesInput');
         const secondsInput = document.getElementById('secondsInput');
         const addTimeButton = document.getElementById('addTime');
+        const undoTimeButton = document.getElementById('undoTime');
         const clearStorageButton = document.getElementById('clearStorage');
         const totalMinutesDisplay = document.getElementById('totalMinutes');
 
         // ローカルストレージから初期値を読み込む、または0に初期化
         let totalSeconds = parseInt(localStorage.getItem('totalSeconds')) || 0;
+        let lastAddedSeconds = 0; // 元に戻す用
 
         const updateDisplay = () => {
             const totalMinutes = (totalSeconds / 60).toFixed(2);
@@ -130,8 +133,8 @@
                 return;
             }
 
-            const timeInSeconds = (hours * 3600) + (minutes * 60) + seconds;
-            totalSeconds += timeInSeconds;
+            lastAddedSeconds = (hours * 3600) + (minutes * 60) + seconds;
+            totalSeconds += lastAddedSeconds;
 
             // ローカルストレージと表示を更新
             localStorage.setItem('totalSeconds', totalSeconds);
@@ -143,11 +146,27 @@
             secondsInput.value = '';
         });
 
+        undoTimeButton.addEventListener('click', () => {
+            if (lastAddedSeconds > 0) {
+                totalSeconds -= lastAddedSeconds;
+                if (totalSeconds < 0) totalSeconds = 0;
+
+                // ローカルストレージと表示を更新
+                localStorage.setItem('totalSeconds', totalSeconds);
+                updateDisplay();
+
+                lastAddedSeconds = 0; // 再度元に戻すことを防ぐ
+            } else {
+                alert('元に戻す操作はできません。');
+            }
+        });
+
         clearStorageButton.addEventListener('click', () => {
             if (confirm('合計時間をリセットしますか？')) {
                 totalSeconds = 0;
                 localStorage.setItem('totalSeconds', totalSeconds);
                 updateDisplay();
+                lastAddedSeconds = 0;
             }
         });
     </script>
