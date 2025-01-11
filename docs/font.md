@@ -23,7 +23,7 @@ If your 直 looks like the second image, congrats! You are using a Japanese font
 
 ## Windows 10
 
-++win+i++ to open **Settings** > **Apps** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** and **Install**  
+++win+i++ to open **Settings** > **System** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** and **Install**  
 
 ??? tip "Advanced Users: Powershell"
 	Japanese fonts can also be installed using **Windows Powershell (Administrator)**:
