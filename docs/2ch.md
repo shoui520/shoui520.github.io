@@ -1,6 +1,8 @@
 # How to use 5ch
 ![Image](img/2ch00.png){:  style="display: block; margin: 0 auto; size:50%;" }
 
+**Update 2025: I recommend you check out [エッヂ](#new)**  
+
 2channel (Japanese: ２ちゃんねる) (New name: ５ちゃんねる) is a Japanese anonymous **text** bulletin board. You can think of it as the Japanese equivalent to something in between Reddit and 4chan, with a more toxic userbase than Reddit and varying levels of moderation. You can use this to burn away time instead of looking at English sites. The site design is very questionable by today's standards, and I will be constantly calling it "awful" in this article. The awful site design, combined with the lack of user friendliness, make the site very **hard to use**, especially for people still learning Japanese. 
 This article will try explaining how to use 5ch in your browser. 
 
@@ -259,6 +261,26 @@ There is a まとめサイト for pretty much any hobby / interest, just search 
 
 The NSFW (BBSPINK) versions of ニュー速 and なんでもあり can only be accessed with a Japanese IP address. Most of BBSPINK is only accessible with a Japanese IP address too.    
 
+## NEW: エッヂ
+**2025:**
+Due to the sheer incomepetency of 5ch's owners, the site has been targeted by script spammers and DDoS attacks for a while, rendering the site unusable for many people. Sites like 4chan have easily gotten over this by introducing a CAPTCHA and using Cloudflare, something 5ch's owners are unable to do for whatever reason.
+As of 2025, no one really uses the 5ch なんでも実況J and なんでも実況G boards anymore, its users have moved to a site called エッヂ. なんJ now refers to to the board on エッヂ now, not the one on 5ch.  
+
+URL: [https://bbs.eddibb.cc/liveedge/](https://bbs.eddibb.cc/liveedge/)  
+
+It's culture is pretty much the same as なんでも実況J on 5ch, so if you're familiar with 5ch, this works in a very similar way. So 90% of what's written in this guide still applies.  
+
+### Posting on エッヂ
+
+You can actually post on エッヂ outside of Japan pretty easily. All you need is a Japanese IP address (a VPN works).  
+
+To post, first click on a thread, then click on the 書き込み button that is shown on the top. Then, try posting by typing what you want in the 本文 field, and clicking 書き込む. You will be shown a code in a dialog box. Copy this code.  
+![edge](img/edge01.png)  
+Proceed to the [authorisation page](https://bbs.eddibb.cc/auth-code) by clicking はい. Here, you need to verify the CAPTCHAs and paste the code it gave you.  
+![edge](img/edge02.png)  
+Once verified, you will be given an authorisation token you can paste into your mail field.
+![edge](img/edge03.png)
+And then you're done, your post can go through!  
 ## Talk.jp
 
 ![Image](img/2ch09.png)  
