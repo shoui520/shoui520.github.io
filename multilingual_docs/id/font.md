@@ -181,9 +181,9 @@ Yu Gothic
 Hiragino Kaku Gothic Pro  
 Noto Sans CJK JP Regular  
 
-## Yomichan 
+## Yomitan 
 
-Yomichan's font should change according to your browser's font, but you can force Japanese font if not.   
+Yomitan's font should change according to your browser's font, but you can force Japanese font if not.   
 
 Using Popup CSS...
 
