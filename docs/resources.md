@@ -195,7 +195,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
-- [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
+- [Marv's miscellaneous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
 - Every dictionary explained in the text file.  
 
 #### Online
