@@ -54,7 +54,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video. 
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 ### Movies & TV Shows (J-drama)
-- [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)
+- ~~[Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)~~
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
 - [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - stream some J-drama.
