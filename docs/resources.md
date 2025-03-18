@@ -54,7 +54,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video. 
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 ### Movies & TV Shows (J-drama)
-- [Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)
+- ~~[Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)~~
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
 - [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - stream some J-drama.
@@ -63,9 +63,10 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama
 - [Japanese Live TV Streams](https://aqstream.com/jp) - Good speed but small collection. TBS and TV Tokyo work great.
 - [Japanese Live TV Streams 2](https://www.xhzb.tw/en/list.php?tid=94) - Not all channels work.
-- [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific). 
-- **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.   
-- [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.  
+- [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).
+- [Japanese Live TV Streams 4](https://tv.garden/jp)
+- **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.
+- [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.
 - [Search on bilibili](https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
@@ -195,7 +196,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Get Yomichan](https://foosoft.net/projects/yomichan/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomichan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
-- [Marv's miscallenous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
+- [Marv's miscellaneous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
 - Every dictionary explained in the text file.  
 
 #### Online
