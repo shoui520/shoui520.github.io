@@ -15,64 +15,58 @@ For the people that probably don't enjoy reading, and even find manga boring, VN
 
 This guide will go over how to play visual novels in Japanese and learn Japanese from them, this guide assumes you already have a Japanese visual novel set up and working, if not, check out [Cross Platform VN Setup](/vn-setup).
 
+??? question "Clipboard Inserter"
+	Google Chrome and Microsoft Edge have removed support for Manifest V2 extensions. This means extensions such as Clipboard Inserter and uBlock Origin no longer work.  
+	Therefore, users who wish to continue using these browsers must use websockets instead.   
+	If you are using a browser with support for manifest V2 extensions, such as Brave, you can continue using Clipboard Inserter instead.   
+
 Requirements:
 
-[Textractor](https://github.com/Artikash/Textractor/releases)  
-[Yomichan](https://foosoft.net/projects/yomichan/)  
-[Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) ([Firefox Version Here](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/))  
-[Texthooking Page](https://learnjapanese.moe/texthooker.html)  
+[(DOWNLOAD) Textractor](https://github.com/Artikash/Textractor/releases/download/v5.2.0/Textractor-5.2.0-Zip-Version-English-Only.zip)  
+[(DOWNLOAD) Textractor Websocket Extension](https://github.com/kuroahna/textractor_websocket/releases/tag/0.2.0)   
+[(GUIDE) Yomitan](/yomichan)  
+[(WEBPAGE) Texthooker UI](https://renji-xd.github.io/texthooker-ui/)    
 
-A detailed Yomichan setup tutorial can be found [here](/yomichan)
+**Step 1: Launch Textractor**  
+- First, extract the `.zip` file for Textractor.  
+- Then, find click on `Textractor.exe` file in the `x86` folder to launch Textractor.  
+(The `x64` one is for 64-bit VNs, which are uncommon. Most VNs need the x86 version.)
 
-For most applications, use the x86 executable of Textractor.
+**Step 2: Remove bad Textractor extensions**  
+- Click on the "Extensions" button on the left sidebar.  
+- Remove these extensions by right clicking on them and clicking "Remove extension".  
+	1. Remove Repeated Characters  
+	2. Google Translate  
+	3. Extra Window  
+	4. Extra Newlines  
+	5. Copy to Clipboard  
+**Step 3. Add the Websocket extension**  
+- Download the Websocket extension for your Textractor version. (textractor_websocket_x86.zip)
+- Extract the `.zip` file to get the `.dll` file. (`textractor_websocket_x86.dll`)  
+- Copy this file to the Textractor folder. (`Textractor-5.2.0-Zip-Version-English-Only\Textractor\x86\`)  
+- In Textractor, go to the Extensions menu ("Extensions" button on the left sidebar), then right click and choose "Add Extension"  
+- Next, in the file picker window, make sure "Libraries (.dll)" are selected in the **bottom right** drop down menu instead of "Extensions (.xdll)"  
+- Choose the `textractor_websocket_x86.dll` file.   
+- Allow Windows Firewall connection if prompted.    
 
-!!! info "Steins;Gate"
-	If you wish to hook Steins;Gate and Steins;Gate 0, please check out [Steins;Gate Textractor](https://github.com/shiiion/steinsgate_textractor)  
+**Step 4. Hook the visual novel.**  
+- Open the visual novel and start the game. (Get out of the main menu.)  
+- Open Textractor, and click "Attach to game" (If you don't see your game, relaunch Textractor with administrator privileges.)  
+- After the game is hooked, advance through the text in the visual novel. (Click through the game to get about 2-3 lines after hooking)  
+- **Find the right hook.** In Textractor, click an option from the drop down list on the top. Then use the arrow keys ++down++ / ++up++ to find the hook that matches the text from your game.
 
-Launch your VN and Textractor and first remove all the unneeded extensions by pressing the ++delete++ key. 
+**Step 5: Texthooker UI webpage**   
 
-Remove the following:
+!!! failure "Brave Browser"
+	Disable Brave Shields for this webpage because it blocks the local websocket connection for some reason.  
 
-- Bing Translate
-- Any other translate
-- Extra Window
-- Extra Newlines
-- Styler 
+- Access [Renji-XD's Texthooker UI](https://renji-xd.github.io/texthooker-ui/).  
+- Click on the start ▶️ button on the top right.  **← IMPORTANT!!**  
+- With the appropriate hook chosen in Textractor, advance the text in the VN.
+- The text should appear in the Texthooker UI.
+- With Yomitan installed, hold ++shift++ to look up a word.  
 
-![Image](img/textractor1.png)  
 
-!!! warning "Order of extensions" 
-	Your order of extensions is important. Here is what I usually recommend:  
-	- Remove Repeated Characters  
-	- Remove Repeated Phrases  
-	- Regex Filter (optional, but needs to be above clipboard)  
-	- Copy to Clipboard  
-
-Now we need to *attach* Textractor to your VN. 
-
-![Image](img/textractor2.png)  
-
-When it is attached, advance the text in the VN then cycle through the hooks to find the hook that matches the text displayed on the VN.  
-
-![Image](img/textractor3.png)  
-
-Now open your browser, head over to my [texthooking page](https://learnjapanese.moe/texthooker.html) make sure **Clipboard Inserter** is installed and enabled and then advance the text in the VN again.  
-
-![Image](img/textractor4.png)  
-
-You can then just press ++shift++ to use Yomichan.  
-
-![Image](img/textractor5.png)  
-
-All done! Enjoy the reading!! :smirk_cat:
-
-You can track how much characters you have read using the indicator in the top right corner of the texthooking page.
-You can choose to keep the text when you refresh the page, or just the character count, or nothing.  
-The texthooking page has an "accurate character count", meaning it does not count special characters and punctuation such as 。「」 in the count.   
-
-!!! info "Can't hook?"
-	Try referring to the [H-Code list @ Visual Novel Texthooking Wiki](https://vn-hooking.fandom.com/wiki/H-Code)  
-	Little Busters! players, use the Ecstasy version and see [this](https://cdn.discordapp.com/attachments/813105334763126814/1047252417735036988/little_busters.png)  
 
 ### Need a walkthrough?
 If you are not used to visual novels, or games that make you make choices that decide the fate of the story, you may want to use a walkthrough. After all, you wouldn't want to get a bad ending.  
