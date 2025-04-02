@@ -1,8 +1,6 @@
 # 30 Day Japanese (UsagiSpoon)  
 
-A guide/routine to help people learn Japanese from scratch with the immersion method.  
-
-This guide was made to be followed in order. Most of the decisions have already been made for you.   
+A **routine** to help people learn Japanese from scratch with the immersion method.  
 
 The routines are split into days. Each day has tasks that you need to do.  
 
@@ -20,6 +18,12 @@ What I expect from you:
 - 3+ hours of your free time per day available for Japanese.  
 - a computer (sorry phone users)  
 
+## IMPORTANT: The purpose of this guide
+
+This routine was made in response to decision paralysis some people may experience when learning Japanese. This is by no means definitive and you are free to change any parts of any day to meet your needs.  
+
+**This is NOT the "TMW Guide", that can be found here: [Japanese Guide](/guide)**
+
 ## Day 1  
 
 ### Stage: Starting kana stage  
@@ -27,7 +31,7 @@ The absolute first thing you need to do when you learn Japanese is to learn the 
 
 Why and how they are used can get confusing for newcomers to Japanese.  
 
-So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim#_Hiragana).  
 
 Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.    
 
