@@ -2,7 +2,7 @@
 
 A **routine** to help people learn Japanese from scratch with the immersion method.  
 
-The routines are split into days. Each day has tasks that you need to do.  
+This routine is separated by day. Each day has tasks that you need to do.  
 
 What you'll expect to know at the end of the 30 days:
 
