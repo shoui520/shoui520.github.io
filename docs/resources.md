@@ -324,16 +324,16 @@ Useful for stuff like visual novels and manga you may download.
 
 #### Free
 
-- [(Cross-platform) VPN Gate](https://www.vpngate.net/en/) - free Japanese VPN servers with OpenVPN support. Residential IPs work with Netflix and other streaming services. You need to try multiple servers, aim for the ones with PC or DESKTOP in the name. 
-- [(Windows) SoftEther](https://www.softether.org/5-download) - Make sure you read the manual of this.
-- [(Cross-platform) ProtonVPN](https://protonvpn.com/) - Privacy oriented VPN. Has free Japanese VPN servers. You may need to re-connect few times to get a Japanese server. Streaming is *not* supported on the free version. 
+- [(Cross-platform) VPN Gate](https://www.vpngate.net/en/) - free Japanese VPN servers with OpenVPN support. Residential IPs work with Netflix and other streaming services. You need to try multiple servers, aim for the ones with PC or DESKTOP in the name.  
+- [(Windows) SoftEther](https://www.softether.org/5-download) - Make sure you read the manual of this.  
+- [(Cross-platform) ProtonVPN](https://protonvpn.com/) - Privacy oriented VPN. Has free Japanese VPN servers. You may need to re-connect few times to get a Japanese server. Streaming is *not* supported on the free version.  
 - [(Android) VPN Japan Proxy Secure VPN](https://play.google.com/store/apps/details?id=free.vpnjapan.unlimited.unblock.proxy.secure.turbo) - While I would never trust my data with this, it works fine for getting a Japanese IP address.  
-- [(iOS) Neko VPN](https://learnjapanese.link/vpnneko) - Seems to work fine. 
+- [(iOS) Neko VPN](https://learnjapanese.link/vpnneko) - Seems to work fine.   
 
 #### Paid
 
 - **[※ - ProtonVPN](https://protonvpn.com/)** - High quality Japanese VPN servers. Works on all Japanese streaming sites. Privacy friendly. 
-- [Mullvad](https://mullvad.net/en/) - You can trust this the most if you care a lot about privacy.
+- [Mullvad](https://mullvad.net/en/) - You can trust this the most if you care a lot about privacy.  
 - [NordVPN](https://nordvpn.com/nordvpn-site/) - confirmed to work on Japanese streaming services.   
 
 #### Premium Cracks/Cheats/Accounts  
@@ -352,7 +352,7 @@ Useful for stuff like visual novels and manga you may download.
 - [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)  
 - [An Alternate Way To Start Reading (by OrangeLightX)](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit)
-- [Assorted JP Guides (by Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)
+- [Assorted JP Guides (by Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
 
 ### "Other"
 
