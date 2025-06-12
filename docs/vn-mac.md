@@ -16,7 +16,7 @@ Here is a checklist of things you should do to run visual novels on your Mac:
 
 Caveats: **8GB RAM Macs are not recommended.** You may need a Mac with at least 16GB of RAM for a smooth experience.  
 
-![Visual novel running on Mac with Parallels](img/vnmac2.png)
+![Visual novel running on Mac with Parallels](img/vnmac2.jpg)
 
 ## Textractor
 
