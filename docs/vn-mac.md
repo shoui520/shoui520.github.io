@@ -28,11 +28,7 @@ I highly advise you put Textractor somewhere on your actual VM's C: drive: **Thi
 Because port forwarding the websocket port to your Mac is unreliable, please avoid using websockets in Textractor.  
 Instead, do the old fashioned way of using the "Copy to Clipboard" default Textractor extension and using a browser such as Brave or Firefox that still supports the "Clipboard Inserter" browser extension.    
 The clipboard is shared between Mac and Windows by default on Parallels, so all you have to do is have the hook ready and set up.  
-Then, have the Clipboard Inserter extension enabled on the [classic Texthooker page](/texthooker.html) and you'll be good to go.  
-
-### Low quality hooks, lack of hooks, temperamental hooking etc. 
-The x86 (Intel Processor) emulation on Windows for Arm is not that good, so hooking does not work well. Textractor is a very technical program that looks at the inner-workings of VNs' code, so this is to be expected.  
-You could fiddle with the emulation settings under **Right Click > Show More Options > Properties > Compatibility > Emulation Settings** to try and get it to work, but otherwise the *GetGlyphOutlineA* hooks would have to suffice.  
+Then, have the Clipboard Inserter extension enabled on the [classic Texthooker page](/texthooker.html) and you'll be good to go.    
 
 Alternatively, you could explore Japanese OCR options for macOS.  
 
