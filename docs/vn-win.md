@@ -1,10 +1,10 @@
 # Visuals novels on Windows
 
-Visual novels are always Microsoft Windows programs. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles released after 2019 will require Windows 8.1 as a minimum.  
+Visual novels are usually always made for Windows. If you have a Windows PC, you will always be able to run visual novels as long as your visual novel supports the Windows version you are running. For most VNs out there, Windows 7 is a minimum, older titles will also work on XP. Newer titles may require Windows 10 and newer.
 
 ## Step 1. Japanese Locale
 
-Japanese visual novels will not run without Japanese locale. Some may run, but have limited functionality, audio, visuals and saving may not work. Japanese locale is the minimum requirement for running Japanese games on your Windows PC. You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.  
+Japanese locale is the minimum requirement for running Japanese games on your Windows PC. Japanese visual novels will not run without Japanese locale. Some may run, but have limited functionality, audio, visuals and saving may not work.  You may use a locale emulator, though it is less of a hassle to just change system-wide locale in my opinion.  
 
 **Follow the steps below to set Japanese locale on your Windows system.**  
 
@@ -15,7 +15,7 @@ Japanese visual novels will not run without Japanese locale. Some may run, but h
 	4. Reboot your PC to apply the changes.
 
 !!! question "FAQ: What about "Use Unicode UTF-8 for worldwide language support"?"
-	Keep it disabled. This is a recent feature of Windows 10. We do not need it for VNs, it is unrelated, and may cause problems.   
+	Keep it disabled. We do not need it for VNs, it is unrelated, and may cause problems.   
 	If you're curious: It sets codepage 65001, overriding codepage 932 (Japanese locale), we do not want this.  
 
 ??? tip "Advanced Users: Powershell"
@@ -46,7 +46,7 @@ Japanese visual novels will not run without Japanese locale. Some may run, but h
 	[Get 7-Zip](https://www.7-zip.org/)  
 	[Get WinCDEmu](https://wincdemu.sysprogs.org/download/)  
 
-	We will be using 2 pieces of software today, *7-Zip* which is a tool for making and extracting archives such as `.zip` , `.tar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
+	*7-Zip* which is a tool for making and extracting archives such as `.zip` , `.tar` and `.7z` files, and *WinCDEmu* which allows us to mount image files such as `.mds/.mdf`, `.iso`.  
 	
 	If you have downloaded a visual novel, and it came in a .rar/.zip/.7z archive, you must extract it before you can mount the installation files. You can use 7-Zip for this. 
 
@@ -101,12 +101,12 @@ If you obtained your visual novel from Steam, first check if "Japanese" is liste
 
 1. Open your Steam Library.
 2. From a game's library page, select Manage > Properties.
-3. Go to the Language tab.
-3. Select Japanese from the drop-down menu.
+3. Go to the General tab.
+3. Under "Language", select Japanese from the drop-down menu.
 
 In other cases, the game language can be set within the game itself.  
 
-If you did not purchase the **Steam game** from Steam (i.e. a cracked game) you can edit the `steam_api.ini` file within the game's installation directory.  
+If you did not purchase the **Steam game** from Steam (i.e. a cracked game) you can edit the Steam emu configuration file (e.g. `steam_api.ini`) within the game's installation directory.  
 ```txt
 language=japanese
 ```
@@ -118,7 +118,7 @@ language=japanese
 !!! tip "No Crack?"
 	If there is no crack available for your VN, and your VN does not launch, use [AlphaROMdiE](https://cdn.discordapp.com/attachments/813105334763126814/813105570567159898/AlphaROMdiE-Build20140214.zip). See pictures within .zip file for instructions. Just drag the actual (installed) executable over the AlphaRomdiE window when running and it will insert a NoDvD crack, and make a shortcut in the directory too.
 !!! info "Direct3D, Visual C++ Related Issues" 
-	This can be easily fixed by installing DirectX [here](https://www.microsoft.com/en-us/Download/confirmation.aspx?id=35) and all the Visual C++ Redistributable Runtimes [here](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).  
+	This can be easily fixed by installing DirectX [here](https://www.microsoft.com/en-gb/download/details.aspx?id=8109) and all the Visual C++ Redistributable Runtimes [here](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).  
 !!! info "Garbled Text (文字化け)"  
 	Solution 1: Check [Japanese locale](#step-1-setting-japanese-locale) and restart your PC.  
 	Solution 2: Install Japanese fonts. Download [this .zip file](https://drive.google.com/file/d/1OiBgAmt3vPRu08gPpxFfzrtDgarBGszK/view?usp=drivesdk). Extract, press ++ctrl+a++(select all), Right click, Install, check "Do this for all current items", then Yes.  
