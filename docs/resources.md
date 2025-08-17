@@ -239,7 +239,7 @@ See Applications section for an EPWING reader.
 
 #### Manga tools, OCR & look up tools
 - [Agent](https://github.com/0xDC00/agent) - extensible script-based textractor that can be made to work with any video game / emulator. Requires manually made scripts in order to work (lots are available in the Agent scripts repository)
-- [GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) - tool to make mining from video games extremely easy. Works with Agent/Textractor, but also has it's own OCR for clean output without a hook.
+- [GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) - tool to make mining from video games/VNs extremely easy. Works with Agent/Textractor, but also has it's own OCR for clean output without a hook.
 - [meikipop](https://github.com/rtr46/meikipop) -  ocr based japanese popup dictionary - makes it easy to lookup words in manga, games, images. doesn't require any other tools or setup to work, but is not recommended for mining/srs integration
 - [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
 - [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
