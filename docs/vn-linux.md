@@ -1,5 +1,8 @@
 # Visual novels on Linux
 
+!!! failure "Video cutscene playback"
+	Visual novels rely on Microsoft Media Foundation technology for video playback, something introduced in Windows Vista. Although AAA games can play videos fine, (because they use things like BINK Video and aren't reliant on a core Windows technology), video playback on visual novels (literal picture books) can be finnicky. Media Foundation has not been fully reimplemented in upstream Wine yet, and Proton provides no fixes or improvements to Media Foundation. Although you may see improvements by installing mf-fix/K-Lite Codec Pack/wmp9/wmp10/wmp11/lavfilters/ffdshow in your Wineprefix with Winetricks.
+
 Visual novels are Microsoft Windows-only programs, therefore you must use Wine in order to run them on Linux. With huge progress and development being made in Linux gaming in recent years, this has gotten a lot easier and consistent.  
 
 Follow the steps below. 

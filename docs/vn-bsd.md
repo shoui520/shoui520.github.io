@@ -1,4 +1,7 @@
 # Visual novels on FreeBSD
+!!! failure "This article is 4 years old"
+	This was last tested in 2021, so nothing described here can be guaranteed to work or still be relevant. Here is something that could be useful: [Link](https://www.microsoft.com/en-gb/windows/get-windows-11)  
+
 
 Visual novels are only Microsoft Windows programs, therefore you must use *Wine* in order to run them.  
 

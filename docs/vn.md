@@ -16,9 +16,9 @@ For the people that probably don't enjoy reading, and even find manga boring, VN
 This guide will go over how to play visual novels in Japanese and learn Japanese from them, this guide assumes you already have a Japanese visual novel set up and working, if not, check out [Cross Platform VN Setup](/vn-setup).
 
 ??? question "Clipboard Inserter"
-	Google Chrome and Microsoft Edge have removed support for Manifest V2 extensions. This means extensions such as Clipboard Inserter and uBlock Origin no longer work.  
+	Google Chrome has removed support for Manifest V2 extensions. This means extensions such as Clipboard Inserter and uBlock Origin no longer work.  
 	Therefore, users who wish to continue using these browsers must use websockets instead.   
-	If you are using a browser with support for manifest V2 extensions, such as Brave, you can continue using Clipboard Inserter instead.   
+	If you are using a browser with support for manifest V2 extensions, such as Microsoft Edge, Brave or Firefox, you can continue using Clipboard Inserter instead.   
 
 Requirements:
 
@@ -28,19 +28,23 @@ Requirements:
 [(WEBPAGE) Texthooker UI](https://renji-xd.github.io/texthooker-ui/)    
 
 **Step 1: Launch Textractor**  
+
 - First, extract the `.zip` file for Textractor.  
 - Then, find click on `Textractor.exe` file in the `x86` folder to launch Textractor.  
 (The `x64` one is for 64-bit VNs, which are uncommon. Most VNs need the x86 version.)
 
 **Step 2: Remove bad Textractor extensions**  
+
 - Click on the "Extensions" button on the left sidebar.  
-- Remove these extensions by right clicking on them and clicking "Remove extension".  
-	1. Remove Repeated Characters  
-	2. Google Translate  
-	3. Extra Window  
-	4. Extra Newlines  
-	5. Copy to Clipboard  
+- Remove these extensions by right clicking on them and clicking "Remove extension"  
+	- Remove Repeated Characters  
+	- Google Translate  
+	- Extra Window  
+	- Extra Newlines  
+	- Copy to Clipboard
+
 **Step 3. Add the Websocket extension**  
+
 - Download the Websocket extension for your Textractor version. (textractor_websocket_x86.zip)
 - Extract the `.zip` file to get the `.dll` file. (`textractor_websocket_x86.dll`)  
 - Copy this file to the Textractor folder. (`Textractor-5.2.0-Zip-Version-English-Only\Textractor\x86\`)  
@@ -50,8 +54,9 @@ Requirements:
 - Allow Windows Firewall connection if prompted.    
 
 **Step 4. Hook the visual novel.**  
-- Open the visual novel and start the game. (Get out of the main menu.)  
-- Open Textractor, and click "Attach to game" (If you don't see your game, relaunch Textractor with administrator privileges.)  
+
+- Open the visual novel and start the game. (Get out of the main menu and into the game.)  
+- Open Textractor, and click "Attach to game" (If you don't see your game, relaunch Textractor as Administrator.  
 - After the game is hooked, advance through the text in the visual novel. (Click through the game to get about 2-3 lines after hooking)  
 - **Find the right hook.** In Textractor, click an option from the drop down list on the top. Then use the arrow keys ++down++ / ++up++ to find the hook that matches the text from your game.
 
