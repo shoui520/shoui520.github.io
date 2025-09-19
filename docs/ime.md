@@ -34,6 +34,9 @@ You can switch to it by either:
 - Clicking the "ENG" text on the bottom right of the taskbar, and choosing "Japanese (Microsoft IME)"
 - Using the ++win++++space++ keyboard shortcut to cycle through keyboard layouts.
 
+To start using the IME, first click into a textbox such as the Windows Search box, your browser address bar or a Notepad window. 
+
+
 #### Input Modes  
 The Japanese keyboard layout has multiple input modes, but you will most likely only be using two of them. The two modes are as follows:  
 
@@ -50,10 +53,15 @@ You can switch between these two by either:
 
 Windows remembers what input mode you were in, **per-app**. It is not a system-wide setting.   
 The default mode is Direct Input (*A* icon), so you will most likely be using ++alt++++grave++ whenever you want to type in Japanese.  
+??? info "An infamous IME quirk"
+	![ime in top left corner](img/ime1.png)  
+	Most modern applications will ignore the IME if a textbox is not in focus, but older Windows programs (such as Computer Management) and Java applications (such as Minecraft) can activate the IME in the "あ” mode, even if a textbox is not in focus.  
+	You will see the IME appear in the top-left corner of your screen, like shown in the picture above. You can try this out by opening Computer Management, enabling the あ mode with ++alt++++grave++, and start typing.  
+	For this reason, it is good practice to stay in the *A* mode, or ++win++++space++ to the English keyboard if it gets in your way.  
 
 In the あ mode, you can try typing some words now:  
 
-- こんにちは (type: `konnitiha` and press ++enter++ to finish the edit)
+- こんにちは (type: `konnnitiha` and press ++enter++ to finish the edit)
 - 案内 (type: `annnai`, press ++space++ to select the 案内 conversion candidate, and press ++enter++ to finish the edit)
 - 私は日本語を勉強しています (type: `watasihanihonngowobennkyousiteimasu`, use ++tab++ to choose the autocompletion candidate,  use ++space++ to choose different conversions, then press ++enter++ to finish the edit)
 - コレハカタカナニュウリョクテストデス (type: `korehakatakananyuuryokutesutodesu`, use ++f7++ to convert the entire input to katakana, then press ++enter++) to finish the edit
@@ -91,11 +99,11 @@ Redo conversion: ++win++++slash++
 Undo last edit: ++ctrl++++z++  
 Change back to hiragana (not applicable if edits are committed): ++ctrl++++backspace++  
 Search candidate with Bing: ++ctrl++++b++  
-Type Yen symbol: Type `えん` and find ¥ in the conversion candidates.  
-Type any symbol: Type Japanese reading and find it in the conversion candidates. E.g. ラムダ can give you the greek symbol λ. みぎ can give you →. etc.  
+Type Yen symbol: Type `えん` and find `¥` in the conversion candidates.  
+Type any symbol: Type Japanese reading and find it in the conversion candidates. E.g. `らむだ` can give you the greek symbol `λ`, `ぽんど` can give you the British pound symbol `£`. `みぎ` can give you `→`. etc.  
 
-By default, the "Japanese" keyboard layout will use the English US layout (++shift++++num2++ = `@`).  
-The only other officially supported option is the JIS layout, which you can switch to by changing your hardware keyboard layout for the IME to *Japanese keyboard (106/109 key)* and restarting your PC. You should not do this if you don't own a physical JIS keyboard with 無変換 keys and such.  
+By default, the Japanese IME  will use the English US keyboard layout (++shift++++num2++ = `@`).  
+The only other officially supported option is the JIS keyboard layout, which you can switch to by changing your hardware keyboard layout for the IME to *Japanese keyboard (106/109 key)* and restarting your PC. You should not do this if you don't own a physical JIS keyboard with 無変換 keys and such.  
 
 ## macOS
 
