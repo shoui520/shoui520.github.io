@@ -157,9 +157,13 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - **[Whisper AI subtitle generator hugging face space](https://huggingface.co/spaces/Nick088/Fast-Subtitle-Maker)   
 - **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**  
 ### Sentence Search
-- [Immersion Kit](https://www.immersionkit.com/) - Search sentences from anime, games etc. with translation. Made by Game Gengo. 
+- [Immersion Kit](https://www.immersionkit.com/) - Search sentences from anime, games etc. with translation. Made by Game Gengo.
+- [Nadeshiko](https://nadeshiko.co) Like Immersion Kit but with a larger anime catalog.
 - [Youglish](https://youglish.com/japanese) - Sentences sourced from YouTube video subtitles. This is a great tool to improve your pronunciation, as the words will be said by native speakers speaking naturally. 
 - [Filmot](https://filmot.com) - Like Youglish but with even bigger coverage. For best results, filter for manual Japanese subtitles and put quotes around your search term. [Example query](https://filmot.com/search/%22%E8%AA%AD%E3%82%80%22/1?lang=ja&searchManualSubs=1&gridView=1&).
+- [CaptionPop](https://www.captionpop.com/japanese) - Another YouTube subtitle search engine.
+- [AxTongue](https://axtongue.com) - Yet another YouTube subtitle search engine.
+- [コツ](https://kotu.io/search/other/1/100) / [コツ探索](https://search.kotu.io) - Search sentence audio from anime, audiobook, news, TV and YouTube. Features an auto-generated pitch accent graph visualizer.
 - [Massif](https://massif.la/) - Uses syosetsu novels as its source.  
 - [Yourei.jp](https://web.archive.org/web/20250729193937/https://yourei.jp/) "The World's Largest Japanese Sentence Search Engine" 
 - [Twitter](https://twitter.com/search?q=%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C&f=top) - You might need to be logged in to use this. 
@@ -302,7 +306,7 @@ It is tricky to use at first. So please see the Mining section for guides on how
 ### Immersion Helpers
 
 - [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker  
-- [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.   
+- [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
   
 ### Browser Extensions
@@ -365,4 +369,5 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
