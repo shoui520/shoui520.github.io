@@ -218,7 +218,7 @@ See Applications (Mobile) section for mobile apps.
 #### MDict (MDX)
 Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition) and 大辞林 第三版 (Daijirin 3rd edition)   
 
-- **[Epistularum's Tidy MDX Collection (Recommended)](https://nyaa.si/view/1634529)** - You can selectively download. 国語 dicts are the ones you want.
+- **[Epistularum's Tidy MDX Collection v2.0 (Recommended)](https://nyaa.si/view/2024101)** - You can selectively download. 国語 dicts are the ones you want.
 - [shoui MDX Collection (Japanese)](https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing)    
 See Applications section for an MDict (MDX) reader.   
 
