@@ -188,7 +188,6 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion. Other options here are heavily inspired by it. 
 - [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
 - **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**  
-- [stegatxins0's super fast mining guide](https://rentry.co/mining)  
 - [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)    
 - [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)  
 
@@ -371,5 +370,6 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
