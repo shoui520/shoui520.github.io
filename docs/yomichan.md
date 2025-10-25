@@ -114,19 +114,10 @@ This requires you to have Anki (2.1 and newer) installed and open on your comput
 7. Now where it says **Custom audio source (?)**, select the type **JSON** from the drop down menu.
 8. In the URL text box, enter this `http://localhost:8770/?expression={expression}&reading={reading}`
 
-## Bonus: Android use with Kiwi Browser  
+## Bonus: Android use with Edge Canary
 
-Kiwi Browser is a Chromium browser that supports extensions, including Yomichan. You can download it below.  
-[Google Play](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)  
- 
-You can access the Yomichan settings page by going in :material-dots-vertical: > Yomichan	![yomi icon](img/yomichan-icon.png) > Settings.  
-
-Please see above for link to download the extension, link to the dictionaries collection and recommended starter dictionaries.  
-Importing a dictionary is a very processor intensive process and will take a long time depending on your phone. Please be patient.  
-
-Tap on a word to look it up. In the case that it is not working, you may need to turn off the modifier key.  
-
-![Yomichan Android](img/yomichan_android_alt.png)  
+![Yomitan on Android](img/yomichan_android_updated.jpg)
+See [mobile readers](/mobile-reading).  
 
 ## Anki Setup
 
