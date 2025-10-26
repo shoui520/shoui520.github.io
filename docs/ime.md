@@ -1,6 +1,6 @@
 # Japanese typing
 
-Operating systems today all support typing Japanese characters, and the system used to input Japanese characters on a computer is often referred to as an *IME* (Input Method Editor).  
+Computers and phones today all support typing Japanese characters, and the system used to input Japanese characters on a computer is often referred to as an *IME* (Input Method Editor).  
 
 ## Windows
 
@@ -104,12 +104,4 @@ Type any symbol: Type Japanese reading and find it in the conversion candidates.
 
 By default, the Japanese IME  will use the English US keyboard layout (++shift++++num2++ = `@`).  
 The only other officially supported option is the JIS keyboard layout, which you can switch to by changing your hardware keyboard layout for the IME to *Japanese keyboard (106/109 key)* and restarting your PC. You should not do this if you don't own a physical JIS keyboard with 無変換 keys and such.  
-
-## macOS
-
-## GNU/Linux distributions
-
-## iOS
-
-## Android
 

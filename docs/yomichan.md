@@ -8,7 +8,8 @@ Yomitan is a browser extension that allows you to look up Japanese words with bo
 ## Getting Started 
 Yomitan is available for both Chromium and Firefox based browsers. You can find the respective versions below.  
 [Chrome Web Store](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)  
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)  
+[Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/yomitan-popup-dictionary/idelnfbbmikgfiejhgmddlbkfgiifnnn)  
+[Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)  
 Once installed, it will open a new tab page, just close it for now so we don't confuse each other.  
 
 ## Acquiring Dictionaries

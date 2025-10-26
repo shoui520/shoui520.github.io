@@ -9,7 +9,7 @@ This will walk you through how to set up the following on your Android (8+) devi
 - (Optional) OCR for games.  
 
 The two best options for browsers that support Yomitan on Android are **Edge Canary** and **Firefox**.  
-Whichever one you use mostly boils down to personal preference, but I believe Edge Canary to have much faster performance, so this guide will walk you through the steps on getting Edge Canary set up on your Android device.  
+Whichever one you use mostly boils down to personal preference, but Edge Canary has much better performance, so this guide will walk you through the steps on getting Edge Canary set up on your Android device.  
 The main advantages of each option is as follows:  
 ## Browsers
 ### Edge Canary  
@@ -30,7 +30,7 @@ Disadvantages:
 Advantages:
 
 - Yomitan is supported on the stable version and with no tinkering required. Things are less likely to break with updates.
-- latest version still supports Android 8 and 9.
+- Latest version still supports Android 8 and 9.
 - It's open source so you have more control over what data gets sent to Mozilla.
 
 Disadvantages:
@@ -52,7 +52,7 @@ These steps will use Edge Canary, version 139.0.3378.0, but if you want to use F
 4. Then go to the Google Play Store, find Edge Canary and in the 3 dots in top-right corner, turn off "Enable auto-update".
 
 ### Set up Edge Canary
-In the out of box experience, tap "Not Now" to everything. 
+Launch Edge Canary. In the out of box experience, tap "Not Now" to everything. 
 ??? info "Recommended Settings for Edge"
     1. In the New Tab page, tap the settings icon in the top-right corner. Disable everything here. Keep Shortcuts if you find them useful.  
     2. Open the settings page by tapping the three-lines icon and then "Settings". 
@@ -68,13 +68,12 @@ Here's how to set up Yomitan on Edge Canary:
 Before continuing, please make sure your device is not running low on storage space.  
 
 1. Open the settings page by tapping the three-lines icon and then "Settings".
-2. Scroll down to "About Microsoft Edge", and tap the little "Privacy and Terms" link right at the bottom. 
+2. Scroll down to "About Microsoft Edge", and tap the little "Privacy and Terms" link at the bottom. 
 3. Enable developer options by tapping "Edge Canary 139.0.3378.0" multiple times until you see a notification saying "Developer options are now enabled"  
 4. Go back to the Settings menu and go into Developer options.
-5. Find "Extension install by id" and copy and paste the Edge extension ID for Yomitan (`idelnfbbmikgfiejhgmddlbkfgiifnnn`) and click OK, then "Add" when prompted.  
-6. In the Yomitan welcome page, disable "Show this welcome guide on browser startup"  
-7. Access Yomitan Settings by tapping the three-lines icon and then find "Extensions", then tap on Yomitan Popup Dictionary, then tap its cog settings icon.  
-8. You can import all the same dictionaries that work on Yomitan on your computer, but please note that dictionary imports can take a really long time on mobile devices. Please be patient, make sure the screen stays on or stick to smaller dictionaries. Refer to [Yomitan Setup Tutorial](/yomichan) if you need help with Yomitan.  
+5. Find "Extension install by id" and copy and paste the Edge extension ID for Yomitan: ( `idelnfbbmikgfiejhgmddlbkfgiifnnn` ) and click OK, then "Add" when prompted.  
+6. Access Yomitan Settings by tapping the three-lines icon and then find "Extensions", then tap on Yomitan Popup Dictionary, then tap its cog settings icon.  
+7. You can import your preferred dictionaries here. All Yomitan dictionaries work on Android too, but please note that dictionary imports can take a really long time on mobile devices. Please be patient, make sure the screen stays on or stick to smaller dictionaries. Refer to [Yomitan Setup Tutorial](/yomichan) if you need help with Yomitan.  
 
 ??? info "(Optional) Custom CSS"
     The custom CSS I personally use on my tablet is here, courtesy of Ruri:  
@@ -253,22 +252,81 @@ Before continuing, please make sure your device is not running low on storage sp
 
 ## Ebook reader 
 
-You can import .epub files into [ッツ Reader](https://reader.ttsu.app/) on Edge and Yomitan works fine. You can find .epub files for Japanese books [here](resources/#novels-and-literary-texts)  
-The default settings for Yomitan will do, no further tweaking is necessary.  
+You can import .epub files into [ッツ Reader](https://reader.ttsu.app/). It is great, supports vertical text and Yomitan works fine. You can find .epub files for Japanese books [here](https://learnjapanese.moe/resources/#novels-and-literary-texts).  
+The default settings for Yomitan and ッツ will do, no further tweaking and setup is necessary. But one feature I personally always disable is "Blur Image".  
 
 
-## Tips
+### Tips
 - Make sure your device does not run out of space. When your device is low on space, Edge Canary will delete browser & extension data and cache to save space. This works just like it does on Windows when your C: drive is full.  
 - You can add ッツ reader to your device's home screen by navigating to the webpage, tapping the three-lines icon on Edge, then go to "Add to phone" and press "Install".  
 
 
 ## AnkiConnect
-TBA  
-### Setup
-TBA  
-### Local audio
-TBA  
 
+You can set up AnkiConnect on your Android device so you can create Anki cards on your mobile device just as you would on your computer! This is very useful, here's how to set it up:  
+
+### Setup  
+Install AnkiDroid from the Google Play Store [here](https://play.google.com/store/apps/details?id=com.ichi2.anki).  
+Install Ankiconnect Android from the .apk file [here](https://github.com/KamWithK/AnkiconnectAndroid/releases).  
+
+First, you need to install AnkiDroid and make sure it is set up with your decks synced already.  
+
+Then, you need to give Ankiconect Android the "appear on top" permission. 
+
+1. Launch Ankiconnect Android, access the settings page by tapping the settings icon in the top-right corner.
+2. Tap on the Access Overlay Permissions option. 
+3. Enable access for Ankiconnect Android.
+
+Then, launch Ankiconnect Android and press "Start Service", when the service is started, you should see a persistent notification from Ankiconnect Android in your status bar. AnkiConnect will be listening on port 8765.  
+
+Then you can enable Anki Integration in Yomitan. No extra tinkering is required. You can then configure your card format as usual in "Configure Anki flashcards."  
+
+!!! warning "Battery optimizations"
+    Some Android devices (especially Chinese ones) may kill the Ankiconnect Android process in the background. This doesn't happen on all devices but if this happens to you, please disable all battery optimizations for the Ankiconnect Android app. More information can be found at [Don't kill my app!](https://dontkillmyapp.com/)  
+ 
+## Local audio
+
+Note: the local audio database uses 7.1GB of space on your device. Please ensure your device has sufficient space to not be out of space when the local audio database is imported to your device.   
+
+You will need to use a computer with Android Debugging Bridge (ADB) for this step, as you cannot access the `Internal Storage/Android/data` directories and their contents on newer Android versions (11 and newer).  
+But if you are on an older version (10 and older) you can access `Internal Storage/Android/data/com.kamwithk.ankiconnectandroid/files/` and the files within it without a computer, so on those versions, you don't need to use a computer for this.  
+
+First, download the local audio database for Android [here](https://drive.proton.me/urls/TSV0HAK410#Qo7eQwcQPiG0), usually you would generate this yourself, but for your convenience I've uploaded the generated database already. If you would like to do that manually, see [here](https://github.com/KamWithK/AnkiconnectAndroid?tab=readme-ov-file#additional-instructions-local-audio).     
+
+### Local audio transfer with ADB (Windows)  
+
+ADB is necessary for Android 11 and above. Some workarounds exist for Android 11, but these were removed in later versions (it's absolutely necessary on Android 14 and above).  
+
+**Close Ankiconnect Android fully before proceeding.**  
+
+1. Download the SDK Platform-Tools for Windows .zip file [here](https://developer.android.com/tools/releases/platform-tools). Extract it anywhere on your PC.
+2. Navigate to the platform-tools folder until you find `adb.exe`
+3. On Windows 11, while in this folder, right click the blank space in Explorer and click "Open in Terminal". On Windows 10, while in this folder, click "File" in the top-left and then "Open Windows PowerShell"
+4. Move your downloaded `android.db` file to the same place as `adb.exe` (platform-tools folder)
+5. On the Android device, enable Developer options by repeatedly tapping "Build number" in the Settings in About phone / Software information. 
+6. In Developer options, enable "USB debugging", then plug your device to your computer with a USB cable. 
+7. In the Terminal/PowerShell window, type `.\adb.exe devices` and press ++enter++. On your Android device, allow access if prompted. You also need to change USB settings (there is a notification) from "Charging only" to "Transferring files".
+8. In the Terminal/PowerShell window, type `.\adb.exe push android.db /sdcard/Android/data/com.kamwithk.ankiconnectandroid/files/` and press ++enter++
+9. Wait for the transfer process to complete. 
+
+The path for the `android.db` file should be:
+
+```
+/sdcard/Android/data/com.kamwithk.ankiconnectandroid/files/android.db
+```
+
+You can confirm with `.\adb.exe shell ls -l /sdcard/Android/data/com.kamwithk.ankiconnectandroid/files`. If you downloaded it from me the file size should be `7274643456` bytes.  
+
+Now, launch Ankiconnect Android and start the service.  
+### Yomitan Settings  
+With the Ankiconnect Android service running, go to Yomitan Settings, and in "Audio", go on "Configure audio playback sources".
+Remove the other audio sources such as JapanesePod101, and configure the local audio source with the following settings:
+
+| Type    | URL |
+| -------- | ------- |
+| Custom URL **(JSON)**  | http://localhost:8765/localaudio/get/?term={term}&reading={reading}    |
+
+Please note that `Custom URL` and `Custom URL (JSON)` are different things, and this will only work with `Custom URL (JSON)`
 ## OCR
 TBA  
 
