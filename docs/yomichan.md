@@ -21,7 +21,7 @@ You can find my collection of Yomitan dictionaries below. This will have everyth
 
 Dictionaries can be found in their respective folders.  
 I recommend you install the following dictionaries:  
-	- `Bilingual/[Bilingual] Jitendex (Recommended).zip`  
+	- `Bilingual/[Bilingual] JMdict (Recommended).zip`  
 	- `Bilingual/[Bilingual] 新和英.zip`  
 	- `Kanji/[Kanji] KANJIDIC (English).zip`  
 	- `Grammar/Dictionary of Japanese Grammar.zip`  
@@ -131,3 +131,4 @@ See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup)
 <h3>Found this useful? Consider supporting me on Patreon!</h3>   
 
 [:fontawesome-brands-patreon: Support me on Patreon](https://www.patreon.com/shoui){: .md-button }
+
