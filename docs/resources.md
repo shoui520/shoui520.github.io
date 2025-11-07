@@ -63,7 +63,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [Crunchyroll (free with ads)](https://www.crunchyroll.com/) - some j-drama on here.     
 - [Minidrama](https://minidrama.net/j-drama/) - MKV downloads for J-drama.  
 - [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama
-- [IPTV GitHub Repo - japanese](https://github.com/luongz/iptv-jp) - watch Japanese TV channels with a video player like VLC.
+- [IPTV GitHub Repo - japanese](https://gitflic.ru/project/utako/utako) - watch Japanese TV channels with a video player like VLC.
 - [Japanese Live TV Streams](https://aqstream.com/jp) - Good speed but small collection. TBS and TV Tokyo work great.
 - [Japanese Live TV Streams 2](https://www.xhzb.tw/en/list.php?tid=94) - Not all channels work.
 - [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).
@@ -370,6 +370,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
