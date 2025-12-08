@@ -41,8 +41,11 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
 - [JLAB anki course](https://ankiweb.net/shared/info/2110939339) - An anki deck that teaches kana, kanji and all the grammar from Tae Kim's guide.
 
+Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 
-Sorry to overwhelm you with information, but also check out my grammar dictionaries for Yomichan (pop up dictionary browser extension). 
+### Anki mining card types
+- **[※ - Lapis](https://github.com/donkuri/lapis)** - elegant, simple and easy to set up note type.
+- [Kiku](https://kiku-docs.vercel.app/) - a feature-rich note type.
 
 ## Acquiring Japanese
 
@@ -366,6 +369,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
