@@ -78,8 +78,7 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 ### Manga
 
 Refer to the tools section for info on how to make lookups easier for manga.  
-
-- ~~[Itazuraneko Manga Library](https://itazuraneko.neocities.org/library/manga.html) - Simple and clean collection of manga. Lots of manga on here.~~  
+- **[※ Mangatan all-in-one](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
 - [BilingualManga](https://bilingualmanga.org/) - Yomichan compatible & one-click translation.   
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
@@ -245,6 +244,7 @@ See Applications section for an EPWING reader.
 #### Manga tools, OCR & look up tools
 - [Agent](https://github.com/0xDC00/agent) - extensible script-based textractor that can be made to work with any video game / emulator. Requires manually made scripts in order to work (lots are available in the Agent scripts repository)
 - [GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) - tool to make mining from video games/VNs extremely easy. Works with Agent/Textractor, but also has it's own OCR for clean output without a hook.
+- **[※ Mangatan all-in-one](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
 - [meikipop](https://github.com/rtr46/meikipop) -  ocr based japanese popup dictionary - makes it easy to lookup words in manga, games, images. doesn't require any other tools or setup to work, but is not recommended for mining/srs integration
 - [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
 - [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
@@ -370,6 +370,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
