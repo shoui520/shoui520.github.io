@@ -308,7 +308,7 @@ It is tricky to use at first. So please see the Mining section for guides on how
 
 - [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker
 - [Remove non-Japanese videos from YouTube](https://www.reddit.com/r/ajatt/comments/1ozfztt/no_more_separate_accounts_needed_for_youtube/)
-- [Jiten.moe] - Inspired by JPDB.io, but more up to date and has more features. Recommended.
+- [Jiten.moe](https://jiten.moe/) - Inspired by JPDB.io, but more up to date and has more features. Recommended.
 - [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
   
@@ -329,10 +329,11 @@ It is tricky to use at first. So please see the Mining section for guides on how
 
 Useful for stuff like visual novels and manga you may download.  
 
-- [7-Zip](https://www.7-zip.org/)- Archiver/Compresor.  
+- [7-Zip](https://www.7-zip.org/) - archiver, compressor/decompressor
 - [WinCDEmu](https://wincdemu.sysprogs.org/) - Mount ISO/MDF/MDS files as a virtual drive on your computer  
-- [WinRAR](https://www.win-rar.com/) - 7-Zip alternative.  
-- [DAEMON Tools](https://www.daemon-tools.cc/)- WinCDEmu alternative. Fares better with UDF volumes.   
+- [WinRAR](https://www.win-rar.com/) - 7-Zip alternative.
+- [ImgDrive](https://www.yubsoft.com/imgdrive/) - WinCDEmu alternative that works on Windows 11 for Arm. Could work better than WinCDEmu for others on x64 too.
+- [DAEMON Tools](https://www.daemon-tools.cc/)- Another WinCDEmu alternative. Fares better with UDF volumes, but take caution when considering DAEMON Tools, as it has all the hallmarks of crapware and should only be used as a last resort.
 
 ### VPNs (Japan location specific)  
 
@@ -372,6 +373,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
