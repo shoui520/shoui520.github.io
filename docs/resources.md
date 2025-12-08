@@ -40,7 +40,9 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
 - [JLAB anki course](https://ankiweb.net/shared/info/2110939339) - An anki deck that teaches kana, kanji and all the grammar from Tae Kim's guide.
-
+- [初級を教える人のための日本語文法ハンドブック](https://www.amazon.co.jp/%E5%88%9D%E7%B4%9A%E3%82%92%E6%95%99%E3%81%88%E3%82%8B%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E5%BA%B5-%E5%8A%9F%E9%9B%84/dp/4883191559) - best book for learning Japanese grammar in Japanese, for learners & Japanese teachers.
+- [国語—文法](https://youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd) - YouTube playlist of 学校文法. A pedagogical framework for teaching grammar to native Japanese speakers. Not made for learners or linguists. 
+- [国語—古文](https://youtube.com/playlist?list=PLKRhhk0lEyzMV4fvp0BqKMIZnQUm4SLmn) - YouTube playlist of 古文, to help you learn classical Japanese. 
 Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 
 ### Anki mining card types
@@ -118,7 +120,8 @@ Note: Gaining the Student rank or above in our Discord channel grants you access
  
 - [Nyaa.si visual novel search (SFW)](https://nyaa.si/?f=0&c=6_2&q=_) - Nyaa.si has some visual novels, but you best use "Sukebei" nyaa.si (18+, **NSFW warning**)  
 - [RyuuGames](https://www.ryuugames.com/tag/japanese/) - Has a ton of visual novels.  
-- [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Also has a ton of visual novels.  
+- [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Also has a ton of visual novels.
+- [shinnku](https://www.shinnku.com/files/galgame0) - Chinese website that hosts raw visual novels.  
 - [Anime-sharing](http://www.anime-sharing.com/forum/) - Has the most visual novels out of everything here. But you need an account and also a debrid service, and you need to search across duplicate threads to download anything from here. See [here](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) for premium leeches.   
 - [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Direct links to visual novels  
 - [Sukebei Nyaa.si **(18+) NSFW warning**](https://sukebei.nyaa.si/?f=0&c=1_3&q=) - NSFW side of Nyaa.si which should have a lot more visual novels.
@@ -369,6 +372,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
