@@ -201,9 +201,7 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Jisho (bilingual)](https://jisho.org/) - If you are a beginner, use this. 
 - [Weblio EJJE (bilingual)](https://ejje.weblio.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for longer phrases that Jisho may not have. 
 - [Eijirou on the WEB (bilingual)](https://eow.alc.co.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for example sentences.         
-- [Sakura-Paris Free Kōjien Search (both)](https://sakura-paris.org/dict/) - Says 広辞苑 but it has every major epwing dictionary. 
-- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomichan and MDX dictionary pack.      
-- [Goo (monolingual)](https://dictionary.goo.ne.jp/) - Uses デジタル大辞泉. The dictionary this site uses is usable in my Yomichan and MDX dictionary pack.  
+- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomichan and MDX dictionary pack.  
 - [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary. Available for Yomichan too.
 - [Fuseji - uncensor 伏せ字 (i.e. words with 〇)](http://fuseji.net/)  
 - [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
@@ -215,6 +213,7 @@ See Applications (Mobile) section for mobile apps.
 Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition) and 大辞林 第三版 (Daijirin 3rd edition)   
 
 - **[Epistularum's Tidy MDX Collection v2.0 (Recommended)](https://nyaa.si/view/2024101)** - You can selectively download. 国語 dicts are the ones you want.
+- [Yomitan to MDX converted dictionaries by Androix](https://drive.google.com/drive/folders/1vfqk44f8InMI7THat8qWwp_zpRfRZl2h?usp=sharing)
 - [shoui MDX Collection (Japanese)](https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing)    
 See Applications section for an MDict (MDX) reader.   
 
@@ -292,8 +291,8 @@ It is tricky to use at first. So please see the Mining section for guides on how
 #### iOS
 - [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) - $24.99 official port of Anki for iOS.   
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary based on the JMdict project, ever.
-- [EBPocket](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes. 
-
+- [EBPocket](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes.
+- [JReader](https://jreader.moe/) - All in one solution for ebook reading and lookups that aims to bring the Yomitan experience to iOS.
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature.
 - [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomichan dictionary and EPWING support!  
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomichan.  
@@ -370,6 +369,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
