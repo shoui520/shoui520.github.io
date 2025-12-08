@@ -31,7 +31,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 
 ### Grammar
 - **[※ - Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Cure Dolly is a new grammar guide that has sparked recent attention because of its unique way of teaching Japanese grammar. It aims to teach Japanese grammar in a way that sticks true to the roots of the language, in contrast to other grammar guides that take shortcuts that could cause confusion later on. For that reason, I recommend you start with this. Because of Cure Dolly's speech, and the audio quality presented in the videos, you may find it difficult to understand. However there are subtitles available for all videos that may alleviate this issue, which I recommend you turn on. 
-- [Cure Dolly Complete Transcript by dinuz UPDATED](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) - A complete transcript of Cure Dolly videos. 
+- [Cure Dolly Complete Transcript by dinuz & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
 - **[※ Japanese Ammo by Misa Grammar Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)** - recommend sleeper way of grinding grammar.  
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html) - Tae Kim's grammar guide has been around for as long as anyone can remember. It is often recommended as a good grammar guide however you may want to use Cure Dolly instead, for a more optimized approach. 
 
@@ -51,12 +51,10 @@ Sorry to overwhelm you with information, but also check out my grammar dictionar
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker with raw anime, this is the best place to get anime. I recommend you use **qBittorrent**! 
 - [Hianime.to](https://hianime.to/) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Chrome extension that allows you to drag and drop subtitle files (See [Subtitles](#subtitles)) on a video you are streaming. It works with hianime.to, and it may work with other sites. 
-- ~~[Itazuraneko Anime Library](https://itazuraneko.neocities.org/library/satuei/anime.html) - collection of anime.~~  
-- [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.  
-- **[※ AnimeCards - Subtitles](https://animecards.site/subtitles/)** - Goes over how to get Japanese subtitles and how to sync them for the video. 
+- [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.
+- [AnimeCards - Subtitles](https://animecards.site/subtitles/) - Goes over how to get Japanese subtitles and how to sync them for the video. 
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
 ### Movies & TV Shows (J-drama)
-- ~~[Google Drive folder full of J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (password for .zip/.rar archives: `bagikuy`)~~
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
 - [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - stream some J-drama.
@@ -183,12 +181,6 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 - [Condensed Audio 5](https://www.paliss.com/)   
 - [Condense your own audio](https://ercanserteli.com/condenser/)  
 
-### Mining
-- [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion. Other options here are heavily inspired by it. 
-- [Audio cards on Mac](https://sites.google.com/view/mac-audiocards) - Based on an older method of AnimeCards but shows you how to get the setup working on a Mac.  
-- **[Anime cards in under 10 seconds with MPV script](https://youtu.be/M4t7HYS73ZQ)**  
-- [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)    
-- [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)  
 
 ### Japanese Fonts
 - ~~[Itazuraneko Font Library](https://itazuraneko.neocities.org/library/font.html)~~ 
@@ -239,6 +231,13 @@ See Applications section for an EPWING reader.
 - [Kindle Dictionaries](https://mega.nz/folder/rIIHhAxb#d6GV9ZNTj9gUEaQtfGluqg/) - Made by epistularum(エピス)#9370, includes StarDicts too.
 - [Stardict/Kobo/KOReader Dictionaries](https://drive.google.com/drive/folders/1tXjcwJLHb0dax0ysbXubNza9Gf6iSPkx?usp=sharing)
 
+
+### Mining
+- [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion. Other options here are heavily inspired by it.
+- [※ Memento](https://github.com/ripose-jp/Memento) - Video player solution for looking up words and mining from anime.
+- [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)    
+- [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)
+- 
 ### Applications (Desktop)
 
 #### Manga tools, OCR & look up tools
@@ -306,13 +305,14 @@ It is tricky to use at first. So please see the Mining section for guides on how
 
 ### Immersion Helpers
 
-- [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker  
+- [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker
+- [Jiten.moe] - Inspired by JPDB.io, but more up to date and has more features. Recommended.
 - [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
   
 ### Browser Extensions
-- [Yomichan](https://foosoft.net/projects/yomichan/) - Yomichan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease.  
-*Android users can use this on Kiwi Browser.*    
+- [Yomitan](https://yomitan.wiki/) - Yomitan is a browser extension that allows you to look up Japanese words with both the meaning and the reading on web pages with ease. 
+*Android users can use this on Edge Canary.*    
 - [Clipboard Inserter](https://github.com/kmltml/clipboard-inserter) - Used for the texthooking page (MPV and visual novels)  
 - [exSTATic](https://github.com/KamWithK/exSTATic) - Japanese language immersion progress tracker.        
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Enhance Netflix for language learning.     
@@ -370,6 +370,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
