@@ -31,16 +31,16 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 
 ### Grammar
 - **[※ - Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** - Cure Dolly is a new grammar guide that has sparked recent attention because of its unique way of teaching Japanese grammar. It aims to teach Japanese grammar in a way that sticks true to the roots of the language, in contrast to other grammar guides that take shortcuts that could cause confusion later on. For that reason, I recommend you start with this. Because of Cure Dolly's speech, and the audio quality presented in the videos, you may find it difficult to understand. However there are subtitles available for all videos that may alleviate this issue, which I recommend you turn on. 
-- [Cure Dolly Complete Transcript by dinuz & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
+- [Cure Dolly Complete Transcript by nunko, Mordaug & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
 - **[※ Japanese Ammo by Misa Grammar Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)** - recommend sleeper way of grinding grammar.  
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html) - Tae Kim's grammar guide has been around for as long as anyone can remember. It is often recommended as a good grammar guide however you may want to use Cure Dolly instead, for a more optimized approach. 
-
+- [Yokubi](https://yoku.bi/) - Effectively a condensed version of Tae Kim's guide that is fast and easy to read through early on.
 - [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
 - [JLAB anki course](https://ankiweb.net/shared/info/2110939339) - An anki deck that teaches kana, kanji and all the grammar from Tae Kim's guide.
-- [Yokubi](https://yoku.bi/) - Effectively a condensed version of Tae Kim's guide that is fast and easy to read through early on.
+
 
 Sorry to overwhelm you with information, but also check out my grammar dictionaries for Yomichan (pop up dictionary browser extension). 
 
@@ -241,7 +241,7 @@ See Applications section for an EPWING reader.
 - 
 ### Applications (Desktop)
 
-#### Manga tools, OCR & look up tools
+#### Manga tools, OCR & game look up tools
 - [Agent](https://github.com/0xDC00/agent) - extensible script-based textractor that can be made to work with any video game / emulator. Requires manually made scripts in order to work (lots are available in the Agent scripts repository)
 - [GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) - tool to make mining from video games/VNs extremely easy. Works with Agent/Textractor, but also has it's own OCR for clean output without a hook.
 - **[※ Mangatan all-in-one](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
@@ -251,15 +251,13 @@ See Applications section for an EPWING reader.
 - [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
 - [Poricom Manga OCR](https://github.com/kha-white/manga-ocr) - GUI for manga-ocr
 - [mokuro](https://github.com/kha-white/mokuro) - Lets you use yomichan on regular manga! 
-- [Capture2Text (Windows)](http://capture2text.sourceforge.net/) - recommend download better tessdata from the tesseract github for more accurate results. 
-- [Gazou OCR (Linux)](https://github.com/kamui-7/Gazou-OCR)  
-- [Hakuneko Manga Downloader](https://hakuneko.download/) - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags. 
 
 #### Visual Novel Tools
 - [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels. 
 - [JL](https://github.com/rampaa/JL) - Yomitan/extractor/clipboard inserter alternative that does not require a browser.
 - [Transparent texthooker overlay](https://github.com/Saplling/transparent-texthooker-overlay) - allows you to look up words without alt-tabbing / switching monitors.  
 - [Magpie](https://github.com/Blinue/Magpie) - Seamless fullscreen for visual novels on Windows. No need for exclusive fullscreen!
+- [LunaTranslator](https://docs.lunatranslator.org/en/) - modern Textractor alternative. 
 
 #### Other Tools
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
@@ -270,7 +268,8 @@ It is tricky to use at first. So please see the Mining section for guides on how
  
 #### Android
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.  
-- [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android. 
+- [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android.
+- [Poe](https://play.google.com/store/apps/details?id=com.slimecreative.poe) - it's like Yomitan but everywhere on your phone.  
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Bilingual dictionary for Android based on the JMdict project, has cool features such as auto-correction and AnkiDroid integration.  
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Bilingual dictionary for Android based on the JMdict project.  
 - [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.  
@@ -291,8 +290,10 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary based on the JMdict project, ever.
 - [EBPocket](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes.
 - [JReader](https://jreader.moe/) - All in one solution for ebook reading and lookups that aims to bring the Yomitan experience to iOS.
+- [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - 
+- [Manabi Reader](https://reader.manabi.io/) - Alternative for Yomitan + card creation on iOS. 
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature.
-- [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomichan dictionary and EPWING support!  
+- [Kantan Manga Reader](https://apps.apple.com/us/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomichan dictionary and EPWING support!  
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomichan.  
 - [Orion Browser](https://apps.apple.com/us/app/orion-browser-by-kagi/id1484498200) - Less latency with 10ten than just Safari.  
 - [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - A very pretty e-book reader with great Japanese support. 
@@ -365,6 +366,7 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
+
 
 
 
