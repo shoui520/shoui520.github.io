@@ -32,7 +32,7 @@ Manga is probably the best way to get into reading without it being too intimida
 
 As you can see, manga uses all 3 writing systems, hiragana, katakana and kanji, therefore manga can be a great way to practice your skills in all 3 fields.
 But how about looking up words? That's literally a picture isn't it?
-There's a new program called Poricom that makes looking up words in manga much easier. You can find it [here](https://github.com/bluaxees/Poricom)
+There's a new program called Mangatan that makes looking up words in manga much easier. You can find it [here](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)
 For Android users you can use [OCR Manga Reader](https://sourceforge.net/projects/ocrmangareaderforandroid/). For iOS users you can use [Kantan Manga Reader](https://apps.apple.com/gb/app/kantan-manga/id1518666365)  
 
 Expect manga to be pretty hard for you at first, but over time it will smoothen out and get easier. You just need to read more. You just need to read a lot.
@@ -75,4 +75,5 @@ Don't worry about how much "kanji" you "know". You can start reading after you h
 Read more, read a lot, that's how you get good at reading.  No hacks, no tricks, sorry.
 
 Have fun immersing! :smile:
+
 
