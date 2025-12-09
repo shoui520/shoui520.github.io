@@ -143,12 +143,25 @@ Note: Gaining the Student rank or above in our Discord channel grants you access
 - [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Also has a ton of visual novels.
 - [shinnku](https://www.shinnku.com/files/galgame0) - Chinese website that hosts raw visual novels.  
 - [Anime-sharing](http://www.anime-sharing.com/forum/) - Has the most visual novels out of everything here. But you need an account and also a debrid service, and you need to search across duplicate threads to download anything from here. See [here](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) for premium leeches.   
+- [H-Suki](https://www.h-suki.com/en/home)
+- [zi0.cc](https://zi0.cc/) - Avoid games in the "汉化galgame会社合集" folder or releases with "汉化" in the name as those are translated.
+- [TouchGal](https://www.touchgal.us/) - Games tagged as "日本語" or "生肉资源" are in Japanese. 
 - [CraneAnime Upload List](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Direct links to visual novels  
+- [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Site dedicated to retro Japanese computers that provides mediafire links to old games on various platforms. Check out the adventure category for VN-style games.
 - [Sukebei Nyaa.si **(18+) NSFW warning**](https://sukebei.nyaa.si/?f=0&c=1_3&q=) - NSFW side of Nyaa.si which should have a lot more visual novels.
+- [Akiba-Online](https://www.akiba-online.com/forums/hentai-game-downloads.41/) — Another DDL forum similar to Anime-sharing.
+- [Hentai-Sharing](https://hentai-sharing.net/) — DDL site that clones releases from Anime-sharing. May have working links when the originals go down.
+- [Hentai-Share](https://hentai-share.com/) — Another DDL site that copies releases from Anime-sharing.
+- [VivaHentai4u](https://www.vivahentai4u.net/) — Same as above.
+- [Otomi Games](https://otomi-games.com/) — Another DDL site.
+- [Hentai4Daily](https://hentai4daily.com/) — Another one.
+- [Doujinblog](https://doujinblog.org/) — One more.
 - [VNPocket **(18+) NSFW warning**](https://vnpocket.com) - Play visual novel and RPG games online.
+- [Internet Archive PC-98 Archive](https://archive.org/details/NeoKobe-NecPc-98012017-11-17)
 - [Visual Novel Recommendation Lists](https://learnjapanese.moe/vn/#unsure-what-to-play)
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 Note: visual novels on consoles do not have any NSFW content.  
+- [Visual Novel Club Resources Page (VNCR)](https://vnclub.org/)  
 
 **Console/Emulator**  
 
