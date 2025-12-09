@@ -83,7 +83,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 Refer to the tools section for info on how to make lookups easier for manga.  
 - **[※ Mangatan all-in-one](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
-- [BilingualManga](https://bilingualmanga.org/) - Yomichan compatible & one-click translation.   
+- [BilingualManga](https://bilingualmanga.org/) - Yomitan compatible & one-click translation.   
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
 - [Manga Google Drive](https://drive.google.com/drive/folders/1Mx1Hhux0FfoK4-osN5xOmyVcew0mSZVA) - Google Drive folder with some manga.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=3_3) - raw manga torrents, there are a LOT Of manga here.  
@@ -146,7 +146,6 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 #### Hook VNs with Textractor!
 - [VN Guide](https://learnjapanese.moe/vn/)  
 ### Audiobooks & Podcasts
-- ~~[Itazuraneko Audiobook Library](https://itazuraneko.neocities.org/library/onsei.html) - Has some of the 0 yen audiobooks from Audible.~~  
 - [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
@@ -195,7 +194,7 @@ Japanese video game immersion tip: The PlayStation Vita is easy to hack and get 
 ### Dictionaries
 
 #### Yomitan
-Yomichan, a browser add-on that allows you to look up Japanese words easily. 
+Yomitan, a browser add-on that allows you to look up Japanese words easily. 
 
 - [Get Yomitan](https://yomitan.wiki/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
@@ -207,8 +206,8 @@ Yomichan, a browser add-on that allows you to look up Japanese words easily.
 - [Jisho (bilingual)](https://jisho.org/) - If you are a beginner, use this. 
 - [Weblio EJJE (bilingual)](https://ejje.weblio.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for longer phrases that Jisho may not have. 
 - [Eijirou on the WEB (bilingual)](https://eow.alc.co.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for example sentences.         
-- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomichan and MDX dictionary pack.  
-- [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary. Available for Yomichan too.
+- [Weblio (monolingual)](https://www.weblio.jp/) - Uses 実用日本語表現辞典, 大辞林 第三版. The dictionaries this site uses are usable in my Yomitan and MDX dictionary pack.  
+- [日本語俗語辞書 (monolingual)](http://zokugo-dict.com/) - Monolingual slang dictionary. Available for Yomitan too.
 - [Fuseji - uncensor 伏せ字 (i.e. words with 〇)](http://fuseji.net/)  
 - [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
 - [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/search) - pitch accent dictionary.  
@@ -242,6 +241,7 @@ See Applications section for an EPWING reader.
 - [※ Memento](https://github.com/ripose-jp/Memento) - Video player solution for looking up words and mining from anime.
 - [※ Yomine](https://github.com/mcgrizzz/Yomine) - makes the process of mining from videos easier.
 - [Ultimate Yomitan Audio Source](https://animecards.site/yomitan_audio/)  
+- [Anki-less Yomitan Audio Server](https://github.com/aramrw/yomichan_audio_server)
 - [Xelieu's lazy Anki guide](https://xelieu.github.io/jp-lazy-guide/)    
 - [Aquafina's Advanced Anki Template (Now maintained by Arbyste)](https://arbyste.github.io/jp-mining-note/)
 - 
@@ -256,7 +256,7 @@ See Applications section for an EPWING reader.
 - [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
 - [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
 - [Poricom Manga OCR](https://github.com/kha-white/manga-ocr) - GUI for manga-ocr
-- [mokuro](https://github.com/kha-white/mokuro) - Lets you use yomichan on regular manga! 
+- [mokuro](https://github.com/kha-white/mokuro) - Lets you use yomitan on regular manga! 
 
 #### Visual Novel Tools
 - [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels. 
@@ -296,11 +296,11 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - the best mobile Japanese dictionary based on the JMdict project, ever.
 - [EBPocket](https://apps.apple.com/us/app/ebpocket-basic/id314082593) - Useful for monolingual dictionaries. Transfer dictionary files to the app using iTunes.
 - [JReader](https://jreader.moe/) - All in one solution for ebook reading and lookups that aims to bring the Yomitan experience to iOS.
-- [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - 
+- [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - Yomitan-like + card creation on iOS.
 - [Manabi Reader](https://reader.manabi.io/) - Alternative for Yomitan + card creation on iOS. 
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature.
-- [Kantan Manga Reader](https://apps.apple.com/us/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomichan dictionary and EPWING support!  
-- [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomichan.  
+- [Kantan Manga Reader](https://apps.apple.com/us/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomitan dictionary and EPWING support!  
+- [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomitan.  
 - [Orion Browser](https://apps.apple.com/us/app/orion-browser-by-kagi/id1484498200) - Less latency with 10ten than just Safari.  
 - [Books (formerly iBooks)](https://apps.apple.com/us/app/apple-books/id364709193) - A very pretty e-book reader with great Japanese support. 
 
@@ -310,6 +310,7 @@ It is tricky to use at first. So please see the Mining section for guides on how
 - [Remove non-Japanese videos from YouTube](https://www.reddit.com/r/ajatt/comments/1ozfztt/no_more_separate_accounts_needed_for_youtube/)
 - [Jiten.moe](https://jiten.moe/) - Inspired by JPDB.io, but more up to date and has more features. Recommended.
 - [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.
+- [多読 Tracker](https://github.com/Eroge-Abyss/tadoku) - Visual novel reading stats tracker.  
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
   
 ### Browser Extensions
@@ -373,16 +374,3 @@ Useful for stuff like visual novels and manga you may download.
 
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.   
-
-
-
-
-
-
-
-
-
-
-
-
-
