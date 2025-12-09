@@ -34,6 +34,7 @@ Welcome to TheMoeWay Resources Sheet, resources are categorised into "Learning J
 - [Cure Dolly Complete Transcript by nunko, Mordraug & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
 - **[※ Japanese Ammo by Misa Grammar Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)** - recommend sleeper way of grinding grammar.  
 - [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html) - Tae Kim's grammar guide has been around for as long as anyone can remember. It is often recommended as a good grammar guide however you may want to use Cure Dolly instead, for a more optimized approach. 
+- [IMABI](https://imabi.org/ - Very thorough and comprehensive guide to Japanese grammar, recommended for intermediate-to-advanced learners.  
 - [Yokubi](https://yoku.bi/) - Effectively a condensed version of Tae Kim's guide that is fast and easy to read through early on.
 - [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://cdn.discordapp.com/attachments/778430038159655012/908722684257501194/Jay_Rubin_-_Making_Sense_of_Japanese__What_the_Textbooks_Dont_Tell_You-Kodansha_USA_2021.epub) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
@@ -269,6 +270,7 @@ See Applications section for an EPWING reader.
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have.    
 It is tricky to use at first. So please see the Mining section for guides on how to set it up. 
 - [EBWin)](http://ebstudio.info/) - An epwing format dictionary reader. Good for look ups without a web browser. 
+- [Misc Japanese tools by Kuuuube]( https://kuuuube.github.io/)
 
 ### Applications (Mobile)
  
