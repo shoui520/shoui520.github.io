@@ -58,7 +58,7 @@ The holy trinity of Japanese learning (for novel enjoyers).
 
 - Set up Yomichan [here](/yomichan)  
 - Itazuraneko in [Resources](/resources)  
-- EPUBs... many ways you can get them. ([Itazuraneko ebook list](https://itazuraneko.neocities.org/library/shousetu/shousetulist), Kindle 1.19 for Windows+[UnpackKindleS](https://github.com/Aeroblast/UnpackKindleS/releases), [PeepoHappyBooks](https://nyaa.si/view/1350523))  
+- EPUBs- many ways you can get them. Anna's Archive, [PeepoHappyBooks](https://nyaa.si/view/1350523)) etc.  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
 ### Manga
@@ -117,7 +117,7 @@ Honestly grammar study is very useful for reading.
 
 If you haven't studied a lot of grammar and don't know all JLPT N5, N4, N3, N2 and N1 grammar points, then I highly recommend you study them. But I don't mean this to say "study JLPT grammar before reading." I mean, "study JLPT grammar to improve your reading, which you should be doing, probably right about now"  
 
-I want you to watch [Cure Dolly's playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (your basic fundamentals) then study JLPT grammar with [medamayaki's JLPT grammar deck](https://cdn.discordapp.com/attachments/778430038159655012/972368473751703572/Nihongo-Kyoshi-complete.apkg).  
+I want you to watch [Cure Dolly's playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (your basic fundamentals) then study JLPT grammar with [medamayaki's JLPT grammar deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing).  
 
 Listen, I don't care if JLPT grammar is not "actually grammar."  
 
