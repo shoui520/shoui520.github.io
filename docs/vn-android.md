@@ -138,7 +138,7 @@ The setup is very easy, I got it working in a matter of minutes.
 
 You will need:
 
-- [Kirikiroid2 APK](https://cdn.discordapp.com/attachments/813105334763126814/831315953081253938/kirikiri2.apk)
+- [Kirikiroid2 APK](https://github.com/enaix/Kirikiroid2-debloated)
 - Kirikiri2 Engine-compatible visual novel. (Look for `.xp3` files)
 - [Kirikiroid2 patch for _YOUR_ VN!](https://zeas2.github.io/Kirikiroid2_patch/patch/)
 

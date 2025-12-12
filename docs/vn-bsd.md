@@ -117,7 +117,7 @@ Now we need to install the common redistributables such as DirectX, Visual C++ R
 	You can do `winetricks fontsmooth=rgb` because without it, the font is simply awful.  
 
 !!! tip "Optional: GUI Improvments"
-	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://cdn.discordapp.com/attachments/813105334763126814/813105422285799464/wine_breeze_colors.reg), the GUI should look nice and clean then.  
+	You can open the Registry Editor using `wine regedit` and import [this .reg file](https://www.gnome-look.org/p/1259774), the GUI should look nice and clean then.  
 
 First, please update Winetricks, or else it will not work. 
 ```bash
@@ -241,7 +241,7 @@ Now go back to [Visual Novel Guide](https://learnjapanese.moe/vn/#playing-visual
 
 VNs made by Fuguriya such as Sono *Hanabira ni Kuchizuke o* and *Hanahira*  will not launch with Wine by default. Follow the steps below to fix this.  
 
-Download fjfix [[here]](https://cdn.discordapp.com/attachments/813105334763126814/832650409167945798/fjfix.tar.gz).   
+Download fjfix [[here]](https://drive.google.com/file/d/15P7WXO-mlDzaH1MsE4G5fnzC89aeRmO2/view?usp=sharing).   
 Extract the archive.   
 Now in the terminal, run:  
 ```bash
