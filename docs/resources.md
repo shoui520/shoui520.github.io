@@ -180,7 +180,15 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
-
+### Subtitles
+- [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). 
+- [Jimaku.cc](https://jimaku.cc/) - new site as a more secure alternative to kitsunekko    
+- ~~[Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)~~  
+- [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
+- [BritVSJapan Repo](https://github.com/Matchoo95/JP-Subtitles) - From Netflix. 
+- [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)  
+- **[Whisper AI subtitle generator hugging face space](https://huggingface.co/spaces/Nick088/Fast-Subtitle-Maker)   
+- **[Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)**  
 ### Condensed Audio
 - [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)  
 - [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)  
