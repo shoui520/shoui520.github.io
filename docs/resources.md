@@ -16,7 +16,7 @@
 - [Kanken resource page](https://rentry.org/kankenbros/#random-links)  
 - [Chronopolize's Kanji Components](https://ankiweb.net/shared/info/390273931) - An Anki deck to help you differentiate similar kanji by teaching components.  
 - [Usagi Chan Kanji Phonetics](/kanjiphonetics) - An Anki deck to help you learn the readings of kanji components that carry a consistent on-yomi.  
-- [Remembering The Kanji (RTK)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ)  
+- [Remembering The Kanji (RTK)](https://drive.google.com/drive/folders/1EXJ843AJsgJrRcSSJPw7pFfgS4xX3AWn)  
 - [(Uses RTK) Learn the Kanji](https://www.learnkanji.guide/) - Guide on how to use RTK.  
 - [Recognition Remembering The Kanji with less than 450 cards (RRTK)](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - Shortened version of RTK.   
 
