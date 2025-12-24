@@ -325,5 +325,5 @@ See Applications section for an EPWING reader.
 - [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
 - [An Alternate Way To Start Reading (by OrangeLightX)](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit)
 - [Assorted JP Guides (by Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
-
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
+
