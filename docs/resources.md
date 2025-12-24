@@ -50,7 +50,8 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 ## Pitch accent
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) - video by Darius on how to acquire pitch.
 - [kotu.io](https://kuuuube.github.io/minimal-pairs/) - pitch accent game to train pitch accent recognition.
-- [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like. 
+- [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like.
+- [JLPT Trainer](https://trnn.io/Fb-X7J) - Interactive JLPT tests with explanations
 
 ### Anki
 
@@ -77,7 +78,8 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Chrome extension that allows you to drag and drop subtitle files (See [Subtitles](#subtitles)) on a video you are streaming. It works with hianime.to, and it may work with other sites. 
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.
 - [AnimeCards - Subtitles](https://animecards.site/subtitles/) - Goes over how to get Japanese subtitles and how to sync them for the video. 
-- [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
+- [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.
+- [Anisub.tv](https://trnn.io/bNK5VH) - anime, dorama, tv-show streaming site with interactive subtitles, Japanese TV, and media game
 ### Movies & TV Shows (J-drama)
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
@@ -95,6 +97,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [Search on bilibili](https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+- [Anisub.tv](https://trnn.io/bNK5VH) - dorama, tv-show, anime streaming site with interactive subtitles, Japanese TV, and media game
 
 
 ### Manga
@@ -110,6 +113,7 @@ Refer to the tools section for info on how to make lookups easier for manga.
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
 - [mangareader.to](https://mangareader.to) - mangareader, read manga online.
 - [Rawkuma](https://rawkuma.com/) - Also lets you read manga online.
+- [JBooks](https://trnn.io/EZNKSd) - Manga and native Japanese audiobooks with interactive translation
 
 The websites below have the best collection but can be a pain to download from.  
 **Use a debrid service to generate premium full speed download links!**
@@ -321,4 +325,5 @@ See Applications section for an EPWING reader.
 - [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
 - [An Alternate Way To Start Reading (by OrangeLightX)](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit)
 - [Assorted JP Guides (by Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
+
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
