@@ -31,12 +31,12 @@ These are not recommended anymore.
 - [Core2.3K VN Order Deck](https://anacreondjt.gitlab.io/docs/coredeck/) - The optimized Core deck but ordered in terms of visual novel frequency. Got absorbed into Kaishi 1.5k.
 
 ### Grammar
-- **[※ - Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)**
-- [Cure Dolly Complete Transcript by nunko, Mordraug & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
+- **[※ Yokubi](https://yoku.bi/)** - Effectively a condensed version of Tae Kim's grammar guide designed to get you understanding grammar as briefly as possible. Recommended for beginners.
+- [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html)
 - **[※ Japanese Ammo by Misa Grammar Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)** - sleeper way of binging grammar.  
 - **[※ IMABI](https://imabi.org/)** - Very thorough and comprehensive guide to Japanese grammar, recommended for intermediate-to-advanced learners.  
-- [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html)
-- [Yokubi](https://yoku.bi/) - Effectively a condensed version of Tae Kim's guide that is fast and easy to read through early on.
+- [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)**
+- [Cure Dolly Complete Transcript by nunko, Mordraug & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
 - [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://drive.google.com/file/d/1Cl80gJyGbzdv4lGdcJhMJ1pGK_EZhCZv/view?usp=sharing) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim/yokubi/whatever guide you used. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.

@@ -310,11 +310,10 @@ there are resources out there that help make the learning process easier. The gr
 There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
 
 Here are a few guides ranked based on how much I recommend them to total beginners You do not need to do every single one, just find the one that works well for you.
-
-[Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) ([transcript](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html))
 [Yokubi](https://yoku.bi/)  
+[Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N) 
+[Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) ([transcript](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html))
 [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
-[Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)    
 [Sakubi](https://gohoneko.neocities.org/learn/anon/sakubi)  
 [IMABI](https://imabi.org/)    
 
