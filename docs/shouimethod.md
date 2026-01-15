@@ -35,6 +35,7 @@ Even if this write-up is dismissed as too opinionated, too eccentric, or eventua
 
 If this can help even one person break out of stagnation, it would mean the world to me.  
 
+P.S., this is not a general guide for the average person interested in self-study, that would be [Japanese Guide](/guide). This is a highly opinionated piece on how to learn Japanese.  
 ## Core principles
 
 - Do not use Japanese subtitles.   
@@ -51,7 +52,7 @@ Don't just stick with stuff you're comfortable with. You have to do things you'r
 
 Simple setups. Avoid complex setups (especially complex Anki and mining setups), they add unnecessary friction to the learning process. In my philosophy, the learning process should be as friction-less as possible. 
 
-If being a fluent speaker is part of your goals at all, then you should know the cold, hard truth: Reading will not make you fluent, only listening will. Mass listening will lay the foundation for you to become a fluent speaker, and output practice will truly get you there. But reading is how you will make the fastest, most tangible gains in the language.  
+If being a fluent speaker is part of your goals at all, then you should know the cold, hard truth: Reading will not make you fluent, only listening will. Mass listening will lay the foundation for you to become a fluent speaker, and output practice will truly get you there. But reading is the fastest way to learn a ton of words, which can be seen as *tangible* gains that aid your comprehension, but this, alone does not represent the full-scale of language ability that pertains to output (speaking).   
 
 ## What I did as a beginner 
 
@@ -108,7 +109,8 @@ Do Anki first thing in the morning → immerse in 12-13 episodes of raw anime �
 
 ## What you should do
 
-If you haven't already, you should **learn core vocab with Kaishi every day** and cover **the gist** of grammar taught in your chosen grammar guide. Do Kaishi at the default rate of 20 cards per day.    
+If you haven't already, you should **learn core vocab with Kaishi every day** and cover **the gist** of grammar taught in your chosen grammar guide. Do Kaishi at the default rate of 20 cards per day.  
+(I personally never did below 20 cards/day, though others may find that a bit overwhelming, in that case try 10/day.)   
 
 I will note though, I didn't do Kaishi, and I didn't do Core2k either. My first Anki deck was actually a mining deck, which I hated, and I was just learning common words anyway. I consider doing Kaishi as the better alternative for learning core vocabulary.  
 
@@ -160,6 +162,17 @@ Don't just mindlessly immerse, try to think about what the Japanese you're heari
 This is an ever important concept, and in my opinion, is the "correct" way to listen. You'll be approaching listening with this mindset through the entirety of your Japanese learning journey.  
 
 At this stage, I don't think you need to fuss too much about immersion content variety. Sticking with anime is fine, but I did venture out to J-drama and YouTube videos around this stage too.  
+
+Some of you may be wondering... *really? Raw listening on day 1? That's ridiculous.*   
+And I know— raw listening is hard. That's why the majority of people postpone it inevitably.  
+"I'm not ready yet, maybe I need to Anki more/read more/use JP subs more etc..."  
+This is a cycle that **never ends**.   
+The only way to get good at listening raw is to **just do it**.   
+I tell people to listen raw from the beginning as a mindset thing. The longer you avoid raw listening, the harder it becomes to make yourself listen without subs the more you put effort into comfortable learning activities (Anki, reading, JP subs).   
+I don't want to make people fall into the trap of continuing to read and using subs, overwhelmed with the constant notion that they're not "ready yet".   
+It's so common to see people, so terrified to start raw listening, who are complacent with their reading ability, how many words they know in Anki and how well they can read Japanese subs. These people are good enough. Their issue is not that they aren't "ready yet", it's that **they're too afraid to try.**  
+Also what's *very* common when people start listening for the first time is, they try to pause at every line and get very demotivated and upset when they don't understand everything. The truth is, **no one** has understood everything on their first day. I sure as hell didn't.  
+So here's something important to remember: **don't pause.** Don't do it, I know you're tempted to, but don't do it. Don't pause. Rack up those hours.  
 
 Also see: [Passive Listening](#passive-listening)  
 ### Shoui method stage 1 — reading  
@@ -577,7 +590,8 @@ Adjust the settings as follows:
 - FSRS: ON
 - Desired retention: any value between `80%` - `95%` 
 
-*The desired retention I used personally was <b>95%</b>, if you really want to copy me, use that, at your own discretion, but I think that might be too much for most people. 80%-90% is best for most. FSRS didn't exist for the majority of my JP learning journey, but I think it's marginally better than the stock Anki algorithm. 
+*The desired retention I used personally was <b>95%</b>, if you really want to copy me, use that, at your own discretion, but I think that might be too much for most people. 80%-90% is best for most. FSRS didn't exist for the majority of my JP learning journey, but I think it's marginally better than the stock Anki algorithm.  
+Additionally, you should consider reoptimizing FSRS parameters every now and then.  
 ![Image](img/shouianki8.png)
 ![Image](img/shouianki9.png)  
 
@@ -656,7 +670,11 @@ If your Google keeps defaulting to Chinese results, it's because your Google is 
 
 ### FREQUENCY SORTING (EASY!)  
 
-This sorts the order your mined cards are shown to you based on how common they are in Japanese.  
+
+This sorts the order your mined cards are shown to you based on how common they are in Japanese.
+
+Why frequency sorting is good: because you will learn the most important words first in your deck.  
+
 It's really easy, assuming you already have frequency information on your cards. (If you have `{frequency-harmonic-rank}` for FreqSort, you already have frequency on your cards)
 
 PREREQUISITES: 
@@ -697,6 +715,8 @@ Do this if you have already mined a ton of cards that do not have frequency info
 [Follow this.](https://github.com/MarvNC/JP-Resources?tab=readme-ov-file#backfilling-old-cards)  
 
 ### LOCAL AUDIO (EASY!)
+
+Why local audio is good: Because it has more audio than available by default in Yomitan. Because the sources used in the local audio have accurate pitch accent. Because it's fully available offline.  
 
 Tedious to set up, but very important imo.    
 I'll try to make it as simple as possible to understand.  
