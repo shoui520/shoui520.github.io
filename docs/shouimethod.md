@@ -182,7 +182,50 @@ You should be ready to take the plunge at around ~1000 words learned.
 
 [Setup your mining deck with my mining setup](#mining-setup-w-lapis-shoui-method)   
 
+## My grammar learning method
+
+You shouldn't think too deeply about grammar as a beginner. There is no "learning grammar" like it's a monolith. It's a multi-step process.  
+
+In my method, as a beginner, all you should do is:
+
+- learn the basics from your chosen guide (the gist)
+- listen & read a LOT. let the grammar flow through you.  
+- try to output
+
+After you are good enough to read LNs semi-comfortably, then:
+
+- grind JLPT grammar points  
+- try to learn Japanese grammar in Japanese  
+- learn remaining grammar points you didn't learn as a beginner.  
+## My Anki learning method
+
+Make sure you read my [Anki setup guide](#anki-setup), as this will only make sense if you've read that.  
+
+When learning & reviewing Anki cards, by far the most crucial piece of information has always been the **MEANING**, and then the **reading**.  
+
+I always did Anki first thing in the morning, I made sure I did it as early as possible so I didn't have to think about it later in the day.  
+
+I always used PassFail (again, see my [Anki setup guide](#anki-setup)).  
+When reviewing, I look at the word, try to recall the meaning and reading, then press ++space++ to reveal the back, then and grade based on whether I failed to recall **both** the meaning & the reading (in that case, I press ++2++), or if I succeeded to recall both the meaning & the reading, then I press ++1++.  
+
+Reveal: ++space++  
+Pass: ++1++  
+Fail: ++2++  
+Undo: ++ctrl++ ++z++  
+
+I try to spend as little time as possible on my reps while still trying to keep them effective (no cheating, you'll only be cheating yourself.)  
+
+I stuck with 20 cards/day as a new card limit for the majority of my learning journey. Though sometimes I have done 30, 40, 50 and sometimes even uncapped.  
+
 ## Points of contention / quirks
+
+### Holding on to old decks
+I don't agree with the idea of holding on to your old decks. This is extremely common in TheMoeWay, where people hold on to an old deck they have, and keep reviewing it even if it's full of common words. There are very little gains to be had there. Even if they hate it, people find it so difficult to let go of their old decks, they treat it like the game savefile of their Japanese learning progress— this couldn't be further from reality.   
+
+I delete all my Anki decks almost every year, and I couldn't be happier. I would even consider a yearly deck refresh part of the shoui method.  
+
+If those words were *really* so important, you would see them next time you immerse. And if you do see them, and had to mine them again... then Anki simply failed to do its job helping you remember the word.  
+
 ### Monolingual Dictionaries
 
 I started using monolingual (Japanese→Japanese) dictionaries quite early, after I finished reading 1 book in Japanese. I didn't go full monolingual though, as I still kept bilingual (Japanese→English) dictionaries. But the point is, I didn't ever hesitate to read monolingual definitions for things, if I could.   
@@ -220,6 +263,10 @@ I knew about the existence of pitch accent really early on, before I even starte
 I believe phonetic training is useful and even necessary, but I didn't start doing this until 2023, 4 years after I started immersion.  
 
 As with everything related to pitch & pronunciation, **the earlier, the better**.  
+
+### Audiobooks: cope?
+
+I've been saying audiobooks are cope for years. But how could I say such a thing? Technically they're THE listening content that uses the highest concentration of words, with the longest sentences and most complex vocabulary, so it *must* be the best for listening, right? Well, no. It's only good for pitch accent and training your working memory in Japanese. The fact that they have long sentences and complex vocabulary is a valid point, this makes them 'harder' than most content, but the language used is still right up a reading main's alley. The main concern is **audiobooks are too clear** and **too slow**, this is not reflective of real-world speech at all. I think, if you want to be "dekiru", you should get good enough to understand audiobooks, but at the same time, immerse in every other kind of listening content, that includes scripted and unscripted speech.   
 
 ## Stage 1.5
 Weird limbo phase I had between these two stages... I find it difficult to separate them cleanly. So I'll just make it clear what I was doing until I felt like I had advanced to "the next stage of learning".  
@@ -299,7 +346,7 @@ Honestly, at this point, there is not much else to "the shoui method", other tha
 - Never complicate the mining process
 - Find something that will keep you coming back to Japanese. Whether it be something you like reading/watching, or something you like doing *with* your Japanese.   
 
-Also, unpopular opinion but your Anki deck is most likely full of useless stuff, lol. I reset my Anki decks almost every year, and I couldn't be happier. I would even consider a yearly deck refresh part of the shoui method. 
+
 
 ## Conclusion
 
