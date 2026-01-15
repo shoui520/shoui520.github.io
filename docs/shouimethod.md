@@ -28,7 +28,7 @@ I was tired of the bullshit. I knew things had to change. I knew I had to spread
 
 In a way, TheMoeWay was just me writing to my past self. It didn't matter if what I was writing wasn't entirely factual, the crucial part was that the information was *everything my past-self wishes they could have known*.  
 
-And with that, people shill my website without me even doing anything. I have never advertised my site myself. I wrote what I thought would help people and people starting sharing it around. 
+And with that, people shill my website without me even doing anything. I have never advertised my site myself. I wrote what I thought would help people and people started sharing it around. 
 
 The fact that something I wrote as a teenager, without any expectation of it getting popular, ended up helping so many people still feels surreal to me. Combined with the continued encouragement from members of the TheMoeWay Discord to finally put "the Shoui method" into words, it feels like the right time to do so.   
 Even if this write-up is dismissed as too opinionated, too eccentric, or eventually fades into obscurity, helping even 1 person achieve their goals would be enough. I didn't just want to get good at Japanese, I always wanted to make the path clearer for others who were struggling in the same ways I once did.  
@@ -122,7 +122,7 @@ Fussing too much over grammar as a beginner is a practice in futility. Do not pu
 
 I emphasize learning vocab and grammar because if you really want to do exactly what I did, then you need to have a constantly expanding vocabulary when you immerse every day.  
 
-On the same day you learn words from Kaishi, immerse in raw anime. 
+On the same day you learn words from Kaishi, immerse in raw anime. It should be noted that "raw anime" here, is only an *example* of what you can immerse in. Raw anime is personally what I used, though any Japanese content that is both compelling and has no subtitles is good.  
 
 Ironically, I was way less picky about what I immersed in when I was a beginner, so I wasn't really concerned with anime difficulty, so I just watched whatever interested me. This happened to be CGDCT SoL anime, battle shounen and ecchi harem anime.  
 
@@ -156,10 +156,13 @@ Remember, do not use Japanese subtitles. They are a crutch. Neither real life or
 When listening, try to relate what you're hearing back to the real world. Mentally simulate output in your head while immersing.  
 Try to think, *"How would I use what I am hearing right now myself? Could I put my own spin on this saying?"*  
 Don't just mindlessly immerse, try to think about what the Japanese you're hearing is actually doing. Can you think of other instances where you heard this word / construction? Can you think of any ways what you are hearing right now differs from what you have heard in the past?  
+Can you imagine yourself as the characters/speakers saying these things? How would *you* say this to others?  
 
 *Envision how you will use what you are currently hearing in your life later on.*    
 
-This is an ever important concept, and in my opinion, is the "correct" way to listen. You'll be approaching listening with this mindset through the entirety of your Japanese learning journey.  
+This is an ever important concept, and in my opinion, is the "correct" way to listen. You'll be approaching listening with this mindset through the entirety of your Japanese learning journey. 
+
+What I am explaining here is often overlooked, these are highly important things you should be thinking about when listening, so please keep them in mind.  
 
 At this stage, I don't think you need to fuss too much about immersion content variety. Sticking with anime is fine, but I did venture out to J-drama and YouTube videos around this stage too.  
 
@@ -233,7 +236,7 @@ In my method, as a beginner, all you should do is:
 
 After you are good enough to read LNs semi-comfortably, then:
 
-- grind JLPT grammar points  
+- grind JLPT grammar points  (doesn't matter if you don't care about the JLPT. These are structures in Japanese that are hard for learners to understand intuitively.)  
 - try to learn Japanese grammar in Japanese. For me, this was initially monolingual dicts for basic grammar points and referring to nihongokyoshi.    
 - learn remaining grammar points you didn't learn as a beginner.  
 ## My Anki learning method
@@ -256,7 +259,7 @@ Undo: ++ctrl++ ++z++
 
 I try to spend as little time as possible on my reps while still trying to keep them effective (no cheating, you'll only be cheating yourself.)  
 
-I stuck with 20 cards/day as a new card limit for the majority of my learning journey. Though sometimes I have done 30, 40, 50 and sometimes even uncapped. But beware, if you choose to raise your new card limit over 20, then you will have to be prepared to deal with the piling reviews in the coming days.  
+I stuck with 20 cards/day as a new card limit for the majority of my learning journey. Though sometimes I have done 30, 40, 50 and sometimes even uncapped. But beware, if you choose to raise your new card limit over 20, then you will have to be prepared to deal with the piling reviews in the coming days. What about lower, like 10 cards a day, you may ask? I never really did below 20 cards, and if I did, it was if I had no time to do Japanese at all that day. But I understand, many people in the community have found it too overwhelming to do 20 cards per day, so for some I recommend 10.  
 
 ## Points of contention / quirks
 
@@ -324,10 +327,12 @@ I found VN's easier to read in large amounts mainly because instead of a wall of
 If you feel like you are hard-coping right now about reading, here's what you should do now:
 
 - Find a VN you want to read.  
-- Set yourself a goal to read a minimum of `20,000文字` per day.  
+- Set yourself a goal to read a minimum of `20,000文字` per day.*  
 - Read that VN everyday. 
 
 Do this with the setup in the [VN Guide](/vn).  
+
+*It should be noted that this moji count depends on your current reading ability. For me at the time, this was a reasonable goal. But if you find that waaaay to challenging, consider doing something like `10,000文字` per day, or `5,000文字` per day.  
 
 
 Your mining approach should be exactly the same as everything else, [this](#mining-setup-w-lapis-shoui-method). Just press the green button. Complex cards with full context and pictures are super overrated.  
@@ -391,7 +396,8 @@ So that leaves you with the option: what do you want to focus on? I chose readin
 I wanted to make my Japanese ability at least some what on-par with my English ability, to the point I could function entirely in Japanese on the internet without feeling any 不自由. To do that, I would need to read *way* more than I currently had. So I did. I went from about 20 books to 100 books, only taking breaks in between to focus on other stuff in life.   
 
 During this reading phase, I didn't neglect listening, I just made sure I read half a book every single day.   
-I went hard on listening and mimicking the speech patterns and mannerisms of one Japanese native I liked the speaking style of. This was a 声優, which almost always have 声優ラジオ's, which you can find 100's of hours of online. I put this on as passive immersion all the time. I also put Japanese TV and YouTube on as passive immersion.  
+I went hard on listening and mimicking the speech patterns and mannerisms of one Japanese native I liked the speaking style of. This was a 声優, which almost always have 声優ラジオ's, which you can find 100's of hours of online. This is called "adopting a language parent."  
+I put this on as passive immersion all the time. I also put Japanese TV and YouTube on as passive immersion.  
 I also went hard on actually outputting to natives. Talking in their communities like Discord and 5ch. Shadowing. Texting entirely in Japanese.  
 
 For reading, I was still doing "the shoui method"– mine everything. Use monolingual dictionaries. But eventually, I started using bilingual and monolingual together, because I felt like I already immersed so much in Japanese and used the monolingual dictionary enough for Japanese to feel intuitive enough to the point where I can reap the benefits of both the monolingual and bilingual dictionary at the same time. Even if I have bilingual dicts in Yomitan, I am completely unphased by needing to read a monolingual definition, it's just natural to me.   
