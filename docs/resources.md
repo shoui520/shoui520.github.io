@@ -121,7 +121,7 @@ The websites below have the best collection but can be a pain to download from.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 
 ### Novels and Literary Texts
-- [Anna's Archive](https://annas-archive.org/) 
+- [Anna's Archive](https://annas-archive.li/) 
 - [PeepoHappyBooks Torrent](https://nyaa.si/view/1548943) - Collection of 30000 unique epubs compiled from boroboro, itazuraneko, etc.  
 - [TMW Collection Torrents](https://nyaa.si/?f=0&c=0_0&q=TMW)   
 - [Lolibrary](https://lolibrary.moe/)  
@@ -246,8 +246,9 @@ Yomitan, a browser add-on that allows you to look up Japanese words easily.
 
 - [Get Yomitan](https://yomitan.wiki/) - A pop up dictionary. You MUST have this. This is an absolute must have. It is extremely useful for reading.
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
-- [shoui Yomitan Dictionaries Collection](https://learnjapanese.link/dictionaries)  
-- [Marv's miscellaneous dictionaries](https://github.com/MarvNC/yomichan-dictionaries)  
+- [shoui Yomitan Dictionaries Collection](https://learnjapanese.link/dictionaries)    
+- [Marv's dictionaries](https://github.com/MarvNC/yomitan-dictionaries)  
+- [Caoimhe's dictionaries](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)  
 - Every dictionary explained in the text file.  
 ### Mobile dictionaries
 #### Android
