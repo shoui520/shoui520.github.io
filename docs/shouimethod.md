@@ -43,6 +43,16 @@ If this can help even one person break out of stagnation, it would mean the worl
 - Simplicity (of setups) over all.  
 - Listening is what will make you into a fluent speaker.
 
+Japanese subtitles are a crutch that neither makes you better at listening or reading. It's so tempting to use them because of the opportunity to learn new words and frankly, because of how hard watching without subs is. But you need to let go of them as soon as possible, to train real listening ability.  
+
+Relate what you're doing back to the real world— this means, don't just mindlessly immerse. Think about *when* you're going to *use* what you're learning later on.  
+
+Don't just stick with stuff you're comfortable with. You have to do things you're not already good at to get better at them.  
+
+Simple setups. Avoid complex setups (especially complex Anki and mining setups), they add unnecessary friction to the learning process. In my philosophy, the learning process should be as friction-less as possible. 
+
+If being a fluent speaker is part of your goals at all, then you should know the cold, hard truth: Reading will not make you fluent, only listening will. Mass listening will lay the foundation for you to become a fluent speaker, and output practice will truly get you there. But reading is how you will make the fastest, most tangible gains in the language.  
+
 ## What I did as a beginner 
 
 ### Traditional Study
@@ -63,7 +73,7 @@ Out of all these things, the most useful parts were these:
  - learning grammar
  - output attempts
 
- These 3 effectively laid the ground work for immersion gains. 
+ These 3 effectively laid the ground work for immersion gains. I don't recommend anything else for beginners. These 3 (vocab, grammar, output) are part of the most fundamental components of the learning process, the other piece being **immersion**.  
  
  I found out about immersion when someone in a Japanese learning Discord told me "read more, and you'll get good". He was the only person in that community who wasn't a haafu, 帰国子女 or Chinese or Japanese native that had good Japanese. I held onto this, that's when I started looking into immersion methods. That's when I found the [classic DJT guide](https://djtguide.neocities.org/guide). I will say though, this guide does a very bad job at telling you what the process of getting good actually looks like, and leaves out two crucial components: **raw listening** and **tolerating ambiguity**.  
 
@@ -98,11 +108,14 @@ Do Anki first thing in the morning → immerse in 12-13 episodes of raw anime �
 
 ## What you should do
 
-If you haven't already, you should **learn core vocab with Kaishi every day** and cover **the gist** of grammar taught in your chosen grammar guide.   
+If you haven't already, you should **learn core vocab with Kaishi every day** and cover **the gist** of grammar taught in your chosen grammar guide. Do Kaishi at the default rate of 20 cards per day.    
 
 I will note though, I didn't do Kaishi, and I didn't do Core2k either. My first Anki deck was actually a mining deck, which I hated, and I was just learning common words anyway. I consider doing Kaishi as the better alternative for learning core vocabulary.  
 
 Personally, I first learned Japanese grammar with that Japanese Ammo playlist I have linked in [Resources](/resources), but I think her explanations aren't that good and if I could, I would go back and learn from the grammar guides that are recommended these days. Namely: Yokubi, Cure Dolly, IMABI.  
+
+[Yokubi](https://yoku.bi) is what I recommend for beginners these days, it's a written guide aimed at teaching the core concepts of Japanese grammar, the rest should be supplemented with immersion.   
+
 Fussing too much over grammar as a beginner is a practice in futility. Do not put too much effort into grammar before you are already proficient. You only need to learn the basic ideas.  
 
 I emphasize learning vocab and grammar because if you really want to do exactly what I did, then you need to have a constantly expanding vocabulary when you immerse every day.  
@@ -111,7 +124,7 @@ On the same day you learn words from Kaishi, immerse in raw anime.
 
 Ironically, I was way less picky about what I immersed in when I was a beginner, so I wasn't really concerned with anime difficulty, so I just watched whatever interested me. This happened to be CGDCT SoL anime, battle shounen and ecchi harem anime.  
 
-After you consider your listening done for the day, read a bit of a novel to mine some words. (My mining setup details: (link))
+After you consider your listening done for the day, read a bit of a novel to mine some words. (My mining setup details: [here](#anki-setup))
 
 So to summarize, all on the same day:  
 
@@ -124,6 +137,15 @@ I'd dub this "**stage 1**" of the shoui method. The constant loop of immersing i
 Do this for a **minimum of 100 hours of listening**.  
 
 I was personally doing this for a bit longer than that, around **1000 raw anime episodes**, so approx. 300 hours.  
+
+### Relevant links
+
+Relevant hyperlinks in this guide:
+
+[Anki Setup](#anki-setup)  
+[Yomitan Setup](#yomitan-setup-beginners)  
+[Mining Setup](#mining-setup-w-lapis-shoui-method)  
+[Monolingual Dictionaries](#yomitan-setup-monolingual)  
 
 ### Shoui method stage 1 – listening
 
@@ -139,6 +161,7 @@ This is an ever important concept, and in my opinion, is the "correct" way to li
 
 At this stage, I don't think you need to fuss too much about immersion content variety. Sticking with anime is fine, but I did venture out to J-drama and YouTube videos around this stage too.  
 
+Also see: [Passive Listening](#passive-listening)  
 ### Shoui method stage 1 — reading  
 
 I don't place much emphasis on reading in the beginning.  
@@ -157,7 +180,10 @@ What I mainly did for reading was:
 *Extensive reading* is where you just read "for enjoyment".  
 
 As a rule of thumb, I did something along the lines of a half intensive, half extensive reading strategy.  
-To further my understanding, I made sure I had access to good Yomichan dictionaries, and searched online for things I was extremely struggling with. Sometimes, it is tempting to put things into machine translation, but I found that this creates the illusion that you "learned" what a previously difficult structure means, rather than actually building the foundation for you to understand intuitively how things came to be, so it's counterproductive for our goal. Always try to decipher texts entirely on your own! This also makes use of AI kind of pointless / also cements the illusion of learning.  
+To further my understanding, I made sure I had access to [good Yomichan dictionaries](#yomitan-setup-beginners), and searched online for things I was extremely struggling with.  
+Sometimes, it is tempting to put things into machine translation, but I found that this creates the illusion that you "learned" what a previously difficult structure means, rather than actually building the foundation for you to understand intuitively how things came to be, so it's counterproductive for our goal. Always try to decipher texts entirely on your own! This also makes use of AI kind of pointless / also cements the illusion of learning.  
+
+I will admit, I did not have a concrete daily reading goal in the beginning. This, I feel, really hindered my progress. Since I would just "read" until I felt like stopping. If I could go back I would tell myself to set a character count goal. This amount would vary based on how good at reading you already are.  
 
 ### Shoui method stage 1 — mining
 
@@ -166,7 +192,7 @@ Since I didn't do Kaishi or Core2k, some of you might be wondering how you can d
 First I'll be completely honest: I didn't do a core deck not because I already knew everything, but because I **refused** to do it because of my ego.   
 In actuality, I most likely only knew close to approx. ~1000 words when I started immersing, so that's less than half Core2k. I also didn't have the patience to sift through the Core2k deck to find the point where I start running into cards I don't know. The guide I was originally following (DJT Guide) also told you to set up Yomichan, set up a mining deck and start reading as soon as possible, so I did.  
 
-I started reading 日常の夏休み because it had furigana (furigana is cope btw, but i just chose it because EVERYTHING was so damn hard, this was slightly less hard.), and I was looking up words with Yomichan and indiscriminately adding every single word I didn't know into Anki. I learned and reviewed my backlog of cards at a rate of 20 new cards per day.   
+I started reading 日常の夏休み because it had furigana (furigana is cope btw, but i just chose it because EVERYTHING was so damn hard, this was slightly less hard.), and I was looking up words with Yomichan and indiscriminately adding every single word I didn't know into Anki. I learned and reviewed my backlog of cards at a rate of 20 new cards per day. Trying to read even one book in Japanese was really painful btw, but I finished it after a few months.  
 I never really cleared that backlog. After I found out about AJATT and Matt's methods, I started to re-think my approach. I wasn't missing out on much by not doing that deck I made, it was all common words and mis-mines (cards you add to Anki that are not actually the word/structure used in the text because you were too low-skill to parse the sentence correctly.) anyway. So I deleted the deck and started fresh.  
 
 #### How you should start mining
@@ -195,13 +221,15 @@ In my method, as a beginner, all you should do is:
 After you are good enough to read LNs semi-comfortably, then:
 
 - grind JLPT grammar points  
-- try to learn Japanese grammar in Japanese  
+- try to learn Japanese grammar in Japanese. For me, this was initially monolingual dicts for basic grammar points and referring to nihongokyoshi.    
 - learn remaining grammar points you didn't learn as a beginner.  
 ## My Anki learning method
 
 Make sure you read my [Anki setup guide](#anki-setup), as this will only make sense if you've read that.  
 
 When learning & reviewing Anki cards, by far the most crucial piece of information has always been the **MEANING**, and then the **reading**.  
+
+(For words with multiple meanings, refer to the example sentences in the 研究社 dictionary. Memorize the definition that is relevant to the sentence you found them in. Importing monolingual dictionaries also makes the task of figuring out *what* meaning was used in the sentence much easier. Only the relevant meaning used in the sentence is ENOUGH for Anki cards. You do not need to rep every single meaning.)  
 
 I always did Anki first thing in the morning, I made sure I did it as early as possible so I didn't have to think about it later in the day.  
 
@@ -215,7 +243,7 @@ Undo: ++ctrl++ ++z++
 
 I try to spend as little time as possible on my reps while still trying to keep them effective (no cheating, you'll only be cheating yourself.)  
 
-I stuck with 20 cards/day as a new card limit for the majority of my learning journey. Though sometimes I have done 30, 40, 50 and sometimes even uncapped.  
+I stuck with 20 cards/day as a new card limit for the majority of my learning journey. Though sometimes I have done 30, 40, 50 and sometimes even uncapped. But beware, if you choose to raise your new card limit over 20, then you will have to be prepared to deal with the piling reviews in the coming days.  
 
 ## Points of contention / quirks
 
@@ -226,7 +254,7 @@ I delete all my Anki decks almost every year, and I couldn't be happier. I would
 
 If those words were *really* so important, you would see them next time you immerse. And if you do see them, and had to mine them again... then Anki simply failed to do its job helping you remember the word.  
 
-### Monolingual Dictionaries
+### When you should start using monolingual dictionaries
 
 I started using monolingual (Japanese→Japanese) dictionaries quite early, after I finished reading 1 book in Japanese. I didn't go full monolingual though, as I still kept bilingual (Japanese→English) dictionaries. But the point is, I didn't ever hesitate to read monolingual definitions for things, if I could.   
 ### Isolated kanji study — Remembering the Kanji (RTK)
@@ -243,6 +271,8 @@ However, as much as I hated doing RTK, I think it was worth it. I am not one to 
 But the important question is, **do you care**? I did, so I did RTK.  
 
 The "modern" solution to this kanji distinction + stroke order memorization problem is to do the QM Kanken deck *after* you are already a fluent reader of Japanese. In a way, this kills two birds with one stone, but I don't agree with delaying kanji distinction to this late.  
+
+So how much RTK should *you* do? The common community consensus is 450 cards though RRTK450, but *I* didn't do that. I did full RTK, 2200 cards. I don't have the experience to speak on RRTK450. So it's your choice really. Either do RRTK450 or do full RTK, 2200 kanji with the first 1000 using the Heisig method and the rest with the RRTK method. 
 ### Passive Listening
 I've always been sold on the idea of passive listening.  
 Passive listening is where you put Japanese audio on in the background while doing other stuff.    
@@ -268,10 +298,28 @@ As with everything related to pitch & pronunciation, **the earlier, the better**
 
 I've been saying audiobooks are cope for years. But how could I say such a thing? Technically they're THE listening content that uses the highest concentration of words, with the longest sentences and most complex vocabulary, so it *must* be the best for listening, right? Well, no. It's only good for pitch accent and training your working memory in Japanese. The fact that they have long sentences and complex vocabulary is a valid point, this makes them 'harder' than most content, but the language used is still right up a reading main's alley. The main concern is **audiobooks are too clear** and **too slow**, this is not reflective of real-world speech at all. I think, if you want to be "dekiru", you should get good enough to understand audiobooks, but at the same time, immerse in every other kind of listening content, that includes scripted and unscripted speech.   
 
-## Stage 1.5
+## Stage 1.5 — cope saved by VNs
 Weird limbo phase I had between these two stages... I find it difficult to separate them cleanly. So I'll just make it clear what I was doing until I felt like I had advanced to "the next stage of learning".  
-My immersion was still mainly listening, watching anime, j-drama, YouTube and listening to 声優ラジオ everyday, but truth be told, I was coping hard over reading. I still considered reading secondary to listening, (and to be honest, I still do in my philosophy), but I really wanted to reach my goal of being able to read an LNs in Japanese. I just found it too difficult to read a book in Japanese. So I coped, and stuck with listening. I finished about 8 books in total around this time, but I still sucked at reading. That's when I was introduced to visual novels, and started shilling them because they were far more engaging than books. That's what prompted me to make the [VN Guide](/vn) and say "VNs supercharged my reading". Because they did, before I read through a VN, I was coping *hard*. After that my reading noticeably improved and I felt more confident to read more, and I came back to books with my newfound skill and confidence.   
+My immersion was still mainly listening, watching anime, j-drama, YouTube and listening to 声優ラジオ everyday, but truth be told, I was coping hard over reading. I still considered reading secondary to listening, (and to be honest, I still do in my philosophy), but I really wanted to reach my goal of being able to read LNs in Japanese. I just found it too difficult to read a book in Japanese.   
+You know, it was still really difficult to enjoy reading a book in Japanese, even after all that effort, because it was too difficult to understand *what* was actually going on, and that felt so excruciating and demotivating.  
+So I coped, and stuck with listening. I finished about 8 books in total around this time, but I still sucked at reading. That's when I was introduced to visual novels, and started shilling them because they were far more engaging than books.   
+That's what prompted me to make the [VN Guide](/vn) and say "VNs supercharged my reading". Because they did, before I read through a VN, I was coping *hard*. After that my reading noticeably improved and I felt more confident to read more, and I came back to books with my newfound skill and confidence.   
 I keep saying "I was coping" because even though I avoided reading, I firmly believed that I was **stagnating** hard by continuing to do my listening-focused approach. I *knew* I needed to read more to improve.  
+
+I found VN's easier to read in large amounts mainly because instead of a wall of text, all it took was a mouse click to feel like I am progressing, it's weird how that's all it takes for me to want to read more.  
+
+If you feel like you are hard-coping right now about reading, here's what you should do now:
+
+- Find a VN you want to read.  
+- Set yourself a goal to read a minimum of `20,000文字` per day.  
+- Read that VN everyday. 
+
+Do this with the setup in the [VN Guide](/vn).  
+
+
+Your mining approach should be exactly the same as everything else, [this](#mining-setup-w-lapis-shoui-method). Just press the green button. Complex cards with full context and pictures are super overrated.  
+
+
 So to conclude, I felt like I was done with this chapter of Japanese learning after I finished 8 novels, 2 VNs and had about 500 hours of RAW listening.  
 
 ## Stage 2 — monolingual dictionaries & vocab count skyrocketing
@@ -333,18 +381,18 @@ During this reading phase, I didn't neglect listening, I just made sure I read h
 I went hard on listening and mimicking the speech patterns and mannerisms of one Japanese native I liked the speaking style of. This was a 声優, which almost always have 声優ラジオ's, which you can find 100's of hours of online. I put this on as passive immersion all the time. I also put Japanese TV and YouTube on as passive immersion.  
 I also went hard on actually outputting to natives. Talking in their communities like Discord and 5ch. Shadowing. Texting entirely in Japanese.  
 
-For reading, I was still doing "the shoui method"– mine everything. Use monolingual dictionaries. But eventually, I started using them together, because I felt like I already immersed so much in Japanese and used the monolingual dictionary enough for Japanese to feel intuitive enough to the point where I can reap the benefits of both the monolingual and bilingual dictionary at the same time. Even if I have bilingual dicts in Yomitan, I am completely unphased by needing to read a monolingual definition, it's just natural to me.   
+For reading, I was still doing "the shoui method"– mine everything. Use monolingual dictionaries. But eventually, I started using bilingual and monolingual together, because I felt like I already immersed so much in Japanese and used the monolingual dictionary enough for Japanese to feel intuitive enough to the point where I can reap the benefits of both the monolingual and bilingual dictionary at the same time. Even if I have bilingual dicts in Yomitan, I am completely unphased by needing to read a monolingual definition, it's just natural to me.   
 
 My reading content wasn't primarily fictional content anymore. I started immersing in 5ch, ふたばちゃんねる, 知恵袋, Note.com, Wikipedia, NHKニュース and other areas of the Japanese internet (through Google search).  
 
-Though you need to block Reddit machine translation from poisioning your search results these days, do that with [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe).  
+Though you need to block Reddit machine translation from poisoning your search results these days, do that with [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe).  
 
 Honestly, at this point, there is not much else to "the shoui method", other than:
 
-- Read IMABI
-- Study pitch. 
+- Read IMABI. I read it sequentially from 0-200.  
+- Study pitch. [This guide](https://www.youtube.com/watch?v=I-dRbTnLmBY) is good.  
 - Never complicate the mining process
-- Find something that will keep you coming back to Japanese. Whether it be something you like reading/watching, or something you like doing *with* your Japanese.   
+- Find something that will keep you coming back to Japanese, without even thinking about "learning". Whether it be something you like reading/watching, or something you like doing *with* your Japanese.   
 
 
 
@@ -598,6 +646,14 @@ Use your mouse to highlight the first line of the 研究社　新和英大辞典
 
 My mining philosophy is to **mine everything**. I don't worry about what I mine. I also make sure to put as minimal effort into my mining process as possible. This means the majority of my cards are made by just clicking the green button or highlighting then clicking the green button.  
 
+Also, if the word you are mining is a noun or a very descriptive adjective, then you should search the word on Google Images, copy an image and put that in the "Picture" field of your card. This is the most manual intervention you need to do for your cards. I genuinely think having a picture on the back of the card when it's a noun is a night-and-day difference, so it's worth the effort.  
+
+If your Google keeps defaulting to Chinese results, it's because your Google is not set to Japanese yet. You can fix this Chinese results issue by either:
+
+- setting your Google language to Japanese
+- appending とは to all kanji-only searches
+- Using this Google JP Only tampermonkey script I made. [Link](/google_jp_only.js)
+
 ### FREQUENCY SORTING (EASY!)  
 
 This sorts the order your mined cards are shown to you based on how common they are in Japanese.  
@@ -702,7 +758,9 @@ It has to be "JSON"! Not "Custom URL" without the JSON!
 You're done! 🎉
 
 ### Yomitan setup (Monolingual)
+Under "Popup Behavior", ENABLE **Allow scanning popup content**. Set the **Maximum number of child popups** to `9999`  
 
+![Image](img/shouiyomitan1.png)  
 My monolingual setup has evolved over the years. I can tell you what I did in the past, and what I recommend right now.  
 
 #### Backstory 
@@ -773,7 +831,7 @@ These dictionaries often come up in discussions about "what dictionary should I 
 - 旺文社国語辞典 第十一版 (avoid 12th edition convert, expressions don't have reading information.)
 
 The best out of these are 三省堂国語辞典 第八版 (this dict is really the goat sometimes) and 旺文社国語辞典 第十一版.   
-I think 明鏡国語辞典, the dict itself, is pretty good and concise. It's clear to understand. But I think furiagana is cope. So you should just use the 第二版 on my drive instead.  
+I think 明鏡国語辞典, the dict itself, is pretty good and concise. It's clear to understand. But I think furigana is cope. So you should just use the 第二版 on my drive instead.  
 
 小学館例解学習国語 第十二版 is lacking too much in depth. Just use the bigger, more serious dictionaries instead of this.  
 
@@ -783,7 +841,7 @@ Overall, I don't think any of these other than 三省堂国語辞典 第八版 a
 For true, 100% coverage, you would need to keep all 4 bilingual dictionaries, as well as have all monolingual dictionaries. If you want to go fully monolingual, you would need to import every single dictionary to ensure the word doesn't slip through.  
 Importing every dict is too ridiculous, unrealistic and useless for 99% of cases though.  
 
-Consider adding these on top of "the stack" if you feel like your dictionary setup doesn't cover enough: 
+Consider adding these to the "the stack" if you feel like your dictionary setup doesn't cover enough: 
 
 - 三省堂 全訳読解古語辞典
 - 角川新字源
@@ -833,16 +891,22 @@ This is a pretty important detail.
 
 Ideally, you would highlight the definition you want *every time*. This results in a clean definition added to SelectionText.   
 
-But I understand this is a lot of work for some people. In that case, just put the best dictionaries as high as possible and just add the card as usual.  
+But I understand this is a lot of work for some people. In that case, just put the best dictionaries as high as possible and just add the card as usual.   
 
 The best combination of dictionaries for Anki card definitions are, in my opinion:
 
 - copy and paste the most simple definition from either 広辞苑 第七版 or 三省堂国語辞典 第八版 in the SelectionText field.
-- under it, copy and paste the definition line(s) in 研究社　新和英大辞典　第５版 in the SelectionText field.
+- under it, copy and paste the definition line(s) in 研究社　新和英大辞典　第５版 (or JMdict) in the SelectionText field.
 
 Unless, you are SERIOUS about going full mono (which I was for a long time), I think the best combo is the above. Consider putting these two in your MainDefinition so they appear by default.  
+If you're inclined in going full monolingual, I recommend either these in your MainDefinition:
+
+- 広辞苑 + 新明解 combo  
+- 三省堂 + 大辞林 combo  
 
 Additionally, MINE the dictionary. This is such a crucial piece of the shoui method. If you see a word you don't know, look it up with Yomitan, and mine it. Then mine every single word within definitions of every other word you don't know. Preferably, learn these words as monolingual as possible, but resort to the bilingual dictionary if it's too difficult. 
+
+You should still add pictures to your cards for words that are nouns or descriptive adjectives. I also think for nouns, you are also just better off using the bilingual definition, as it is better in practice. If you keep the monolingual definition here, then it would be entirely to become more dekiru in Japanese, which is pretty based, and is what I personally did.  
 
 ### How to review monolingual Anki cards
 
@@ -859,7 +923,7 @@ My method of reviewing monolingual cards was as follows:
 
 ### Novel reading setup 
 
-My novel reading setup, if you were to simplify it was just:
+My novel reading setup, if you were to simplify it, was just:
 
 - Go to [ッツ](https://reader.ttsu.app/)
 - Load an .epub
@@ -896,7 +960,7 @@ I swore off 縦書き after noticing it was the cause of my eye strain. Any fric
 	Theme: light-theme  
     Font family (Group 1): `MS Mincho`  
     Font family (Group 2): `MS Gothic`  
-    Font size: 21
+    Font size: 21  
     View Mode: **Paginated**  
     Line Height: `1.9`  
     Reader Left/Right Margin: 250  
@@ -908,7 +972,7 @@ I swore off 縦書き after noticing it was the cause of my eye strain. Any fric
 	Theme: light-theme  
     Font family (Group 1): `MS Mincho`  
     Font family (Group 2): `MS Gothic`  
-    Font size: 21
+    Font size: 21  
     View Mode: **Continuous**  
     Line Height: `1.9`  
     Reader Max Width: 758  
@@ -1017,6 +1081,7 @@ You should be done. Your ッツ should now look exactly like my ッツ. If it do
 <h3> What about mobile? </h3>
 
 On Android, I just use mainly default ッツ settings but switch the font to KZ UDMincho (preloaded in ッツ).  
+The rest of my Android setup is just [Mobile Reading Setup](/mobile-reading)
 
 ## "Original" shoui method write-up from 2022
 
