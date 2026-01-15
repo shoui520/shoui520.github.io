@@ -39,6 +39,7 @@ Sentence audio, picture (video frame) and context (if you wanted it) will automa
 ## Tips
 
 - Want to watch raw but mine when you need to? Just press `v` to toggle the subs display to hide the subs. When you want to mine something, just Alt-Tab to the browser window of the web UI (`http://127.0.0.1:6969/`), add the card and go back to watching.   
+- It's not just for Japanese. If you want to use it for another language, just edit the language codes in `portable_config\mpv.conf`  
 
 ## Troubleshooting
 - The subs aren't appearing in the web UI! — if the subs are embedded, it could take a while for the subs to appear because it needs to extract the subs from the video first. It does this in the background. 

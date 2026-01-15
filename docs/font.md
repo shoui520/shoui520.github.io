@@ -21,31 +21,39 @@ The one character that looks strikingly different between Japanese and Chinese f
 
 If your 直 looks like the second image, congrats! You are using a Japanese font, if not, change your font.  
 
-## Windows 10
+## Windows 11
+=== "Method 1: Set fonts manually"
+	1. Open Settings (++win++++i++)
+	2. Navigate to **System** > **Optional features.**
+	3. Click the button **"View features"** (next to "Add an optional feature").
+	4. Type **"Japanese"** in the search bar.
+	5. Check the box for **Japanese supplemental fonts**.
+	6. Click **Next**, then **Install**.  
 
-++win+i++ to open **Settings** > **System** > **Optional features** > **Add a feature** > Search **"Japanese supplemental fonts"** and **Install**  
+	??? tip "Advanced Users: Powershell"
+		Japanese fonts can also be installed using **Windows Powershell (Administrator)**:
+		```powershell
+		Add-WindowsCapability -Online -Name Language.Fonts.Jpan~~~und-JPAN~0.0.1.0
+		```  
+		This does not require a restart.
 
-??? tip "Advanced Users: Powershell"
-	Japanese fonts can also be installed using **Windows Powershell (Administrator)**:
-	```powershell
-	Get-WindowsCapability -Online -Name Language.Fonts.Jpan~~~und-JPAN* | Add-WindowsCapability -Online
-	```  
-	This does not require a restart.
-??? question "Also have Chinese supplemental fonts already installed?"
-	You will need to set your locale to Japanese (Japan).
-	!!! abstract "Setting Japanese locale"
-		1. Open the Run dialog box by pressing ++windows+r++
-		2. Type `intl.cpl` and press ++enter++
-		3. Click on the *Administrative* tab, go to *Change system locale...* and select **Japanese (Japan)** and click OK.
-		
-Now if you're using a Chromium based browser (e.g. Google Chrome, Brave), click the Menu :material-dots-vertical: > **Settings** > click on **Appearance** on the left > **Customize fonts**. Here's where you'll need to set your fonts.  
+=== "Method 2: Set Japanese display language"
+	This is a sure fire way to get kanji to display as Japanese.
+
+	1.  Navigate to **Settings** \> **Time & language** \> **Language & region**.
+	2.  Click **Add a language**.
+	3.  Search for `Japanese`
+	4.  Select it and click **Next**.
+	5.  Check the box **Set as my Windows display language**. Ensure "Language Pack" and "Basic Typing" are also checked.
+	6.  Click **Install**.
+	7.  Once the download finishes, Windows will prompt you to **Sign out** to apply the new UI.
+
+
 
 Standard font: Meiryo UI  
 Serif font: Yu Mincho  
 Sans-serif font: Meiryo	  
 Monospace: MS Gothic   
-
-If you're using Firefox it is already pre-configured. 
 
 ## macOS
 
