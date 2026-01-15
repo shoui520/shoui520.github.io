@@ -301,6 +301,16 @@ Honestly, at this point, there is not much else to "the shoui method", other tha
 
 Also, unpopular opinion but your Anki deck is most likely full of useless stuff, lol. I reset my Anki decks almost every year, and I couldn't be happier. I would even consider a yearly deck refresh part of the shoui method. 
 
+## Conclusion
+
+After all this, I don't think there is much else to do other than do whatever you want with your Japanese and:  
+
+- Read more
+- Listen more
+- Speak more
+- Write more 
+
+
 ## My setups
 Perhaps the most revolutionary pieces of technology for your Japanese journey would be:
 
