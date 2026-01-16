@@ -49,6 +49,7 @@ These are not recommended anymore.
 Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 ## Pitch accent
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) - video by Darius on how to acquire pitch.
+- [Usagi Chan Pronunciation Guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit?tab=t.0)  
 - [kotu.io](https://kuuuube.github.io/minimal-pairs/) - pitch accent game to train pitch accent recognition.
 - [Dogen Japanese Phonetics](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P) - For people interested in pitch accent and the like. 
 

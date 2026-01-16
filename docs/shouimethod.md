@@ -241,7 +241,7 @@ In my method, as a beginner, all you should do is:
 
 After you are good enough to read LNs semi-comfortably, then:
 
-- grind JLPT grammar points  (doesn't matter if you don't care about the JLPT. These are structures in Japanese that are hard for learners to understand intuitively.)  
+- grind DoJG/JLPT grammar points  (doesn't matter if you don't care about the JLPT. These are structures in Japanese that are hard for learners to understand intuitively.)  
 - try to learn Japanese grammar in Japanese. For me, this was initially monolingual dicts for basic grammar points and referring to nihongokyoshi.    
 - learn remaining grammar points you didn't learn as a beginner.  
 ## My Anki learning method
@@ -381,7 +381,7 @@ This way, I save myself from having to think about "balancing" my immersion.
 After I went full monolingual, mined 12 books and mined countless of words from monolingual dictionaries. I really felt like I was no longer "coping" about reading. I felt like I got my first taste of what it feels like to be "good" at Japanese.  
 My vocab size increased by so much, I could feel my listening substantially improve, just because I knew more words and Japanese in general.  
 
-I also decided it was a good time to finally revisit grammar. I learned all JLPT grammar points from the [NihongoKyoshi grammar deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing), after realizing that not learning them in isolation made me whitenoise them in immersion.  
+I also decided it was a good time to finally revisit grammar. I learned all JLPT grammar points from the [NihongoKyoshi grammar deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing) & the [DoJG Deck](https://ankiweb.net/shared/info/1013111837), after realizing that not learning them in isolation made me whitenoise them in immersion.  
 For basic grammar, I decided it was a good opportunity to look up all basic grammar particles in a monolingual dictionary, read their definitions and try to internalize them the best I could.  
 
 I also thought it was a good time to try and "master" listening content. I started to play my favourite anime in the background constantly, as semi-passive-active immersion. I did this with the goal of eventually *memorizing the whole script*. I emphasized *repetition* in this stage, where I felt like re-watching, re-listening and re-reading was surprisingly helpful. This is also a pretty important cornerstone of the shoui method: *memorize the stuff you listen to.*  
@@ -419,9 +419,7 @@ Honestly, at this point, there is not much else to "the shoui method", other tha
 - Read IMABI. I read it sequentially from 0-200.  
 - Study pitch. [This guide](https://www.youtube.com/watch?v=I-dRbTnLmBY) is good.  
 - Never complicate the mining process
-- Find something that will keep you coming back to Japanese, without even thinking about "learning". Whether it be something you like reading/watching, or something you like doing *with* your Japanese.   
-
-
+- Find something that will keep you coming back to Japanese. At this point, the problem changes. You're no longer asking "How do I learn Japanese?". You're asking "What do I want to *do* in Japanese?"  
 
 ## Conclusion
 
@@ -431,6 +429,72 @@ After all this, I don't think there is much else to do other than do whatever yo
 - Listen more
 - Speak more
 - Write more 
+
+
+## Misc.
+
+Things I am unsure how to categorize go in here.  
+
+### Things I did to learn pitch
+
+The fundamentals should all be explained here: [Usagi Chan Pronunciation Guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit?tab=t.0#heading=h.p1aowci5qgxr) | [Darius' Guide](https://www.youtube.com/watch?v=I-dRbTnLmBY) | [Dogen](http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P)  
+
+- Learned the concept of a "downstep position".  
+- Trained pitch awareness with [kotu.io](https://kuuuube.github.io/minimal-pairs/). Aim for 100%.  
+- Started paying close attention to what pitch accent I can hear in listening. Went really hard on listening all the time.  
+- Started to look up words while reading to make sure I know their pitch correctly (import アクセント辞典v2 into Yomitan)  
+- Started to grade my Anki cards not only based on the meaning+reading, but whether I got at least one (1) pitch pattern correct.  
+- Asked native speakers to listen to me 朗読 and point out any pitch accent & pronunciation errors I made.  
+- Went through [this deck](https://mega.nz/file/5JM3TCLJ#aKpko3GgmG6ZTirvvC_sLtN4X1mjBv_JUryePYvSXCM) to make sure I know the pitch of the 10,000 most common words in Japanese.  
+- Did some audiobookreading* (reading with audiobook) to correct internalized pitch accent errors.  
+- Did shadowing and speaking practice to help correct incorrect pitch accent in my mouth's muscle memory.  
+
+*It should be noted that reading with an audiobook is cope, and it should only be used to study pitch. It neither makes you good at listening or reading. This means NO to ttsu-whispersync!  
+### Japanese numbers listening training
+
+I realized I wasn't properly internalizing Japanese numbers (high numbers) when listening. Like, I was hearing the sounds, I could imagine how big the number was, but I couldn't figure out the *value* of the number on the fly. When I realized *more immersion* simply won't cut it, I decided to train this skill separately.  
+
+It just so happens that a site for training this exact thing exists: [LangPractice](https://langpractice.com/japanese/numbers/listening#1,0,10000)  
+
+### Grammar study
+
+I did a lot to study Japanese grammar. I am proud to say I am not a grammar-let. Here's everything I did to learn Japanese grammar, in order:
+
+- Japanese Ammo by Misa
+- just immersion. especially: READ BOOKS CAREFULLY.  
+- Monolingual dictionary definitions
+- NihongoKyoshi Anki deck
+- DoJG Deck  
+- 初級を教える人のための日本語文法ハンドブック  
+- 中上級を教える人のための日本語文法ハンドブック  
+- どこよりも曖昧でない日本語教室
+- 日本語類義表現と使い方のポイント―表現意図から考える
+- IMABI  
+
+My ranking: IMABI > 初級を教える人のための日本語文法ハンドブック > just immersion > NihongoKyoshi Anki deck/DoJG Deck > どこよりも曖昧でない日本語教室 > Monolingual dictionary definitions.
+
+Everything else I would consider 対象外. They aren't really good enough to be on the ranking.  
+
+I didn't do Cure Dolly btw.  
+
+### Diminishing usefulness of Anki.  
+
+I never really quit Anki; it never felt like a burden on me, because I always did the [deck refresh thing](#holding-on-to-old-decks).  
+This presented me with the opportunity to start mining words from a "blank slate"— how useful really is Anki when you already know Japanese?
+
+When I was good enough to reach "Eternal Idol" on my Discord server (N1 grammar proficient+can read words in the 25,000 frequency range), I started a new Anki deck, where I mined absolutely every single word I can find (classic shoui method).   
+I didn't keep a backlog, I had my new cards/day set to `9999`, so uncapped. I learned all words the day after I mined them. My retention rate was very high, like 95%.  
+
+I had a unique dilemma: I know all the common words. Yet, I still need to look up some words in books if I want 100% comprehension.   
+There is still new stuff to learn, so I might as well learn everything. These new words are so easy to learn, that when I just rep them a few times, I remember them.  But the amount of new words I can add is virtually limitless. What an amazing opportunity.  
+
+I'm remembering so much, *yet Anki doesn't feel that useful*.   
+
+The most *precious* part of Japanese now, is without a doubt **immersion**. I'm doing thousands of reps per day, yet I feel like Anki is struggling to be useful. At this point, continuing to mine words and review them in Anki is done for no reason other than the pursuit to "be perfect". Which is counterintuitive, because if you want to be really good, then you should **immerse more** instead of doing Anki more.  
+
+Also, Anki really messes up your perception of what words are common in Japanese. It's so unrealistic and does not reflect reality.  
+
+I think Anki at this point is fine in short bursts. When you want to cram information in hopes of retaining it. But you won't see me doing daily reps for thousands of words 50,000+ in frequency.  
 
 
 ## My setups
@@ -1134,6 +1198,26 @@ You should be done. Your ッツ should now look exactly like my ッツ. If it do
 
 On Android, I just use mainly default ッツ settings but switch the font to KZ UDMincho (preloaded in ッツ).  
 The rest of my Android setup is just [Mobile Reading Setup](/mobile-reading)
+
+### Visual novels
+
+I am a bit of a "fuddy-duddy" when it comes to reading VNs.  
+
+- I **do not** use JL. 
+- I **do not** use Agent.  
+- I **do not** use GSM.    
+- I **do not** use Lunatranslator.  
+- I **do not** use websockets.  
+
+My setup is just the original Textractor method where you keep the "Copy to Clipboard" plugin and use the "Clipboard Inserter" extension in your browser with a compatible "Texthooker page".  
+I look up words with Yomitan.  
+
+You can't use Clipboard Inserter on Google Chrome anymore, but I never used Chrome in the first place, so it never affected me.  
+
+I use my own Texthooker page: [Texthooker shoui](https://learnjapanese.moe/texthooker_shoui.html)  
+
+The unique thing about it is how you can set a character count goal for yourself, and split it up into *sessions*.  
+E.g., goal: `100,000` 文字 across `10` sessions. — so you read 10,000文字 per session.   
 
 ## "Original" shoui method write-up from 2022
 
