@@ -22,6 +22,7 @@
 
 ### Vocabulary
 - **[※ Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551)** - The basic vocabulary deck the guide suggests to learn Japanese. You can also find it [here](https://github.com/donkuri/Kaishi/releases) (click on the `.apkg` file).  
+- [JLPT Trainer](https://jlpt-trainer.com) - Interactive JLPT tests with explanations
 
 #### Legacy vocab decks:
 These are not recommended anymore.  
@@ -78,6 +79,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.
 - [AnimeCards - Subtitles](https://animecards.site/subtitles/) - Goes over how to get Japanese subtitles and how to sync them for the video. 
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
+- [Anisub.tv](https://anisub.tv) - anime streaming site with interactively translatable subtitles, Japanese TV, and media game
 ### Movies & TV Shows (J-drama)
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
@@ -95,6 +97,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [Search on bilibili](https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+- [Anisub.tv](https://anisub.tv) - movie and TV show streaming site with interactively translatable subtitles, Japanese TV, and media game
 
 
 ### Manga
@@ -110,6 +113,7 @@ Refer to the tools section for info on how to make lookups easier for manga.
 - [Klmanga](https://klmanga.com/index) - Klmanga, read manga online.
 - [mangareader.to](https://mangareader.to) - mangareader, read manga online.
 - [Rawkuma](https://rawkuma.com/) - Also lets you read manga online.
+- [JBooks](https://jbooks.su) - Big collection of manga and native Japanese audiobooks with one-click interactive translation
 
 The websites below have the best collection but can be a pain to download from.  
 **Use a debrid service to generate premium full speed download links!**
