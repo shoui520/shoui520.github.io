@@ -355,7 +355,7 @@ To do this, I knew I had to significantly improve in these areas:
 - total immersion quantity
 
 This was the stage where I made myself read 12 volumes of 俺の妹がこんなに可愛いわけがない。 in a row, after watching the anime.  
-This was also when I realized just how OP the "watch anime adaptation, then read the light novel" method really was! I talked about this in [Reading Tips](docs/readingtips).  
+This was also when I realized just how OP the "watch anime adaptation, then read the light novel" method really was! I talked about this in [Reading Tips](/readingtips).  
 
 This was also when I started pushing the philosophy: (in reading) "Aim for 99%+ comprehension, aim to understand everything".  
 
