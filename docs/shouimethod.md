@@ -44,7 +44,7 @@ P.S., this is not a general guide for the average person interested in self-stud
 - Simplicity (of setups) over all.  
 - Listening is what will make you into a fluent speaker.
 
-Japanese subtitles are a crutch that neither makes you better at listening or reading. It's so tempting to use them because of the opportunity to learn new words and frankly, because of how hard watching without subs is. But you need to let go of them as soon as possible, to train real listening ability.  
+Japanese subtitles are a crutch that neither makes you better at listening or reading. It's so tempting to use them because of the opportunity to learn new words and because of how hard watching without subs is. But you need to let go of them as soon as possible, to train real listening ability.  
 
 Relate what you're doing back to the real world— this means, don't just mindlessly immerse. Think about *when* you're going to *use* what you're learning later on.  
 
@@ -54,7 +54,7 @@ Simple setups. Avoid complex setups (especially complex Anki and mining setups),
 
 If being a fluent speaker is part of your goals at all, then you should know the cold, hard truth: Reading will not make you fluent, only listening will. Mass listening will lay the foundation for you to become a fluent speaker, and output practice will truly get you there. But reading is the fastest way to learn a ton of words, which can be seen as *tangible* gains that aid your comprehension, but this, alone does not represent the full-scale of language ability that pertains to output (speaking).   
 
-## What I did as a beginner 
+## Backstory: What I did as a beginner 
 
 ### Traditional Study
 The first nearly a year of my Japanese learning journey involved me doing ineffective methods, such as:
@@ -76,11 +76,14 @@ Out of all these things, the most useful parts were these:
 
  These 3 effectively laid the ground work for immersion gains. I don't recommend anything else for beginners. These 3 (vocab, grammar, output) are part of the most fundamental components of the learning process, the other piece being **immersion**.  
  
- I found out about immersion when someone in a Japanese learning Discord told me "read more, and you'll get good". He was the only person in that community who wasn't a haafu, 帰国子女 or Chinese or Japanese native that had good Japanese. I held onto this, that's when I started looking into immersion methods. That's when I found the [classic DJT guide](https://djtguide.neocities.org/guide). I will say though, this guide does a very bad job at telling you what the process of getting good actually looks like, and leaves out two crucial components: **raw listening** and **tolerating ambiguity**.  
+ I found out about immersion when someone in a Japanese learning Discord told me "read more, and you'll get good". He was the only person in that community who wasn't a haafu, 帰国子女 or Chinese or Japanese native that had good Japanese.   
+ I held onto this, that's when I started looking into immersion methods. That's when I found the [classic DJT guide](https://djtguide.neocities.org/guide). I will say though, this guide does a very bad job at telling you what the process of getting good actually looks like, and leaves out two crucial components: **raw listening** and **tolerating ambiguity**.  
 
-That guide told you to do Core2k (Kaishi didn't exist then). But I already knew too many of the words because I grinded N5 and N4, so I didn't do Core2k, and started reading. But it was too grueling. Being told "just read" while not understanding key concepts such as **acquisition vs. learning** and **tolerating ambiguity** set me on the path for burnout. I didn't make much meaningful progress, because I spent hours on single pages, and thought I had to understand EVERYTHING from day 1 of immersion for it to be "real learning." There was no way for me to rack up a huge amount of Japanese exposure with such an approach.  
+That guide told you to do Core2k (Kaishi didn't exist then). But I already knew too many of the words because I grinded N5 and N4, so I didn't do Core2k, and started reading. But it was too grueling.   
+Being told "just read" while not understanding key concepts such as **acquisition vs. learning** and **tolerating ambiguity** set me on the path for burnout. I didn't make much meaningful progress, because I spent hours on single pages, and thought I had to understand EVERYTHING from day 1 of immersion for it to be "real learning." There was no way for me to rack up a huge amount of Japanese exposure with such an approach.  
 
-It was only when I discovered AJATT through Matt vs. Japan and was introduced to the concept of **tolerating ambiguity** that I finally started to make progress I could call *progress*. The idea of "if you want to get good at watching anime without subtitles, then start watching without subtitles now!" was exactly right.  
+It was only when I discovered AJATT through Matt vs. Japan and was introduced to the concept of **tolerating ambiguity** that I finally started to make progress I could call *progress*.   
+The idea of "if you want to get good at watching anime without subtitles, then start watching without subtitles now!" was exactly right.  
 After taking his advice and trying it out for myself, I was convinced. Because the words I learned now finally had application. And because, after a while, I could finally understand raw Japanese, no crutches, no Japanese subs, no translation, no cope. And that was huge.  
 
 That's why I pass these ideas down in the [Japanese Guide](/guide):
@@ -89,9 +92,11 @@ That's why I pass these ideas down in the [Japanese Guide](/guide):
 - learn grammar
 - immerse ASAP. listen without subs. tolerate ambiguity.  
 
-Also, when I started immersing, I ran into many "ohh, so that's how you say that idea" moments.  
-I could relate my immersion back to real-world use. Because I had previous output attempts.  
-Immersion methods often underemphasize output, but I believe that you should combine output with immersion for the best effect. I understand why they discourage output though, my output before I had a 100 hours of immersion under my belt was stagnant and awful, with no signs of improving.    
+Also, when I started immersing, I ran into many "ohh, so that's how you say that idea" moments.   
+I could relate my immersion back to real-world use. Because I had previous output attempts.   
+Immersion methods often underemphasize output, but I believe that you should combine output with immersion for the best effect.   
+
+I understand why they discourage output though, my output before I had a 100 hours of immersion under my belt was stagnant and awful, with no signs of improving.    
 ### Immersion - how I immersed as a beginner
 
 The most simple way to put it was "a 9:1 listening-reading split".  
@@ -166,7 +171,7 @@ What I am explaining here is often overlooked, these are highly important things
 
 At this stage, I don't think you need to fuss too much about immersion content variety. Sticking with anime is fine, but I did venture out to J-drama and YouTube videos around this stage too.  
 
-Some of you may be wondering... *really? Raw listening on day 1? That's ridiculous.*   
+Some of you may be wondering: "*Really? Raw listening on day 1? That's ridiculous.*"  
 And I know— raw listening is hard. That's why the majority of people postpone it inevitably.  
 "I'm not ready yet, maybe I need to Anki more/read more/use JP subs more etc..."  
 This is a cycle that **never ends**.   
@@ -376,8 +381,10 @@ This way, I save myself from having to think about "balancing" my immersion.
 After I went full monolingual, mined 12 books and mined countless of words from monolingual dictionaries. I really felt like I was no longer "coping" about reading. I felt like I got my first taste of what it feels like to be "good" at Japanese.  
 My vocab size increased by so much, I could feel my listening substantially improve, just because I knew more words and Japanese in general.  
 
-This was also when I decided it was a good time to finally revisit grammar. I learned all JLPT grammar points from the [NihongoKyoshi grammar deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing), after realizing that not learning them in isolation made me whitenoise them in immersion.  
+I also decided it was a good time to finally revisit grammar. I learned all JLPT grammar points from the [NihongoKyoshi grammar deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing), after realizing that not learning them in isolation made me whitenoise them in immersion.  
 For basic grammar, I decided it was a good opportunity to look up all basic grammar particles in a monolingual dictionary, read their definitions and try to internalize them the best I could.  
+
+I also thought it was a good time to try and "master" listening content. I started to play my favourite anime in the background constantly, as semi-passive-active immersion. I did this with the goal of eventually *memorizing the whole script*. I emphasized *repetition* in this stage, where I felt like re-watching, re-listening and re-reading was surprisingly helpful. This is also a pretty important cornerstone of the shoui method: *memorize the stuff you listen to.*  
 
 So to summarize:
 
@@ -387,6 +394,7 @@ So to summarize:
 - Split your time into reading weeks & listening weeks.  
 - Grind JLPT grammar points. 
 - Read monolingual dictionary definitions for basic grammar.  
+- Repeat my favourite anime constantly in the background until I memorized the script.  
 
 ## Stage 3 — specialization
 
@@ -460,9 +468,9 @@ Upon installation, you then need to install some dictionaries. If you press `Get
 This isn't everything you need though.  
 
 
-**I do NOT recommend "Jitendex"!** It's JMdict, but with a ton of HTML, CSS and hyperlinks added to the cards. **This creates friction for Anki card creation**.  How do you effectively filter out superfluous information without manual labour? You can't. Use a simple version of JMdict. The ones I recommend are from [yomidevs/jmdict-yomitan](https://github.com/yomidevs/jmdict-yomitan?tab=readme-ov-file#jmdict-for-yomitan)  
+**I do NOT recommend "Jitendex"!** It's JMdict, but with a ton of HTML, CSS and hyperlinks added to the cards. **This creates friction for Anki card creation**.  How do you effectively filter out superfluous information without manual labour? You can't. Use a simple version of JMdict, like the one in my collection.  
 
-In addition to the "Recommended Dictionaries" (excluding Jitendex) you can install within Yomitan by default, you should also get these additional dictionaries you can find at [my dictionary collection](https://learnjapanese.link/dictionaries)  
+In addition to the "Recommended Dictionaries" (excluding Jitendex) you can install within Yomitan by default, you should also get these additional dictionaries you can find at **[my dictionary collection](https://learnjapanese.link/dictionaries)**  
 
 - `Bilingual/[Bilingual] JMdict (English) ("Legacy")`
 - `Bilingual/[Bilingual] 研究社　新和英大辞典　第５版.zip`
@@ -513,8 +521,6 @@ Also, the default pop up size on Yomitan is stupidly tiny. Double the size here:
 ![Image](img/shouiyomi3.png)  
 
 Width=800, Height=500.  
-
-
 
 Lastly, TURN OFF this stupid thing:
 
@@ -648,9 +654,11 @@ Now configure the card fields:
 | PitchCategories | `{pitch-accent-categories}` |
 | Frequency | `{frequencies}` |
 | FreqSort | `{frequency-harmonic-rank}` |
-| MiscInfo[3] | `{document-title}`  |
+| MiscInfo [3] | `{document-title}`  |
 
-[1] Ideally, put your two favourite dictionaries in here. What I've defined here (Jmdict+kenkyuusha) is just the basic list that will be fine for people that are not going monolingual yet. This is supposed to be a safety net when you are too lazy to highlight text for `SelectionText`. Ideally you would highlight your chosen definition, then press the green button to add a card, but I understand, that is actually a lot of work. So `MainDefinition` is your safety net. Your next safety net/fallback is `Glossary`, which contains everything in the Yomitan pop up when you added the card. Lapis is intelligent and can fallback to the relevant field if one is blank. (E.g., if `SelectionText` is blank, it will fallback to `MainDefinition`. If `MainDefinition` is blank, it will fallback to `Glossary`)  
+[1] Ideally, put your two favourite dictionaries in here. What I've defined here (Jmdict+kenkyuusha) is just the basic list that will be fine for people that are not going monolingual yet. This is supposed to be a safety net when you are too lazy to highlight text for `SelectionText`. Ideally you would highlight your chosen definition, then press the green button to add a card, but I understand, that is actually a lot of work. So `MainDefinition` is your safety net. Your next safety net/fallback is `Glossary`, which contains everything in the Yomitan pop up when you added the card. Lapis is intelligent and can fallback to the relevant field if one is blank. (E.g., if `SelectionText` is blank, it will fallback to `MainDefinition`. If `MainDefinition` is blank, it will fallback to `Glossary`).  
+
+Also, warning: the JMdict name contains the date the dict was built, if you downloaded it from my drive, it should be `{single-glossary-jmdict-legacy-2026-01-14}`, if you got it directly from [the source](https://github.com/yomidevs/jmdict-yomitan), the date will be different, so adjust accordingly.  
 
 [2] In my method, I put both the sentence and the word on the front. But I rarely ever read the sentence, it was just there for visual context. Depending on who you are, (if youre the type to use that sentence as a crutch, then remove the `y` please.), you might find this useful or you might find it to be shooting yourself in the foot. Personally, I liked having it, as it was more reflective of real world use without being tiresome and too easy at the same time like sentence cards.   
 
@@ -662,7 +670,7 @@ Ideally, you should highlight the definition you want on the back, *before* pres
 
 Try that out with this word: この世 　
 
-Use your mouse to highlight the first line of the 研究社　新和英大辞典　第５版　definition, then press the green button. Press the book icon, then "Preview" in Anki to see how the card looks. Compare it to the previous card you added. The one where you highlighted the definition you wanted looks cleaner. If you want to refer to the full information when reviewing, Lapis lets you see that by clicking the edges of the left and right edges of the box the definition is shown in.  
+Use your mouse to highlight the first line of the 研究社　新和英大辞典　第５版　definition, then press the green button. Press the book icon, then "Preview" in Anki to see how the card looks. Compare it to the previous card you added. The one where you highlighted the definition you wanted looks cleaner. If you want to refer to the full information when reviewing, Lapis lets you see that by clicking on the left and right edges of the box the definition is shown in.  
 
 My mining philosophy is to **mine everything**. I don't worry about what I mine. I also make sure to put as minimal effort into my mining process as possible. This means the majority of my cards are made by just clicking the green button or highlighting then clicking the green button.  
 
@@ -924,11 +932,29 @@ The best combination of dictionaries for Anki card definitions are, in my opinio
 - copy and paste the most simple definition from either 広辞苑 第七版 or 三省堂国語辞典 第八版 in the SelectionText field.
 - under it, copy and paste the definition line(s) in 研究社　新和英大辞典　第５版 (or JMdict) in the SelectionText field.
 
-Unless, you are SERIOUS about going full mono (which I was for a long time), I think the best combo is the above. Consider putting these two in your MainDefinition so they appear by default.  
+Unless, you are SERIOUS about going full mono (which I was for a long time), I think the best combo is the above. Consider putting these two in your MainDefinition so they appear by default.   
+
+| Field | Value |
+| --- | --- |
+| MainDefinition | `{single-glossary-広辞苑-第七版}{single-glossary-研究社-新和英大辞典-第５版}` |
+
+
 If you're inclined in going full monolingual, I recommend either these in your MainDefinition:
 
 - 広辞苑 + 新明解 combo  
 - 三省堂 + 大辞林 combo  
+
+e.g.  
+
+| Field | Value |
+| --- | --- |
+| MainDefinition | `{single-glossary-広辞苑-第七版}{single-glossary-新明解国語辞典-第八版}` |
+
+or 
+
+| Field | Value |
+| --- | --- |
+| MainDefinition | `{single-glossary-三省堂国語辞典-第八版}{single-glossary-大辞林-第四版}` |
 
 Additionally, MINE the dictionary. This is such a crucial piece of the shoui method. If you see a word you don't know, look it up with Yomitan, and mine it. Then mine every single word within definitions of every other word you don't know. Preferably, learn these words as monolingual as possible, but resort to the bilingual dictionary if it's too difficult. 
 
