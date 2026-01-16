@@ -479,6 +479,8 @@ I didn't do Cure Dolly btw.
 
 ### Diminishing usefulness of Anki.  
 
+Although Anki used to feel equally useful when I was still in the intermediate stages, in the later stages it stopped feeling as useful as it once was.  
+
 I never really quit Anki; it never felt like a burden on me, because I always did the [deck refresh thing](#holding-on-to-old-decks).  
 This presented me with the opportunity to start mining words from a "blank slate"— how useful really is Anki when you already know Japanese?
 
