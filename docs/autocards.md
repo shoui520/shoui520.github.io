@@ -92,7 +92,7 @@ Using 9b046695's fork of Anacreon's sub retimer for its all-in-one implementatio
 
 Autocards was made possible by open source software and the work of its contributors. The following software is bundled in the package: 
 
-* Autocards script (made by かにふぁん & Gilfar) -  GPL-3.0  
+* Autocards script (made by かにふぁん, Gilfar & manhhao) -  GPL-3.0  
 * [mpv](https://github.com/mpv-player/mpv) - GPL-2.0  
 * [ffmpeg](https://github.com/FFmpeg/FFmpeg) - LGPL-2.1  
 * [thumbfast](https://github.com/po5/thumbfast) - MPL-2.0  
