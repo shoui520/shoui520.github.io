@@ -26,7 +26,7 @@ Compatible with existing Yomitan setups. No need for another framework.
 ## Initial setup
 
 - Download the `.zip` file  
-- Extract the `.zip` file and run the bundled `mpv.exe`
+- Extract the `.zip` file and run the bundled ![mpv_icon](img/mpv_icon.png) `mpv.exe` application.  
 - Drag and drop a video file ([with synced subs](https://github.com/shoui520/auto-sub-retimer-easy?tab=readme-ov-file#auto-sub-retimer-easy)) onto the MPV window.
 - The web interface will launch in the default browser, the address is `http://127.0.0.1:6969/`. This is where your subtitle lines will appear. 
 - Click the **settings gear icon** in the top right. Configure your settings:
