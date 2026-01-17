@@ -122,7 +122,7 @@ The websites below have the best collection but can be a pain to download from.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 
 ### Novels and Literary Texts
-- [Anna's Archive](https://annas-archive.li/) 
+- [Anna's Archive](https://annas-archive.li/) — has nearly everything. If it's blocked for you, use a VPN or [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/warp/download-warp/). For mirror status see [Open-Slum](https://open-slum.org/).  
 - [PeepoHappyBooks Torrent](https://nyaa.si/view/1548943) - Collection of 30000 unique epubs compiled from boroboro, itazuraneko, etc.  
 - [TMW Collection Torrents](https://nyaa.si/?f=0&c=0_0&q=TMW)   
 - [Lolibrary](https://lolibrary.moe/)  
