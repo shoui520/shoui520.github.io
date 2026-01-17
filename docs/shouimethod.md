@@ -524,19 +524,27 @@ Download Yomitan for your browser here:
 [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/yomitan-popup-dictionary/idelnfbbmikgfiejhgmddlbkfgiifnnn)  
 [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/yomitan/)  
 
+
 Upon installation, you then need to install some dictionaries. If you press `Get recommended dictionaries…`, nearly all these dictionaries listed I actually recommend for basic use. So get these:
 
 - JMnedict
 - KANJIDIC
 - BCCWJ
 - JPDB
-- Jiten
+- Jiten  
+
 This isn't everything you need though.  
 
 
 **I do NOT recommend "Jitendex"!** It's JMdict, but with a ton of HTML, CSS and hyperlinks added to the cards. **This creates friction for Anki card creation**.  How do you effectively filter out superfluous information without manual labour? You can't. Use a simple version of JMdict, like the one in my collection.  
 
 In addition to the "Recommended Dictionaries" (excluding Jitendex) you can install within Yomitan by default, you should also get these additional dictionaries you can find at **[my dictionary collection](https://learnjapanese.link/dictionaries)**  
+
+Import dictionaries by clicking `Configure installed and enabled dictionaries…` then click "Import"  
+
+You can also just download everything in one go:  
+[**➡Shoui method dictionary pack** (download all at once)](https://drive.google.com/drive/folders/16nPmTCQtpi43wkYdvTh7Qfngr21FE36W?usp=sharing)
+
 
 - `Bilingual/[Bilingual] JMdict (English) ("Legacy")`
 - `Bilingual/[Bilingual] 研究社　新和英大辞典　第５版.zip`
@@ -951,9 +959,11 @@ Consider adding these to the "the stack" if you feel like your dictionary setup 
 
 ### Where to find all these dictionaries
 
+[**➡Shoui method dictionary pack** (download all at once)](https://drive.google.com/drive/folders/16nPmTCQtpi43wkYdvTh7Qfngr21FE36W?usp=sharing)  
+
 The majority of these dictionaries can be found at [my dictionary collection](https://learnjapanese.link).  
 
-Others, such as (角川新字源, きっずジャポニカ and other 四字熟語 dicts) can be found at both [Marv's collection](https://github.com/MarvNC/yomitan-dictionaries) and [Caoimhe's collection](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)  
+Others, such as (角川新字源, きっずジャポニカ and other 四字熟語 dicts) can be found at both [Marv's collection](https://github.com/MarvNC/yomitan-dictionaries) and [Caoimhe's collection](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD). 角川新字源 especially, has to be downloaded from [Caoimhe's collection](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD), as it requires additional fonts.  
 
 #### Dict explanation write up
 
