@@ -13,11 +13,11 @@ Compatible with existing Yomitan setups. No need for another framework.
 
 ## Prerequisites
 - Windows  
-- Anki ([Quick Setup Guide](/shouimethod/#installation))
+- Anki ([Quick Setup Guide](/mining))
 - AnkiConnect (add-on ID: `2055492159`)  
 - Yomitan (guide [here](/yomichan))  
-- Note type with fields for "Expression", "Picture", "Sentence" & "SentenceAudio". Lapis is compatible. Find it [here](https://github.com/donkuri/lapis). ([Quick Setup Guide](/shouimethod/#mining-setup-w-lapis-shoui-method))
-- Yomitan already set up for card creation. (minimum requirements: `Expression` & `Sentence`. Autocards will take care of the rest. [Quick Setup Guide](/shouimethod/#mining-setup-w-lapis-shoui-method))  
+- Note type with fields for "Expression", "Picture", "Sentence" & "SentenceAudio". Lapis is compatible. Find it [here](https://github.com/donkuri/lapis). ([Quick Setup Guide](/mining))
+- Yomitan already set up for card creation. (minimum requirements: `Expression` & `Sentence`. Autocards will take care of the rest. [Quick Setup Guide](/mining))  
 - Subtitle files available (etc., .srt files), find them at [Jimaku.cc](https://jimaku.cc/).    
 
 ## Download
