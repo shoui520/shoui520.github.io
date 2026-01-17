@@ -49,6 +49,7 @@ If your 直 looks like the second image, congrats! You are using a Japanese font
 	7.  Once the download finishes, Windows will prompt you to **Sign out** to apply the new UI.
 
 
+Now, access your browser's font settings and change the fonts to these:  
 
 Standard font: Meiryo UI  
 Serif font: Yu Mincho  
