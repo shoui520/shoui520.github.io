@@ -24,6 +24,7 @@ nav:
     - 'Visual Novel Setup': 'vn-setup.md'
   - 'Yomitan':
     - 'Yomitan Setup Tutorial': 'yomichan.md'   
+    - 'One-Click Anime Cards': 'autocards.md'
     - 'Mobile Reading Setup': 'mobile-reading.md'   
   - 'Resources':
     - 'Resources': 'resources.md' 
