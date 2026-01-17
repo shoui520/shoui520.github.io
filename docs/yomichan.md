@@ -86,7 +86,7 @@ Yomitan supports the use of frequency dictionaries that tell you how common a wo
 Using the default audio source (JapanesePod101) in Yomitan is not recommended, as JapanesePod101 sometimes pronounces words with the wrong pitch and has too many missing words.  
 
 
-[Follow this guide to get local audio.](https://github.com/yomidevs/local-audio-yomichan){ .md-button }
+[Follow this guide to get local audio.](/shouimethod#local-audio-easy){ .md-button }
 {: style="text-align: center" }
 
 
@@ -100,7 +100,7 @@ Enabling this allows you to use Yomitan on local files such as .HTML files.
     On Chrome, you need to use [PDF.js](https://mozilla.github.io/pdf.js/web/viewer.html). 
 
 Chromium:  
-	- Right click the ![yomi icon](img/yomichan-icon.png)  
+	- Right click the ![yomi icon](img/yomitan-icon.png)  
 	- Click "Manage Extensions"  
 	- Enable "Allow access to file URLs"  
 
@@ -115,7 +115,7 @@ See [mobile readers](/mobile-reading).
 
 ## Anki Setup
 
-See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup).
+See [Mining Guide](/mining)
 
 
 
