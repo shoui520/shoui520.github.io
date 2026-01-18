@@ -56,7 +56,7 @@ Sentence audio, picture (video frame) and context (if you wanted it) will automa
 
 ## Troubleshooting
 - The subs aren't appearing in the web UI! — if the subs are embedded, it could take a while for the subs to appear because it needs to extract the subs from the video first. It does this in the background. 
-- mpv closes when I paste a hianime link — make sure your IP address isn't being blocked by hianime | make sure it's an **episode link** | make sure Windows is not blocking the included `yt-dlp`. Check Smart App Control, is it "On"? It should be Off.  
+- mpv closes when I paste a hianime link — make sure your IP address isn't being blocked by hianime | make sure it's an **episode link** | make sure Windows is not blocking the included `yt-dlp`. Check Smart App Control, is it "On"? It should be Off. Right click the file > properties, check if it says "This file came from another computer" (mark of the web), if so, click "Unblock".  
 - Can't see the "Update" button in the Autocards settings menu — zoom out!  
 - `[thumbfast] ERROR! cannot create mpv subprocess` — you can ignore this. It's a weird error that doesn't matter.  
 - Picture & sentence audio not being added to card — this can happen if you look at the card preview too quickly. Also check your Yomitan Anki integration settings and Autocards settings menu: is the deck name correct?  
