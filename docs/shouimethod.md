@@ -60,11 +60,11 @@ If being a fluent speaker is part of your goals at all, then you should know the
 The first nearly a year of my Japanese learning journey involved me doing ineffective methods, such as:
 
 - using language learning apps
-- communicating with a "study buddy" in Japanese 100% of the time, even if my Japanese was completely wrong.
+- communicating with a "study buddy"/pen pal in Japanese 100% of the time, even if my Japanese was completely wrong.
 - using Discord to text chat to Japanese people.
 - watching YouTube videos (in English) about Japanese.
 - trying to "learn kanji" with various methods, including writing them down from a .pdf of Remembering the Kanji, JLPT kanji lists, and using kanji flashcards that showed ON and KUN and meanings and various words on the back.
-- grinding through a JLPT N5 + N4 vocab list (used Shirabe Jisho for this)
+- grinding through a JLPT N5 + N4 vocab list (used Shirabe Jisho for this, around 1500-2000 words)
 - learning grammar with YouTube playlists and JLPT N5+N4 study material.  
 - trying my hardest to read NHK Easy News.
 
@@ -123,7 +123,7 @@ Personally, I first learned Japanese grammar with that Japanese Ammo playlist I 
 
 [Yokubi](https://yoku.bi) is what I recommend for beginners these days, it's a written guide aimed at teaching the core concepts of Japanese grammar, the rest should be supplemented with immersion.   
 
-Fussing too much over grammar as a beginner is a practice in futility. Do not put too much effort into grammar before you are already proficient. You only need to learn the basic ideas.  
+Fussing too much over grammar as a beginner is a practice in futility. Do not put too much effort into grammar before you are already proficient. You only need to learn the basic ideas. Though i will state that I knew how to conjugate when I started immersion.  
 
 I emphasize learning vocab and grammar because if you really want to do exactly what I did, then you need to have a constantly expanding vocabulary when you immerse every day.  
 
@@ -158,6 +158,8 @@ Relevant hyperlinks in this guide:
 
 Remember, do not use Japanese subtitles. They are a crutch. Neither real life or content in its untouched form has subtitles. So why keep such training wheels?  
 
+Listening is a top-down, intuitive activity. You don't become a good listener by stopping to analyze everything. 
+
 When listening, try to relate what you're hearing back to the real world. Mentally simulate output in your head while immersing.  
 Try to think, *"How would I use what I am hearing right now myself? Could I put my own spin on this saying?"*  
 Don't just mindlessly immerse, try to think about what the Japanese you're hearing is actually doing. Can you think of other instances where you heard this word / construction? Can you think of any ways what you are hearing right now differs from what you have heard in the past?  
@@ -185,7 +187,9 @@ So here's something important to remember: **don't pause.** Don't do it, I know 
 Also see: [Passive Listening](#passive-listening)  
 ### Shoui method stage 1 — reading  
 
-I don't place much emphasis on reading in the beginning.  
+I don't place much emphasis on reading in the beginning. Although, they are *the* way you will be increasing your vocabulary. 
+
+In contrast to listening, reading is a bottom-up, analytical activity. Take as much time as you'd like, and look up as much as you need.  
 
 What I mainly did for reading was:
 
@@ -225,7 +229,7 @@ I can't speak through experience about this, but others in the community have sa
 
 > *Your mining deck will be easier and more effective than Kaishi/Core.*  
 
-You should be ready to take the plunge at around ~1000 words learned.  
+You should be ready to take the plunge at around 1000 words learned.  
 
 [Setup your mining deck with my mining setup](#mining-setup-w-lapis-shoui-method)   
 
