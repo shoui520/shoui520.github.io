@@ -259,11 +259,11 @@ When learning & reviewing Anki cards, by far the most crucial piece of informati
 I always did Anki first thing in the morning, I made sure I did it as early as possible so I didn't have to think about it later in the day.  
 
 I always used PassFail (again, see my [Anki setup guide](#anki-setup)).  
-When reviewing, I look at the word, try to recall the meaning and reading, then press ++space++ to reveal the back, then and grade based on whether I failed to recall **both** the meaning & the reading (in that case, I press ++2++), or if I succeeded to recall both the meaning & the reading, then I press ++1++.  
+When reviewing, I look at the word, try to recall the meaning and reading, then press ++space++ to reveal the back, then and grade based on whether I failed to recall **both** the meaning & the reading (in that case, I press ++1++), or if I succeeded to recall both the meaning & the reading, then I press ++2++.  
 
 Reveal: ++space++  
-Pass: ++1++  
-Fail: ++2++  
+Pass: ++2++  
+Fail: ++1++  
 Undo: ++ctrl++ ++z++  
 
 I try to spend as little time as possible on my reps while still trying to keep them effective (no cheating, you'll only be cheating yourself.)  
