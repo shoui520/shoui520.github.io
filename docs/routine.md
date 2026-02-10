@@ -1,4 +1,8 @@
 # 30 Day Japanese (UsagiSpoon)  
+
+!!! info "Purpose"
+    This is a pre-decided routine to help beginners learn Japanese with immersion. Only recommended for those that are starting out but have decision paralysis.  
+    
 A **routine** to help people learn Japanese from scratch with the immersion method. This is aimed at **ABSOLUTE BEGINNERS THAT DONT KNOW HOW TO LEARN JAPANESE AT ALL**.   
 Returning learners/people interested in the immersion method should check out [Japanese Guide](/guide)
 

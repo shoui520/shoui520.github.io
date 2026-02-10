@@ -1,4 +1,6 @@
 # My personal method - "the Shoui method"
+!!! info "Purpose"
+    This is how I personally learned Japanese. It could be a useful read if you are already learning Japanese but are struggling and need some insight. This isn't really a "guide". 
 
 ## Introduction  
 Many people have asked me over the years what I did *specifically* during my Japanese learning journey. This article will just extensively detail my learning approach, specific things I did and overall philosophy to learning Japanese.  

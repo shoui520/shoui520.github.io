@@ -1,5 +1,8 @@
 # Japanese Guide
 
+!!! info "Purpose"
+    This is the main Japanese guide for immersion learning. Recommended for most people. 
+
 *If you don't need a preface, please skip to [2.1 How to learn Japanese](#21-how-to-learn-japanese)*  
 
 ## 1.1 Why many people "fail" to learn Japanese
