@@ -11,9 +11,7 @@ This article aims to give you tips and talk about worries that you may have when
 
 ### I am JUST starting out, what should I do?  
 
-Just starting out = don't know Japanese? See [UsagiSpoon](/routine).   
-
-Noob friendly reading practice = anime with Japanese subtitles, it's described in [UsagiSpoon](/routine)  
+Just starting out = don't know Japanese? See [Japanese Guide](/guide).   
 
 Or maybe just starting out = "I have been learning Japanese for a while with [x] method, and I want to start reading for real! What should I do?"  
 
@@ -52,12 +50,11 @@ Read the novel after you watch the anime, or even while watching the anime. And 
 Anyway, this is obviously a God tier reading strategy because, by watching the anime, you have given context to the text on the page, which translates into i+1 Krashen approved effective language learning gains, and the light novel will have multiple volumes, which is great for learners because getting used to one author's writing style is easier than reading a different author every time.  
 
 
-### Yomichan, Itazuraneko, EPUBs+ッツ Reader  
+### Yomitan, EPUBs + ッツ Reader  
 
 The holy trinity of Japanese learning (for novel enjoyers).  
 
-- Set up Yomichan [here](/yomichan)  
-- Itazuraneko in [Resources](/resources)  
+- Set up Yomitan [here](/yomichan)  
 - EPUBs- many ways you can get them. Anna's Archive, [PeepoHappyBooks](https://nyaa.si/view/1350523)) etc.  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
