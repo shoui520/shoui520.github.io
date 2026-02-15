@@ -29,6 +29,8 @@ This routine was made in response to decision paralysis some people may experien
 **This is NOT the "TMW Guide", that can be found here: [Japanese Guide](/guide)**  
 **This is NOT the "TMW Guide", that can be found here: [Japanese Guide](/guide)**
 
+![alt text](img/usagispoon.png)  
+UsagiSpoon is not a guide, not a course, not a challenge and not a regiment!!  
 
 ## Day 1  
 
