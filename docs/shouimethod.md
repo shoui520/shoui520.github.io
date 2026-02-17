@@ -101,7 +101,7 @@ Immersion methods often underemphasize output, but I believe that you should com
 I understand why they discourage output though, my output before I had a 100 hours of immersion under my belt was stagnant and awful, with no signs of improving.    
 ### Immersion - how I immersed as a beginner
 
-The most simple way to put it was "a 9:1 listening-reading split".  
+The most simple way to put it was "a 3:1 listening-reading split". 75% listening, 25% reading. In the peak of this stage I was doing 6 hours of listening and 2 hours of reading a day.  
 
 I wasn't doing an entirely audio-purist approach. I never went "audio only, audio cards only, avoiding reading altogether" level crazy.  
 Rather, I would:
@@ -112,7 +112,7 @@ Rather, I would:
 
 This was the effectively the learning loop I had as a beginner.
 
-Do Anki first thing in the morning → immerse in 12-13 episodes of raw anime → read a bit of a novel or LN with Yomichan (now Yomitan) for about 30m-1h, add some new cards → sleep  
+Do Anki first thing in the morning → immerse in 12-13 episodes of raw anime → read a bit of a novel or LN with Yomichan (now Yomitan) for about 2h, add some new cards → sleep  
 
 ## What you should do
 
