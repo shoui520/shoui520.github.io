@@ -6,7 +6,7 @@ This will walk you through how to set up the following on your Android (8+) devi
 - [An ebook reader with vertical text support](https://reader.ttsu.app/)
 - [AnkiConnect](https://github.com/KamWithK/AnkiconnectAndroid)
 - [(Optional) Local audio](https://github.com/yomidevs/local-audio-yomichan)
-- (Optional) OCR for games.  
+- [PopLingo — OCR lookups in any app (manga, visual novels, games)](https://play.google.com/store/apps/details?id=com.aktaris.chattranslator)
 
 The two best options for browsers that support Yomitan on Android are **Edge Canary** and **Firefox**.  
 Whichever one you use mostly boils down to personal preference, but Edge Canary has much better performance, so this guide will walk you through the steps on getting Edge Canary set up on your Android device.  
@@ -74,6 +74,9 @@ Before continuing, please make sure your device is not running low on storage sp
 5. Find "Extension install by id" and copy and paste the Edge extension ID for Yomitan: ( `idelnfbbmikgfiejhgmddlbkfgiifnnn` ) and click OK, then "Add" when prompted.  
 6. Access Yomitan Settings by tapping the three-lines icon and then find "Extensions", then tap on Yomitan Popup Dictionary, then tap its cog settings icon.  
 7. You can import your preferred dictionaries here. All Yomitan dictionaries work on Android too, but please note that dictionary imports can take a really long time on mobile devices. Please be patient, make sure the screen stays on or stick to smaller dictionaries. Refer to [Yomitan Setup Tutorial](/yomichan) if you need help with Yomitan.  
+
+??? info "(Optional) Lookups outside the browser (manga, VNs, games, apps)"
+    Yomitan works inside the browser. For dictionary lookups **in any app**, use [**PopLingo**](#poplingo-ocr-lookups-in-any-app).
 
 ??? info "(Optional) Custom CSS"
     The custom CSS I personally use on my tablet is here, courtesy of Ruri:  
@@ -327,7 +330,26 @@ Remove the other audio sources such as JapanesePod101, and configure the local a
 | Custom URL **(JSON)**  | http://localhost:8765/localaudio/get/?term={term}&reading={reading}    |
 
 Please note that `Custom URL` and `Custom URL (JSON)` are different things, and this will only work with `Custom URL (JSON)`
-## OCR
-TBA  
 
- 
+## PopLingo (OCR lookups in any app)
+
+PopLingo gives you instant **OCR** dictionary lookups in any app (manga, visual novels, games) - using Yomitan dictionaries.
+
+### Setup
+1. Install [**PopLingo**](https://play.google.com/store/apps/details?id=com.aktaris.chattranslator) from the Play Store.
+2. Complete the quick onboarding (it sets everything up and installs a starter dictionary).
+
+### Using PopLingo
+1. Start PopLingo’s overlay (floating tab).
+2. Open the app you want to use (manga, visual novel, game, etc.).
+3. **Drag the tab over a word** to look it up.
+
+### Add more dictionaries (optional)
+1. Open PopLingo → **Add Dictionaries → Import Local Dictionary**.
+2. Import your Yomitan-format dictionary ZIP files (the same ones you use on desktop).
+3. Wait for the import to finish.
+
+??? info "Tips"
+    - **High contrast** (dark text on a light background) improves accuracy.
+    - If results look off, **zoom in** a bit and try again.
+    - OCR struggles with **blurry images** or **very stylized fonts**.
