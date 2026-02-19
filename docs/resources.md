@@ -79,6 +79,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.
 - [AnimeCards - Subtitles](https://animecards.site/subtitles/) - Goes over how to get Japanese subtitles and how to sync them for the video. 
 - [Crunchyroll](https://www.crunchyroll.com) - it's free but with ads. You can turn off subtitles.  
+- [Manatan](https://github.com/KolbyML/Manatan) - All-in-one app for anime, manga, and novels with OCR/subtitle dictionary lookups. Supports Desktop, iOS, and Android.
 ### Movies & TV Shows (J-drama)
 - [Bagikuy](https://bagikuy.com/) - j-drama download links.  
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=4_4) - has some jdrama.  
@@ -102,7 +103,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 
 Refer to the tools section for info on how to make lookups easier for manga.  
 
-- **[※ Mangatan all-in-one](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
+- **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
 - [BilingualManga](https://bilingualmanga.org/) - Yomitan compatible & one-click translation.   
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
@@ -134,6 +135,7 @@ The websites below have the best collection but can be a pain to download from.
 - [Aozora Bunko](https://www.aozora.gr.jp/) - read Japanese classics. Books go on here if the author has died more than 50 years ago.  
 - **[※ ッツ Ebook Reader](https://reader.ttsu.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+- [Manatan](https://github.com/KolbyML/Manatan) - Read light novels/novels and EPUBs with instant dictionary lookups and Anki card generation. Supports Desktop, iOS, and Android.
 
 Note: Gaining the Student rank or above in our Discord channel grants you access to more books than just these.  
 
@@ -219,7 +221,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature. 
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomitan.  
 ### Manga
-- **[※ Mangatan all-in-one](https://github.com/KolbyML/Mangatan?tab=readme-ov-file#setup-windows)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+- **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
 - [mokuro](https://github.com/kha-white/mokuro) - Process manga to make it readable in browser with Yomitan.
 #### Android apps
 - [Mihon](https://github.com/mihonapp/mihon)  
