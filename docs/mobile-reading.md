@@ -7,6 +7,7 @@ This will walk you through how to set up the following on your Android (8+) devi
 - [AnkiConnect](https://github.com/KamWithK/AnkiconnectAndroid)
 - [(Optional) Local audio](https://github.com/yomidevs/local-audio-yomichan)
 - [PopLingo — OCR lookups in any app (manga, visual novels, games)](https://play.google.com/store/apps/details?id=com.aktaris.chattranslator)
+- [Manatan - all-in-one anime, manga, and novel app](#manatan-all-in-one-anime-manga-and-novels)
 
 The two best options for browsers that support Yomitan on Android are **Edge Canary** and **Firefox**.  
 Whichever one you use mostly boils down to personal preference, but Edge Canary has much better performance, so this guide will walk you through the steps on getting Edge Canary set up on your Android device.  
@@ -353,3 +354,17 @@ PopLingo gives you instant **OCR** dictionary lookups in any app (manga, visual 
     - **High contrast** (dark text on a light background) improves accuracy.
     - If results look off, **zoom in** a bit and try again.
     - OCR struggles with **blurry images** or **very stylized fonts**.
+
+## Manatan (all-in-one anime, manga, and novels)
+
+Manatan is an all-in-one app for anime, manga, and novels. It supports Desktop, iOS, and Android.
+
+### Setup
+1. Download and install the latest **native Android** release (`.apk`) from [Manatan Releases](https://github.com/KolbyML/Manatan/releases).
+2. Launch Manatan.
+
+### Using Manatan
+1. Open **Browse** on the sidebar, then go to the **Extensions** tab.
+2. (If needed) add extension repos. You can add Mihon, Aniyomi, and Aidoku extension repos (for example: `https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json`).
+3. Tap **Install** on the source extensions you want.
+4. Open **Sources**, pick a title, then start reading or watching.
