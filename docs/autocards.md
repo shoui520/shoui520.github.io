@@ -22,7 +22,7 @@ Compatible with existing Yomitan setups. No need for another framework.
 
 ## Download
 
-[➡Download Link](https://mega.nz/file/wZUR3ASL#5sWwyZs88wKyCCiekG7C_W4ypkMYdV-09Xcw8h-1z7E)
+[➡Download Link](https://mega.nz/file/pEMkjSrD#dOurrVzd_jN4yosZl-qlTNqcXoK3n0T3jg3OFdNbfZk)
 ## Initial setup
 
 - Download the `.zip` file  
