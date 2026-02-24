@@ -88,11 +88,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [Minidrama](https://minidrama.net/j-drama/) - MKV downloads for J-drama.  
 - [Raredoramas](https://raredoramas.info/) - site for collecting rare J-Drama
 - [IPTV GitHub Repo - japanese](https://gitflic.ru/project/utako/utako) - watch Japanese TV channels with a video player like VLC.
-- [Japanese Live TV Streams](https://aqstream.com/jp) - Good speed but small collection. TBS and TV Tokyo work great.
-- [Japanese Live TV Streams 2](https://www.xhzb.tw/en/list.php?tid=94) - Not all channels work.
-- [Japanese Live TV Streams 3](https://tver.jp/)- use a [VPN](https://learnjapanese.moe/resources/#vpns-japan-location-specific).
-- [Japanese Live TV Streams 4](https://tv.garden/jp)
-- **[Japanese Live TV Android App](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan)** - has the best collection. Android only but you can emulate Android on a PC.
+- **[Japanese Live TV Streams](https://web.utako.moe/)** 
 - [ABEMA](https://abema.tv/) - Watch ABEMA Japanese TV. You need a Japanese VPN if you are outside of Japan though.
 - [Search on bilibili](https://www.bilibili.com/) - Chinese website but they are pretty good at Japanese content piracy.
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Download links for raw Terrace House BGND
