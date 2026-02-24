@@ -175,7 +175,7 @@ Note: visual novels on consoles do not have any NSFW content.
 #### Hook VNs with Textractor!
 - [VN Guide](https://learnjapanese.moe/vn/)  
 ### Audiobooks & Podcasts
-- [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - More audiobooks 
+- [TMW Audiobook Collections](https://nyaa.si/?f=0&c=2_0&q=TMW)  
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
