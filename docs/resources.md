@@ -176,6 +176,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [VN Guide](https://learnjapanese.moe/vn/)  
 ### Audiobooks & Podcasts
 - [TMW Audiobook Collections](https://nyaa.si/?f=0&c=2_0&q=TMW)  
+- [TMW Audiobook Collection Index](https://coreaudio.netlify.app/)   
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
