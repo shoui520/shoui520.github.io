@@ -119,7 +119,7 @@ The websites below have the best collection but can be a pain to download from.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
 
 ### Novels and Literary Texts
-- [Anna's Archive](https://annas-archive.li/) — has nearly everything. If it's blocked for you, use a VPN or [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/warp/download-warp/). For mirror status see [Open-Slum](https://open-slum.org/).  
+- [Anna's Archive](https://annas-archive.gl/) — has nearly everything. If it's blocked for you, use a VPN or [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/warp/download-warp/). For mirror status see [Shadow Libraries](https://shadowlibraries.github.io/DirectDownloads/AnnasArchive/).  
 - [PeepoHappyBooks Torrent](https://nyaa.si/view/1548943) - Collection of 30000 unique epubs compiled from boroboro, itazuraneko, etc.  
 - [TMW Collection Torrents](https://nyaa.si/?f=0&c=0_0&q=TMW)   
 - [Lolibrary](https://lolibrary.moe/)  
@@ -176,7 +176,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [VN Guide](https://learnjapanese.moe/vn/)  
 ### Audiobooks & Podcasts
 - [TMW Audiobook Collections](https://nyaa.si/?f=0&c=2_0&q=TMW)  
-- [TMW Audiobook Collection Index](https://coreaudio.netlify.app/)   
+- [TMW Audiobook Collection Index](https://coreaudio.netlify.app/)
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)

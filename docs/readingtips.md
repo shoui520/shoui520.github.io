@@ -27,7 +27,7 @@ They are easier to approach than novels, difficulty-wise, and therefore they are
 
 See [my visual novel guide](/vn) to learn how to learn Japanese with visual novels.  
 
-### Yomichan + Textractor + Texthooker page  
+### Yomitan + Textractor + Texthooker page  
 
 The holy trinity of Japanese learning (for visual novel enjoyers).  
 
@@ -55,7 +55,7 @@ Anyway, this is obviously a God tier reading strategy because, by watching the a
 The holy trinity of Japanese learning (for novel enjoyers).  
 
 - Set up Yomitan [here](/yomichan)  
-- EPUBs- many ways you can get them. Anna's Archive, [PeepoHappyBooks](https://nyaa.si/view/1350523)) etc.  
+- EPUBs- [many ways](/resources) you can get them. Anna's Archive, [PeepoHappyBooks](https://nyaa.si/view/1350523)) etc.  
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
 ### Manga
@@ -66,9 +66,9 @@ But you should kind of be aware that they only have speech and short description
 
 Nevertheless, they are still good for reading, and you can obviously learn tons of words from manga, and you'll get good at reading manga by reading a lot of manga.  
 
-### Yomichan, Mokuro, and a good OCR  
+### Yomitan+Manatan
 
-The holy trinity of Japanese learning (for manga enjoyers).  
+Yomitan + [Manatan](https://manatan.com/) is the best way to read manga to learn Japanese. 
 
 ### Pomodoro / Timeboxing  
 
@@ -165,11 +165,11 @@ Bilingual definitions can be too ambiguous sometimes, so it is always best to ch
 
 I don't know because I was looking up every single thing since the beginning, and I think it worked out fine?  
 
-Yomichan makes everything so easy.  
+Yomitan makes everything so easy.  
 
 If I had to use copy paste into external apps or write out the word or even worse, use a physical dictionary then I would probably not look up many words.  
 
-But YOU are living in 2023. YOU have Yomichan. Take advantage of it.  
+But technology has improved, you have Yomitan. Take advantage of it.  
 
 Install a frequency dictionary (I recommend JPDB) so you can see what words are actually common. Below 10,000 frequency is a sign that it comes up a lot in books and anime.  
 
