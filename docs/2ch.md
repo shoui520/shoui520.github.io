@@ -1,6 +1,28 @@
 # How to use 5ch
 ![Image](img/2ch00.png){:  style="display: block; margin: 0 auto; size:50%;" }
 
+## UPDATE MARCH 6 2026: 5CH IS DOWN
+5ch's domain (5ch.net) has been permanently suspended by its domain registrar. 
+See details here: 
+[https://nitter.net/Jimwatkins/status/2029670026165551370](https://nitter.net/Jimwatkins/status/2029670026165551370)
+
+Since the servers themselves are still online, you can still view 5ch using this proxy site [https://5ch.one](https://5ch.one), but no one knows about this, people aren't here so it's dead.  
+
+R.I.P. 2channel/5channel 1999-2026 
+
+Alternative sites you can use:
+* [おーぷん2ch](https://hayabusa.open2ch.net/livejupiter/)
+* [2ch.sc](https://2ch.sc/)
+* [Talk.jp](https://talk.jp/)
+* [嫌儲.org](https://kenmo.org/)
+* [エッヂ](https://bbs.eddibb.cc/liveedge/)
+* [ふたばちゃんねる](https://may.2chan.net/b/futaba.htm)
+* [ぷにぷに](https://bbs.punipuni.eu/vaporeon/current.php)
+* [したらば](https://rentalbbs.shitaraba.com/)
+* [あにまん](https://animanch.com/)
+
+
+
 **Update 2025: I recommend you check out [エッヂ](#new)**  
 
 2channel (Japanese: ２ちゃんねる) (New name: ５ちゃんねる) is a Japanese anonymous **text** bulletin board. You can think of it as the Japanese equivalent to something in between Reddit and 4chan, with a more toxic userbase than Reddit and varying levels of moderation. You can use this to burn away time instead of looking at English sites. The site design is very questionable by today's standards, and I will be constantly calling it "awful" in this article. The awful site design, combined with the lack of user friendliness, make the site very **hard to use**, especially for people still learning Japanese. 
