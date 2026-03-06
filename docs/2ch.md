@@ -1,30 +1,8 @@
 # How to use 5ch
 ![Image](img/2ch00.png){:  style="display: block; margin: 0 auto; size:50%;" }
 
-## UPDATE MARCH 6 2026: 5CH IS DOWN
-5ch's domain (5ch.net) has been permanently suspended by its domain registrar. 
-See details here: 
-[https://nitter.net/Jimwatkins/status/2029670026165551370](https://nitter.net/Jimwatkins/status/2029670026165551370)
-
-Since the servers themselves are still online, you can still view 5ch using this proxy site [https://5ch.one](https://5ch.one), but no one knows about this, people aren't here so it's dead.  
-
-R.I.P. 2channel/5channel 1999-2026 
-
-Alternative sites you can use:  
-
-* [おーぷん2ch](https://hayabusa.open2ch.net/livejupiter/)
-* [2ch.sc](https://2ch.sc/)
-* [Talk.jp](https://talk.jp/)
-* [嫌儲.org](https://kenmo.org/)
-* [エッヂ](https://bbs.eddibb.cc/liveedge/)
-* [ふたばちゃんねる](https://may.2chan.net/b/futaba.htm)
-* [ぷにぷに](https://bbs.punipuni.eu/vaporeon/current.php)
-* [したらば](https://rentalbbs.shitaraba.com/)
-* [あにまん](https://animanch.com/)
-
-
-
-**Update 2025: I recommend you check out [エッヂ](#new)**  
+**Update March 2026: The domain has changed to 5ch.io after 5ch.net was seized by its registrar**  
+**Update 2025: I recommend you check out [エッヂ](#new)**    
 
 2channel (Japanese: ２ちゃんねる) (New name: ５ちゃんねる) is a Japanese anonymous **text** bulletin board. You can think of it as the Japanese equivalent to something in between Reddit and 4chan, with a more toxic userbase than Reddit and varying levels of moderation. You can use this to burn away time instead of looking at English sites. The site design is very questionable by today's standards, and I will be constantly calling it "awful" in this article. The awful site design, combined with the lack of user friendliness, make the site very **hard to use**, especially for people still learning Japanese. 
 This article will try explaining how to use 5ch in your browser. 
@@ -35,7 +13,7 @@ This article will try explaining how to use 5ch in your browser.
 
 ## URL
 
-[https://5ch.net/](https://5ch.net/)  
+[https://5ch.io/](https://5ch.io/)  
 
 ## Front Page
 
@@ -47,9 +25,9 @@ And second, the site design is actually very **inconsistent**, the site design c
 
 I recommend uBlock Origin ([Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)) as an ad-blocker. It is the only one that functions properly as an ad-blocker.  
 
-The front page displays popular threads from the [ニュース速報+](https://asahi.5ch.net/newsplus/index.html) (a news board) and [野球実況板](https://tanuki.5ch.net/livebase/index.html) (a [実況](#_7) baseball board).
+The front page displays popular threads from the [ニュース速報+](https://asahi.5ch.io/newsplus/index.html) (a news board) and [野球実況板](https://tanuki.5ch.io/livebase/index.html) (a [実況](#_7) baseball board).
 
-While the front page has quite mundane content, there are actually a ton of different boards for different interests. You can access the list of boards by clicking the [掲示板](https://www2.5ch.net/5ch.html) button on the top left.  
+While the front page has quite mundane content, there are actually a ton of different boards for different interests. You can access the list of boards by clicking the [掲示板](https://www2.5ch.io/5ch.html) button on the top left.  
 
 
 ## Boards
@@ -62,9 +40,9 @@ Boards have a lot of categorization on 5ch, this means you can only read stuff y
 
 You may want to try using ++ctrl+f++ to try finding something related to your interests. You can try inputting a keyword (of course, in Japanese!) into the search bar, there is bound to be a thread about it, and from there you can learn what is the suitable board for your type of interests.  
 
-There is a page that displays links to every single board on a single page: [掲示板リスト](https://menu.5ch.net/bbstable.html).
+There is a page that displays links to every single board on a single page: [掲示板リスト](https://menu.5ch.io/bbstable.html).
 
-Boards I often view personally are the [ラブライブ！](https://fate.5ch.net/lovelive/) and [声優](https://kizuna.5ch.net/voiceactor/) boards.
+Boards I often view personally are the [ラブライブ！](https://fate.5ch.io/lovelive/) and [声優](https://kizuna.5ch.io/voiceactor/) boards.
 
 ## Board Page
 
@@ -153,7 +131,7 @@ You can start new threads by going to the board page and scrolling to the bottom
 
 ## Posting Culture
 
-Since posting is anonymous, posts *may* get toxic. People may throw insults around. I think it is nothing compared to 4chan, though. Also, it varies a lot depending on *what* board you are posting on. Boards like the [アニメ](https://pug.5ch.net/anime/) board have good moderation and does not really get toxic.   On the other hand, a sh\*thole such as [ニュー速(嫌儲)](https://greta.5ch.net/poverty/) is pretty much always the underbelly of the Japanese net. 
+Since posting is anonymous, posts *may* get toxic. People may throw insults around. I think it is nothing compared to 4chan, though. Also, it varies a lot depending on *what* board you are posting on. Boards like the [アニメ](https://pug.5ch.io/anime/) board have good moderation and does not really get toxic.   On the other hand, a sh\*thole such as [ニュー速(嫌儲)](https://greta.5ch.io/poverty/) is pretty much always the underbelly of the Japanese net. 
 
 People can and will respond negatively to poor quality posts you make and threads you create, and there *will* be haters everywhere bashing the things you like, it is important to not take these negative responses to heart, and learn to get over them.  
 
@@ -259,9 +237,11 @@ This has a lot of useful quality of life improvements. Including:
 
 ## Recommended way to search 5ch
 
-~~If you want to search active and archived threads, and thread content too, I recommend using Google with the search term `site:5ch.net <keyword>`.~~ This sucks in 2024. The best way now is to use [find.2ch.sc](https://find.2ch.sc/). 2ch.sc is a mirror site of 5ch.net, owned by the righteous owner of 2channel, Hiroyuki Nishimura. Threads and responses on here that have @net next to them are mirrored from 5ch.net, and you can find the corresponding threads on the 5ch.net site easily.  
+~~If you want to search active and archived threads, and thread content too, I recommend using Google with the search term `site:5ch.net <keyword>`.~~   
+his sucks in 2024. The best way now is to use [find.2ch.sc](https://find.2ch.sc/). 2ch.sc is a mirror site of 5ch.io, owned by the righteous owner of 2channel, Hiroyuki Nishimura. Threads and responses on here that have @net next to them are mirrored from 5ch.net, and you can find the corresponding threads on the 5ch.io site easily.  
 
-The search bar on the site is fine to search thread titles of active thread. 
+The search bar on the site is fine (find.5ch.io) to search thread titles of active thread.  
+You can also use [5chスレタイ検索](https://ff5ch.syoboi.jp/)   
 
 ## 結局 No point of using 5ch?? / まとめサイト introduction
 5ch can have a lot of interesting posts, however a lot of threads may be クソスレ (crappy threads) and a lot of responses in threads may be クソレス (crappy responses). It can also be hard to find things on 5ch.  
@@ -330,7 +310,7 @@ Basically moderation on 5ch. Well moderated boards have "自治スレ"'s where y
 ### DAT落ち
 When a thread becomes archived and you are unable to reply to it. A thread may DAT落ち when many more new threads than the board can take are made, or when the thread reaches 1000 replies. 5ch thread raw data is stored in .dat files. Therefore, the dat "falls".
 ### VIP
-Originally 20 years ago, this meant boards that got special treatment, but now this kind of has a "containment" connotation to it because the boards that have "VIP" in the name are really notorious for their posts. Examples include [ニュー速VIP](https://mi.5ch.net/news4vip/).   
+Originally 20 years ago, this meant boards that got special treatment, but now this kind of has a "containment" connotation to it because the boards that have "VIP" in the name are really notorious for their posts. Examples include [ニュー速VIP](https://mi.5ch.io/news4vip/).   
 ### コテハン
 5ch is usually anonymous, however you can post with a name. This is called コテハン.
 ### トリップ/酉/鳥
