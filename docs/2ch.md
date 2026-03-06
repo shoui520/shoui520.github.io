@@ -10,7 +10,8 @@ Since the servers themselves are still online, you can still view 5ch using this
 
 R.I.P. 2channel/5channel 1999-2026 
 
-Alternative sites you can use:
+Alternative sites you can use:  
+
 * [おーぷん2ch](https://hayabusa.open2ch.net/livejupiter/)
 * [2ch.sc](https://2ch.sc/)
 * [Talk.jp](https://talk.jp/)
