@@ -94,6 +94,7 @@ Then:
 6. Change "Deck" to the name of your deck you just created (e.g. `Mining`). Change the "Model" to `Lapis`.  
 
 Now configure the card fields. Yomitan pre-fills most of these fields, but they aren't all correct, so make sure you check them carefully!:
+<p style="color: #ff0000;">YOMITAN AUTOFILL IS NOT CORRECT! CHECK YOUR FIELDS CAREFULLY!</p>
 
 
 | Field | Value |
