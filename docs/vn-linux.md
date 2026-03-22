@@ -2,6 +2,8 @@
 
 Pick your poison:
 === "Virtual Machine"
+	!!! failure "Graphics performance."
+		Some newer VNs (mainly with animations and effects) will work, but will struggle to keep a consistent frame rate. 
 
 This is painless and **does not** require good hardware. All you need is VT-x. I got it running flawlessly on an old laptop with only 1 CPU core and 1 GB of RAM allocated to the virtual machine + power saving mode on the laptop.  
 
@@ -77,7 +79,7 @@ Now you can follow the [Learning Japanese with VNs](/vn) guide.
 Here's how I recommend you play your VNs:
 
 - Disable Auto-resize guest display (View > Auto-resize guest display)
-- Resize the VM (View > Virtual Screen 1) according to the aspect ratio of your visual novel. (4:3→ 1024x768, 16:9→1280x720)  
+- Resize the VM (View > Virtual Screen 1) according to the aspect ratio of your visual novel. (4:3→ 1024x768, 16:9→1280x720 or the highest resolution the VN supports)  
 - Hide the bottom toolbar. Machine > Settings > Expert > User Interface, uncheck the box for the bottom toolbar.
 - Fullscreen (全画面表示/フルスクリーン) the visual novel (should be in the visual novel's options menu).  
 - Enable Scaled Mode (View > Scaled Mode) (toggle shortcut: right ctrl+C). The shortcut for the menu is right ctrl+Home
