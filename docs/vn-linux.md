@@ -3,7 +3,7 @@
 Pick your poison:
 === "Virtual Machine"
 	!!! failure "Graphics performance."
-		Some newer VNs (mainly with animations and effects) will work, but will struggle to keep a consistent frame rate. 
+		Some newer VNs (mainly with animations and effects) will work, but will struggle to keep a consistent frame rate. I recommend using the VBoxVGA adapter for the best performance.
 
 This is painless and **does not** require good hardware. All you need is VT-x. I got it running flawlessly on an old laptop with only 1 CPU core and 1 GB of RAM allocated to the virtual machine + power saving mode on the laptop.  
 
@@ -90,6 +90,15 @@ Example, for 4:3
 ![Image](img/vnlinux_vmwindowrule4x3.png)
 Example, for 16:9
 ![Image](img/vnlinux_vmwindowrule16x9.png)
+
+### Troubleshooting
+
+Some games really don't like the VBoxSVGA video adapter. They will either: crash, refuse to start, be unable to go full screen. For these games, you need to switch to the VMSVGA adapter.  
+
+* VMSVGA: best compatibility
+* VBoxSVGA: default, supports 3D acceleration. Bad compatibility.
+* VBoxVGA: better compatibility, good speed.
+
 === "Wine"
 	!!! failure "Video cutscene playback"
 		Visual novels rely on Microsoft Media Foundation technology for video playback, something introduced in Windows Vista. Although AAA games can play videos fine, (because they use things like BINK Video and aren't reliant on a core Windows technology), video playback on visual novels (literal picture books) can be finnicky. Media Foundation has not been fully reimplemented in upstream Wine yet, and Proton provides no fixes or improvements to Media Foundation. Although you may see improvements by installing mf-fix/K-Lite Codec Pack/wmp9/wmp10/wmp11/lavfilters/ffdshow in your Wineprefix with Winetricks.
