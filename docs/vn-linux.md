@@ -95,9 +95,9 @@ Example, for 16:9
 
 Some games really don't like the VBoxSVGA video adapter. They will either: crash, refuse to start, be unable to go full screen. For these games, you need to switch to the VMSVGA adapter.  
 
-* VMSVGA: best compatibility
-* VBoxSVGA: default, supports 3D acceleration. Bad compatibility.
-* VBoxVGA: better compatibility, good speed.
+* VMSVGA: best compatibility. supports higher 4:3 resolutions.  
+* VBoxSVGA: default, supports 3D acceleration. Potentially the fastest speed for GPU demanding VNs. Bad compatibility.
+* VBoxVGA: better compatibility, good speed depending on engine.
 
 === "Wine"
 	!!! failure "Video cutscene playback"
