@@ -2,8 +2,8 @@
 
 Pick your poison:
 === "Virtual Machine"
-	!!! failure "Graphics performance."
-		Some newer VNs (mainly with animations and effects) will work, but will struggle to keep a consistent frame rate. I recommend using the VBoxVGA adapter for the best performance.
+	!!! warning "Graphics performance."
+		Some VNs will struggle to keep a consistent frame rate, will lag/have bad input latency. This requires tinkering with the chosen video adapter. See the [video adapters](#video-adapters) section.
 
 This is painless and **does not** require good hardware. All you need is VT-x. I got it running flawlessly on an old laptop with only 1 CPU core and 1 GB of RAM allocated to the virtual machine + power saving mode on the laptop.  
 
@@ -24,7 +24,7 @@ I used **Windows 8.1 Embedded Industry Pro 32-bit, ja-JP, with Update 3**. This 
 The reason I recommend installing a Japanese-language version of Windows from the get-go is because all the correct settings (locale etc.) will be set already and it will come with Japanese fonts installed already, without having to go through the Windows Update servers. Some VNs, such as KEY games implement "gaijin checks" that also check for timezone, install language, region, etc. To avoid these issues entirely you can just install Windows in Japanese.  
 
 Activating Windows is easy. If you are asked for a product key during install, use one of the keys [here](https://github.com/iMoeAriaCG/Windows-Key-Collection).  
-Post-install, you can activate using [MAS](https://massgrave.dev/).  
+Post-install, you can activate using [MAS](https://massgrave.dev/) offline .cmd version with TSforge.  
 
 ### 1. Install VirtualBox
 
