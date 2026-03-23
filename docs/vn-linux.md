@@ -116,7 +116,7 @@ You can conserve power by restricting VirtualBox's threads to a single core. Eve
 You can force VirtualBox to run on a single core by using `taskset`.  
 To run your VirtualBox VM on the physical core 0 (1st core) and its hyperthreaded sibling, run:  
 ```bash
-taskset -c 0,4 VirtualBox --startvm "YourVMName"
+taskset -c 0,4 VirtualBoxVM --startvm "YourVMName"
 ```  
 
 You should check how Linux sees your CPU topology with `lscpu -e`. For most processors on Linux, CPU 0 and CPU 4 correspond to the 1st physical core and its hyperthreaded sibling. Note that this differs from the Windows topology mapping (Windows equivalent is CPU 0 and CPU 1).  
