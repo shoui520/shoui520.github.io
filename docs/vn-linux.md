@@ -33,13 +33,13 @@ Post-install, you can activate using [MAS](https://massgrave.dev/).
 I got it working with the [Arch Wiki article](https://wiki.archlinux.org/title/VirtualBox).  
 
 (mainline kernels use `virtualbox-host-modules-arch`, LTS kernels use `virtualbox-host-modules-lts`)
-```
+```bash
 sudo pacman -S virtualbox virtualbox-guest-iso virtual-host-dkms
 ```
-```
+```bash
 sudo modprobe vboxdrv
 ```
-```
+```bash
 sudo usermod -aG vboxusers <user>
 ```
 
@@ -68,7 +68,7 @@ Also install some redists:
 The instructions for installing VNs on Windows are detailed in my [Visual novels on Windows](/vn-win) guide. You can now follow that to get your VNs installed.
 
 For Textractor, you will need to port forward port `6677` to use the websocket from Linux. Power off the machine and run this (replace YOUR_VM_NAME with your VM name):
-```
+```bash
 VBoxManage modifyvm "YOUR_VM_NAME" --natpf1 "vnport,tcp,,6677,,6677"
 ```
 
@@ -93,11 +93,48 @@ Example, for 16:9
 
 ### Troubleshooting
 
+#### Video adapters
 Some games really don't like the VBoxSVGA video adapter. They will either: crash, refuse to start, be unable to go full screen. For these games, you need to switch to the VMSVGA adapter.  
 
-* VMSVGA: best compatibility. supports higher 4:3 resolutions.  
 * VBoxSVGA: default, supports 3D acceleration. Potentially the fastest speed for GPU demanding VNs. Bad compatibility.
 * VBoxVGA: better compatibility, good speed depending on engine.
+* VMSVGA: best compatibility. supports higher 4:3 resolutions. Recommended for older VNs.
+
+#### Textractor can't launch / Visual C++ 2015-2022 runtime install error
+
+You need to make sure you have an updated version of the Windows version you are running. The most painless way to achieve this is to just have an .iso with service packs/updates already installed.  
+
+Recommended:  
+
+* Windows 7 SP1, 32-bit
+* Windows 8.1 with Update 3, 32-bit
+### Power saving
+
+I recommend this for laptops.  
+You can conserve power by restricting VirtualBox's threads to a single core. Even if you only give 1 CPU core to the guest OS, VirtualBox still runs multithreaded on the host OS. This means that while the virtual machine is running, the host OS's scheduler does not let the rest of your CPU cores enter PC6/PC8 deep C-states, causing unneccessary battery drain.  
+
+You can force VirtualBox to run on a single core by using `taskset`.  
+To run your VirtualBox VM on the physical core 0 (1st core) and its hyperthreaded sibling, run:  
+```bash
+taskset -c 0,4 VirtualBox --startvm "YourVMName"
+```  
+
+You should check how Linux sees your CPU topology with `lscpu -e`. For most processors on Linux, CPU 0 and CPU 4 correspond to the 1st physical core and its hyperthreaded sibling. Note that this differs from the Windows topology mapping (Windows equivalent is CPU 0 and CPU 1).  
+
+```
+% lscpu -e    
+CPU SOCKET CORE L1d:L1i:L2:L3 ONLINE    MAXMHZ   MINMHZ      MHZ
+  0      0    0 0:0:0:0          yes 3600.0000 400.0000 799.9090
+  1      0    1 1:1:1:0          yes 3600.0000 400.0000 798.5420
+  2      0    2 2:2:2:0          yes 3600.0000 400.0000 799.9970
+  3      0    3 3:3:3:0          yes 3600.0000 400.0000 800.2590
+  4      0    0 0:0:0:0          yes 3600.0000 400.0000 800.1550
+  5      0    1 1:1:1:0          yes 3600.0000 400.0000 799.9570
+  6      0    2 2:2:2:0          yes 3600.0000 400.0000 800.0190
+  7      0    3 3:3:3:0          yes 3600.0000 400.0000 799.9650
+```
+
+With VirtualBox running on a single core, the VM will run slower and with higher input latency, but it is better for laptop battery life.  
 
 === "Wine"
 	!!! failure "Video cutscene playback"
