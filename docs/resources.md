@@ -182,6 +182,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
+- [After Hours｜アフターアワーズ](https://open.spotify.com/show/796e85RinDEQPfm0YAwbfQ) - Two Japanese university friends discuss real life topics in natural, unscripted Japanese. Great for intermediate-advanced listening practice. ([Apple Podcasts](https://podcasts.apple.com/podcast/id1574825253))
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). 
 - [Jimaku.cc](https://jimaku.cc/) - new site as a more secure alternative to kitsunekko    
