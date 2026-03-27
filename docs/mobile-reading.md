@@ -270,7 +270,7 @@ You can set up AnkiConnect on your Android device so you can create Anki cards o
 
 ### Setup  
 Install AnkiDroid from the Google Play Store [here](https://play.google.com/store/apps/details?id=com.ichi2.anki).  
-Install Ankiconnect Android from the .apk file [here](https://github.com/KamWithK/AnkiconnectAndroid/releases).  
+Install Ankiconnect Android from the .apk file [here](https://github.com/AuroraWright/AnkiconnectAndroid/releases).  
 
 First, you need to install AnkiDroid and make sure it is set up with your decks synced already.  
 
