@@ -326,7 +326,9 @@ d6a0d68b18fbcf26bcbb66ec20739492
 ```
 The Yomitan Custom URL (JSON) you need is this:  
 
-```http://localhost:8765/?term={term}&reading={reading}```
+```
+http://localhost:8765/?term={term}&reading={reading}
+```
 
 
 ### Yomitan Settings  
