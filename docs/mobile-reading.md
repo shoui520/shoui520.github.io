@@ -315,6 +315,20 @@ Android/data/com.kamwithk.ankiconnectandroid/files/android.db
 
 
 Now, launch Ankiconnect Android and start the service.  
+
+## Optional: Forvo online audio
+
+Requires no extra space on the device, so it is useful if you don't have enough space on your device for the local audio database.    
+
+Add this as the Forvo API key:  
+```
+d6a0d68b18fbcf26bcbb66ec20739492
+```
+The Yomitan Custom URL (JSON) you need is this:  
+
+```http://localhost:8765/?term={term}&reading={reading}```
+
+
 ### Yomitan Settings  
 With the Ankiconnect Android service running, go to Yomitan Settings, and in "Audio", go on "Configure audio playback sources".
 Remove the other audio sources such as JapanesePod101, and configure the local audio source with the following settings:
