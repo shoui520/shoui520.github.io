@@ -1,10 +1,8 @@
 # Mobile Reading Setup
-This is currently for Android only, iPadOS setups are planned, but are less than ideal at this point in time.  
-This will walk you through how to set up the following on your Android (8+) device:
 
 - [Yomitan](https://microsoftedge.microsoft.com/addons/detail/yomitan-popup-dictionary/idelnfbbmikgfiejhgmddlbkfgiifnnn)
 - [An ebook reader with vertical text support](https://reader.ttsu.app/)
-- [AnkiConnect](https://github.com/KamWithK/AnkiconnectAndroid)
+- [AnkiConnect](https://github.com/AuroraWright/AnkiconnectAndroid/releases)
 - [(Optional) Local audio](https://github.com/yomidevs/local-audio-yomichan)
 - [PopLingo — OCR lookups in any app (manga, visual novels, games)](https://play.google.com/store/apps/details?id=com.aktaris.chattranslator)
 - [Manatan - all-in-one anime, manga, and novel app](#manatan-all-in-one-anime-manga-and-novels)
@@ -12,7 +10,8 @@ This will walk you through how to set up the following on your Android (8+) devi
 The two best options for browsers that support Yomitan on Android are **Edge Canary** and **Firefox**.  
 Whichever one you use mostly boils down to personal preference, but Edge Canary has much better performance, so this guide will walk you through the steps on getting Edge Canary set up on your Android device.  
 The main advantages of each option is as follows:  
-## Browsers
+## Android
+The reading setup here uses ッツ in the browser with Yomitan support.   
 ### Edge Canary  
 
 Advantages:  
@@ -290,36 +289,30 @@ Then you can enable Anki Integration in Yomitan. No extra tinkering is required.
  
 ## Local audio
 
-Note: the local audio database uses 7.1GB of space on your device. Please ensure your device has sufficient space to not be out of space when the local audio database is imported to your device.   
+Note: the local audio database uses 5.79GB of space on your device. Please ensure your device has sufficient space to not be out of space when the local audio database is imported to your device.   
 
 You will need to use a computer with Android Debugging Bridge (ADB) for this step, as you cannot access the `Internal Storage/Android/data` directories and their contents on newer Android versions (11 and newer).  
 But if you are on an older version (10 and older) you can access `Internal Storage/Android/data/com.kamwithk.ankiconnectandroid/files/` and the files within it without a computer, so on those versions, you don't need to use a computer for this.  
 
-First, download the local audio database for Android [here](https://drive.proton.me/urls/TSV0HAK410#Qo7eQwcQPiG0), usually you would generate this yourself, but for your convenience I've uploaded the generated database already. If you would like to do that manually, see [here](https://github.com/KamWithK/AnkiconnectAndroid?tab=readme-ov-file#additional-instructions-local-audio).     
+First, download the local audio database for Android [here](https://drive.google.com/file/d/1Fn11_nN04zM89yKFYBWVTi0Xpaf6I3qe/view), usually you would generate this yourself, but for your convenience I've uploaded the generated database already. If you would like to do that manually, see [here](https://github.com/KamWithK/AnkiconnectAndroid?tab=readme-ov-file#additional-instructions-local-audio).     
 
-### Local audio transfer with ADB (Windows)  
-
-ADB is necessary for Android 11 and above. Some workarounds exist for Android 11, but these were removed in later versions (it's absolutely necessary on Android 14 and above).  
+### Local audio transfer (using a computer)  
 
 **Close Ankiconnect Android fully before proceeding.**  
 
-1. Download the SDK Platform-Tools for Windows .zip file [here](https://developer.android.com/tools/releases/platform-tools). Extract it anywhere on your PC.
-2. Navigate to the platform-tools folder until you find `adb.exe`
-3. On Windows 11, while in this folder, right click the blank space in Explorer and click "Open in Terminal". On Windows 10, while in this folder, click "File" in the top-left and then "Open Windows PowerShell"
-4. Move your downloaded `android.db` file to the same place as `adb.exe` (platform-tools folder)
-5. On the Android device, enable Developer options by repeatedly tapping "Build number" in the Settings in About phone / Software information. 
-6. In Developer options, enable "USB debugging", then plug your device to your computer with a USB cable. 
-7. In the Terminal/PowerShell window, type `.\adb.exe devices` and press ++enter++. On your Android device, allow access if prompted. You also need to change USB settings (there is a notification) from "Charging only" to "Transferring files".
-8. In the Terminal/PowerShell window, type `.\adb.exe push android.db /sdcard/Android/data/com.kamwithk.ankiconnectandroid/files/` and press ++enter++
-9. Wait for the transfer process to complete. 
+Connect your Android device to your PC using a USB cable. This may require drivers.  
+On your Android device, open the status bar and click on "Charging device with USB", and change "Charging Only" to "File transfer/Android Auto".  
 
-The path for the `android.db` file should be:
+On the PC, open the internal storage of your device.
+Navigate to: `Android/data/com.kamwithk.ankiconnectandroid/files`
 
+Copy and paste the `android.db` file here.
+
+The full path of the file should now be:
 ```
-/sdcard/Android/data/com.kamwithk.ankiconnectandroid/files/android.db
+Android/data/com.kamwithk.ankiconnectandroid/files/android.db
 ```
 
-You can confirm with `.\adb.exe shell ls -l /sdcard/Android/data/com.kamwithk.ankiconnectandroid/files`. If you downloaded it from me the file size should be `7274643456` bytes.  
 
 Now, launch Ankiconnect Android and start the service.  
 ### Yomitan Settings  
@@ -354,6 +347,11 @@ PopLingo gives you instant **OCR** dictionary lookups in any app (manga, visual 
     - **High contrast** (dark text on a light background) improves accuracy.
     - If results look off, **zoom in** a bit and try again.
     - OCR struggles with **blurry images** or **very stylized fonts**.
+
+## iOS
+### Hoshi Reader
+
+Hoshi Reader, the best ッツ+Yomitan+mining alternative for iOS is now available on the [App Store](https://apps.apple.com/us/app/hoshi-reader/id6758244332) for iOS devices running 18.4 or later.  
 
 ## Manatan (all-in-one anime, manga, and novels)
 
