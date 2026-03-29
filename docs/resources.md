@@ -297,6 +297,7 @@ See Applications section for an EPWING reader.
 ### Metrics & Tracking
 - [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker
 - [多読 Tracker](https://github.com/Eroge-Abyss/tadoku) - Visual novel reading stats tracker.  
+- [jp343](https://jp343.com) - Browser extension that tracks Japanese immersion time on YouTube, Netflix, Crunchyroll, Prime Video, and Disney+.
 ### Difficulty Analysis
 - [Jiten.moe](https://jiten.moe/) - Inspired by JPDB.io, but more up to date and has more features. Recommended.
 - [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.
