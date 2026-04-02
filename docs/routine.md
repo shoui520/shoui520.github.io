@@ -39,7 +39,7 @@ The absolute first thing you need to do when you learn Japanese is to learn the 
 
 Why and how they are used can get confusing for newcomers to Japanese.  
 
-So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim#_Hiragana).  
+So, I recommend reading [[this]](https://guidetojapanese.org/learn/complete/hiragana).  
 
 Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.    
 
@@ -58,7 +58,7 @@ Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://ww
 
 It is a video by JapanesePod. This should probably be the only Japanese Pod video you should watch though, just sayin'.  
 
-Now, go on this website. [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html)  
+Now, go on this website. [https://gohoneko.neocities.org/learn/kana.html](https://djtguide.neocities.org/kana/)  
 
 Click "show/hide options"  
 
@@ -75,7 +75,7 @@ You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/]
 
 ### Stage: Creating your own Japan at home  
 
-Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://djtguide.neocities.org/kana/) for 10 minutes.  
 Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).
 Do not forget that all kana must be enabled.  
 
@@ -162,7 +162,7 @@ I didn't want to overwhelm you on your second day, so you'll start learning abou
 
 ### Stage: Just starting grammar
 
-Do your daily kana practice on this site! [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+Do your daily kana practice on this site! [https://gohoneko.neocities.org/learn/kana.html](https://djtguide.neocities.org/kana/) for 10 minutes.  
 
 Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
 
@@ -255,7 +255,7 @@ Today you'll be:
 
 It is a lot. Please make sure you have enough time today.   
 
-Practice your kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+Practice your kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://djtguide.neocities.org/kana/) for 10 minutes.  
 
 [10 Minute Timer Here](https://www.online-stopwatch.com/timer/10minutes/)  
 
@@ -479,7 +479,7 @@ If you can't decide, then by all means, let a dice decide for you!
 
 ## Day 5  
 
-Go on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) and practice kana for 10 minutes. [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
+Go on this site [https://gohoneko.neocities.org/learn/kana.html](https://djtguide.neocities.org/kana/) and practice kana for 10 minutes. [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
 
 Now do your daily Anki.  
 
@@ -525,7 +525,7 @@ Every bit counts!
 
 First, practice kana for 10 minutes.  
 
-[Kana Practice Site](https://gohoneko.neocities.org/learn/kana.html)  
+[Kana Practice Site](https://djtguide.neocities.org/kana/)  
 [10 Minute Timer](https://www.online-stopwatch.com/timer/10minutes/)  
 
 After that, go on to doing your Anki.  

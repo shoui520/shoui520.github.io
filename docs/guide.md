@@ -189,7 +189,7 @@ It's a 2 hour long video about *hiragana* and *katakana*. It is a great introduc
 
 #### Step 3 - the grinding
 Once you have done that, play this *kana* grinding game.  
-<h3><a href="https://gohoneko.neocities.org/learn/kana" target="_blank">The kana grinding game</a></h3>
+<h3><a href="https://djtguide.neocities.org/kana/" target="_blank">The kana grinding game</a></h3>
 
 <h4>How to play</h4>
 
@@ -317,8 +317,8 @@ Here are a few guides ranked based on how much I recommend them to total beginne
 - [Yokubi](https://yoku.bi/)  
 - [Japanese Ammo with Misa Grammar YouTube Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N) 
 - [Cure Dolly's Organic Japanese YouTube Playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) ([transcript](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html))
-- [Tae Kim's Guide to Japanese](https://gohoneko.neocities.org/grammar/taekim)  
-- [Sakubi](https://gohoneko.neocities.org/learn/anon/sakubi)  
+- [Tae Kim's Guide to Japanese](https://guidetojapanese.org/learn/complete/writing)  
+- [Sakubi](https://sakubi.neocities.org/)  
 - [IMABI](https://imabi.org/)    
 
 It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.   
