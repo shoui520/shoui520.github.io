@@ -4,7 +4,7 @@
 
 ### Kana  
 
-- [**※ - Tae Kim - The Writing System**](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
+- [**※ - Tae Kim - The Writing System**](https://guidetojapanese.org/learn/complete/writings) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
 - [DJT Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
 
 ### Kanji
@@ -32,12 +32,12 @@ These are not recommended anymore.
 
 ### Grammar
 - **[※ Yokubi](https://yoku.bi/)** - Effectively a condensed version of Tae Kim's grammar guide designed to get you understanding grammar as briefly as possible. Recommended for beginners.
-- [Tae Kim’s Guide to Japanese, a guide for grammar](https://gohoneko.neocities.org/grammar/taekim.html)
+- [Tae Kim’s Guide to Japanese, a guide for grammar](https://guidetojapanese.org/learn/complete/)
 - **[※ Japanese Ammo by Misa Grammar Playlist](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N)** - sleeper way of binging grammar.  
 - **[※ IMABI](https://imabi.org/)** - Very thorough and comprehensive guide to Japanese grammar, recommended for intermediate-to-advanced learners.  
 - [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)**
 - [Cure Dolly Complete Transcript by nunko, Mordraug & kellenok UPDATED](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html) - A complete transcript of Cure Dolly videos. 
-- [Reference list of all Japanese grammar patterns.](https://gohoneko.neocities.org/grammar/masterreference.html) - Very useful for referring to a point. 
+- [Reference list of all Japanese grammar patterns.](https://djtguide.github.io/grammar/masterreference.html) - Very useful for referring to a point. 
 - ["Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin](https://drive.google.com/file/d/1Cl80gJyGbzdv4lGdcJhMJ1pGK_EZhCZv/view?usp=sharing) - similar to Cure Dolly, it's like the equivalent of the first few videos. It dispells common misconceptions about Japanese grammar people have due to studying Japanese grammar the "traditional" way.
 - [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - JLPT "grammar" taught in Japanese. I recommend most people learn these *after* Cure Dolly/Tae Kim/yokubi/whatever guide you used. You should learn these because many of the grammar points can be easily overlooked when seen in the wild if you don't already know them.
 - **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** -  Highly recommended. It only has Japanese definitions, an intentional choice in order to avoid false associations of Japanese grammar with English words.   
@@ -295,6 +295,7 @@ See Applications section for an EPWING reader.
 - [Stardict/Kobo/KOReader Dictionaries](https://drive.google.com/drive/folders/1tXjcwJLHb0dax0ysbXubNza9Gf6iSPkx?usp=sharing)
 ---
 ### Metrics & Tracking
+- [kechimochi](https://github.com/Morgawr/kechimochi) - Personal Japanese immersion tracker
 - [exSTATic](https://github.com/KamWithK/exSTATic) - Immersion progress tracker
 - [多読 Tracker](https://github.com/Eroge-Abyss/tadoku) - Visual novel reading stats tracker.  
 ### Difficulty Analysis
