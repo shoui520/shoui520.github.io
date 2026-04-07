@@ -19,7 +19,7 @@ Here is a checklist of things you should do to run visual novels on your Mac:
 ![VM network settings](img/vm_network.png)
 - In Windows settings, go to Ethernet. Make sure the profile type is set to "Private network" (this makes Windows Firewall less annoying). Also make sure the IP/IPV4/DNS settings look like this
 ![VM network settings](img/windows_network.png)
-- Disable Windows Defender in Windows to avoid issues with text hookers (it *will* remove text hookers automatically, without warning).
+- Disable Windows Defender in Windows to avoid issues with text hookers (it *will* remove text hookers automatically, without warning). As an alternative you can add an exclusion for a specific folder, and then carefully extract the zip files to that folder.
 - Set up the files to play your visual novel. (see the [Windows guide](/vn-win) for instructions.)  
 - Enable Coherence Mode in Parallels for a seamless experience.
 - You are now ready to play visual novels on your Mac! Follow the [learning Japanese with VNs guide](/vn) for info on how to look up words.  
