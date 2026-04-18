@@ -81,7 +81,7 @@ Using 9b046695's fork of Anacreon's sub retimer for its all-in-one implementatio
 - For the main resyncing method (option 1), embedded soft-subs are expected. People with raw files (no embedded subs) can use audio-based syncing (option 2).
 ### Installation 
 
-1. Install Python. Download it [here.](https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe)
+1. Install Python. Download it [here.](https://apps.microsoft.com/detail/9nq7512cxl7t). Say YES to installing to your PATH.  
 2. Download this project by clicking the green "**Code**" button on the top, then click "**Download ZIP**"
 3. In the file manager, *extract* the .zip file by clicking "**Extract all**".
 4. In the extracted folder, there will be another folder with the name "`auto-sub-retimer-easy-master`"
