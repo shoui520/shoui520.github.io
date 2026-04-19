@@ -22,7 +22,7 @@ This guide will go over how to play visual novels in Japanese and learn Japanese
 
 Requirements:
 
-[(DOWNLOAD) Textractor](https://github.com/Artikash/Textractor/releases/download/v5.2.0/Textractor-5.2.0-Zip-Version-English-Only.zip)  
+[(DOWNLOAD) Textractor](https://github.com/Chenx221/Textractor/releases/download/dev/Textractor_260320.zip)  
 [(DOWNLOAD) Textractor Websocket Extension](https://github.com/kuroahna/textractor_websocket/releases/tag/0.2.0)   
 [(GUIDE) Yomitan](/yomichan)  
 [(WEBPAGE) Texthooker UI](https://renji-xd.github.io/texthooker-ui/)    
@@ -31,13 +31,12 @@ Requirements:
 
 - First, extract the `.zip` file for Textractor.  
 - Then, find click on `Textractor.exe` file in the `x86` folder to launch Textractor.  
-(The `x64` one is for 64-bit VNs, which are uncommon. Most VNs need the x86 version.)
+(The `x64` one is for 64-bit VNs, which are *uncommon*. Most VNs need the **x86** version.)
 
 **Step 2: Remove bad Textractor extensions**  
 
 - Click on the "Extensions" button on the left sidebar.  
 - Remove these extensions by right clicking on them and clicking "Remove extension"  
-	- Remove Repeated Characters  
 	- Google Translate  
 	- Extra Window  
 	- Extra Newlines  
@@ -47,7 +46,7 @@ Requirements:
 
 - Download the Websocket extension for your Textractor version. (textractor_websocket_x86.zip)
 - Extract the `.zip` file to get the `.dll` file. (`textractor_websocket_x86.dll`)  
-- Copy this file to the Textractor folder. (`Textractor-5.2.0-Zip-Version-English-Only\Textractor\x86\`)  
+- Copy this file to the Textractor folder. (`Textractor_<version>\Textractor\x86\`)  
 - In Textractor, go to the Extensions menu ("Extensions" button on the left sidebar), then right click and choose "Add Extension"  
 - Next, in the file picker window, make sure "Libraries (.dll)" are selected in the **bottom right** drop down menu instead of "Extensions (.xdll)"  
 - Choose the `textractor_websocket_x86.dll` file.   
