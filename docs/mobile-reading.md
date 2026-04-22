@@ -367,7 +367,7 @@ PopLingo gives you instant **OCR** dictionary lookups in any app (manga, visual 
 ## iOS
 ### Hoshi Reader
 
-Hoshi Reader, the best ッツ+Yomitan+mining alternative for iOS is now available on the [App Store](https://apps.apple.com/us/app/hoshi-reader/id6758244332) for iOS devices running 18.4 or later.  
+Hoshi Reader, the best ッツ+Yomitan+mining alternative for iOS is now available on the [App Store](https://apps.apple.com/us/app/hoshi-reader/id6758244332) for devices running iOS 18 or later.  
 
 ## Manatan (all-in-one anime, manga, and novels)
 
