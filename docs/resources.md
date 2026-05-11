@@ -23,6 +23,7 @@
 
 ### Vocabulary
 - **[※ Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551)** - The basic vocabulary deck the guide suggests to learn Japanese. You can also find it [here](https://github.com/donkuri/Kaishi/releases) (click on the `.apkg` file).  
+- [Pokelingo](https://pokelingo.io) - A daily Pokédex-entry reading game. You read a randomly selected entry in Japanese (or one of 8 other languages) and guess the Pokémon in 6 tries. Full National Dex coverage. **All Pokédex text and name data comes from the official Pokémon games. Nothing is AI-translated, machine-translated, or LLM-generated.** Useful for short daily native reading practice; entries average ~80 characters in Japanese. Free, no login.
 
 #### Legacy vocab decks:
 These are not recommended anymore.  
