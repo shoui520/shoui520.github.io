@@ -191,6 +191,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [TMW Audiobook Subtitles](https://honjimaku.com/)  
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) 
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
+- [After Hours｜アフターアワーズ](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd) - Two Japanese friends in their 20s chat about everyday life in completely unscripted, natural Japanese. Great immersion listening for N3-N1 learners. ([Website](https://afterhours-e20.pages.dev/) / [Apple Podcasts](https://podcasts.apple.com/podcast/id1798145313))  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
 ### Subtitles
 - [Kitsunekko Japanese subtitles for anime](https://kitsunekko.net/dirlst.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). 
