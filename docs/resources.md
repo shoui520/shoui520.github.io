@@ -220,6 +220,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [asbplayer](https://killergerbah.github.io/asbplayer/) - Chrome extension that lets you put any subtitle on any video and mine from it.
 - [Remove non-Japanese videos from YouTube](https://www.reddit.com/r/ajatt/comments/1ozfztt/no_more_separate_accounts_needed_for_youtube/)
 - [Anki Miner](https://github.com/0xzerolight/anki_miner) - Automated Japanese vocabulary batch-mining from media.
+- [mLearn](https://github.com/adrianvla/mLearn) - Cross-platform desktop app for learning by immersion: interactive subtitles with hover lookups, one-click Anki cards from video, OCR for embedded subtitles and manga, built-in SRS.
 ### Ebooks
 - **[※ ッツ Ebook Reader](https://reader.ttsu.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books.
 #### Android apps
