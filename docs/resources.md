@@ -82,9 +82,8 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 ### Anime
 
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - torrent tracker with raw anime, this is the best place to get anime. I recommend you use **qBittorrent**! 
-- [Hianime.to](https://hianime.to/) - **SITE IS CURRENTLY OFFLINE** anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.  
-- [Aniwatchtv.to](https://aniwatchtv.to/) - appears to be the only active hianime mirror.  
-- [Anime Nexus](https://anime.nexus/) - You can turn off subtitles here too, but the library is smaller than HiAnime's.  
+- [Anikoto](hhttps://anikototv.to/home) - anime streaming site where you can turn off subtitles and switch to Japanese 日本語 audio.
+- [Anime Nexus](https://anime.nexus/) - You can turn off subtitles here too.
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Chrome extension that allows you to drag and drop subtitle files (See [Subtitles](#subtitles)) on a video you are streaming. It works with hianime.to, and it may work with other sites. 
 - [Animelon](https://animelon.com/) - stream anime with Japanese subtitles.
 - [AnimeCards - Subtitles](https://animecards.site/subtitles/) - Goes over how to get Japanese subtitles and how to sync them for the video. 
