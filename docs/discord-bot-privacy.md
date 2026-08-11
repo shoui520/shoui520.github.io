@@ -1,4 +1,3 @@
-This is a required privacy policy for Discord bots in 10k+ member servers using Privileged Intents.
 # TheMoeWay Discord Bot Privacy Policy
 This is a required privacy policy for Discord bots in 10k+ member servers using Privileged Intents.
 
