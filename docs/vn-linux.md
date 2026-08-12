@@ -34,7 +34,7 @@ I got it working with the [Arch Wiki article](https://wiki.archlinux.org/title/V
 
 (mainline kernels use `virtualbox-host-modules-arch`, LTS kernels use `virtualbox-host-modules-lts`)
 ```bash
-sudo pacman -S virtualbox virtualbox-guest-iso virtual-host-dkms
+sudo pacman -S virtualbox virtualbox-guest-iso virtualbox-host-dkms
 ```
 ```bash
 sudo modprobe vboxdrv
