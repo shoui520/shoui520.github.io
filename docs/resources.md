@@ -48,6 +48,7 @@ These are not recommended anymore.
 - [国語—文法](https://youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd) - YouTube playlist of 学校文法. A pedagogical framework for teaching grammar to native Japanese speakers. Not made for learners or linguists. 
 - [国語—古文](https://youtube.com/playlist?list=PLKRhhk0lEyzMV4fvp0BqKMIZnQUm4SLmn) - YouTube playlist of 古文, to help you learn classical Japanese. 
 Also check out the grammar dictionaries for Yomitan in my dictionary collection.
+- [日本語文型バンク](https://www2.ninjal.ac.jp/bunkeibank) - A monolingual collection of 800+ grammar points made by the National Institute for Japanese Language and Linguistics.
 ## Pitch accent
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) - video by Darius on how to acquire pitch.
 - [Usagi Chan Pronunciation Guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit?tab=t.0)  
