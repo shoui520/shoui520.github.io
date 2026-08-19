@@ -269,20 +269,13 @@ First, I want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA
 
 Now let's download Anki.  
 
-You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
+You can download the latest version of Anki by visiting the [official website](https://apps.ankiweb.net/) and clicking **Download Anki**. Follow the instructions for your operating system.  
 
 Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)  
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
-Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
-
-In this window, click on the **Review** tab and change the **Learn ahead limit** to `900`.  
-
-Now click Close.  
-
-In Anki, there are 3 buttons on the bottom of the window. The button **Import File** is how you'll be importing your downloaded deck. 
-Once clicked, it should open the file picker window.   
+Now click **File** on the top bar, then click **Import**. This is how you'll be importing your downloaded deck. You can also just double-click the `.apkg` file.  
 
 Choose your downloaded deck.  
 
@@ -303,7 +296,11 @@ Click the cog icon next to the *Kaishi 1.5k* deck.
 
 Click *Options*.  
 
-Change **Maximum reviews/day** to `9999`. This just means "uncapped".  
+At the top of the window, click the arrow next to the preset and click **Clone**. Name the new preset *Kaishi*.  
+
+This stops the changes you are about to make from changing every other deck that uses the Default preset.  
+
+Change **Maximum reviews/day** to `9999`. This is effectively uncapped.  
 
 The default is 200 and I don't think your cards will pile up that high if you do Anki every day but,  
 
@@ -311,23 +308,35 @@ It is good practice to uncap your review limit.
 
 Just some Anki know-how.  
 
-You also need to change the **Learning steps** to `1m 5m 10m`.  
+Change the **Learning steps** to `10m`.  
 
-Change **Insertion order**, to **Sequential (oldest cards first)**  
+Change **Insertion order** to **Sequential**.  
 
 Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
 
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  
+Under the **Display Order** section, change the *New/review order* to **Show after reviews**.  
+
+This makes sure you finish the cards that are due before Anki gives you new ones.  
+
+Now scroll down to the **FSRS** section and turn **FSRS** on. If you also use Anki on your phone, make sure the phone app is up to date first.  
+
+[FSRS](https://docs.ankiweb.net/deck-options.html#fsrs) is Anki's newer scheduler. It uses your review history to work out when you are likely to forget a card, which lets Anki schedule your reviews more accurately.  
+
+Leave **Desired retention** at `90%`. Higher numbers may look tempting, but they can increase your daily reviews very quickly.  
+
+Click **Optimize** under *FSRS parameters*. If Anki says that the parameters already appear to be optimal, that is completely fine. You are new and Anki does not have much review history to learn from yet.  
+
+Leave **Reschedule cards on change** turned off. You don't need to reschedule anything for a new deck.  
 
 Now click *Save*.  
 
-I also want you to install the *Speed Focus Mode* Anki add-on. I will explain why later, but let's just install it now.  
+I also want you to install the [*Speed Focus Mode* Anki add-on](https://ankiweb.net/shared/info/1046608507). I will explain why later, but let's just install it now.  
 
 Click on *Tools* at the top of Anki, and click *Add-ons*.  
 
-Click **Get Add-ons...**.   
+Click **Get Add-ons...**.  
 
-Paste this code into the box: `1046608507` and click **OK**.
+Paste this code into the box: `1046608507` and click **OK**.  
 
 You need to restart Anki. Close Anki, and launch it back up.  
 
@@ -335,7 +344,7 @@ Click the cog icon next to the *Kaishi 1.5k* deck.
 
 Hold the ++shift++ key and click *Options*.  
 
-A different looking menu with some red text should open. (If it did not, you did it wrong. You need to hold ++shift++ while clicking *Options*).  
+This opens Anki's classic deck options. You need this older-looking window because that is where the add-on puts its settings.  
 
 In the *General* tab, there are a few settings you need to change.  
 
@@ -383,7 +392,7 @@ Green: Review pile
 
 The learning pile means Anki will show you the card multiple times so you can remember it. 
 
-Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards).  
+Getting a "Good" after the learning step will cause the card to graduate. FSRS will then choose when you should see it again.  
 
 When the learning pile (red number) goes down that means the card has graduated.  
 
@@ -391,7 +400,7 @@ When the learning pile (red number) goes down that means the card has graduated.
 
 When you don't know the word even after 15 seconds of looking at it, then looking at it for even longer doesn't mean you'll suddenly remember it.  
 
-So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
+So, the purpose of the *Speed Focus Mode* add-on and its annoying noise is to stop you from spending too much time on one card.  
 
 **My card learning method**  
 
@@ -835,13 +844,13 @@ Change Default to *Recognition RTK*.
 
 Change **New cards/day** to `10`  
 
-Change the **Learning steps** to `1m 5m 10m`.  
+Change the **Learning steps** to `10m`.  
 
-Change **Insertion order**, to *Sequential (oldest cards first)*  
+Change **Insertion order** to *Sequential*.  
 
 Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
 
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
+Under the **Display Order** section, change the *New/review order* to **Show after reviews**.   
 
 Click Save.  
 
