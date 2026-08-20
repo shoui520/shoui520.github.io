@@ -263,7 +263,8 @@ Yomitan, a browser add-on that allows you to look up Japanese words easily.
 - Tutorial: [click here](https://learnjapanese.moe/yomichan)  
 - [shoui Yomitan Dictionaries Collection](https://learnjapanese.link/dictionaries)    
 - [Marv's dictionaries](https://github.com/MarvNC/yomitan-dictionaries)  
-- [Caoimhe's dictionaries](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)    
+- [Caoimhe's dictionaries](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)   
+- [ixodid dictionary collection](https://drive.google.com/drive/folders/1rTtDHxY9vRh4DCeZ1lnYhLiypeM5OviI?usp=sharing)   
 ### Mobile dictionaries
 #### Android
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Bilingual dictionary for Android based on the JMdict project, has cool features such as auto-correction and AnkiDroid integration.  
