@@ -87,7 +87,7 @@ PREREQUISITES:
 
 Then:
 
-1. Download Lapis [here](https://github.com/donkuri/lapis/releases/download/v1.6.0/Lapis.apkg). You should get a .apkg file.  
+1. Download Lapis [here](https://github.com/donkuri/lapis/releases/latest/download/Lapis.apkg). You should get a .apkg file.  
 2. Import it into Anki, then after you import that apkg, delete the "Lapis" deck it leaves behind. We only need the note type.  
 3. In Anki, click "Create Deck" on the bottom. Give your deck a name (e.g. `Mining` and press OK)  
 3. Open the Yomitan settings by clicking the Yomitan icon ![yomitan-icon](img/yomitan-icon.png) in your browser toolbar, then the ![cog](img/yomitan-cog.png){: .invertable-light } cog icon.
