@@ -214,7 +214,7 @@ Note: visual novels on consoles do not have any NSFW content.
 ### Video Content
 - [mpv](https://mpv.io) - "golden standard" video player many of the tools below use to play video.
 - [※ AnimeCards](https://animecards.site/) - Animecards are very good for making sure you remember the words you learn from your immersion.
-- [Yomine](https://github.com/mcgrizzz/Yomine) - makes the process of mining from videos easier.
+- [Yomine](https://github.com/mcgrizzz/Yomine) - Targeted vocabulary filtering and automated batch mining
 - [Memento](https://github.com/ripose-jp/Memento) - Video player solution for looking up words and mining from anime.
 - [asbplayer](https://killergerbah.github.io/asbplayer/) - Chrome extension that lets you put any subtitle on any video and mine from it.
 - [Remove non-Japanese videos from YouTube](https://www.reddit.com/r/ajatt/comments/1ozfztt/no_more_separate_accounts_needed_for_youtube/)
