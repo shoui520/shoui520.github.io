@@ -232,6 +232,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Manabi Reader](https://reader.manabi.io/) - One-tap Japanese word look-ups and Anki card creation support. 
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature. 
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomitan.  
+- [Toku Reader](https://apps.apple.com/us/app/toku-reader/id6761078304) - Tap any word in EPUBs, PDFs, web pages, podcast transcripts, or pasted text for readings, pitch accent, and meanings. Offline JMdict, SRS, and Anki export; the free plan caps daily lookups. Also on [Android](https://play.google.com/store/apps/details?id=com.darren.tokureader).
 ### Manga
 - **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [Manatan add-repo page](https://manatan-community.github.io/extensions/add-repo/)
 - [mokuro catalog](https://mokuro.moe/catalog/)  
