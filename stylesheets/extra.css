@@ -1,0 +1,87 @@
+.md-typeset ul li, .md-typeset ol li{
+    margin-bottom: 0em;
+}
+
+[data-md-color-scheme="default"] {
+  --md-typeset-kbd-border-color: #7e56c2;
+}
+
+.md-typeset kbd {
+  font-size: .78em;
+}
+
+.md-typeset blockquote {
+	border-left: .2rem solid hsl(262deg 47% 55%);
+
+}
+
+[data-md-color-primary=blue-grey] {
+    --md-primary-fg-color: #0b5570;
+    --md-primary-fg-color--light: #0F6888;
+    --md-primary-fg-color--dark: #0B516A;
+    --md-primary-bg-color: #fff;
+    --md-typeset-a-color: #00bbff;
+    --md-primary-bg-color--light: hsla(0,0%,100%,.7);
+}
+
+.md-banner__inner {
+    font-size: .7rem;
+    margin: .1rem auto;
+    padding: 0 .8rem;
+}
+
+/* theme-aware value color inversion classes:
+ * .invertable-light    invert in dark mode (image is light mode)
+ * .invertable-dark     invert in light mode (image is dark mode)
+ * .bg                  add background color to distinguish from page background,
+ *                      will only render when .bg is alone in parent or with figcaption
+ * .bw                  when inverted, make desaturated
+ * */
+[data-md-color-scheme="slate"] .invertable-light,
+[data-md-color-scheme="default"] .invertable-dark
+{
+    --filter: invert(1) hue-rotate(180deg);
+    filter: var(--filter);
+
+    &.bw {
+	filter: var(--filter) saturate(0);
+    }
+}
+
+[data-md-color-scheme="slate"] .invertable-light {
+    mix-blend-mode: lighten;
+}
+
+[data-md-color-scheme="default"] .invertable-dark {
+    mix-blend-mode: darken;
+}
+
+/* Only draw the backdrop when .bg is alone in its parent (figcaption aside),
+ * otherwise it'd stretch across the sibling content */
+*:has(> .bg):not(:has(> :not(.bg, figcaption))) {
+    display: grid;
+    width: fit-content;
+
+    > .bg, &::before {
+        grid-area: 1 / 1;
+    }
+
+    &::before {
+        content: "";
+    }
+
+    [data-md-color-scheme="slate"] &::before {
+        /* same as --md-footer-bg-color in dark mode */
+        background: hsla(225deg, 15%, 10%, 0.87);
+    }
+
+    [data-md-color-scheme="default"] &::before {
+        /* same as --md-code-bg-color in light mode */
+        background: #f5f5f5;
+    }
+}
+
+/* don't break manual image centering */
+*:has(> .bg[style*="margin: 0 auto"]):not(:has(> :not(.bg, figcaption))) {
+    margin-inline: auto;
+}

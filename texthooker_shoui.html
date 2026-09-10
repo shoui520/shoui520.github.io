@@ -1,0 +1,797 @@
+<html>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+<head>
+  <meta charset="utf-8" />
+  <title>Texthooker</title>
+  <style type="text/css">
+    @font-face {
+      font-family: 'Local Noto Sans JP';
+      font-style: normal;
+      font-weight: 400;
+      src: url('./fonts/noto-sans-jp-v28-latin_japanese-regular.eot'); /* IE9 Compat Modes */
+      src: local(''),
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.woff2') format('woff2'), /* Super Modern Browsers */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.woff') format('woff'), /* Modern Browsers */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+          url('./fonts/noto-sans-jp-v28-latin_japanese-regular.svg#NotoSansJP') format('svg'); /* Legacy iOS */
+    }
+
+    body {
+      background-color: #ffffff;
+      color: #000000;
+      font-weight: 400;
+      font-size:26px;
+      line-height: 150%;
+      margin-top: 1%;
+      margin-left: 1.5%;
+      margin-right: 10%;
+      margin-bottom: 20%;
+      font-family: "Local Noto Sans JP", "Noto Sans JP";
+    }
+
+    .container {
+      position: fixed;
+      top: 3px;
+      right: 5px;
+      display: inline-block;
+    }
+
+    .container > div {
+      display: inline-block;
+    }
+
+    .line_box {
+      margin-top: 24px;
+    }
+
+    .undoed_line {
+      animation-name: shine;
+      animation-duration: .5s;
+    }
+
+    @keyframes shine {
+      from {
+        background-color: #d0b4e6;
+      }
+      to {
+        background-color: transparent;
+      }
+    }
+
+    .remove_button {
+      background-color: rgba(247, 247, 247, 0.0);
+      color: #333;
+      cursor: pointer;
+      cursor: hand;
+      display: inline-block;
+      font-size: .5em;
+      line-height: 100%;
+      margin-left: 8px;
+      margin-bottom: 2px;
+      padding: 5px;
+      visibility: hidden;
+
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      -o-user-select: none;
+      user-select: none;
+    }
+
+    .line_box:hover>.remove_button {
+      visibility: visible;
+    }
+
+    #counter {
+      text-align: right;
+    }
+
+    #remove_button {
+      background-color:rgba(247,247,247,0.9);
+      color:#333;
+      font-size:.5em;
+      line-height:100%;
+      float:right;
+      padding-left:8px;
+      padding-right:8px;
+      padding-top:5px;
+      padding-bottom:5px;
+      cursor:pointer;
+      cursor:hand;
+    }
+
+    #clear_button {
+        background-color:rgba(247,247,247,0.9);
+      color:#333;
+      font-size:.5em;
+      line-height:100%;
+      float:right;
+      margin-right:10px;
+      padding-left:8px;
+      padding-right:8px;
+      padding-top:5px;
+      padding-bottom:5px;
+      cursor:pointer;
+      cursor:hand;
+    }
+
+    #undo_button {
+      background-color:rgba(247,247,247,0.9);
+      color:#333;
+      font-size:.5em;
+      line-height:100%;
+      float:right;
+      padding-left:8px;
+      padding-right:8px;
+      padding-top:5px;
+      padding-bottom:5px;
+      cursor:pointer;
+      cursor:hand;
+    }
+
+    #counter-container {
+      cursor: pointer;
+      background-color:rgba(247,247,247,0.9);
+      color:#333;
+      font-size: .5em;
+      line-height: 100%;
+      padding-left: 8px;
+      padding-right: 8px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+
+    #detailed-counter {
+      display: none;
+      text-align: right;
+    }
+
+    #detailed-counter div {
+      margin-top: 7;
+    }
+
+    #detailed-counter span {
+      float: left;
+      margin-right: 5px;
+    }
+
+    #settings {
+      position: fixed;
+      font-size: .5em !important;
+      background-color:rgba(247,247,247,0.9);
+      padding: 0 5px;
+      right: 15;
+      bottom: 15;
+    }
+
+
+    select {
+      font-size: 1em !important;
+      background-color: #f7f7f7;
+      color:#000000;
+      font-family: "Noto Sans JP";
+    }
+
+
+    #progress-container {
+      background-color: rgba(247,247,247,0.9);
+      color: #333;
+      font-size: .3em;
+      line-height: 100%;
+      padding-left: 8px;
+      padding-right: 8px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+
+    #progress-container progress {
+      vertical-align: middle;
+      width: 120px;
+      margin: 0 5px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+  <div id="clear_button" title="Clear localStorage" onclick="clearEverything()">🚫</div>
+  <div id="undo_button" title="Undo last deletion" onclick="undoDeletion()">↶</div>
+  <div id="remove_button" title="Remove last line" onclick="deleteLastLine()">x</div>
+
+  <!-- New wrapper to right-align both the counter and the progress bars -->
+  <div style="display:block; width:100%; text-align:right;">
+
+    <div id="counter-container" onclick="expandCounter()" style="display:inline-block;">
+      <div id="counter" title="No. of characters / No. of lines">0 / 0</div>
+      <div id="detailed-counter"></div>
+    </div>
+
+    <br>
+
+    <div id="progress-container" style="display:inline-block; text-align:right; margin-top:0px; margin-right:10px; font-size:0.5em;">
+      <div style="margin-bottom:5px;">
+        <span>Goal:</span>
+        <progress id="full-goal-progress" max="100" value="0" style="vertical-align:middle; width:120px; margin:0 5px;"></progress>
+        <span id="full-goal-percentage">0%</span>
+      </div>
+      <div>
+        <span>Session:</span>
+        <progress id="iteration-progress" max="100" value="0" style="vertical-align:middle; width:120px; margin:0 5px;"></progress>
+        <span id="iteration-progress-percentage">0%</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="settings">
+
+    <div id="local-storage-selection" title="Select what to save in localStorage">
+      <label for="local-storage">In localStorage</label>
+      <select id="local-storage">
+        <option value="text">Text</option>
+        <option value="chars">Characters</option>
+        <option value="nothing">Nothing</option>
+      </select>
+    </div>
+
+    <div id="goal-settings" style="margin-top:5px;">
+      <label for="goal-input">文字 goal:</label>
+      <input id="goal-input" type="number" min="0" style="width:5rem; border:1px solid #686868; font-size:0.8rem;"><br>
+      <label for="iterations-input">Number of sessions:</label>
+      <input id="iterations-input" type="number" min="1" style="width:3rem; border:1px solid #686868; font-size:0.8rem;">
+      <button id="save-goal-btn" style="cursor:pointer;">Save</button>
+    </div>
+
+  </div>
+
+
+  <script>
+    const CHARS_TO_IGNORE = "「」『』[]()〈〉≪≫。、.,'：！?！？…――─ｰ～→♪" + '"' + "　" + "  "
+    let lines = { total: 0 }
+    let chars = { total: 0 }
+    let history = [];
+    let expanded = false;
+    const selection = document.querySelector('#local-storage');
+
+    let goal = 0;
+    let iterations = 1;
+
+
+    let callback = function (mutations) {
+      mutations.forEach((mutation) => {
+        if (mutation.target == document.body &&
+          mutation.type == 'childList' &&
+          mutation.addedNodes.length >= 1) {
+          let ptag
+          mutation.addedNodes.forEach((node) => {
+            if (node.tagName == 'P') {
+              ptag = node
+            }
+          })
+          if (!ptag) return
+
+          let text = ptag.textContent
+          ptag.remove()
+          let div = document.createElement('div')
+          div.classList.add('line_box')
+          div.innerHTML = '<span></span><div class="remove_button" onclick="delet(this)">x</div>'
+          div.getElementsByTagName('span')[0].textContent = text
+
+          // 修正箇所：mutation.indexが定義されていてかつNaNでない場合のみ「復元等処理」、それ以外は通常処理
+          if (typeof mutation.index !== 'undefined' && !isNaN(mutation.index)) {
+            const lines = Array.from(document.querySelectorAll('.line_box'));
+
+            div.classList.add('undoed_line');
+            const nextSibling = lines[mutation.index];
+            (nextSibling?.parentNode || document.body)
+              .insertBefore(div, nextSibling);
+            div.scrollIntoView();
+
+            if(mutation.source !== 'localStorage' && selection.value === 'text') {
+              updateLocalStorage('text', pr => {
+                let dates = pr.dates;
+
+                let isDatePresent = false;
+                const newItem = { date: mutation.date, index: mutation.index };
+
+                dates = dates.reduce((pr, cur) => {
+                  const diff = new Date(mutation.date) - new Date(cur.date);
+
+                  if(diff === 0) {
+                    isDatePresent = true;
+                  } else if(diff < 0) {
+                    cur.index ++;
+
+                    if(!isDatePresent) {
+                      isDatePresent = true;
+
+                      return [
+                        ...pr,
+                        newItem,
+                        cur,
+                      ];
+                    }
+                  }
+
+                  return [
+                    ...pr,
+                    cur,
+                  ];
+                }, []);
+
+                if(!isDatePresent) {
+                  dates.push(newItem);
+                }
+
+                return {
+                  text: [
+                    ...pr.text.slice(0, mutation.index),
+                    ptag.textContent,
+                    ...pr.text.slice(mutation.index)
+                  ],
+                  dates
+                };
+              });
+            }
+          } else {
+            // 通常処理
+            document.body.appendChild(div)
+
+            if(mutation.source !== 'localStorage' && selection.value === 'text') {
+              const curDate = formatDate();
+
+              updateLocalStorage('text', pr => ({
+                text: [ ...pr.text, ptag.textContent ],
+                dates: (pr.dates[pr.dates.length - 1]?.date === curDate) ?
+                  pr.dates :
+                  [ ...pr.dates, { date: curDate, index: [...pr.text].length } ]
+              }));
+            }
+
+            var LEEWAY = 200; 
+            var b = document.body;
+            var offset = b.scrollHeight - b.offsetHeight;
+            var scrollPos = (b.scrollTop + offset);
+            var scrollBottom = (b.scrollHeight - (b.clientHeight + offset));
+
+            if (scrollPos >= scrollBottom - LEEWAY) {
+              window.scrollTo(0, document.body.scrollHeight);
+            }
+          }
+
+          let line = text
+          line = line.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
+          for (var i = 0; i < CHARS_TO_IGNORE.length; i++) {
+            line = line.split(CHARS_TO_IGNORE[i]).join('')
+          }
+
+          let lineLen = [...line].length
+          updateCounter(lineLen, 1, mutation.date || formatDate());
+        }
+      })
+    }
+
+    let observer = new MutationObserver(callback)
+    let observerOptions = { childList: true, attributes: false }
+    observer.observe(document.body, observerOptions)
+
+
+    function delet(xdiv) {
+      let line = xdiv.parentNode.getElementsByTagName('span')[0].textContent
+
+      let filteredLine = line.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
+      for (var i = 0; i < CHARS_TO_IGNORE.length; i++) {
+        filteredLine = filteredLine.split(CHARS_TO_IGNORE[i]).join('')
+      }
+
+      let lineLen = [...filteredLine].length
+
+      const linesEl = Array.from(document.querySelectorAll('.remove_button'));
+      const index = linesEl.findIndex(a => a === xdiv);
+
+      let dateOfLine = null;
+      if(index > -1) {
+        if (selection.value === 'text') {
+          updateLocalStorage('text', pr => {
+            let dates = pr.dates;
+
+            dates = dates.reduce((pr, cur, i) => {
+              if(cur.index <= index) {
+                dateOfLine = cur.date;
+              }
+
+              if(cur.index === index &&
+                (dates[i + 1]?.index - 1 === cur.index || linesEl.length - 1 === cur.index)
+              ) {
+                return pr;
+              }
+
+              if(cur.index > index) {
+                cur.index --;
+              }
+
+              return [
+                ...pr,
+                cur,
+              ];
+            }, []);
+
+            return {
+              text: [
+                ...pr.text.slice(0, index),
+                ...pr.text.slice(index + 1)
+              ],
+              dates
+            };
+          });
+        }
+
+        const getNewHistory = pr => {
+          if(pr.length >= 25) {
+            pr.shift();
+          }
+
+          return [
+            ...pr,
+            {
+              text: line,
+              date: dateOfLine,
+              index
+            }
+          ];
+        };
+
+        if(selection.value !== 'text') {
+          history = getNewHistory(history);
+        } else {
+          updateLocalStorage('history', getNewHistory);
+        }
+      }
+
+      xdiv.parentNode.remove()
+      updateCounter(-lineLen, -1, dateOfLine);
+    }
+
+    function updateCounter(charDiff, lineDiff, date, shouldDisplay = true) {
+      chars.total += charDiff;
+      chars[date] = (chars[date] ?? 0) + charDiff;
+      lines.total += lineDiff;
+      lines[date] = (lines[date] ?? 0) + lineDiff;
+
+      if(shouldDisplay) {
+        displayCounter();
+      }
+
+      if(selection.value === 'chars') {
+        updateLocalStorage('chars', _ => ({ chars, lines }));
+      }
+
+      updateProgressBars();
+    }
+
+    function deleteLastLine() {
+      var lines = document.getElementsByClassName('line_box');
+      var line_count = lines.length;
+
+      if(line_count > 0) {
+        var last_line = lines[line_count - 1].getElementsByClassName("remove_button")[0];
+        delet(last_line);
+      }
+    };
+
+    function initFromLocalStorage() {
+
+      selection.value = localStorage.getItem('valueInLS');
+
+      switch(selection.value) {
+        case 'text':
+          const text = JSON.parse(localStorage.getItem('text'));
+          const reverseDates = text.dates.reverse();
+
+          let fragment = document.createDocumentFragment();
+
+          for(let i = 0; i < text.text.length; i ++) {
+            let div = document.createElement('div')
+            div.classList.add('line_box')
+            div.innerHTML = '<span></span><div class="remove_button" onclick="delet(this)">x</div>'
+            div.getElementsByTagName('span')[0].textContent = text.text[i];
+
+            fragment.appendChild(div);
+          };
+          document.body.appendChild(fragment)
+
+          text.text.forEach((a, i) => {
+            a = a.replace(/(\r\n|\n|\r)/gm, "").split(' ').join('');
+            for (var j = 0; j < CHARS_TO_IGNORE.length; j++) {
+              a = a.split(CHARS_TO_IGNORE[j]).join('')
+            }
+
+            let lineLen = [...a].length
+            updateCounter(
+              lineLen,
+              1,
+              reverseDates.find(b => b.index <= i)?.date || text.dates[0].date,
+              false
+            );
+          });
+
+          displayCounter();
+
+          break;
+        case 'chars':
+          const charsInLS = JSON.parse(localStorage.getItem('chars'));
+          chars = charsInLS.chars;
+          lines = charsInLS.lines;
+
+          displayCounter();
+          break;
+        case 'nothing':
+          displayCounter();
+          break;
+      }
+
+      goal = parseInt(localStorage.getItem('goal')) || 0;
+      iterations = parseInt(localStorage.getItem('iterations')) || 1;
+      document.getElementById('goal-input').value = goal;
+      document.getElementById('iterations-input').value = iterations;
+      updateProgressBars();
+    }
+
+    function displayCounter () {
+      let charsdisp = chars.total.toLocaleString()
+      let linesdisp = lines.total.toLocaleString()
+
+      document.getElementById('counter').textContent = charsdisp + ' / ' + linesdisp
+
+      const formattedDatetoLocaleString = (date) => {
+        return new Date(date.split('/').reverse()).toLocaleDateString();
+      }
+
+      document.querySelector('#detailed-counter').innerHTML = Object.keys(chars)
+        .filter(a => a !== 'total' && chars[a] !== 0)
+        .map(key => `<div>
+          <span>
+            ${formattedDatetoLocaleString(key)}: 
+          </span> ${chars[key].toLocaleString()} / ${lines[key].toLocaleString()}
+        </div>`)
+        .join('');
+    }
+
+    function updateLocalStorage(key, fn) {
+      localStorage.setItem(key, JSON.stringify(
+        fn(
+          JSON.parse(
+            localStorage.getItem(key)
+          )
+        )
+      ));
+    }
+
+    function clearEverything() {
+      updateLocalStorage('text', _ => ({ text: [], dates: [] }));
+      updateLocalStorage('chars', _ => ({ lines: { total: 0 }, chars: { total: 0 } }));
+      updateLocalStorage('history', _ => []);
+
+      document.querySelectorAll('.line_box').forEach(a =>
+        a.parentNode.removeChild(a));
+
+      lines = { total: 0 };
+      chars = { total: 0 };
+      history = [];
+      displayCounter();
+      updateProgressBars();
+    }
+
+    function formatDate(date = new Date()) {
+      const offset = 4 * 3600 * 1000;
+      date = new Date(date - offset);
+      return `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
+    }
+
+    function undoDeletion() {
+      let line;
+
+      if(selection.value !== 'text') {
+        line = history.pop();
+      } else {
+        line = JSON.parse(localStorage.getItem('history')).pop();
+        updateLocalStorage('history', pr => pr.slice(0, pr.length - 1));
+      }
+
+      if(line) {
+        callback(
+          [{
+            index: line.index,
+            date: line.date,
+            target: document.body,
+            type: 'childList',
+            addedNodes: [
+              {
+                tagName: 'P',
+                textContent: line.text,
+                remove: () => null
+              }
+            ]
+          }]
+        );
+
+      }
+    }
+
+    function expandCounter() {
+      if(expanded) {
+        document.querySelector('#detailed-counter').style.display = 'none';
+      } else {
+        document.querySelector('#detailed-counter').style.display = 'block';
+      }
+
+      expanded = !expanded;
+    }
+
+    if(!localStorage.getItem('text')) {
+      updateLocalStorage('text', _ => ({ text: [], dates: [] }));
+    }
+
+    updateLocalStorage('text', pr => {
+      if(pr?.constructor === Array) {
+        const yesterday = new Date(new Date() - 24 * 3600 * 1000);
+
+        return {
+          text: pr,
+          dates: pr.length > 0 ? [ { date: formatDate(yesterday), index: 0 } ] : []
+        }
+      }
+
+      return pr;
+    })
+
+    if(!localStorage.getItem('history')) {
+      localStorage.setItem('history', '[]');
+    }
+
+    if(!localStorage.getItem('chars')) {
+      updateLocalStorage('chars', _ => ({ chars: { total: 0 }, lines: { total: 0 } }));
+    }
+
+    if(!localStorage.getItem('valueInLS')) {
+      localStorage.setItem('valueInLS', 'text');
+    }
+
+    if(!localStorage.getItem('goal')) {
+      localStorage.setItem('goal', 0);
+    }
+    if(!localStorage.getItem('iterations')) {
+      localStorage.setItem('iterations', 1);
+    }
+
+    initFromLocalStorage();
+
+    document.addEventListener('keydown', e => {
+      if(e.code === 'KeyZ' && e.ctrlKey) {
+        undoDeletion();
+      }
+    })
+
+    selection.addEventListener('change', e => {
+      const isFromChars =
+        JSON.parse(localStorage.getItem('chars')).lines.total >
+        document.querySelectorAll('.line_box').length;
+      const question = "This action will reset your stats and clear the page. Are you sure you want to procceed?";
+
+      switch(selection.value) {
+        case 'nothing':
+          if(isFromChars) {
+            const answer = confirm(question);
+
+            if(answer) {
+              clearEverything();
+            } else {
+              break;
+            }
+          } else {
+            updateLocalStorage('text', _ => ({ text: [], dates: [] }));
+            updateLocalStorage('chars', _ => ({ lines: { total: 0 }, chars: { total: 0 } }));
+
+            if(localStorage.getItem('history').length > 0) {
+              history = JSON.parse(localStorage.getItem('history'));
+              updateLocalStorage('history', _ => []);
+            }
+          }
+          break;
+        case 'chars':
+          updateLocalStorage('text', _ => ({ text: [], dates: [] }));
+          updateLocalStorage('chars', _ => ({ lines, chars }));
+
+          if(localStorage.getItem('history').length > 0) {
+            history = JSON.parse(localStorage.getItem('history'));
+            updateLocalStorage('history', _ => []);
+          }
+          break;
+        case 'text':
+          if(isFromChars) {
+            const answer = confirm(question);
+
+            if(answer) {
+              clearEverything();
+            } else {
+              break;
+            }
+          } else {
+            let prIndex = 0;
+
+            updateLocalStorage('text', _ => ({
+              text: Array.from(document.querySelectorAll('.line_box > span')).map(a => a.textContent),
+              dates: Object.keys(lines).filter(a => a !== 'total').map(key => {
+                prIndex += lines[key];
+                return { date: key, index: prIndex - lines[key] };
+              })
+            }));
+
+            updateLocalStorage('chars', _ => ({ lines: { total: 0 }, chars: { total: 0 } }));
+
+            updateLocalStorage('history', _ => history);
+            history = [];
+          }
+          break;
+      }
+
+      localStorage.setItem('valueInLS', selection.value);
+    })
+
+    function saveGoal() {
+      const g = parseInt(document.getElementById('goal-input').value);
+      const it = parseInt(document.getElementById('iterations-input').value);
+      if(!isNaN(g) && g >= 0 && !isNaN(it) && it > 0) {
+        goal = g;
+        iterations = it;
+        localStorage.setItem('goal', goal);
+        localStorage.setItem('iterations', iterations);
+        updateProgressBars();
+      }
+    }
+
+    document.getElementById('save-goal-btn').addEventListener('click', saveGoal);
+
+    function updateProgressBars() {
+      const fullGoal = goal;
+      if(fullGoal <= 0) {
+        document.getElementById('full-goal-progress').value = 0;
+        document.getElementById('full-goal-percentage').textContent = '0%';
+        document.getElementById('iteration-progress').value = 0;
+        document.getElementById('iteration-progress-percentage').textContent = '0%';
+        return;
+      }
+      const totalChars = chars.total || 0;
+      let fullPercent = Math.floor((totalChars / fullGoal)*100);
+      if(fullPercent>100) fullPercent=100;
+      document.getElementById('full-goal-progress').value = fullPercent;
+      document.getElementById('full-goal-percentage').textContent = fullPercent+'%';
+
+      const iterationSize = fullGoal / iterations;
+      let currentIterationIndex = Math.floor(totalChars / iterationSize);
+      if(currentIterationIndex >= iterations) currentIterationIndex = iterations - 1;
+
+      let iterationStart = iterationSize * currentIterationIndex;
+      let iterationChars = totalChars - iterationStart;
+      if(iterationChars < 0) iterationChars = 0;
+      if(iterationChars > iterationSize) iterationChars = iterationSize;
+
+      let iterationPercent = Math.floor((iterationChars / iterationSize)*100);
+      if(iterationPercent>100) iterationPercent=100;
+      document.getElementById('iteration-progress').value = iterationPercent;
+      document.getElementById('iteration-progress-percentage').textContent = iterationPercent+'%';
+    }
+
+  </script>
+</body>
+
+</html>
