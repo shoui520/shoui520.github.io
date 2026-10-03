@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>時間を分に変換</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: #fff7f9;
+            color: #333;
+            padding: 20px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2rem;
+            color: #e87ea1;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        label, input {
+            font-size: 1rem;
+        }
+
+        input {
+            padding: 10px;
+            border: 1px solid #f3c2d7;
+            border-radius: 4px;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        input:focus {
+            border-color: #e87ea1;
+        }
+
+        button {
+            padding: 12px 20px;
+            font-size: 1rem;
+            font-weight: bold;
+            color: #fff;
+            background: #f7b8d1;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background: #e87ea1;
+        }
+
+        .output {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-top: 20px;
+            text-align: center;
+            color: #333;
+        }
+
+        .time-input {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .time-input input {
+            width: 70px;
+            text-align: center;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>時間を分に変換</h1>
+    <div class="container">
+        <div class="time-input">
+            <input type="number" id="hoursInput" placeholder="時" min="0" step="1">
+            <input type="number" id="minutesInput" placeholder="分" min="0" max="59" step="1">
+            <input type="number" id="secondsInput" placeholder="秒" min="0" max="59" step="1">
+        </div>
+        <button id="addTime">時間を追加</button>
+        <button id="undoTime">元に戻す</button>
+        <button id="clearStorage">合計をリセット</button>
+        <div class="output">
+            合計時間: <span id="totalMinutes">0.00</span> 分
+        </div>
+    </div>
+
+    <script>
+        const hoursInput = document.getElementById('hoursInput');
+        const minutesInput = document.getElementById('minutesInput');
+        const secondsInput = document.getElementById('secondsInput');
+        const addTimeButton = document.getElementById('addTime');
+        const undoTimeButton = document.getElementById('undoTime');
+        const clearStorageButton = document.getElementById('clearStorage');
+        const totalMinutesDisplay = document.getElementById('totalMinutes');
+
+        // ローカルストレージから初期値を読み込む、または0に初期化
+        let totalSeconds = parseInt(localStorage.getItem('totalSeconds')) || 0;
+        let lastAddedSeconds = 0; // 元に戻す用
+
+        const updateDisplay = () => {
+            const totalMinutes = (totalSeconds / 60).toFixed(2);
+            totalMinutesDisplay.textContent = totalMinutes;
+        };
+
+        updateDisplay();
+
+        addTimeButton.addEventListener('click', () => {
+            const hours = parseInt(hoursInput.value) || 0;
+            const minutes = parseInt(minutesInput.value) || 0;
+            const seconds = parseInt(secondsInput.value) || 0;
+
+            if (minutes >= 60 || seconds >= 60 || hours < 0 || minutes < 0 || seconds < 0) {
+                alert('有効な時間を入力してください (時 >= 0, 分 < 60, 秒 < 60)。');
+                return;
+            }
+
+            lastAddedSeconds = (hours * 3600) + (minutes * 60) + seconds;
+            totalSeconds += lastAddedSeconds;
+
+            // ローカルストレージと表示を更新
+            localStorage.setItem('totalSeconds', totalSeconds);
+            updateDisplay();
+
+            // 入力フィールドをクリア
+            hoursInput.value = '';
+            minutesInput.value = '';
+            secondsInput.value = '';
+        });
+
+        undoTimeButton.addEventListener('click', () => {
+            if (lastAddedSeconds > 0) {
+                totalSeconds -= lastAddedSeconds;
+                if (totalSeconds < 0) totalSeconds = 0;
+
+                // ローカルストレージと表示を更新
+                localStorage.setItem('totalSeconds', totalSeconds);
+                updateDisplay();
+
+                lastAddedSeconds = 0; // 再度元に戻すことを防ぐ
+            } else {
+                alert('元に戻す操作はできません。');
+            }
+        });
+
+        clearStorageButton.addEventListener('click', () => {
+            if (confirm('合計時間をリセットしますか？')) {
+                totalSeconds = 0;
+                localStorage.setItem('totalSeconds', totalSeconds);
+                updateDisplay();
+                lastAddedSeconds = 0;
+            }
+        });
+    </script>
+</body>
+</html>
