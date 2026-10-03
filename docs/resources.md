@@ -314,6 +314,7 @@ See Applications section for an EPWING reader.
 - [Jiten.moe](https://jiten.moe/) - Inspired by JPDB.io, but more up to date and has more features. Recommended.
 - [JPDB.IO](https://jpdb.io/) - Japanese media word count and difficulty rating. Might help you in trying to pick what to read.
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+- [Linglass CI Hub](https://linglass.app/comprehensible-input/japanese) - Difficulty scores for ~8,500 videos across 75 Japanese YouTube channels, computed from each video's own subtitle track (mostly speaking pace, partly vocabulary load). Filter by level, length and pace, then watch on YouTube. Free, no account. The [method](https://linglass.app/comprehensible-input/method) and its limits are published — note that the JLPT bands it shows read about a level too hard.
 ### Context & Sentence Search
 - [Jiten.moe](https://jiten.moe/)
 - [Immersion Kit](https://www.immersionkit.com/) - Search sentences from anime, games etc. with translation. Made by Game Gengo.
