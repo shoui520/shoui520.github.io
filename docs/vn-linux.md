@@ -5,139 +5,139 @@ Pick your poison:
 	!!! warning "Graphics performance."
 		Some VNs will struggle to keep a consistent frame rate, will lag/have bad input latency. This requires tinkering with the chosen video adapter. See the [video adapters](#video-adapters) section.
 
-This is painless and **does not** require good hardware. All you need is VT-x. I got it running flawlessly on an old laptop with only 1 CPU core and 1 GB of RAM allocated to the virtual machine + power saving mode on the laptop.  
+	This is painless and **does not** require good hardware. All you need is VT-x. I got it running flawlessly on an old laptop with only 1 CPU core and 1 GB of RAM allocated to the virtual machine + power saving mode on the laptop.  
 
-Japanese visual novel novels rarely ever require a good computer or an updated Windows version. The majority are written to work flawlessly on *Windows Vista SP2, 32-bit*. This means running Windows 10 or 11 and using 64-bit Windows for VNs is useless and a waste of resources. It should be noted that new VN releases only state Windows 10/11 as a supported OS, but this is just because they haven't tested any other versions of Windows. I got the latest 美少女万華鏡 running on Windows 8.1, a game that states Windows 10/11 as supported.  
-There are some edge cases to this, but for the most part, everything should work on 32-bit versions of:  
+	Japanese visual novel novels rarely ever require a good computer or an updated Windows version. The majority are written to work flawlessly on *Windows Vista SP2, 32-bit*. This means running Windows 10 or 11 and using 64-bit Windows for VNs is useless and a waste of resources. It should be noted that new VN releases only state Windows 10/11 as a supported OS, but this is just because they haven't tested any other versions of Windows. I got the latest 美少女万華鏡 running on Windows 8.1, a game that states Windows 10/11 as supported.  
+	There are some edge cases to this, but for the most part, everything should work on 32-bit versions of:  
 
-- Vista
-- 7
-- 8
-- 8.1
+	- Vista
+	- 7
+	- 8
+	- 8.1
 
-10 and 11 is **useless**. Since VNs rarely require 64-bit version of Windows, 64-bit is also useless and will only waste memory. 
+	10 and 11 is **useless**. Since VNs rarely require 64-bit version of Windows, 64-bit is also useless and will only waste memory. 
 
-You can use Windows 7 32-bit, but the version I recommend is **Windows 8.1 32-bit**, for DirectX 11 support. You can use whatever edition or source you want for this, but I highly recommend you download a Windows ISO that has updates (e.g. for 7, get one with SP1, for 8.1, get one with Update 3) 
+	You can use Windows 7 32-bit, but the version I recommend is **Windows 8.1 32-bit**, for DirectX 11 support. You can use whatever edition or source you want for this, but I highly recommend you download a Windows ISO that has updates (e.g. for 7, get one with SP1, for 8.1, get one with Update 3) 
 
-I used **Windows 8.1 Embedded Industry Pro 32-bit, ja-JP, with Update 3**. This is a very optimized OS. There is no bloat post-install. It just works. I got it from [here](https://files.rg-adguard.net/file/d4264c0b-6bc1-a0a9-39c6-3f1e0923c0d1) (requires Windows to generate).  
+	I used **Windows 8.1 Embedded Industry Pro 32-bit, ja-JP, with Update 3**. This is a very optimized OS. There is no bloat post-install. It just works. I got it from [here](https://files.rg-adguard.net/file/d4264c0b-6bc1-a0a9-39c6-3f1e0923c0d1) (requires Windows to generate).  
 
-The reason I recommend installing a Japanese-language version of Windows from the get-go is because all the correct settings (locale etc.) will be set already and it will come with Japanese fonts installed already, without having to go through the Windows Update servers. Some VNs, such as KEY games implement "gaijin checks" that also check for timezone, install language, region, etc. To avoid these issues entirely you can just install Windows in Japanese.  
+	The reason I recommend installing a Japanese-language version of Windows from the get-go is because all the correct settings (locale etc.) will be set already and it will come with Japanese fonts installed already, without having to go through the Windows Update servers. Some VNs, such as KEY games implement "gaijin checks" that also check for timezone, install language, region, etc. To avoid these issues entirely you can just install Windows in Japanese.  
 
-Activating Windows is easy. If you are asked for a product key during install, use one of the keys [here](https://github.com/iMoeAriaCG/Windows-Key-Collection).  
-Post-install, you can activate using [MAS](https://massgrave.dev/) offline .cmd version with TSforge.  
+	Activating Windows is easy. If you are asked for a product key during install, use one of the keys [here](https://github.com/iMoeAriaCG/Windows-Key-Collection).  
+	Post-install, you can activate using [MAS](https://massgrave.dev/) offline .cmd version with TSforge.  
 
-### 1. Install VirtualBox
+	### 1. Install VirtualBox
 
-**Refer to your distribution's documentation!**  
+	**Refer to your distribution's documentation!**  
 
-I got it working with the [Arch Wiki article](https://wiki.archlinux.org/title/VirtualBox).  
+	I got it working with the [Arch Wiki article](https://wiki.archlinux.org/title/VirtualBox).  
 
-(mainline kernels use `virtualbox-host-modules-arch`, LTS kernels use `virtualbox-host-modules-lts`)
-```bash
-sudo pacman -S virtualbox virtualbox-guest-iso virtualbox-host-dkms
-```
-```bash
-sudo modprobe vboxdrv
-```
-```bash
-sudo usermod -aG vboxusers <user>
-```
+	(mainline kernels use `virtualbox-host-modules-arch`, LTS kernels use `virtualbox-host-modules-lts`)
+	```bash
+	sudo pacman -S virtualbox virtualbox-guest-iso virtualbox-host-dkms
+	```
+	```bash
+	sudo modprobe vboxdrv
+	```
+	```bash
+	sudo usermod -aG vboxusers <user>
+	```
 
-### 2. Set up the VM 
+	### 2. Set up the VM 
 
-Open VirtualBox and click the blue "New" button.  
-Select Windows ISO image you downloaded.   
-For the virtual machine specs. The default is literally fine. It will run well on 1 CPU core and 1 GB of RAM. Bump that up to 2GB of RAM if you feel memory pressure though.    
-You can set things up seamlessly with Proceed with Unattended Installation. Just choose a password for the Windows user, **click "Install Guest Additions"** and click finish.   
+	Open VirtualBox and click the blue "New" button.  
+	Select Windows ISO image you downloaded.   
+	For the virtual machine specs. The default is literally fine. It will run well on 1 CPU core and 1 GB of RAM. Bump that up to 2GB of RAM if you feel memory pressure though.    
+	You can set things up seamlessly with Proceed with Unattended Installation. Just choose a password for the Windows user, **click "Install Guest Additions"** and click finish.   
 
-Post-install, restart Windows once to get VirtualBox Guest Additions working.   
+	Post-install, restart Windows once to get VirtualBox Guest Additions working.   
 
-After VirtualBox Guest Additions are installed and working, set up VirtualBox Shared Folders: Devices > Shared Folders > Shared Folders Settings...  
+	After VirtualBox Guest Additions are installed and working, set up VirtualBox Shared Folders: Devices > Shared Folders > Shared Folders Settings...  
 
-This is how you will be sharing files to your VM. Create a new folder on your Linux system. Click the + folder icon, add that as the Folder Path. You can leave the other fields blank. Enable Auto-mount, Make Machine-permanent and Make Global and click OK.  
+	This is how you will be sharing files to your VM. Create a new folder on your Linux system. Click the + folder icon, add that as the Folder Path. You can leave the other fields blank. Enable Auto-mount, Make Machine-permanent and Make Global and click OK.  
 
-Download [WinCDEmu](https://wincdemu.sysprogs.org/) and drag it into your shared folder to access it from the VM. Install it.  
-Also install some redists:
+	Download [WinCDEmu](https://wincdemu.sysprogs.org/) and drag it into your shared folder to access it from the VM. Install it.  
+	Also install some redists:
 
-- [Microsoft Visual C++ 2015-2022 Redistributable (x86)](https://aka.ms/vs/17/release/vc_redist.x86.exe)  
-- [DirectX End User Runtimes](https://www.guru3d.com/download/directx-end-user-runtimes-(june-2010)/)  
-- [Additional runtimes: Visual Cpp Redist All-in-One](https://github.com/abbodi1406/vcredist/releases) (grab the x86 only release)
+	- [Microsoft Visual C++ 2015-2022 Redistributable (x86)](https://aka.ms/vs/17/release/vc_redist.x86.exe)  
+	- [DirectX End User Runtimes](https://www.guru3d.com/download/directx-end-user-runtimes-(june-2010)/)  
+	- [Additional runtimes: Visual Cpp Redist All-in-One](https://github.com/abbodi1406/vcredist/releases) (grab the x86 only release)
 
-<h2> <b>TIP</b>: If you experience <b>ANY</b> issues related to accessing/running/using/mounting files on the shared folder, then <u><b>COPY/MOVE</b></u> them to a <u>folder inside Windows</u> and try again.</h2>
+	<h2> <b>TIP</b>: If you experience <b>ANY</b> issues related to accessing/running/using/mounting files on the shared folder, then <u><b>COPY/MOVE</b></u> them to a <u>folder inside Windows</u> and try again.</h2>
 
-The instructions for installing VNs on Windows are detailed in my [Visual novels on Windows](/vn-win) guide. You can now follow that to get your VNs installed.
+	The instructions for installing VNs on Windows are detailed in my [Visual novels on Windows](/vn-win) guide. You can now follow that to get your VNs installed.
 
-For Textractor, you will need to port forward port `6677` to use the websocket from Linux. Power off the machine and run this (replace YOUR_VM_NAME with your VM name):
-```bash
-VBoxManage modifyvm "YOUR_VM_NAME" --natpf1 "vnport,tcp,,6677,,6677"
-```
+	For Textractor, you will need to port forward port `6677` to use the websocket from Linux. Power off the machine and run this (replace YOUR_VM_NAME with your VM name):
+	```bash
+	VBoxManage modifyvm "YOUR_VM_NAME" --natpf1 "vnport,tcp,,6677,,6677"
+	```
 
-Now you can follow the [Learning Japanese with VNs](/vn) guide.  
+	Now you can follow the [Learning Japanese with VNs](/vn) guide.  
 
-### 3. Windowed Mode
+	### 3. Windowed Mode
 
-Here's how I recommend you play your VNs:
+	Here's how I recommend you play your VNs:
 
-- Disable Auto-resize guest display (View > Auto-resize guest display)
-- Resize the VM (View > Virtual Screen 1) according to the aspect ratio of your visual novel. (4:3→ 1024x768, 16:9→1280x720 or the highest resolution the VN supports)  
-- Hide the bottom toolbar. Machine > Settings > Expert > User Interface, uncheck the box for the bottom toolbar.
-- Fullscreen (全画面表示/フルスクリーン) the visual novel (should be in the visual novel's options menu).  
-- Enable Scaled Mode (View > Scaled Mode) (toggle shortcut: right ctrl+C). The shortcut for the menu is right ctrl+Home
+	- Disable Auto-resize guest display (View > Auto-resize guest display)
+	- Resize the VM (View > Virtual Screen 1) according to the aspect ratio of your visual novel. (4:3→ 1024x768, 16:9→1280x720 or the highest resolution the VN supports)  
+	- Hide the bottom toolbar. Machine > Settings > Expert > User Interface, uncheck the box for the bottom toolbar.
+	- Fullscreen (全画面表示/フルスクリーン) the visual novel (should be in the visual novel's options menu).  
+	- Enable Scaled Mode (View > Scaled Mode) (toggle shortcut: right ctrl+C). The shortcut for the menu is right ctrl+Home
 
-Add a KDE window rule like this to "lock" the VirtualBox VM scaled window:
+	Add a KDE window rule like this to "lock" the VirtualBox VM scaled window:
 
-Example, for 4:3
+	Example, for 4:3
 
-![Image](img/vnlinux_vmwindowrule4x3.png){: .invertable-light .bg .bw }
+	![Image](img/vnlinux_vmwindowrule4x3.png){: .invertable-light .bg .bw }
 
-Example, for 16:9
+	Example, for 16:9
 
-![Image](img/vnlinux_vmwindowrule16x9.png){: .invertable-light .bg .bw }
+	![Image](img/vnlinux_vmwindowrule16x9.png){: .invertable-light .bg .bw }
 
-### Troubleshooting
+	### Troubleshooting
 
-#### Video adapters
-Some games really don't like the VBoxSVGA video adapter. They will either: crash, refuse to start, be unable to go full screen. For these games, you need to switch to the VMSVGA adapter.  
+	#### Video adapters
+	Some games really don't like the VBoxSVGA video adapter. They will either: crash, refuse to start, be unable to go full screen. For these games, you need to switch to the VMSVGA adapter.  
 
-* VBoxSVGA: default, supports 3D acceleration. Potentially the fastest speed for GPU demanding VNs. Bad compatibility.
-* VBoxVGA: better compatibility, good speed depending on engine.
-* VMSVGA: best compatibility. supports higher 4:3 resolutions. Recommended for older VNs.
+	* VBoxSVGA: default, supports 3D acceleration. Potentially the fastest speed for GPU demanding VNs. Bad compatibility.
+	* VBoxVGA: better compatibility, good speed depending on engine.
+	* VMSVGA: best compatibility. supports higher 4:3 resolutions. Recommended for older VNs.
 
-#### Textractor can't launch / Visual C++ 2015-2022 runtime install error
+	#### Textractor can't launch / Visual C++ 2015-2022 runtime install error
 
-You need to make sure you have an updated version of the Windows version you are running. The most painless way to achieve this is to just have an .iso with service packs/updates already installed.  
+	You need to make sure you have an updated version of the Windows version you are running. The most painless way to achieve this is to just have an .iso with service packs/updates already installed.  
 
-Recommended:  
+	Recommended:  
 
-* Windows 7 SP1, 32-bit
-* Windows 8.1 with Update 3, 32-bit
-### Power saving
+	* Windows 7 SP1, 32-bit
+	* Windows 8.1 with Update 3, 32-bit
+	### Power saving
 
-I recommend this for laptops.  
-You can conserve power by restricting VirtualBox's threads to a single core. Even if you only give 1 CPU core to the guest OS, VirtualBox still runs multithreaded on the host OS. This means that while the virtual machine is running, the host OS's scheduler does not let the rest of your CPU cores enter PC6/PC8 deep C-states, causing unneccessary battery drain.  
+	I recommend this for laptops.  
+	You can conserve power by restricting VirtualBox's threads to a single core. Even if you only give 1 CPU core to the guest OS, VirtualBox still runs multithreaded on the host OS. This means that while the virtual machine is running, the host OS's scheduler does not let the rest of your CPU cores enter PC6/PC8 deep C-states, causing unneccessary battery drain.  
 
-You can force VirtualBox to run on a single core by using `taskset`.  
-To run your VirtualBox VM on the physical core 0 (1st core) and its hyperthreaded sibling, run:  
-```bash
-taskset -c 0,4 VirtualBoxVM --startvm "YourVMName"
-```  
+	You can force VirtualBox to run on a single core by using `taskset`.  
+	To run your VirtualBox VM on the physical core 0 (1st core) and its hyperthreaded sibling, run:  
+	```bash
+	taskset -c 0,4 VirtualBoxVM --startvm "YourVMName"
+	```  
 
-You should check how Linux sees your CPU topology with `lscpu -e`. For most processors on Linux, CPU 0 and CPU 4 correspond to the 1st physical core and its hyperthreaded sibling. Note that this differs from the Windows topology mapping (Windows equivalent is CPU 0 and CPU 1).  
+	You should check how Linux sees your CPU topology with `lscpu -e`. For most processors on Linux, CPU 0 and CPU 4 correspond to the 1st physical core and its hyperthreaded sibling. Note that this differs from the Windows topology mapping (Windows equivalent is CPU 0 and CPU 1).  
 
-```
-% lscpu -e    
-CPU SOCKET CORE L1d:L1i:L2:L3 ONLINE    MAXMHZ   MINMHZ      MHZ
-  0      0    0 0:0:0:0          yes 3600.0000 400.0000 799.9090
-  1      0    1 1:1:1:0          yes 3600.0000 400.0000 798.5420
-  2      0    2 2:2:2:0          yes 3600.0000 400.0000 799.9970
-  3      0    3 3:3:3:0          yes 3600.0000 400.0000 800.2590
-  4      0    0 0:0:0:0          yes 3600.0000 400.0000 800.1550
-  5      0    1 1:1:1:0          yes 3600.0000 400.0000 799.9570
-  6      0    2 2:2:2:0          yes 3600.0000 400.0000 800.0190
-  7      0    3 3:3:3:0          yes 3600.0000 400.0000 799.9650
-```
+	```
+	% lscpu -e    
+	CPU SOCKET CORE L1d:L1i:L2:L3 ONLINE    MAXMHZ   MINMHZ      MHZ
+	0      0    0 0:0:0:0          yes 3600.0000 400.0000 799.9090
+	1      0    1 1:1:1:0          yes 3600.0000 400.0000 798.5420
+	2      0    2 2:2:2:0          yes 3600.0000 400.0000 799.9970
+	3      0    3 3:3:3:0          yes 3600.0000 400.0000 800.2590
+	4      0    0 0:0:0:0          yes 3600.0000 400.0000 800.1550
+	5      0    1 1:1:1:0          yes 3600.0000 400.0000 799.9570
+	6      0    2 2:2:2:0          yes 3600.0000 400.0000 800.0190
+	7      0    3 3:3:3:0          yes 3600.0000 400.0000 799.9650
+	```
 
-With VirtualBox running on a single core, the VM will run slower and with higher input latency, but it is better for laptop battery life.  
+	With VirtualBox running on a single core, the VM will run slower and with higher input latency, but it is better for laptop battery life.  
 
 === "Wine"
 	!!! failure "Video cutscene playback"
