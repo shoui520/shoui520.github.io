@@ -49,6 +49,8 @@ These are not recommended anymore.
 - [国語—古文](https://youtube.com/playlist?list=PLKRhhk0lEyzMV4fvp0BqKMIZnQUm4SLmn) - YouTube playlist of 古文, to help you learn classical Japanese. 
 Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [日本語文型バンク](https://www2.ninjal.ac.jp/bunkeibank) - A monolingual collection of 800+ grammar points made by the National Institute for Japanese Language and Linguistics.
+- [KanjiDraw Grammar](https://kanjidraw.com/grammar/) - The grammar points from Minna no Nihongo and Genki, indexed by topic or by lesson. Each point has example sentences with audio and a short quiz. Useful as a lookup while working through a textbook.
+
 ## Pitch accent
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) - video by Darius on how to acquire pitch.
 - [Usagi Chan Pronunciation Guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit?tab=t.0)  
@@ -285,6 +287,7 @@ Yomitan, a browser add-on that allows you to look up Japanese words easily.
 - [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
 - [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/search) - pitch accent dictionary.  
 - [Jiten.moe](https://jiten.moe/)
+- [KanjiDraw (bilingual)](https://kanjidraw.com/dictionary/) - Kanji-first rather than word-first: a character page shows its stroke order, its Kangxi radical, the components it is built from and a nested breakdown of those, next to the readings and the words that use it. 
 
 ### MDict (MDX)
 Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition) and 大辞林 第三版 (Daijirin 3rd edition)  
@@ -352,5 +355,7 @@ See Applications section for an EPWING reader.
 - [Seiho's YouTube Calligraphy School](https://www.youtube.com/@seihou)
 - Jōyō kanji playlist - [常用漢字の美文字レッスン](https://www.youtube.com/playlist?list=PLxNYIx5D9tAbYXKgTDmy7KJ8Z7u74hwKz)
 - [Kanji balance](https://美文字の書き方.com/c02/) - A Japanese-language guide to balancing kanji shapes for "beautiful handwriting" (美文字), sorted by structural pattern with worked examples for each.
+- [KanjiDraw](https://kanjidraw.com/) - Draw kanji and kana in the browser and have the result checked: it compares what you drew against the KanjiVG stroke data for shape and stroke count, first with the outline under your hand and then from memory. There are also [printable practice sheets](https://kanjidraw.com/worksheets/) for kana, the school grades and the JLPT levels.
+
 - **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - The best way to learn how to write when you can already read.**
 - **[※ - The "Kanken Deck With Stroke Animations"](https://drive.google.com/file/d/1o5Vc237S44FxACkhAd_3_bzOtxMusd2T/view) - The best way to learn how to write when you can already read. with stroke animations**
