@@ -285,6 +285,7 @@ Yomitan, a browser add-on that allows you to look up Japanese words easily.
 - [Forvo](https://forvo.com/languages/ja/) - Search for a word and hear it pronounced by a native speaker  
 - [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/search) - pitch accent dictionary.  
 - [Jiten.moe](https://jiten.moe/)
+- [Rolko](https://www.rolko.xyz/japanese-vocabulary-tracker) - Japanese webpage lookup and built-in spaced-repetition review on desktop Chrome. Basic lookup is free; saving new words requires a paid plan; previously saved words remain reviewable on Free. Readings, English meanings and AI-assisted explanations.
 
 ### MDict (MDX)
 Contains the most up-to-date dictionaries such as 新明解国語辞典 第七版 (Shinmeikai 7th Edition) and 大辞林 第三版 (Daijirin 3rd edition)  
