@@ -276,6 +276,7 @@ Yomitan, a browser add-on that allows you to look up Japanese words easily.
 - [EBPocket Lite](https://apps.apple.com/us/app/ebpocket-lite/id314082593) - free app you can use monolingual dictionaries on by transferring EPWINGs, MDicts, stardicts etc. with iTunes.
 - ["Dictionaries" by 物書堂](https://apps.apple.com/us/app/dictionaries/id1380563956) - really good paid monolingual dictionary app. Official sources and has all the latest dictionaries.
 ### Online
+- [DiccionarioJapones.com (Japanese–Spanish)](https://diccionariojapones.com/) - Japanese–Spanish word and kanji dictionary with conjugated-form lookup, handwriting search, Spanish grammar notes and personal decks that export to Anki. Free to consult; an account is needed to save decks.
 - [Jisho (bilingual)](https://jisho.org/) - If you are a beginner, use this. 
 - [Weblio EJJE (bilingual)](https://ejje.weblio.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for longer phrases that Jisho may not have. 
 - [Eijirou on the WEB (bilingual)](https://eow.alc.co.jp/) - If you are a beginner, use this. Made for Japanese people. Useful for example sentences.         
