@@ -6,6 +6,7 @@
 
 - [**※ - Tae Kim - The Writing System**](https://guidetojapanese.org/learn/complete/writings) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
 - [DJT Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
+- [Japanese from Japan Romaji Converter](https://japanesefromjapan.com/resources/romaji-converter) - Type romaji and get hiragana as you type, with a one-tap switch to katakana (long vowels, small ッ and ティ/ファ handled). Free, no sign-up. (Made by me; no ads or affiliate links on the page.)
 
 ### Kanji
 
