@@ -1142,7 +1142,7 @@ Watch what interests you!
 
 This study guide (UsagiSpoon) was just making a few of the decisions for you.  
 
-**Q: What is the ideal UsagiSpoon lifesyle?**  
+**Q: What is the ideal UsagiSpoon lifestyle?**  
 
 A: [https://www.youtube.com/watch?v=r5Qxr8OGkaA](https://www.youtube.com/watch?v=r5Qxr8OGkaA)  
 
