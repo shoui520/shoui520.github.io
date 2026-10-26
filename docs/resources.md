@@ -166,6 +166,7 @@ Note: Gaining the Student rank or above in our Discord channel grants you access
 - [Hentai4Daily](https://hentai4daily.com/) — Another one.
 - [Doujinblog](https://doujinblog.org/) — One more.
 - [VNPocket **(18+) NSFW warning**](https://vnpocket.com) - Play visual novel and RPG games online.
+- [Pokelingo](https://pokelingo.io/en/riddle/?lang=ja) - A daily Pokédex-entry reading game. You read a randomly selected entry in Japanese (or one of 8 other languages) and guess the Pokémon in 5 tries. Full National Dex coverage. **All Pokédex text and name data comes from the official Pokémon games. Nothing is AI-translated, machine-translated, or LLM-generated.** Useful for short daily native reading practice; entries average ~50 characters in Japanese. Free, no login.
 - [Internet Archive PC-98 Archive](https://archive.org/details/NeoKobe-NecPc-98012017-11-17)
 - [Visual Novel Recommendation Lists](https://learnjapanese.moe/vn/#unsure-what-to-play)
 - [Japanese Media Recommendations List](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
