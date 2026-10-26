@@ -6,8 +6,8 @@
   };
 
   outputs = { self, nixpkgs }:
+    nixpkgs.lib.foldl' nixpkgs.lib.recursiveUpdate { } (map (system:
     let
-      system = "x86_64-linux";
       pkgs = import nixpkgs {
         inherit system;
       };
@@ -62,5 +62,5 @@
       devShells.${system}.default = pkgs.mkShell {
         inputsFrom = [ self.packages.${system}.default ];
       };
-    };
+    }) [ "x86_64-linux" "aarch64-linux" "x86_64-darwin" "aarch64-darwin" ]);
 }

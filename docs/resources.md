@@ -232,14 +232,14 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Manabi Reader](https://reader.manabi.io/) - One-tap Japanese word look-ups and Anki card creation support. 
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature. 
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomitan.  
+- [Jouzu - Read Japanese Anywhere](https://jouzu-app.com) - Use OCR to read anything, camera or by opening pictures directly. Has multiple OCR engines (print / vertical, games, pixel font, etc), pitch accent graphs, Anki export, text to speech using Voicevox Nemo, and more.
+- [Kantan Manga Reader](https://apps.apple.com/us/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomitan dictionary and EPWING support! 
 ### Manga
 - **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [Manatan add-repo page](https://manatan-community.github.io/extensions/add-repo/)
 - [mokuro catalog](https://mokuro.moe/catalog/)  
 #### Android apps
 - [Chimahon](https://github.com/sohilsayed/chimahon/releases)  
 - [Mihon](https://github.com/mihonapp/mihon)  
-#### iOS apps
-- [Kantan Manga Reader](https://apps.apple.com/us/app/kantan-manga/id1518666365) - use OCR to read manga. It has Yomitan dictionary and EPWING support! 
 ### Visual Novels
 - [Textractor](https://github.com/Artikash/Textractor/releases) - for copying text from visual novels. 
 - [JL](https://github.com/rampaa/JL) - Yomitan/extractor/clipboard inserter alternative that does not require a browser.
