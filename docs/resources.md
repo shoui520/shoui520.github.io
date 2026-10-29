@@ -6,6 +6,7 @@
 
 - [**※ - Tae Kim - The Writing System**](https://guidetojapanese.org/learn/complete/writings) - This page has an explanation of what the kana are and what they are used for. You may find this useful if you don't already know.
 - [DJT Kana](https://djtguide.neocities.org/kana/index.html) - A simple kana recognition game. You may want to enable all the hiragana, and katakana and the combinations in order to properly test your skills. It also features a "play sound" button, which I recommend you make use of. 
+- [Kana Dash](https://kanadash.com) - Train kana reading and writing with a game that goes from single kana to real words and short sentences. The next card appears as soon as your answer is right, so it shows how fast you actually read.
 
 ### Kanji
 
