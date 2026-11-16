@@ -252,6 +252,7 @@ Note: visual novels on consoles do not have any NSFW content.
 ### Misc. OCR tools
 - [owocr](https://github.com/AuroraWright/owocr) - new ocr tool
 - [meikipop](https://github.com/rtr46/meikipop) -  ocr based japanese popup dictionary - makes it easy to lookup words in manga, games, images. doesn't require any other tools or setup to work, but is not recommended for mining/srs integration
+- [Kimochi](https://kimochiapp.com) - free, open-source OCR overlay and text hooker for games, VNs and manga, with Yomitan lookups and Anki cards. Windows, macOS, Linux and Steam Deck.
 - [Manga-OCR](https://github.com/kha-white/manga-ocr) - new program that makes looking words up in manga easier
 - [OCR Reader](https://github.com/kotcrab/ocr-reader) - new program made to make reading physical novel scans easier.  
 - [Poricom Manga OCR](https://github.com/kha-white/manga-ocr) - GUI for manga-ocr
