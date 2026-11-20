@@ -246,6 +246,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Transparent texthooker overlay](https://github.com/Saplling/transparent-texthooker-overlay) - allows you to look up words without alt-tabbing / switching monitors.  
 - [Magpie](https://github.com/Blinue/Magpie) - Seamless fullscreen for visual novels on Windows. No need for exclusive fullscreen!
 - [LunaTranslator](https://docs.lunatranslator.org/en/) - modern Textractor alternative. 
+- [KotobaSenpai](https://github.com/TreatTrick/KotobaSenpai) - Windows OCR overlay that displays furigana directly above kanji in Japanese visual novel dialogue.
 ### Games
 - [Agent](https://github.com/0xDC00/agent) - extensible script-based textractor that can be made to work with any video game / emulator. Requires manually made scripts in order to work (lots are available in the Agent scripts repository)
 - [GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) - tool to make mining from video games/VNs extremely easy. Works with Agent/Textractor, but also has it's own OCR for clean output without a hook.
