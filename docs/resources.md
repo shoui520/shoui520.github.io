@@ -79,6 +79,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 - [JLPT N1 past papers MEGA folder](https://mega.nz/folder/Q0BV0SDD#K-A9VyQn3rj5lX_fjRoqqQ)  
 - [JLPT N1 past papers Google Drive](https://drive.google.com/drive/folders/1U7Yt9I1S7tgNRRBMLv9xRIeNCZAd_6OE?usp=drive_link)  
 - [LearnJapaneseAZ JLPT N1 Practice Test](https://learnjapaneseaz.com/jlpt-n1-practice-test.html)  
+- [Nihongo to Japan JLPT Challenge](https://www.nihongotojapan.com/en/challenge) - Free N5–N1 vocabulary, grammar and sentence-pattern practice questions by level. Original questions, not past papers. No sign-up needed.  
 ---
 ## Immersion Content
 ### Anime
